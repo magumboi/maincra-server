@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2019-07-23 19:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-07-21 22:27:09 +0000"
@@ -758,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-07-23 19:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2019-07-23 19:08:24 +0000"
@@ -863,6 +875,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-07-23 05:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-07-23 19:27:01 +0000"
     },
     "done": true
   },
@@ -1540,6 +1558,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-07-18 01:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-07-23 19:30:51 +0000"
     },
     "done": true
   },
@@ -2802,6 +2826,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-07-21 23:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-07-23 19:30:51 +0000"
     },
     "done": true
   },
