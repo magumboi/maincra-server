@@ -1285,8 +1285,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-07-22 02:40:43 +0000",
-      "minecraft:forest": "2019-07-19 05:48:17 +0000",
       "minecraft:mountains": "2019-07-19 05:51:48 +0000",
+      "minecraft:forest": "2019-07-19 05:48:17 +0000",
       "minecraft:taiga": "2019-07-23 03:02:07 +0000",
       "minecraft:desert_hills": "2019-07-18 01:12:31 +0000",
       "minecraft:deep_cold_ocean": "2019-07-23 03:03:35 +0000",
@@ -1298,8 +1298,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-07-20 03:34:04 +0000",
       "minecraft:beach": "2019-07-18 00:57:00 +0000",
       "minecraft:dark_forest": "2019-07-18 00:49:32 +0000",
-      "minecraft:river": "2019-07-18 01:11:44 +0000",
       "minecraft:lukewarm_ocean": "2019-07-18 01:11:18 +0000",
+      "minecraft:river": "2019-07-18 01:11:44 +0000",
       "minecraft:birch_forest_hills": "2019-07-22 05:51:59 +0000",
       "minecraft:wooded_mountains": "2019-07-20 03:35:13 +0000",
       "minecraft:wooded_hills": "2019-07-19 05:48:42 +0000",
@@ -3096,13 +3096,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-23 04:12:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-23 04:12:23 +0000"
     },
@@ -3192,5 +3192,5 @@
     },
     "done": true
   },
-  "DataVersion": 1968
+  "DataVersion": 1976
 }
