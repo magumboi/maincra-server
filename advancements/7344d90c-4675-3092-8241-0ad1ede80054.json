@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2019-07-24 14:01:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2019-07-17 20:22:49 -0500"
@@ -655,6 +661,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-07-24 14:31:02 -0500",
       "minecraft:skeleton": "2019-07-19 22:45:23 -0500",
       "minecraft:spider": "2019-07-17 19:50:22 -0500",
       "minecraft:slime": "2019-07-21 15:59:20 -0500",
@@ -779,6 +786,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2019-07-17 20:02:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-07-24 14:33:54 -0500"
     },
     "done": true
   },
