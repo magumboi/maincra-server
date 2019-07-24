@@ -1677,6 +1677,7 @@
       "cookie": "2019-07-22 00:28:30 +0000",
       "cooked_rabbit": "2019-07-21 20:43:28 +0000",
       "cooked_chicken": "2019-07-21 20:57:09 +0000",
+      "enchanted_golden_apple": "2019-07-24 02:14:09 +0000",
       "cooked_salmon": "2019-07-22 01:18:33 +0000"
     },
     "done": false
@@ -2753,6 +2754,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-07-21 21:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2019-07-24 02:14:00 +0000"
     },
     "done": true
   },
