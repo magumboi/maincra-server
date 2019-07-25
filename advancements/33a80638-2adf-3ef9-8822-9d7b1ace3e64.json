@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-07-24 23:35:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-07-17 19:47:49 -0500"
@@ -398,6 +404,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-07-19 00:02:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-07-24 23:35:36 -0500"
     },
     "done": true
   },
@@ -611,6 +623,8 @@
     "criteria": {
       "minecraft:blaze": "2019-07-23 00:50:25 -0500",
       "minecraft:skeleton": "2019-07-17 20:47:34 -0500",
+      "minecraft:zombie_pigman": "2019-07-24 22:50:37 -0500",
+      "minecraft:ghast": "2019-07-24 22:47:55 -0500",
       "minecraft:magma_cube": "2019-07-23 00:53:43 -0500",
       "minecraft:spider": "2019-07-17 22:38:10 -0500",
       "minecraft:creeper": "2019-07-17 21:21:18 -0500",
@@ -1715,6 +1729,7 @@
       "cooked_beef": "2019-07-22 00:08:34 -0500",
       "apple": "2019-07-19 00:34:36 -0500",
       "potato": "2019-07-21 16:31:51 -0500",
+      "pumpkin_pie": "2019-07-24 20:22:04 -0500",
       "bread": "2019-07-17 21:31:30 -0500",
       "cookie": "2019-07-21 19:28:30 -0500",
       "cooked_rabbit": "2019-07-21 15:43:28 -0500",
@@ -2169,6 +2184,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-07-24 23:35:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-07-17 20:36:56 -0500"
@@ -2277,6 +2298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-07-24 20:27:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-07-17 20:20:32 -0500"
@@ -2352,6 +2379,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-17 21:33:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2019-07-24 23:36:15 -0500"
     },
     "done": true
   },
@@ -2718,6 +2751,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-07-21 22:56:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-07-24 20:27:50 -0500"
     },
     "done": true
   },
