@@ -201,3 +201,7 @@
 [11:59:48] [Server thread/INFO]: magumboss lost connection: Timed out
 [11:59:48] [Server thread/INFO]: magumboss left the game
 [11:59:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > 35.238.48.109
+[12:13:55] [User Authenticator #4/INFO]: UUID of player Pinolito is 7344d90c-4675-3092-8241-0ad1ede80054
+[12:13:55] [Server thread/INFO]: Pinolito[/187.233.141.5:11271] logged in with entity id 234 at ([maincra-server]118.29999997466803, 82.0625002, 7.299999974668026)
+[12:17:57] [Server thread/INFO]: Pinolito lost connection: Disconnected
+[12:17:57] [Server thread/INFO]: Pinolito left the game
