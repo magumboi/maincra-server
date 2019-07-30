@@ -1,0 +1,345 @@
+[08:03:22] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[08:03:24] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[09:24:10] [User Authenticator #39/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
+[09:24:10] [Server thread/INFO]: Buster[/187.190.76.163:22296] logged in with entity id 99720 at ([maincra-server]448.299999974668, 72.0000002, -372.700000025332)
+[09:35:19] [User Authenticator #40/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[09:35:19] [Server thread/INFO]: Axfer06[/177.249.176.4:44117] logged in with entity id 100103 at ([maincra-server]448.7768382584137, 72.0, -375.81530717350154)
+[09:47:33] [Server thread/INFO]: Axfer06 fell from a high place
+[09:49:55] [Server thread/INFO]: Axfer06 issued server command: /TP Buster
+[10:02:41] [Server thread/INFO]: Axfer06 was slain by Zombie
+[10:28:09] [Server thread/INFO]: Buster has made the advancement [Suit Up]
+[10:29:10] [Server thread/INFO]: Axfer06 has made the advancement [Suit Up]
+[10:30:02] [Server thread/INFO]: Axfer06 has made the advancement [Isn't It Iron Pick]
+[10:31:08] [Server thread/INFO]: Buster lost connection: Disconnected
+[10:31:08] [Server thread/INFO]: Buster left the game
+[10:35:28] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[10:35:28] [Server thread/INFO]: Axfer06 left the game
+[12:05:29] [User Authenticator #41/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[12:05:29] [Server thread/INFO]: Axfer06[/177.249.176.4:38098] logged in with entity id 103604 at ([maincra-server]459.22662972187635, 72.0, -375.185666166114)
+[12:38:25] [Server thread/WARN]: Axfer06 was kicked for floating too long!
+[12:38:25] [Server thread/INFO]: Axfer06 lost connection: Flying is not enabled on this server
+[12:38:25] [Server thread/INFO]: Axfer06 left the game
+[12:38:37] [User Authenticator #42/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[12:38:37] [Server thread/INFO]: Axfer06[/177.249.176.4:46193] logged in with entity id 104694 at ([maincra-server]448.299999974668, 72.0000002, -373.700000025332)
+[13:00:45] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[13:00:45] [Server thread/INFO]: Axfer06 left the game
+[14:55:55] [User Authenticator #43/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[14:55:55] [Server thread/INFO]: aomali2[/187.189.187.177:17713] logged in with entity id 105403 at ([maincra-server_nether]-24.167566749885086, 63.0, -23.76547085076757)
+[14:56:17] [Async Chat Thread - #30/INFO]: <aomali2> magumbo[m
+[15:25:00] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:25:00] [Server thread/INFO]: aomali2 left the game
+[15:27:58] [User Authenticator #44/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:27:58] [Server thread/INFO]: aomali2[/187.189.187.177:17903] logged in with entity id 107220 at ([maincra-server]-40.73788749755133, 63.0477029800225, -179.31912889507817)
+[15:47:49] [Async Chat Thread - #31/INFO]: <aomali2> a[m
+[17:12:53] [User Authenticator #45/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[17:12:53] [Server thread/INFO]: Jacqueline[/187.188.76.120:22083] logged in with entity id 111332 at ([maincra-server_nether]-51.300000011920936, 59.0, -24.30000001192093)
+[17:13:04] [Async Chat Thread - #32/INFO]: <aomali2> holi[m
+[17:13:15] [Async Chat Thread - #32/INFO]: <Jacqueline> hola[m
+[17:13:32] [Async Chat Thread - #32/INFO]: <aomali2> que vas a hacer horita?[m
+[17:13:53] [Async Chat Thread - #32/INFO]: <Jacqueline> perderme en el nether[m
+[17:14:17] [Server thread/INFO]: aomali2 lost connection: Timed out
+[17:14:17] [Server thread/INFO]: aomali2 left the game
+[17:14:22] [User Authenticator #46/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[17:14:22] [Server thread/INFO]: aomali2[/187.189.187.177:18310] logged in with entity id 111397 at ([maincra-server]15.63347965604845, 65.0, -224.80502026292706)
+[17:14:29] [Async Chat Thread - #32/INFO]: <aomali2> que paso[m
+[17:16:41] [Async Chat Thread - #33/INFO]: <aomali2> duermes?[m
+[17:17:17] [Async Chat Thread - #33/INFO]: <Jacqueline> aun no[m
+[17:17:23] [Async Chat Thread - #33/INFO]: <aomali2> ok[m
+[17:32:52] [Server thread/WARN]: aomali2 moved too quickly! 9.634071179320316,1.0700661861106866,-2.55138734545244
+[17:33:32] [Async Chat Thread - #34/INFO]: <aomali2> oye tu tienes echisos en libros?[m
+[17:34:01] [Async Chat Thread - #34/INFO]: <Jacqueline> pues esta la mesa de encacntamientos[m
+[17:34:16] [Async Chat Thread - #34/INFO]: <aomali2> no pero si tu tienes en tu casa[m
+[17:34:23] [Async Chat Thread - #34/INFO]: <Jacqueline> no[m
+[17:34:43] [Async Chat Thread - #34/INFO]: <aomali2> esque quiero echisos si consigues te los compro con diamantes[m
+[17:39:14] [Async Chat Thread - #35/INFO]: <aomali2> ontas[m
+[17:39:44] [Async Chat Thread - #35/INFO]: <Jacqueline> en la casa de alejandro[m
+[17:40:01] [Async Chat Thread - #35/INFO]: <aomali2> alado esta mi casa xd[m
+[17:40:09] [Async Chat Thread - #35/INFO]: <aomali2> atras[m
+[17:41:03] [Async Chat Thread - #35/INFO]: <aomali2> me sentia solito y puse la mi alado de la sulla[m
+[17:42:50] [Async Chat Thread - #36/INFO]: <aomali2> me das una flecha tengo arco con flechas ilimitadas[m
+[17:56:32] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[17:56:32] [Server thread/INFO]: Jacqueline left the game
+[18:12:30] [Server thread/INFO]: aomali2 lost connection: Timed out
+[18:12:30] [Server thread/INFO]: aomali2 left the game
+[18:15:24] [User Authenticator #47/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[18:15:24] [Server thread/INFO]: aomali2[/187.189.187.177:17570] logged in with entity id 114481 at ([maincra-server]9.575834493802475, 64.0, -232.70156087947768)
+[18:31:16] [User Authenticator #48/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[18:31:16] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17417] logged in with entity id 115004 at ([maincra-server]-42.597981617356126, 65.0, -209.62465220496026)
+[19:24:18] [User Authenticator #49/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[19:24:18] [Server thread/INFO]: Jacqueline[/187.188.76.120:21541] logged in with entity id 120867 at ([maincra-server]-121.48695507269903, 76.0, -231.65291878919484)
+[19:26:04] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS hola mi corazon <3
+[19:26:18] [Async Chat Thread - #37/INFO]: <PEPELOTAS> Hola Amor[m
+[19:27:43] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS viste mi regalo?
+[19:28:01] [Async Chat Thread - #38/INFO]: <PEPELOTAS> si amor :*[m
+[19:28:56] [Async Chat Thread - #38/INFO]: <Jacqueline> tienes algun encantamiento de reparacion?[m
+[19:29:18] [Async Chat Thread - #38/INFO]: <PEPELOTAS> mmm no se, tendria que ver[m
+[19:31:04] [Async Chat Thread - #39/INFO]: <Jacqueline> ok[m
+[19:31:19] [Async Chat Thread - #39/INFO]: <PEPELOTAS> ahorita que regrese del nether[m
+[19:31:27] [Async Chat Thread - #39/INFO]: <Jacqueline> si esta bien[m
+[19:38:27] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[19:38:27] [Server thread/INFO]: aomali2 left the game
+[20:29:05] [User Authenticator #50/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:29:06] [Server thread/INFO]: aomali2[/187.189.187.177:17708] logged in with entity id 133100 at ([maincra-server]-82.24562002833527, 64.0, -217.19585626724333)
+[20:29:20] [Async Chat Thread - #40/INFO]: <aomali2> que ago qui?[m
+[20:29:32] [Async Chat Thread - #40/INFO]: <Jacqueline> plantar[m
+[20:32:47] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[20:32:47] [Server thread/INFO]: Jacqueline left the game
+[20:38:19] [User Authenticator #51/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[20:38:20] [Server thread/INFO]: Jacqueline[/187.188.76.120:21660] logged in with entity id 133594 at ([maincra-server]-154.6620879293478, 64.0, -144.40579759643146)
+[20:42:56] [Async Chat Thread - #41/INFO]: <PEPELOTAS> xD[m
+[20:43:53] [Async Chat Thread - #41/INFO]: <Jacqueline> eaa se repara mi pico solo XD[m
+[20:44:15] [Async Chat Thread - #41/INFO]: <PEPELOTAS> con experiencia[m
+[20:44:20] [Async Chat Thread - #41/INFO]: <Jacqueline> si[m
+[20:44:30] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[20:44:30] [Server thread/INFO]: PEPELOTAS left the game
+[20:46:35] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[20:46:35] [Server thread/INFO]: Jacqueline left the game
+[21:29:18] [User Authenticator #52/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
+[21:29:19] [Server thread/INFO]: Buster[/187.190.76.163:21910] logged in with entity id 135836 at ([maincra-server]454.76249208933433, 72.0, -369.4002835172978)
+[21:30:26] [User Authenticator #53/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[21:30:26] [Server thread/INFO]: Axfer06[/177.249.176.4:1530] logged in with entity id 136141 at ([maincra-server]441.48750001192093, 72.0, -379.5078319919698)
+[21:30:35] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[21:30:35] [Server thread/INFO]: Axfer06 left the game
+[21:30:37] [User Authenticator #54/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[21:30:37] [Server thread/INFO]: Axfer06[/177.249.176.4:7744] logged in with entity id 136162 at ([maincra-server]441.48750001192093, 72.0, -379.5078319919698)
+[21:30:47] [Async Chat Thread - #42/INFO]: <aomali2> hola[m
+[21:31:00] [Async Chat Thread - #42/INFO]: <Buster> hola :)[m
+[21:31:35] [Async Chat Thread - #42/INFO]: <aomali2> una pregunta viven serca de el espawn prinsipal?[m
+[21:31:45] [Async Chat Thread - #42/INFO]: <Buster> mas o menos[m
+[21:31:51] [Async Chat Thread - #42/INFO]: <Buster> está cruzando el desierto[m
+[21:31:57] [Async Chat Thread - #42/INFO]: <aomali2> ok[m
+[21:32:10] [Async Chat Thread - #42/INFO]: <aomali2> una preguntan tienen libros encantados?[m
+[21:32:15] [Async Chat Thread - #42/INFO]: <Buster> no :([m
+[21:32:21] [Async Chat Thread - #42/INFO]: <aomali2> :,U[m
+[21:32:44] [Async Chat Thread - #42/INFO]: <aomali2> poes les voi a dar cosas ya que apenas entraron[m
+[21:33:01] [Async Chat Thread - #42/INFO]: <aomali2> bueno ya lleban su tiempo pero bueno[m
+[21:33:04] [Async Chat Thread - #42/INFO]: <Buster> gracias máquinaaa[m
+[21:33:13] [Async Chat Thread - #42/INFO]: <Buster> al fin conseguimos armadura de iron[m
+[21:33:24] [Async Chat Thread - #42/INFO]: <aomali2> cordenadas porfa[m
+[21:33:57] [Async Chat Thread - #42/INFO]: <Buster> no sabemos como ponerlas xD[m
+[21:34:04] [Async Chat Thread - #42/INFO]: <aomali2> f3[m
+[21:34:13] [Server thread/WARN]: Axfer06 moved too quickly! 3.3725686140612083,-4.0,-8.744423737958982
+[21:34:24] [Async Chat Thread - #42/INFO]: <aomali2> y a la esquierda dise xyz esos numeros son[m
+[21:35:21] [Async Chat Thread - #42/INFO]: <aomali2> ya las viste[m
+[21:35:25] [Async Chat Thread - #42/INFO]: <Buster> sip[m
+[21:35:38] [Async Chat Thread - #42/INFO]: <aomali2> ponlas en el chat porfa es mas facil encontrarlos[m
+[21:35:44] [Async Chat Thread - #42/INFO]: <Buster> 463.651[m
+[21:35:56] [Async Chat Thread - #42/INFO]: <Buster> tambien los otros numeros?[m
+[21:36:04] [Async Chat Thread - #42/INFO]: <aomali2> si[m
+[21:37:03] [Async Chat Thread - #42/INFO]: <aomali2> porfa[m
+[21:37:48] [Async Chat Thread - #42/INFO]: <Buster> 463.651 72.00000 374.934[m
+[21:38:42] [Async Chat Thread - #42/INFO]: <aomali2> ya los vis[m
+[21:38:54] [Async Chat Thread - #42/INFO]: <Buster> ok[m
+[21:40:02] [Async Chat Thread - #43/INFO]: <aomali2> hola[m
+[21:40:10] [Async Chat Thread - #43/INFO]: <Buster> holaaa[m
+[21:40:19] [Async Chat Thread - #43/INFO]: <aomali2> hola que hace[m
+[21:40:29] [Async Chat Thread - #43/INFO]: <aomali2> les traje la navidad[m
+[21:40:50] [Async Chat Thread - #43/INFO]: <aomali2> que desean[m
+[21:41:02] [Async Chat Thread - #43/INFO]: <Axfer06> lo que seaaaaa[m
+[21:41:10] [Async Chat Thread - #43/INFO]: <Buster> estas muy chetado?[m
+[21:41:11] [Async Chat Thread - #43/INFO]: <aomali2> ok porfa alejense[m
+[21:41:15] [Async Chat Thread - #43/INFO]: <aomali2> que[m
+[21:41:30] [Async Chat Thread - #43/INFO]: <aomali2> navidad :D[m
+[21:41:44] [Async Chat Thread - #43/INFO]: <Buster> :000[m
+[21:41:46] [Async Chat Thread - #43/INFO]: <aomali2> fila[m
+[21:41:53] [User Authenticator #55/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[21:41:53] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1053] logged in with entity id 136971 at ([maincra-server]-172.47466174608562, 79.875, -88.94506867552782)
+[21:42:03] [Async Chat Thread - #43/INFO]: <Buster> :'0[m
+[21:42:15] [Async Chat Thread - #43/INFO]: <Buster> MUCHAS GRACIAS[m
+[21:42:24] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[21:42:24] [Server thread/INFO]: GatoDeNieve left the game
+[21:42:37] [Async Chat Thread - #43/INFO]: <Buster> :'D[m
+[21:42:40] [Async Chat Thread - #43/INFO]: <aomali2> voi a guardar los regalos es un estack xd[m
+[21:42:52] [Async Chat Thread - #43/INFO]: <Buster> Ala chavaaaallll[m
+[21:43:08] [Async Chat Thread - #43/INFO]: <aomali2> ya[m
+[21:43:16] [Async Chat Thread - #43/INFO]: <aomali2> me pueden hacerr un fabor[m
+[21:43:19] [Async Chat Thread - #43/INFO]: <Buster> sip[m
+[21:43:28] [Async Chat Thread - #43/INFO]: <aomali2> un escudo seme rompio el mio de camino xd[m
+[21:43:36] [Async Chat Thread - #43/INFO]: <Buster> ahi esta[m
+[21:43:42] [Async Chat Thread - #43/INFO]: <aomali2> gracias[m
+[21:43:49] [Async Chat Thread - #43/INFO]: <Buster> gracias a ti[m
+[21:43:58] [Async Chat Thread - #43/INFO]: <Buster> bestia, tifón, remolino[m
+[21:44:05] [Async Chat Thread - #43/INFO]: <aomali2> xd[m
+[21:44:13] [Async Chat Thread - #43/INFO]: <Axfer06> mi heroe cruckkkkkkk[m
+[21:44:38] [Async Chat Thread - #43/INFO]: <Buster> nos has salvado estamos agradecidoos[m
+[21:44:43] [Server thread/INFO]: Buster has made the advancement [Diamonds!]
+[21:44:48] [Server thread/INFO]: Axfer06 has made the advancement [Diamonds!]
+[21:45:03] [Async Chat Thread - #43/INFO]: <aomali2> porbres :,U[m
+[21:45:21] [Async Chat Thread - #43/INFO]: <aomali2> quieren la segunda navidad[m
+[21:45:23] [Async Chat Thread - #43/INFO]: <aomali2> ?[m
+[21:45:29] [User Authenticator #56/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[21:45:29] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1297] logged in with entity id 137328 at ([maincra-server]-172.47466174608562, 79.875, -88.94506867552782)
+[21:45:34] [Async Chat Thread - #43/INFO]: <Buster> No gracias, ya estamos satisfechos[m
+[21:45:39] [Async Chat Thread - #43/INFO]: <aomali2> ok[m
+[21:45:43] [Async Chat Thread - #43/INFO]: <Buster> Te la rifastee[m
+[21:45:57] [Async Chat Thread - #43/INFO]: <aomali2> que es lo que les falta?[m
+[21:46:11] [Async Chat Thread - #43/INFO]: <Buster> nada, solo pensabamos hacer una granja[m
+[21:46:16] [Async Chat Thread - #43/INFO]: <Buster> pero no hay animales cerca[m
+[21:48:19] [Async Chat Thread - #44/INFO]: <aomali2> una pregunta no tienen libros echisados?[m
+[21:48:37] [Async Chat Thread - #44/INFO]: <Axfer06> nel[m
+[21:48:54] [Async Chat Thread - #44/INFO]: <aomali2> tienen estack de piedras?[m
+[21:49:08] [Async Chat Thread - #44/INFO]: <Buster> sip[m
+[21:49:17] [Async Chat Thread - #44/INFO]: <aomali2> que quieren por uno[m
+[21:49:22] [Async Chat Thread - #44/INFO]: <Buster> nada[m
+[21:49:29] [Async Chat Thread - #44/INFO]: <aomali2> seguro[m
+[21:49:31] [Async Chat Thread - #44/INFO]: <Buster> sip[m
+[21:49:39] [Async Chat Thread - #44/INFO]: <aomali2> pero quiero muchos xd[m
+[21:49:44] [Async Chat Thread - #44/INFO]: <aomali2> te los compro[m
+[21:49:55] [Async Chat Thread - #44/INFO]: <Axfer06> ahora nosotros te vamos a dar tu navidad[m
+[21:50:02] [Async Chat Thread - #44/INFO]: <aomali2> :,U[m
+[21:50:17] [Async Chat Thread - #44/INFO]: <aomali2> gracias[m
+[21:50:23] [Async Chat Thread - #44/INFO]: <Buster> para eso estamos cruck[m
+[21:51:27] [Async Chat Thread - #45/INFO]: <aomali2> buster[m
+[21:51:30] [Async Chat Thread - #45/INFO]: <Buster> que pasa[m
+[21:51:31] [Async Chat Thread - #45/INFO]: <aomali2> ven[m
+[21:51:38] [Async Chat Thread - #45/INFO]: <aomali2> no le digas[m
+[21:51:40] [Async Chat Thread - #45/INFO]: <aomali2> chhhh[m
+[21:51:48] [Async Chat Thread - #45/INFO]: <Buster> :00000[m
+[21:52:03] [Async Chat Thread - #45/INFO]: <Buster> :')[m
+[21:52:08] [Async Chat Thread - #45/INFO]: <Buster> tenkiu[m
+[21:55:57] [Async Chat Thread - #46/INFO]: <aomali2> saben donde es la casa?[m
+[21:56:04] [Async Chat Thread - #46/INFO]: <Buster> cual?[m
+[21:56:23] [Async Chat Thread - #46/INFO]: <aomali2> el spawn prinsipal[m
+[21:56:29] [Async Chat Thread - #46/INFO]: <Buster> te podemos lelva[m
+[21:56:33] [Async Chat Thread - #46/INFO]: <Buster> llevar*[m
+[21:56:36] [Async Chat Thread - #46/INFO]: <aomali2> porfa me perdi[m
+[21:56:41] [Async Chat Thread - #46/INFO]: <Buster> ven a la casa[m
+[21:56:46] [Async Chat Thread - #46/INFO]: <Buster> a la nuestra[m
+[21:59:14] [Server thread/WARN]: Axfer06 moved too quickly! -9.682131313292643,0.0,3.017979112764749
+[22:00:18] [Async Chat Thread - #47/INFO]: <Axfer06> donde estas ?[m
+[22:00:38] [Async Chat Thread - #47/INFO]: <Buster> ya te vimos[m
+[22:00:40] [Async Chat Thread - #47/INFO]: <aomali2> ya llege estava en el oseano[m
+[22:01:14] [Async Chat Thread - #47/INFO]: <Buster> wow[m
+[22:01:20] [Async Chat Thread - #47/INFO]: <aomali2> por donde es?[m
+[22:01:24] [Async Chat Thread - #47/INFO]: <Buster> siguenos[m
+[22:01:32] [Async Chat Thread - #47/INFO]: <Axfer06> primero duerme[m
+[22:01:32] [Async Chat Thread - #47/INFO]: <Buster> pero primero a mimir[m
+[22:01:43] [Async Chat Thread - #47/INFO]: <aomali2> gato duerme porfa[m
+[22:01:46] [Async Chat Thread - #47/INFO]: <GatoDeNieve> ok[m
+[22:01:55] [Async Chat Thread - #47/INFO]: <GatoDeNieve> tlisto[m
+[22:02:04] [Async Chat Thread - #47/INFO]: <Buster> ok, ven[m
+[22:03:01] [Async Chat Thread - #47/INFO]: <aomali2> que paso[m
+[22:03:07] [Async Chat Thread - #47/INFO]: <Buster> no se[m
+[22:03:09] [Async Chat Thread - #47/INFO]: <Buster> no los veo[m
+[22:03:56] [Async Chat Thread - #47/INFO]: <Buster> que es eso xd[m
+[22:04:03] [Async Chat Thread - #47/INFO]: <aomali2> ya c es nuevo[m
+[22:04:10] [Async Chat Thread - #47/INFO]: <Buster> esta mamalon[m
+[22:04:13] [Server thread/WARN]: Buster moved too quickly! -8.666848419609437,0.12129684053920187,5.535973214260935
+[22:04:34] [Async Chat Thread - #47/INFO]: <aomali2> porque no se quedan a vivir[m
+[22:04:47] [Async Chat Thread - #47/INFO]: <Buster> ya tenemos una casita[m
+[22:04:51] [Async Chat Thread - #47/INFO]: <Buster> relativamente cerca[m
+[22:05:01] [Async Chat Thread - #47/INFO]: <aomali2> ok[m
+[22:05:18] [Async Chat Thread - #47/INFO]: <aomali2> esta en construccion[m
+[22:05:25] [Async Chat Thread - #47/INFO]: <Buster> esta chida :0[m
+[22:05:27] [Async Chat Thread - #47/INFO]: <aomali2> pero mientras vivo aqui[m
+[22:05:53] [Async Chat Thread - #47/INFO]: <Buster> que bonito[m
+[22:06:01] [Async Chat Thread - #47/INFO]: <aomali2> todo esta escondido[m
+[22:06:04] [Async Chat Thread - #47/INFO]: <aomali2> mira[m
+[22:06:07] [Async Chat Thread - #47/INFO]: <Axfer06> esta muy cool[m
+[22:06:11] [Async Chat Thread - #47/INFO]: <Buster> me dejas cocinar algo?[m
+[22:06:32] [Async Chat Thread - #47/INFO]: <aomali2> tengo 10 cofres portatiles[m
+[22:07:21] [Async Chat Thread - #47/INFO]: <aomali2> quen quiere uno de estos[m
+[22:07:40] [Async Chat Thread - #47/INFO]: <aomali2> el primero se lo gana[m
+[22:07:40] [Async Chat Thread - #47/INFO]: <Buster> como lo haces?[m
+[22:07:46] [Async Chat Thread - #47/INFO]: <Buster> ok[m
+[22:07:50] [Async Chat Thread - #47/INFO]: <aomali2> lo echisas y con esta[m
+[22:08:50] [Async Chat Thread - #47/INFO]: <aomali2> ratas?[m
+[22:08:55] [Async Chat Thread - #47/INFO]: <Buster> noooooo[m
+[22:08:58] [Async Chat Thread - #47/INFO]: <Buster> nada de eso[m
+[22:08:59] [Async Chat Thread - #47/INFO]: <aomali2> aqui se hace[m
+[22:09:01] [Async Chat Thread - #47/INFO]: <Buster> no agarramos nada[m
+[22:09:19] [Async Chat Thread - #47/INFO]: <aomali2> haci se pinta el deste[m
+[22:09:31] [Async Chat Thread - #47/INFO]: <aomali2> quiern quiere uno igual[m
+[22:09:33] [Async Chat Thread - #47/INFO]: <Buster> orale[m
+[22:09:39] [Async Chat Thread - #47/INFO]: <Buster> vas axel[m
+[22:10:21] [Async Chat Thread - #47/INFO]: <aomali2> espera xd[m
+[22:10:34] [Async Chat Thread - #47/INFO]: <aomali2> ya[m
+[22:10:38] [Async Chat Thread - #47/INFO]: <aomali2> quien?[m
+[22:10:41] [Async Chat Thread - #47/INFO]: <Buster> axel[m
+[22:11:01] [Async Chat Thread - #47/INFO]: <aomali2> yaa le postraste lo que te di uster[m
+[22:11:04] [Async Chat Thread - #47/INFO]: <aomali2> buster[m
+[22:11:04] [Async Chat Thread - #47/INFO]: <Buster> wooooee[m
+[22:11:09] [Async Chat Thread - #47/INFO]: <Buster> esta bien chido[m
+[22:11:17] [Async Chat Thread - #47/INFO]: <aomali2> muetrale lo que te di[m
+[22:11:27] [Async Chat Thread - #47/INFO]: <aomali2> haora estan parejos[m
+[22:11:31] [Async Chat Thread - #47/INFO]: <Buster> jaja siii[m
+[22:11:34] [Async Chat Thread - #47/INFO]: <Buster> gracias por todo[m
+[22:11:36] [Async Chat Thread - #47/INFO]: <Buster> nos retiramos[m
+[22:11:36] [Async Chat Thread - #47/INFO]: <Axfer06> gracias por todo cruckk[m
+[22:11:39] [Async Chat Thread - #47/INFO]: <aomali2> ok[m
+[22:11:51] [Async Chat Thread - #47/INFO]: <aomali2> agarren lo que quiera[m
+[22:12:08] [Async Chat Thread - #47/INFO]: <Buster> no hay nada xD[m
+[22:12:15] [Async Chat Thread - #47/INFO]: <aomali2> cada uno ve lo que puso[m
+[22:12:21] [Async Chat Thread - #47/INFO]: <aomali2> yo veo diamantes[m
+[22:12:31] [Async Chat Thread - #47/INFO]: <Buster> lha[m
+[22:12:32] [Async Chat Thread - #47/INFO]: <aomali2> pon algo y el otro no lo ve[m
+[22:12:33] [Async Chat Thread - #47/INFO]: <Buster> kha[m
+[22:12:45] [Async Chat Thread - #47/INFO]: <Buster> oooh eso esta muy muy chido[m
+[22:12:57] [Async Chat Thread - #47/INFO]: <aomali2> si se rompe no da nada solo pones otro y siguen aqui[m
+[22:13:07] [Async Chat Thread - #47/INFO]: <Buster> mola mucho[m
+[22:13:20] [Async Chat Thread - #47/INFO]: <Axfer06> vas chetadisimo[m
+[22:13:21] [Async Chat Thread - #47/INFO]: <aomali2> cuanda valla a su casa les llebo uno[m
+[22:13:29] [Async Chat Thread - #47/INFO]: <Buster> que va :')[m
+[22:13:40] [Async Chat Thread - #47/INFO]: <aomali2> de echo[m
+[22:13:42] [Async Chat Thread - #47/INFO]: <aomali2> espera[m
+[22:13:57] [Async Chat Thread - #47/INFO]: <aomali2> toma[m
+[22:14:14] [Server thread/INFO]: Buster has made the advancement [Ice Bucket Challenge]
+[22:14:24] [Async Chat Thread - #47/INFO]: <Axfer06> <3 <3[m
+[22:14:32] [Async Chat Thread - #47/INFO]: <aomali2> ponlo porfa[m
+[22:14:37] [Async Chat Thread - #47/INFO]: <aomali2> seme quedo algo xd[m
+[22:14:48] [Async Chat Thread - #47/INFO]: <Buster> hazlo[m
+[22:14:52] [Async Chat Thread - #47/INFO]: <Buster> lo rompi por accidenteeee[m
+[22:15:00] [Async Chat Thread - #47/INFO]: <aomali2> xddddd[m
+[22:15:03] [Async Chat Thread - #47/INFO]: <Buster> xD[m
+[22:15:37] [Async Chat Thread - #47/INFO]: <aomali2> ponlo pero no lo quites[m
+[22:15:37] [Async Chat Thread - #47/INFO]: <Buster> hasta la proxima[m
+[22:15:40] [Async Chat Thread - #47/INFO]: <aomali2> adios[m
+[22:15:45] [Async Chat Thread - #47/INFO]: <aomali2> no xd[m
+[22:15:58] [Async Chat Thread - #47/INFO]: <aomali2> ponlo en tu casa pero no lo quites[m
+[22:16:02] [Async Chat Thread - #47/INFO]: <Buster> vale[m
+[22:16:06] [Async Chat Thread - #47/INFO]: <aomali2> sino se rompe[m
+[22:16:09] [Async Chat Thread - #47/INFO]: <Axfer06> gracias por todo cruck nos vamos a hacer nuestra granja[m
+[22:16:11] [Async Chat Thread - #47/INFO]: <Buster> entendido[m
+[22:16:14] [Async Chat Thread - #47/INFO]: <Buster> nos retiramos[m
+[22:16:16] [Async Chat Thread - #47/INFO]: <Buster> muchas gracias[m
+[22:16:17] [Async Chat Thread - #47/INFO]: <Axfer06> <3[m
+[22:16:18] [Async Chat Thread - #47/INFO]: <aomali2> voi a hacer otro[m
+[22:16:24] [Async Chat Thread - #47/INFO]: <aomali2> adios[m
+[22:17:27] [Async Chat Thread - #48/INFO]: <GatoDeNieve> que onda[m
+[22:17:33] [Async Chat Thread - #48/INFO]: <aomali2> de que[m
+[22:17:48] [Async Chat Thread - #48/INFO]: <GatoDeNieve> o sea hola[m
+[22:18:02] [Async Chat Thread - #48/INFO]: <aomali2> pos hola[m
+[22:18:27] [Async Chat Thread - #48/INFO]: <aomali2> sorry hice hielo el agua[m
+[22:18:32] [Async Chat Thread - #48/INFO]: <GatoDeNieve> ntp[m
+[22:18:43] [Async Chat Thread - #48/INFO]: <aomali2> esque mis pies lo hacen mira[m
+[22:18:51] [Async Chat Thread - #48/INFO]: <GatoDeNieve> son botas encantadas no?[m
+[22:18:57] [Async Chat Thread - #48/INFO]: <aomali2> si[m
+[22:19:04] [Async Chat Thread - #48/INFO]: <GatoDeNieve> que chido[m
+[22:19:13] [Server thread/WARN]: aomali2 moved too quickly! -7.6648895447188465,1.0230881091015505,-9.397916940166013
+[22:20:41] [Async Chat Thread - #49/INFO]: <aomali2> jaja un creeper me ecploto y no me iso nada[m
+[22:20:47] [Server thread/INFO]: [0;33;22mTPS from last 1m, 5m, 15m: [0;32;1m*20.0, [0;32;1m*20.0, [0;32;1m*20.0[m
+[22:30:04] [Server thread/INFO]: Buster has made the advancement [The Parrots and the Bats]
+[22:32:22] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > que pedo q pex
+[22:32:26] [Async Chat Thread - #50/INFO]: <GatoDeNieve> que onda[m
+[22:32:35] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > buenas nochis
+[22:36:25] [User Authenticator #57/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[22:36:25] [Server thread/INFO]: magumboss[/187.233.2.52:6193] logged in with entity id 143882 at ([maincra-server]108.66838600824205, 78.0, -6.868363692216855)
+[22:36:34] [Server thread/INFO]: magumboss lost connection: Disconnected
+[22:36:34] [Server thread/INFO]: magumboss left the game
+[22:36:36] [Async Chat Thread - #51/INFO]: <aomali2> hola[m
+[22:36:41] [Async Chat Thread - #51/INFO]: <aomali2> :U[m
+[22:47:11] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[22:47:11] [Server thread/INFO]: GatoDeNieve left the game
+[22:47:45] [Server thread/INFO]: Axfer06 has made the advancement [The Parrots and the Bats]
+[22:49:15] [User Authenticator #58/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[22:49:15] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1236] logged in with entity id 145032 at ([maincra-server]-175.6738564757925, 79.0, -92.00577413630322)
+[22:50:48] [User Authenticator #59/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:50:48] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17470] logged in with entity id 145207 at ([maincra-server]-42.73411512341286, 65.0, -201.7108292609159)
+[22:51:58] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[22:51:58] [Server thread/INFO]: GatoDeNieve left the game
+[22:52:54] [User Authenticator #60/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[22:52:55] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1358] logged in with entity id 145282 at ([maincra-server]-69.2410247556043, 101.0, -48.235363817868496)
+[22:54:32] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[22:54:32] [Server thread/INFO]: PEPELOTAS left the game
+[22:55:13] [User Authenticator #61/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:55:14] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17576] logged in with entity id 145489 at ([maincra-server]-42.60297517012313, 71.5, -210.61110435066126)
