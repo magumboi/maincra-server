@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "653918fc-2cf6-3772-9c26-b6e130fc1858",
+    "name": "GatoDeNieve",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "33a80638-2adf-3ef9-8822-9d7b1ace3e64",
     "name": "magumboss",
     "level": 4,
