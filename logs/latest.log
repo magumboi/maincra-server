@@ -205,3 +205,49 @@
 [12:13:55] [Server thread/INFO]: Pinolito[/187.233.141.5:11271] logged in with entity id 234 at ([maincra-server]118.29999997466803, 82.0625002, 7.299999974668026)
 [12:17:57] [Server thread/INFO]: Pinolito lost connection: Disconnected
 [12:17:57] [Server thread/INFO]: Pinolito left the game
+[13:46:53] [User Authenticator #5/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[13:46:54] [Server thread/INFO]: Jacqueline[/187.188.76.120:22216] logged in with entity id 368 at ([maincra-server]-150.31742330823286, 10.0, -86.48884546527846)
+[15:15:27] [User Authenticator #6/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:15:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@54152e26[id=5569e8b1-e1f6-3eda-ab66-838460f151f0,name=aomali2,properties={},legacy=false] (/187.189.187.177:17949) lost connection: Disconnected
+[15:15:37] [User Authenticator #7/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:15:38] [Server thread/INFO]: aomali2[/187.189.187.177:17968] logged in with entity id 4345 at ([maincra-server]-57.00714066541291, 65.0, -262.4986003598934)
+[15:15:47] [Async Chat Thread - #0/INFO]: <aomali2> hola[m
+[15:15:55] [Async Chat Thread - #0/INFO]: <aomali2> me copiaste[m
+[15:16:21] [Async Chat Thread - #0/INFO]: <aomali2> mi casa[m
+[15:16:26] [Async Chat Thread - #0/INFO]: <Jacqueline> yoo fuiste tu[m
+[15:16:32] [Async Chat Thread - #0/INFO]: <aomali2> ok xd[m
+[15:16:58] [Async Chat Thread - #0/INFO]: <aomali2> y tupechera de diamante?[m
+[15:17:13] [Async Chat Thread - #0/INFO]: <Jacqueline> se agoto[m
+[15:17:26] [Async Chat Thread - #0/INFO]: <aomali2> se rompio o todabia esta bien[m
+[15:17:40] [Async Chat Thread - #0/INFO]: <Jacqueline> tiene muy poquito[m
+[15:17:52] [Async Chat Thread - #0/INFO]: <aomali2> te la reparo en el yunque?[m
+[15:17:56] [Async Chat Thread - #0/INFO]: <aomali2> tengo mucho lvl[m
+[15:18:15] [Async Chat Thread - #0/INFO]: <Jacqueline> ok, voy por ella[m
+[15:18:19] [Async Chat Thread - #0/INFO]: <aomali2> ok[m
+[15:20:15] [Async Chat Thread - #1/INFO]: <aomali2> ya[m
+[15:20:24] [Async Chat Thread - #1/INFO]: <Jacqueline> gracias[m
+[15:25:42] [Async Chat Thread - #2/INFO]: <aomali2> duermes porfa[m
+[15:26:06] [Async Chat Thread - #2/INFO]: <aomali2> gracias[m
+[15:26:30] [Async Chat Thread - #2/INFO]: <aomali2> si quieres que te repare otra dime[m
+[15:26:38] [Async Chat Thread - #2/INFO]: <aomali2> no cuesta mucho[m
+[15:26:40] [Async Chat Thread - #2/INFO]: <Jacqueline> ok[m
+[15:33:03] [Server thread/INFO]: aomali2 has made the advancement [Voluntary Exile]
+[15:44:33] [Async Chat Thread - #3/INFO]: <aomali2> jaqui as visto un cofre rojo en la casa de mi tio?[m
+[15:44:53] [Async Chat Thread - #3/INFO]: <Jacqueline> no[m
+[15:47:17] [Async Chat Thread - #4/INFO]: <aomali2> que cosinas[m
+[15:47:23] [Async Chat Thread - #4/INFO]: <Jacqueline> piedra[m
+[15:47:44] [Async Chat Thread - #4/INFO]: <aomali2> no quieres usar mis hornos por eso hice mi casa tan rapido[m
+[15:47:58] [Async Chat Thread - #4/INFO]: <aomali2> vrn[m
+[15:48:01] [Async Chat Thread - #4/INFO]: <aomali2> ven[m
+[15:48:47] [Async Chat Thread - #4/INFO]: <aomali2> ese no[m
+[15:48:58] [Async Chat Thread - #4/INFO]: <aomali2> estos[m
+[15:49:15] [Async Chat Thread - #4/INFO]: <Jacqueline> no llevo prisa XD[m
+[15:52:29] [Async Chat Thread - #5/INFO]: <aomali2> mira[m
+[15:53:59] [Async Chat Thread - #6/INFO]: <aomali2> jaqui[m
+[15:54:01] [Async Chat Thread - #6/INFO]: <Jacqueline> queria la experiencia para reparar mi pico XD[m
+[15:54:18] [Async Chat Thread - #6/INFO]: <aomali2> porque cocinas en el horno trampa xd[m
+[15:54:24] [Async Chat Thread - #6/INFO]: <aomali2> mira[m
+[15:55:23] [Async Chat Thread - #6/INFO]: <Jacqueline> no me di cuenta[m
+[15:55:30] [Async Chat Thread - #6/INFO]: <aomali2> hey mi piedra de mi horno trampa xd[m
+[15:55:52] [Async Chat Thread - #6/INFO]: <Jacqueline> no era la mia q puse?[m
+[15:56:32] [Async Chat Thread - #6/INFO]: <aomali2> si pero ya era mia xd[m
