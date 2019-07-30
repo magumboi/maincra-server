@@ -192,3 +192,12 @@
 [11:38:20] [Server thread/INFO]: magumboss[/187.190.235.108:54516] logged in with entity id 113 at ([maincra-server]116.76956156521301, 80.0, -1.6364256453382244)
 [11:38:45] [Server thread/INFO]: magumboss lost connection: Timed out
 [11:38:45] [Server thread/INFO]: magumboss left the game
+[11:44:30] [User Authenticator #2/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[11:44:30] [Server thread/INFO]: magumboss[/187.190.235.108:54679] logged in with entity id 223 at ([maincra-server]116.76956156521301, 80.0, -1.6364256453382244)
+[11:44:55] [Server thread/INFO]: magumboss lost connection: Timed out
+[11:44:55] [Server thread/INFO]: magumboss left the game
+[11:59:23] [User Authenticator #3/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[11:59:23] [Server thread/INFO]: magumboss[/187.190.235.108:54974] logged in with entity id 231 at ([maincra-server]116.76956156521301, 80.0, -1.6364256453382244)
+[11:59:48] [Server thread/INFO]: magumboss lost connection: Timed out
+[11:59:48] [Server thread/INFO]: magumboss left the game
+[11:59:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > 35.238.48.109
