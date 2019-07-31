@@ -567,6 +567,8 @@
       "minecraft:creeper": "2019-07-22 01:35:57 -0500",
       "minecraft:phantom": "2019-07-18 23:02:10 -0500",
       "minecraft:husk": "2019-07-21 23:27:06 -0500",
+      "minecraft:cave_spider": "2019-07-30 17:56:01 -0500",
+      "minecraft:silverfish": "2019-07-30 18:18:39 -0500",
       "minecraft:zombie": "2019-07-17 22:43:42 -0500",
       "minecraft:drowned": "2019-07-18 22:27:06 -0500",
       "minecraft:zombie_villager": "2019-07-18 22:45:42 -0500"
@@ -1585,6 +1587,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-07-17 23:19:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2019-07-30 18:36:20 -0500"
     },
     "done": true
   },
