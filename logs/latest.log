@@ -15,3 +15,9 @@
 [03:52:51] [Server thread/INFO]: Jacqueline left the game
 [03:56:34] [User Authenticator #31/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
 [03:56:34] [Server thread/INFO]: Jacqueline[/187.188.76.120:22100] logged in with entity id 51770 at ([maincra-server_nether]80.30000001192093, 76.0, 31.300000011920943)
+[04:20:32] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[04:20:32] [Server thread/INFO]: Jacqueline left the game
+[05:09:57] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[05:09:59] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[06:02:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[06:02:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
