@@ -53,3 +53,17 @@
 [15:00:03] [Async Chat Thread - #24/INFO]: <aomali2> magumbo[m
 [15:36:12] [Server thread/INFO]: aomali2 lost connection: Disconnected
 [15:36:12] [Server thread/INFO]: aomali2 left the game
+[16:29:19] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[16:29:22] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[16:53:04] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[16:53:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[17:10:54] [User Authenticator #38/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[17:10:54] [Server thread/INFO]: magumboss[/201.175.203.253:12758] logged in with entity id 59651 at ([maincra-server]116.76956156521301, 80.0, -1.6364256453382244)
+[17:11:55] [User Authenticator #39/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[17:11:55] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1556] logged in with entity id 59743 at ([maincra-server]-194.6468141110285, 71.5, -119.3211730082997)
+[17:16:06] [Server thread/INFO]: magumboss lost connection: Disconnected
+[17:16:06] [Server thread/INFO]: magumboss left the game
+[18:20:52] [Server thread/INFO]: GatoDeNieve has made the advancement [Cover Me With Diamonds]
+[18:40:29] [Server thread/INFO]: GatoDeNieve has made the advancement [Take Aim]
+[19:06:33] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[19:06:33] [Server thread/INFO]: GatoDeNieve left the game
