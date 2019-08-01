@@ -162,3 +162,13 @@
 [01:59:31] [Server thread/INFO]: Jacqueline left the game
 [02:39:05] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [02:39:08] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[05:09:41] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[05:09:44] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[06:28:32] [User Authenticator #73/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[06:28:33] [Server thread/INFO]: andres12234[/187.189.181.38:8639] logged in with entity id 98709 at ([maincra-server]-9.294835196604414, 84.0, -71.50410850095693)
+[06:29:41] [Server thread/INFO]: andres12234 has made the advancement [A Seedy Place]
+[07:24:07] [User Authenticator #74/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[07:24:07] [Server thread/INFO]: Jacqueline[/187.188.76.120:21932] logged in with entity id 100491 at ([maincra-server]-93.56984117959342, 69.0, -246.7633370797385)
+[07:53:29] [Server thread/INFO]: andres12234 has made the advancement [Acquire Hardware]
+[07:53:44] [Server thread/INFO]: andres12234 has made the advancement [Isn't It Iron Pick]
+[07:55:55] [Server thread/INFO]: andres12234 has made the advancement [Suit Up]
