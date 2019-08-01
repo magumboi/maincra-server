@@ -178,3 +178,106 @@
 [08:05:17] [Server thread/INFO]: andres12234 left the game
 [08:14:40] [Server thread/INFO]: Jacqueline lost connection: Disconnected
 [08:14:40] [Server thread/INFO]: Jacqueline left the game
+[12:18:25] [User Authenticator #75/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[12:18:25] [Server thread/INFO]: magumboss[/187.190.235.108:52772] logged in with entity id 102548 at ([maincra-server]106.74333904307532, 70.0, -12.984162501289896)
+[12:18:50] [Server thread/INFO]: magumboss lost connection: Timed out
+[12:18:50] [Server thread/INFO]: magumboss left the game
+[12:25:21] [User Authenticator #76/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[12:25:21] [Server thread/INFO]: Jacqueline[/187.188.76.120:21758] logged in with entity id 102621 at ([maincra-server]-89.8056693813385, 69.5, -252.5787985379178)
+[12:53:29] [User Authenticator #77/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[12:53:29] [Server thread/INFO]: magumboss[/201.175.203.197:48249] logged in with entity id 103348 at ([maincra-server]106.74333904307532, 70.0, -12.984162501289896)
+[12:53:42] [Server thread/INFO]: magumboss lost connection: Disconnected
+[12:53:42] [Server thread/INFO]: magumboss left the game
+[12:53:59] [User Authenticator #78/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[12:53:59] [Server thread/INFO]: magumboss[/187.190.235.108:53324] logged in with entity id 103438 at ([maincra-server]106.74333904307532, 70.0, -12.984162501289896)
+[12:54:24] [Server thread/INFO]: magumboss lost connection: Timed out
+[12:54:24] [Server thread/INFO]: magumboss left the game
+[12:59:23] [User Authenticator #79/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[12:59:24] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8246] logged in with entity id 103662 at ([maincra-server]-53.90526141355766, 64.0, -222.91181398073022)
+[12:59:44] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:ender_chest
+[12:59:44] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Ender Chest] to GatoDeNieve]
+[13:02:22] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:flint_and_steel
+[13:02:22] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Flint and Steel] to GatoDeNieve]
+[13:14:48] [Server thread/INFO]: GatoDeNieve has made the advancement [A Terrible Fortress]
+[13:21:19] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[13:21:19] [Server thread/INFO]: Jacqueline left the game
+[13:24:37] [Server thread/INFO]: GatoDeNieve has made the advancement [Into Fire]
+[13:24:53] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[13:24:55] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[14:15:09] [User Authenticator #80/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[14:15:09] [Server thread/INFO]: andres12234[/187.189.181.38:9181] logged in with entity id 109292 at ([maincra-server]-18.92590443863817, 20.0, -25.63317484962034)
+[14:15:34] [Server thread/INFO]: andres12234 lost connection: Timed out
+[14:15:34] [Server thread/INFO]: andres12234 left the game
+[14:15:51] [User Authenticator #81/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[14:15:51] [Server thread/INFO]: andres12234[/187.189.181.38:8232] logged in with entity id 109563 at ([maincra-server]-18.92590443863817, 20.0, -25.63317484962034)
+[14:23:33] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[14:23:33] [Server thread/INFO]: andres12234 left the game
+[14:23:41] [User Authenticator #82/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[14:23:41] [Server thread/INFO]: andres12234[/187.189.181.38:8447] logged in with entity id 111173 at ([maincra-server]-7.956655032741112, 84.0, -71.02552632806736)
+[14:26:31] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[14:26:31] [Server thread/INFO]: andres12234 left the game
+[14:35:40] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:ender_chest
+[14:35:40] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Ender Chest] to GatoDeNieve]
+[14:36:49] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:flint_and_steel
+[14:36:49] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Flint and Steel] to GatoDeNieve]
+[14:37:28] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:obsidian 2
+[14:37:28] [Server thread/INFO]: [GatoDeNieve: Gave 2 [Obsidian] to GatoDeNieve]
+[14:41:12] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve sadd
+[14:41:15] [Server thread/INFO]: GatoDeNieve has made the advancement [Best Friends Forever]
+[14:41:15] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:saddle
+[14:41:15] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Saddle] to GatoDeNieve]
+[14:47:08] [Server thread/WARN]: Horse moved wrongly!
+[14:47:08] [Server thread/WARN]: Horse moved wrongly!
+[14:47:33] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:47:33] [Server thread/INFO]: GatoDeNieve left the game
+[14:47:34] [User Authenticator #83/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:47:34] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8657] logged in with entity id 114995 at ([maincra-server]74.30000001192093, 90.0, -599.4332479877972)
+[14:49:58] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:49:58] [Server thread/INFO]: GatoDeNieve left the game
+[14:49:59] [User Authenticator #84/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:49:59] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8715] logged in with entity id 115562 at ([maincra-server]-88.95106760243027, 62.17499780148498, -942.6357927911314)
+[14:50:42] [Server thread/WARN]: Horse moved wrongly!
+[14:50:43] [Server thread/WARN]: Horse moved wrongly!
+[14:54:32] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:54:32] [Server thread/INFO]: GatoDeNieve left the game
+[14:55:32] [User Authenticator #85/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:55:32] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8201] logged in with entity id 116216 at ([maincra-server]-46.56051431721238, 66.8500000178814, -1144.305227889032)
+[14:55:35] [Server thread/INFO]: GatoDeNieve issued server command: /seed
+[14:56:22] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:56:22] [Server thread/INFO]: GatoDeNieve left the game
+[14:57:16] [User Authenticator #86/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:57:16] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8289] logged in with entity id 116406 at ([maincra-server]-93.15903640449999, 100.8500000178814, -1120.500336540751)
+[15:06:39] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:salmon 20
+[15:06:39] [Server thread/INFO]: [GatoDeNieve: Gave 20 [Raw Salmon] to GatoDeNieve]
+[15:09:54] [User Authenticator #87/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[15:09:54] [Server thread/INFO]: Jacqueline[/187.188.76.120:22367] logged in with entity id 117291 at ([maincra-server]-76.38523760085329, 65.0, -232.26845434049645)
+[15:11:42] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[15:11:42] [Server thread/INFO]: GatoDeNieve left the game
+[15:11:43] [User Authenticator #88/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[15:11:43] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8587] logged in with entity id 117608 at ([maincra-server]-221.4758815679707, 69.0, -632.1927665049442)
+[15:20:32] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:lead
+[15:20:32] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Lead] to GatoDeNieve]
+[15:31:49] [Server thread/INFO]: GatoDeNieve issued server command: /summon minecraft:cat
+[15:31:49] [Server thread/INFO]: [GatoDeNieve: Summoned new Cat]
+[15:33:04] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve cobbl
+[15:34:36] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:salmon
+[15:34:36] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Raw Salmon] to GatoDeNieve]
+[15:35:23] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:salmon 64
+[15:35:23] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Raw Salmon] to GatoDeNieve]
+[15:38:05] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 1024
+[15:38:05] [Server thread/INFO]: [GatoDeNieve: Gave 1024 [Cobblestone] to GatoDeNieve]
+[15:38:53] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:ender_che
+[15:39:00] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:ender_chest 64
+[15:39:00] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Ender Chest] to GatoDeNieve]
+[15:56:53] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 128
+[15:56:53] [Server thread/INFO]: [GatoDeNieve: Gave 128 [Cobblestone] to GatoDeNieve]
+[15:57:20] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:carrot
+[15:57:20] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Carrot] to GatoDeNieve]
+[15:57:50] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:carrot 20
+[15:57:50] [Server thread/INFO]: [GatoDeNieve: Gave 20 [Carrot] to GatoDeNieve]
+[15:58:02] [Server thread/WARN]: GatoDeNieve moved too quickly! 3.897002683189335,0.0,9.740093847788273
+[15:58:02] [Server thread/WARN]: Jacqueline moved too quickly! 11.313331470627531,0.07840000152587834,-3.104175053332483
+[15:58:25] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[15:58:25] [Server thread/INFO]: Jacqueline left the game
+[15:59:59] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 256
+[15:59:59] [Server thread/INFO]: [GatoDeNieve: Gave 256 [Cobblestone] to GatoDeNieve]
