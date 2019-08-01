@@ -1,376 +1,164 @@
-[01:06:17] [User Authenticator #28/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[01:06:17] [Server thread/INFO]: aomali2[/187.189.187.177:17648] logged in with entity id 43647 at ([maincra-server]-63.26326604839254, 64.0, -251.5093584561746)
-[01:21:57] [Server thread/INFO]: aomali2 has made the advancement [Who's the Pillager Now?]
-[01:21:58] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[01:21:58] [Server thread/INFO]: aomali2 left the game
-[01:26:05] [User Authenticator #29/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[01:26:05] [Server thread/INFO]: aomali2[/187.189.187.177:17618] logged in with entity id 44333 at ([maincra-server]-118.30000001192093, 62.0, -201.65860793286788)
-[01:33:02] [Server thread/WARN]: aomali2 moved too quickly! 13.750170251941313,0.0,0.01675803065757009
-[01:51:17] [Async Chat Thread - #22/INFO]: <aomali2> magumbo[m
-[02:05:20] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[02:05:20] [Server thread/INFO]: aomali2 left the game
-[02:12:02] [User Authenticator #30/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[02:12:02] [Server thread/INFO]: Jacqueline[/187.188.76.120:21565] logged in with entity id 47104 at ([maincra-server]-76.6774265768843, 65.0, -232.77203025454722)
-[03:52:51] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[03:52:51] [Server thread/INFO]: Jacqueline left the game
-[03:56:34] [User Authenticator #31/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[03:56:34] [Server thread/INFO]: Jacqueline[/187.188.76.120:22100] logged in with entity id 51770 at ([maincra-server_nether]80.30000001192093, 76.0, 31.300000011920943)
-[04:20:32] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[04:20:32] [Server thread/INFO]: Jacqueline left the game
-[05:09:57] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[05:09:59] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[06:02:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[06:02:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[09:39:39] [User Authenticator #32/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
-[09:39:39] [Server thread/INFO]: Buster[/187.190.76.163:22446] logged in with entity id 52575 at ([maincra-server]462.62278199683175, 72.0, -370.64458217732084)
-[09:51:38] [User Authenticator #33/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
-[09:51:38] [Server thread/INFO]: Axfer06[/177.249.176.4:18910] logged in with entity id 53107 at ([maincra-server]451.06506327500273, 72.0, -373.3677977418891)
-[09:51:45] [Async Chat Thread - #23/INFO]: <Buster> hello there[m
-[09:51:47] [Async Chat Thread - #23/INFO]: <Buster> discord[m
-[09:51:54] [Server thread/INFO]: Axfer06 lost connection: Disconnected
-[09:51:54] [Server thread/INFO]: Axfer06 left the game
-[09:52:02] [User Authenticator #34/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
-[09:52:02] [Server thread/INFO]: Axfer06[/177.249.176.4:27145] logged in with entity id 53127 at ([maincra-server]451.06506327500273, 72.0, -373.3677977418891)
-[09:52:25] [Async Chat Thread - #23/INFO]: <Buster> discord[m
-[09:52:35] [Async Chat Thread - #23/INFO]: <Axfer06> ya estoy[m
-[10:40:20] [Server thread/INFO]: Buster lost connection: Disconnected
-[10:40:20] [Server thread/INFO]: Buster left the game
-[10:40:22] [Server thread/INFO]: Axfer06 lost connection: Disconnected
-[10:40:22] [Server thread/INFO]: Axfer06 left the game
-[11:16:09] [User Authenticator #35/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[11:16:09] [Server thread/INFO]: Jacqueline[/187.188.76.120:21883] logged in with entity id 55575 at ([maincra-server]-79.44769508024399, 65.0, -232.95875557254593)
-[11:53:02] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[11:53:02] [Server thread/INFO]: Jacqueline left the game
-[13:24:21] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[13:24:23] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[13:54:25] [User Authenticator #36/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[13:54:25] [Server thread/INFO]: Jacqueline[/187.188.76.120:22068] logged in with entity id 56524 at ([maincra-server]-75.56658211051095, 69.0, -241.045769509053)
-[14:54:58] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[14:54:58] [Server thread/INFO]: Jacqueline left the game
-[14:56:32] [User Authenticator #37/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[14:56:32] [Server thread/INFO]: aomali2[/187.189.187.177:17978] logged in with entity id 58485 at ([maincra-server]-54.507076174306675, 64.0, -190.35182887241433)
-[14:59:58] [Async Chat Thread - #24/INFO]: <aomali2> 2[m
-[15:00:03] [Async Chat Thread - #24/INFO]: <aomali2> magumbo[m
-[15:36:12] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[15:36:12] [Server thread/INFO]: aomali2 left the game
-[16:29:19] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[16:29:22] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[16:53:04] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[16:53:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[17:10:54] [User Authenticator #38/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
-[17:10:54] [Server thread/INFO]: magumboss[/201.175.203.253:12758] logged in with entity id 59651 at ([maincra-server]116.76956156521301, 80.0, -1.6364256453382244)
-[17:11:55] [User Authenticator #39/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[17:11:55] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:1556] logged in with entity id 59743 at ([maincra-server]-194.6468141110285, 71.5, -119.3211730082997)
-[17:16:06] [Server thread/INFO]: magumboss lost connection: Disconnected
-[17:16:06] [Server thread/INFO]: magumboss left the game
-[18:20:52] [Server thread/INFO]: GatoDeNieve has made the advancement [Cover Me With Diamonds]
-[18:40:29] [Server thread/INFO]: GatoDeNieve has made the advancement [Take Aim]
-[19:06:33] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[19:06:33] [Server thread/INFO]: GatoDeNieve left the game
-[20:08:17] [User Authenticator #40/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[20:08:17] [Server thread/INFO]: Jacqueline[/187.188.76.120:21717] logged in with entity id 66965 at ([maincra-server]-97.88507657508455, 69.0, -247.24661380801996)
-[20:32:41] [User Authenticator #41/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[20:32:41] [Server thread/INFO]: aomali2[/187.189.187.177:18026] logged in with entity id 67751 at ([maincra-server]-55.70974310405755, 64.0, -235.62932079199163)
-[20:33:06] [Async Chat Thread - #25/INFO]: <aomali2> alguien se a metdido a mi casa?[m
-[20:33:47] [Async Chat Thread - #25/INFO]: <Jacqueline> cuando estaba nadie se conecto[m
-[20:33:55] [Async Chat Thread - #25/INFO]: <aomali2> ok[m
-[20:34:49] [Async Chat Thread - #25/INFO]: <aomali2> te gusta mi casa? xd[m
-[20:35:23] [Async Chat Thread - #25/INFO]: <Jacqueline> esta bien[m
-[20:36:01] [Async Chat Thread - #25/INFO]: <aomali2> todo 100% copiado lo notaste?[m
-[20:36:17] [Async Chat Thread - #25/INFO]: <Jacqueline> si[m
-[20:36:29] [Async Chat Thread - #25/INFO]: <aomali2> de quien cres que selo copie ? xd[m
-[20:36:57] [Async Chat Thread - #25/INFO]: <Jacqueline> de mi[m
-[20:37:03] [Async Chat Thread - #25/INFO]: <aomali2> correcto xd[m
-[20:37:26] [Async Chat Thread - #25/INFO]: <aomali2> esque tu casa esta chida[m
-[20:47:31] [Async Chat Thread - #26/INFO]: <aomali2> que buena eres jaqui[m
-[20:49:02] [Async Chat Thread - #27/INFO]: <aomali2> porque no me cobraste xd[m
-[20:49:45] [Async Chat Thread - #27/INFO]: <Jacqueline> ahorita voy, tambien por los derechos de autor XD[m
-[20:50:00] [Async Chat Thread - #27/INFO]: <aomali2> como que por los derecgos de autor?[m
-[20:50:46] [Async Chat Thread - #27/INFO]: <Jacqueline> sii la 100% copia de casa XD[m
-[20:50:53] [Async Chat Thread - #27/INFO]: <aomali2> que mal xd[m
-[20:51:08] [Async Chat Thread - #27/INFO]: <aomali2> pero la rober 100% legalmente[m
-[20:56:54] [Async Chat Thread - #28/INFO]: <aomali2> bye xd[m
-[20:57:42] [Async Chat Thread - #28/INFO]: <aomali2> adios jaqui[m
-[20:58:02] [Async Chat Thread - #28/INFO]: <aomali2> adiositoo[m
-[20:58:03] [Async Chat Thread - #28/INFO]: <Jacqueline> ok bye, pero antes paga[m
-[20:58:14] [Async Chat Thread - #28/INFO]: <aomali2> paga que xd[m
-[20:58:25] [Async Chat Thread - #28/INFO]: <aomali2> ok era 1 verdad?[m
-[20:58:42] [Async Chat Thread - #28/INFO]: <Jacqueline> 3 por olvidadiso[m
-[20:58:45] [Async Chat Thread - #28/INFO]: <aomali2> mentira >:U[m
-[20:58:56] [Async Chat Thread - #28/INFO]: <aomali2> se desaparesio otro cofre[m
-[20:59:09] [Async Chat Thread - #28/INFO]: <aomali2> era el chido nel perro ya no juego mas[m
-[20:59:25] [Async Chat Thread - #28/INFO]: <aomali2> magumbo[m
-[20:59:34] [Async Chat Thread - #28/INFO]: <aomali2> escuchame[m
-[21:01:08] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:01:08] [Server thread/INFO]: aomali2 left the game
-[21:03:42] [User Authenticator #42/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[21:03:42] [Server thread/INFO]: aomali2[/187.189.187.177:17996] logged in with entity id 69383 at ([maincra-server]-193.2113672101019, 71.0, -124.10093766601364)
-[21:07:07] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:07:07] [Server thread/INFO]: aomali2 left the game
-[21:07:11] [User Authenticator #43/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[21:07:11] [Server thread/INFO]: aomali2[/187.189.187.177:18139] logged in with entity id 69522 at ([maincra-server]-52.615224137448735, 65.0, -259.7238499593937)
-[21:07:17] [Async Chat Thread - #29/INFO]: <aomali2> jaqui[m
-[21:07:29] [Async Chat Thread - #29/INFO]: <Jacqueline> mande[m
-[21:07:38] [Async Chat Thread - #29/INFO]: <aomali2> tienes obsidiana para pagarte?[m
-[21:08:00] [Async Chat Thread - #29/INFO]: <Jacqueline> no he juntado[m
-[21:08:14] [Async Chat Thread - #29/INFO]: <aomali2> a espera[m
-[21:08:26] [Async Chat Thread - #29/INFO]: <Jacqueline> pero serquita hay[m
-[21:08:45] [Async Chat Thread - #29/INFO]: <aomali2> no te preocupes ya lo resolbi[m
-[21:09:22] [Async Chat Thread - #29/INFO]: <aomali2> toma[m
-[21:09:50] [Async Chat Thread - #29/INFO]: <aomali2> los 2[m
-[21:09:53] [Async Chat Thread - #29/INFO]: <aomali2> bye[m
-[21:10:00] [Async Chat Thread - #29/INFO]: <Jacqueline> gracias bye[m
-[21:10:11] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:10:11] [Server thread/INFO]: aomali2 left the game
-[21:15:39] [User Authenticator #44/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[21:15:39] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17981] logged in with entity id 69655 at ([maincra-server_nether]-106.30000001192093, 86.0, 24.61402090070936)
-[21:17:58] [Async Chat Thread - #30/INFO]: <Jacqueline> hola amor[m
-[21:18:04] [Async Chat Thread - #30/INFO]: <PEPELOTAS> hola amor[m
-[21:19:19] [User Authenticator #45/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[21:19:19] [Server thread/INFO]: aomali2[/187.189.187.177:17587] logged in with entity id 70285 at ([maincra-server]-91.00390821177656, 69.0, -255.30000001192096)
-[21:21:47] [User Authenticator #46/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
-[21:21:47] [Server thread/INFO]: andres12234[/187.189.181.38:8608] logged in with entity id 70584 at ([maincra-server]30.942988948443123, 63.0, -85.1452974214709)
-[21:23:36] [Server thread/INFO]: andres12234 was slain by Zombie
-[21:23:43] [Async Chat Thread - #31/INFO]: <aomali2> :,C[m
-[21:24:02] [Async Chat Thread - #31/INFO]: <aomali2> andres quieres vivir conmigo mientras te haces una casa?[m
-[21:25:23] [Server thread/INFO]: Jacqueline has made the advancement [Ice Bucket Challenge]
-[21:25:31] [Server thread/INFO]: andres12234 was shot by Skeleton
-[21:26:19] [Async Chat Thread - #32/INFO]: <aomali2> si?[m
-[21:26:30] [Async Chat Thread - #32/INFO]: <andres12234> no deja lo hago asi[m
-[21:32:38] [Async Chat Thread - #33/INFO]: <andres12234> WTF que fue jajaja[m
-[21:33:28] [Async Chat Thread - #33/INFO]: <aomali2> fue asesinado por un(a) Zombi[m
-[21:37:21] [Async Chat Thread - #34/INFO]: <aomali2> jaja[m
-[21:42:59] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS que haces amor?
-[21:43:03] [Server thread/WARN]: PEPELOTAS moved too quickly! 9.79267798188593,0.0,-6.709141141619284
-[21:43:03] [Server thread/WARN]: aomali2 moved too quickly! 16.249012746137225,1.3015347236627832,-11.988421490665246
-[21:51:41] [Async Chat Thread - #35/INFO]: <PEPELOTAS> Como se susurra?[m
-[21:51:55] [Async Chat Thread - #35/INFO]: <Jacqueline> msg[m
-[21:54:54] [Async Chat Thread - #36/INFO]: <PEPELOTAS> msg Jacqueline probando[m
-[21:55:06] [Async Chat Thread - #36/INFO]: <andres12234> es con diagonal[m
-[21:55:43] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS /msg jaqui (mensaje)
-[21:58:02] [Server thread/WARN]: aomali2 moved too quickly! 8.832027329098054,2.176759275064242,5.8243763462024845
-[21:59:49] [Async Chat Thread - #37/INFO]: <PEPELOTAS> duermanse[m
-[22:00:01] [Async Chat Thread - #37/INFO]: <andres12234> no tengo cama la perdi :b[m
-[22:00:08] [Async Chat Thread - #37/INFO]: <aomali2> ven a mi casa[m
-[22:00:20] [Async Chat Thread - #37/INFO]: <Jacqueline> yo tengo muchas[m
-[22:00:31] [Server thread/INFO]: PEPELOTAS issued server command: /msg
-[22:00:36] [Async Chat Thread - #37/INFO]: <andres12234> cres que me puedas dar una??[m
-[22:00:55] [Async Chat Thread - #37/INFO]: <Jacqueline> si[m
-[22:01:23] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline hola mi vida
-[22:01:31] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS hola amor
-[22:01:57] [Async Chat Thread - #38/INFO]: <andres12234> en que parte estas para intentar ir :b es que aun no me se el mapa jaja[m
-[22:02:20] [Async Chat Thread - #38/INFO]: <aomali2> ven andres[m
-[22:02:27] [Async Chat Thread - #38/INFO]: <aomali2> estoi aqui[m
-[22:02:38] [Async Chat Thread - #38/INFO]: <andres12234> aqui donde??[m
-[22:02:39] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline estaba picando cuarzo
-[22:02:49] [Async Chat Thread - #38/INFO]: <aomali2> debajo de tu casa[m
-[22:03:04] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS hoo bueno yo solo pico un poco
-[22:03:14] [Async Chat Thread - #38/INFO]: <aomali2> aste cama para cuando se ocupe dormir ya no[m
-[22:03:16] [Async Chat Thread - #38/INFO]: <andres12234> y si mejor subes es que es mas complicado bajar que sibir[m
-[22:03:53] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS ya casi no hay cuarzo jeje
-[22:04:05] [Async Chat Thread - #38/INFO]: <Jacqueline> si encuentras mucho?[m
-[22:04:07] [Async Chat Thread - #38/INFO]: <PEPELOTAS> eso crees[m
-[22:05:05] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS bueno yo casi no encuentro y no me quiero alejar tanto que me pierdo
-[22:05:17] [Async Chat Thread - #39/INFO]: <andres12234> DEJA BAJO[m
-[22:05:51] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS casi no ocupo por el momento
-[22:06:25] [Async Chat Thread - #40/INFO]: <andres12234> donde estas??[m
-[22:13:23] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline tu te pillaste un cofre ender?
-[22:14:19] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS no he pillado nada de cofres
-[22:15:28] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS se te desaparecio algo?
-[22:15:53] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS tengo la teoria que tienen algun error los cofres ender
-[22:16:05] [Async Chat Thread - #41/INFO]: <PEPELOTAS> por?[m
-[22:17:08] [Async Chat Thread - #42/INFO]: <PEPELOTAS> a dormir[m
-[22:17:18] [Async Chat Thread - #42/INFO]: <andres12234> SIGO SIN CAma[m
-[22:17:18] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS a tu sobrino se le desaparecieron cosas del cofre
-[22:17:26] [Async Chat Thread - #42/INFO]: <aomali2> desconectate y conectate porfa[m
-[22:17:36] [Async Chat Thread - #42/INFO]: <andres12234> esperen[m
-[22:17:37] [Async Chat Thread - #42/INFO]: <aomali2> ta momir[m
-[22:17:41] [Async Chat Thread - #42/INFO]: <aomali2> a momor[m
-[22:17:53] [Server thread/INFO]: andres12234 lost connection: Disconnected
-[22:17:53] [Server thread/INFO]: andres12234 left the game
-[22:18:22] [User Authenticator #47/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
-[22:18:22] [Server thread/INFO]: andres12234[/187.189.181.38:8195] logged in with entity id 78515 at ([maincra-server]-7.477601443133619, 84.0, -71.73396702433544)
-[22:18:26] [Async Chat Thread - #42/INFO]: <PEPELOTAS> perdon amor xD[m
-[22:21:02] [Server thread/INFO]: andres12234 issued server command: /msg P
-[22:21:57] [Server thread/INFO]: andres12234 issued server command: /msg PEPELOTAS tienes un valde que me prestes o me vendas para poder hacer la subida y bajada a mi casa
-[22:22:16] [Async Chat Thread - #43/INFO]: <PEPELOTAS> si[m
-[22:22:48] [Async Chat Thread - #43/INFO]: <andres12234> mmmmmmmm[m
-[22:23:06] [Async Chat Thread - #43/INFO]: <aomali2> toma tu madera[m
-[22:23:13] [Async Chat Thread - #43/INFO]: <aomali2> y me das el cofre porfa?[m
-[22:25:41] [Server thread/INFO]: andres12234 issued server command: /msg PEPELOTAS donde estas para ir
-[22:25:51] [Async Chat Thread - #44/INFO]: <PEPELOTAS> en el edificio grande[m
-[22:27:06] [Server thread/INFO]: aomali2 issued server command: /msg jacqueline andres te ayuda?
-[22:27:19] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS puede q se desaparescan si otra persona lo abre o tiene un cofre
-[22:27:41] [Server thread/INFO]: andres12234 issued server command: /msg PEPELOTAS ya estoy en el blanco vdd
-[22:27:54] [Server thread/INFO]: aomali2 issued server command: /msg jacqueline esque te deho un cofre
-[22:28:09] [Async Chat Thread - #45/INFO]: <aomali2> afuera de tu casa[m
-[22:28:20] [Async Chat Thread - #45/INFO]: <andres12234> que con mi casa[m
-[22:30:07] [Async Chat Thread - #46/INFO]: <aomali2> hola[m
-[22:30:16] [Async Chat Thread - #46/INFO]: <aomali2> saludame[m
-[22:31:41] [Server thread/INFO]: Jacqueline issued server command: /msg andres12234 quieres guerra???
-[22:31:41] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[22:31:41] [Server thread/INFO]: PEPELOTAS left the game
-[22:32:01] [Async Chat Thread - #47/INFO]: <andres12234> tienen comida que me den??[m
-[22:32:05] [Async Chat Thread - #47/INFO]: <aomali2> sip[m
-[22:32:13] [Async Chat Thread - #47/INFO]: <andres12234> no he encontrado ni unsolo animal jaja[m
-[22:32:22] [Async Chat Thread - #47/INFO]: <aomali2> los mataron recuerdas[m
-[22:32:27] [Async Chat Thread - #47/INFO]: <andres12234> a si[m
-[22:32:33] [User Authenticator #48/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:32:33] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18383] logged in with entity id 79166 at ([maincra-server]-32.529833179115116, 94.5, -210.09093096432343)
-[22:32:35] [Async Chat Thread - #47/INFO]: <aomali2> el magumbo con el guante de tanps[m
-[22:32:46] [Async Chat Thread - #47/INFO]: <andres12234> grax[m
-[22:33:20] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[22:33:20] [Server thread/INFO]: PEPELOTAS left the game
-[22:33:48] [User Authenticator #49/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:33:48] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18407] logged in with entity id 79199 at ([maincra-server]-32.20765842009876, 94.5, -209.3477219363965)
-[22:37:53] [Async Chat Thread - #48/INFO]: <aomali2> un zombie piso loque no debia[m
-[22:52:34] [Async Chat Thread - #49/INFO]: <andres12234> aiuda[m
-[22:52:55] [Async Chat Thread - #49/INFO]: <andres12234> cosas voladoras grices con azul acorralandome casa[m
-[22:53:13] [Async Chat Thread - #49/INFO]: <andres12234> bajan mucho ;([m
-[22:55:49] [Server thread/INFO]: andres12234 has made the advancement [Getting an Upgrade]
-[22:57:51] [Server thread/INFO]: andres12234 issued server command: /clear wather
-[22:59:28] [Async Chat Thread - #50/INFO]: <andres12234> aiuda[m
-[22:59:33] [Async Chat Thread - #50/INFO]: <andres12234> ahora son mas[m
-[22:59:40] [Async Chat Thread - #50/INFO]: <andres12234> esperen[m
-[22:59:41] [Async Chat Thread - #50/INFO]: <aomali2> eso pas si no duermes[m
-[23:00:02] [Async Chat Thread - #50/INFO]: <andres12234> ...[m
-[23:01:22] [Async Chat Thread - #51/INFO]: <aomali2> jaqui ven[m
-[23:01:30] [Async Chat Thread - #51/INFO]: <andres12234> donde??[m
-[23:01:35] [Async Chat Thread - #51/INFO]: <aomali2> jaqui[m
-[23:01:39] [Async Chat Thread - #51/INFO]: <aomali2> dije[m
-[23:01:43] [Async Chat Thread - #51/INFO]: <andres12234> donde es aqui[m
-[23:01:52] [Async Chat Thread - #51/INFO]: <aomali2> no[m
-[23:02:06] [Async Chat Thread - #51/INFO]: <andres12234> donde estas para ir[m
-[23:02:13] [Async Chat Thread - #51/INFO]: <andres12234> si es eso??[m
-[23:02:38] [Async Chat Thread - #51/INFO]: <aomali2> quien primero?[m
-[23:02:53] [Async Chat Thread - #51/INFO]: <andres12234> haber otra vez por que ya me confundi[m
-[23:03:00] [Async Chat Thread - #51/INFO]: <andres12234> empieza[m
-[23:03:02] [Async Chat Thread - #51/INFO]: <aomali2> pos despues[m
-[23:04:05] [Async Chat Thread - #52/INFO]: <andres12234> y si me salgo se duermen y entro??[m
-[23:04:15] [Async Chat Thread - #52/INFO]: <aomali2> no funsiona[m
-[23:04:20] [Async Chat Thread - #52/INFO]: <PEPELOTAS> tu tienes que dormir[m
-[23:04:30] [Async Chat Thread - #52/INFO]: <andres12234> m[m
-[23:04:30] [Async Chat Thread - #52/INFO]: <aomali2> a nosotros no nos atakan[m
-[23:05:15] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:05:15] [Server thread/INFO]: PEPELOTAS left the game
-[23:05:16] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > khe
-[23:05:16] [Async Chat Thread - #52/INFO]: <andres12234> si tienen una cama para mi voy lo mas raopido que puedo jaja[m
-[23:05:28] [Async Chat Thread - #52/INFO]: <aomali2> magumbo[m
-[23:05:34] [Async Chat Thread - #52/INFO]: <andres12234> que es eso[m
-[23:05:57] [Async Chat Thread - #52/INFO]: <aomali2> me desaparecen cosas dime que le `pasa al server y no no me las robaron dime[m
-[23:06:07] [User Authenticator #50/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:06:07] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18075] logged in with entity id 82996 at ([maincra-server]-26.198464125062184, 98.0, -201.90033120810938)
-[23:06:46] [Async Chat Thread - #52/INFO]: <aomali2> dime[m
-[23:07:04] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > las perdiste
-[23:07:08] [Async Chat Thread - #52/INFO]: <aomali2> no[m
-[23:07:16] [Async Chat Thread - #52/INFO]: <aomali2> desaparecen de mi cofre negro[m
-[23:07:23] [Async Chat Thread - #52/INFO]: <aomali2> de donde no se puede sacar nada[m
-[23:07:25] [Server thread/INFO]: Jacqueline issued server command: /msg aomali2 no he tomado nada ami tambien me desaparecen cosas
-[23:07:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > npi
-[23:07:43] [Async Chat Thread - #52/INFO]: <aomali2> tambien a jaqui le desaparecen[m
-[23:08:31] [Async Chat Thread - #52/INFO]: <aomali2> entonses que vas a hacer[m
-[23:08:47] [Async Chat Thread - #52/INFO]: <andres12234> tranqui[m
-[23:09:06] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:09:06] [Server thread/INFO]: PEPELOTAS left the game
-[23:09:10] [Server thread/INFO]: Jacqueline issued server command: /msg aomali2 nada se roban mi basura
-[23:09:19] [Async Chat Thread - #52/INFO]: <aomali2> quiero mis cosas[m
-[23:09:53] [Server thread/INFO]: aomali2 issued server command: /msg jacqueline pero a mi no me robaron algo simplie y no nomelas robaron
-[23:09:59] [User Authenticator #51/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:09:59] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18130] logged in with entity id 83167 at ([maincra-server]-26.435385341593705, 131.0, -202.1787797930581)
-[23:10:36] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:10:36] [Server thread/INFO]: aomali2 left the game
-[23:11:44] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:11:44] [Server thread/INFO]: PEPELOTAS left the game
-[23:12:13] [User Authenticator #52/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:12:13] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18175] logged in with entity id 83237 at ([maincra-server]-26.409496279839935, 146.5, -203.037931734238)
-[23:13:02] [User Authenticator #53/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:13:02] [Server thread/INFO]: aomali2[/187.189.187.177:18194] logged in with entity id 83344 at ([maincra-server]-60.8526477313862, 65.0, -258.6287903433789)
-[23:14:18] [Async Chat Thread - #53/INFO]: <andres12234> amikos tienen una cama que me den srry por ser yan pediche jaja[m
-[23:16:18] [Server thread/INFO]: Jacqueline issued server command: /msg aomali2 q haces?
-[23:19:55] [Async Chat Thread - #54/INFO]: <aomali2> hey[m
-[23:20:00] [Async Chat Thread - #54/INFO]: <andres12234> olo[m
-[23:20:03] [Async Chat Thread - #54/INFO]: <aomali2> propiedad privada[m
-[23:20:13] [Async Chat Thread - #54/INFO]: <aomali2> llene al cochinito si quiere minar[m
-[23:20:21] [Async Chat Thread - #54/INFO]: <andres12234> cual[m
-[23:20:29] [Async Chat Thread - #54/INFO]: <aomali2> con polvora esta bien[m
-[23:20:36] [Async Chat Thread - #54/INFO]: <aomali2> echeme[m
-[23:20:38] [Async Chat Thread - #54/INFO]: <andres12234> a por cierto que quieres por una cama[m
-[23:20:43] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:20:43] [Server thread/INFO]: PEPELOTAS left the game
-[23:20:48] [Async Chat Thread - #54/INFO]: <aomali2> no c dime tu que das[m
-[23:20:56] [Async Chat Thread - #54/INFO]: <andres12234> tengo pura madera[m
-[23:21:03] [Async Chat Thread - #54/INFO]: <andres12234> literal no tengo nada mas que eso[m
-[23:21:05] [Async Chat Thread - #54/INFO]: <aomali2> mm no me sirve[m
-[23:21:13] [Async Chat Thread - #54/INFO]: <aomali2> mina gratis[m
-[23:21:20] [Async Chat Thread - #54/INFO]: <andres12234> ;)[m
-[23:21:22] [Async Chat Thread - #54/INFO]: <aomali2> y te regalo la cama[m
-[23:21:26] [Async Chat Thread - #54/INFO]: <aomali2> ya vengo[m
-[23:21:27] [Async Chat Thread - #54/INFO]: <andres12234> grax[m
-[23:22:26] [Async Chat Thread - #54/INFO]: <andres12234> grax[m
-[23:23:00] [User Authenticator #54/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:23:01] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18305] logged in with entity id 84202 at ([maincra-server]-27.383395976487776, 132.0, -202.8958022626075)
-[23:24:53] [Async Chat Thread - #55/INFO]: <aomali2> andres ontas?[m
-[23:24:59] [Async Chat Thread - #55/INFO]: <andres12234> en mi casa[m
-[23:26:10] [Server thread/INFO]: Jacqueline issued server command: /msg aomali2 no te vez
-[23:26:21] [Server thread/INFO]: Jacqueline issued server command: /msg aomali2 se ve tu nombre
-[23:26:22] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:26:22] [Server thread/INFO]: PEPELOTAS left the game
-[23:26:32] [Server thread/INFO]: aomali2 issued server command: /msg Jacqueline gracias
-[23:26:32] [Async Chat Thread - #56/INFO]: <andres12234> que ocupas??[m
-[23:26:41] [Async Chat Thread - #56/INFO]: <aomali2> quien[m
-[23:26:43] [Async Chat Thread - #56/INFO]: <andres12234> ya hay forma de entrar a mi casa es por una cascada[m
-[23:26:51] [Async Chat Thread - #56/INFO]: <aomali2> ok[m
-[23:26:56] [Async Chat Thread - #56/INFO]: <andres12234> tu, es que me dijieste que en donde estaba[m
-[23:26:59] [User Authenticator #55/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:26:59] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18368] logged in with entity id 84673 at ([maincra-server]-27.296552307718354, 145.0, -202.90280013003456)
-[23:27:11] [Async Chat Thread - #56/INFO]: <andres12234> que fue eso[m
-[23:27:14] [Async Chat Thread - #56/INFO]: <andres12234> ??[m
-[23:28:30] [Server thread/INFO]: andres12234 has made the advancement [Sweet Dreams]
-[23:28:40] [Async Chat Thread - #57/INFO]: <andres12234> duermance plox[m
-[23:29:11] [Async Chat Thread - #57/INFO]: <andres12234> no quiiero esas cosas otra vez jaja[m
-[23:29:41] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:29:41] [Server thread/INFO]: PEPELOTAS left the game
-[23:29:48] [Async Chat Thread - #57/INFO]: <aomali2> lag[m
-[23:29:51] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:29:51] [Server thread/INFO]: aomali2 left the game
-[23:29:52] [User Authenticator #56/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:29:53] [Server thread/INFO]: aomali2[/187.189.187.177:18419] logged in with entity id 84818 at ([maincra-server]-74.70000002533197, 64.0000002, -223.70000002533197)
-[23:30:05] [Async Chat Thread - #57/INFO]: <andres12234> duerme xfa[m
-[23:30:15] [User Authenticator #57/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:30:15] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18426] logged in with entity id 84831 at ([maincra-server]-25.382443612573365, 131.5, -197.99079706396083)
-[23:30:20] [Async Chat Thread - #57/INFO]: <andres12234> jaja es que ya escuche a los cosas esas[m
-[23:31:30] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[23:31:30] [Server thread/INFO]: Jacqueline left the game
-[23:31:39] [User Authenticator #58/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[23:31:39] [Server thread/INFO]: Jacqueline[/187.188.76.120:21672] logged in with entity id 84866 at ([maincra-server]-74.70000002533197, 64.01357301295272, -223.70000002533197)
-[23:37:06] [Async Chat Thread - #58/INFO]: <Jacqueline> que buscas?[m
-[23:37:09] [Async Chat Thread - #58/INFO]: <aomali2> xd[m
-[23:39:54] [Server thread/INFO]: andres12234 was blown up by Creeper
-[23:40:45] [Async Chat Thread - #59/INFO]: <aomali2> andres porque tienes un pico de diamante bueno tenias?[m
-[23:41:02] [Async Chat Thread - #59/INFO]: <andres12234> el mio es de piedra}[m
-[23:41:07] [Async Chat Thread - #59/INFO]: <aomali2> niño que rata que?[m
-[23:41:28] [Async Chat Thread - #59/INFO]: <aomali2> te vi uno de diamate[m
-[23:41:47] [Async Chat Thread - #59/INFO]: <andres12234> nop tengo una pala una espada y un hacha de diamante[m
-[23:41:59] [Async Chat Thread - #59/INFO]: <andres12234> por qu ela ultima vez que jugue me diste 6 diamantes[m
-[23:42:06] [Async Chat Thread - #59/INFO]: <andres12234> y es lo unico[m
-[23:42:12] [Async Chat Thread - #59/INFO]: <aomali2> aaaa si es sierto[m
-[23:42:31] [Async Chat Thread - #59/INFO]: <aomali2> si quieres diamante traeme polvora[m
-[23:42:43] [Async Chat Thread - #59/INFO]: <aomali2> cada 5 de polvora 1 diamate[m
-[23:51:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:55:33] [Async Chat Thread - #60/INFO]: <andres12234> sabes que la entrada esta aqui[m
-[23:55:45] [Async Chat Thread - #60/INFO]: <aomali2> pero no se pude con cavallo[m
-[23:55:56] [Async Chat Thread - #60/INFO]: <andres12234> pa que quieres caballoo en mi casa[m
-[23:56:09] [Async Chat Thread - #60/INFO]: <aomali2> porque soi la muertee[m
-[23:56:23] [Server thread/INFO]: andres12234 fell from a high place
-[23:56:31] [Async Chat Thread - #60/INFO]: <aomali2> la muerte[m
-[23:56:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:57:04] [Async Chat Thread - #60/INFO]: <aomali2> si estoi serca alguien muere[m
-[23:57:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:57:20] [Async Chat Thread - #60/INFO]: <aomali2> nooo[m
-[23:57:23] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:57:30] [Async Chat Thread - #60/INFO]: <andres12234> vas a seguir molestando[m
-[23:57:32] [Async Chat Thread - #60/INFO]: <andres12234> jsjs[m
-[23:57:41] [Async Chat Thread - #60/INFO]: <andres12234> por que la mjkuerte aqui soy yo[m
-[23:57:43] [Async Chat Thread - #60/INFO]: <aomali2> moriras de nuevo telo aseguro[m
-[23:57:45] [Async Chat Thread - #60/INFO]: <andres12234> :VV[m
-[23:57:50] [Async Chat Thread - #60/INFO]: <aomali2> soi la muerte >:U[m
+[00:00:08] [Async Chat Thread - #61/INFO]: <andres12234> que agarras[m
+[00:00:14] [Async Chat Thread - #61/INFO]: <aomali2> tu vida[m
+[00:01:03] [Async Chat Thread - #61/INFO]: <andres12234> sabes que ya[m
+[00:01:12] [Async Chat Thread - #61/INFO]: <aomali2> ?[m
+[00:01:14] [Async Chat Thread - #61/INFO]: <andres12234> luego chillas por que no juegan con tigo[m
+[00:01:22] [Async Chat Thread - #61/INFO]: <aomali2> :/[m
+[00:02:12] [Async Chat Thread - #61/INFO]: <aomali2> andres mirame[m
+[00:02:32] [Async Chat Thread - #61/INFO]: <andres12234> mi casa[m
+[00:02:34] [Async Chat Thread - #61/INFO]: <aomali2> aaa me mate[m
+[00:02:40] [Async Chat Thread - #61/INFO]: <andres12234> mentira[m
+[00:05:46] [Server thread/INFO]: andres12234 fell from a high place
+[00:05:52] [Async Chat Thread - #62/INFO]: <aomali2> :/[m
+[00:05:55] [Async Chat Thread - #62/INFO]: <andres12234> YA VETE[m
+[00:05:57] [Async Chat Thread - #62/INFO]: <aomali2> yo no hice nada[m
+[00:06:03] [Async Chat Thread - #62/INFO]: <aomali2> te caiste por verme[m
+[00:06:17] [Async Chat Thread - #62/INFO]: <andres12234> ´por intentar arregral tu desastre[m
+[00:08:22] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:11:01] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:11:01] [Server thread/INFO]: PEPELOTAS left the game
+[00:11:24] [User Authenticator #59/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:11:24] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17525] logged in with entity id 92444 at ([maincra-server]-36.54325545589024, 132.0, -206.877988868164)
+[00:12:09] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:12:09] [Server thread/INFO]: PEPELOTAS left the game
+[00:12:45] [User Authenticator #60/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:12:45] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17586] logged in with entity id 92482 at ([maincra-server]-30.600293485237632, 133.0, -207.68049069567437)
+[00:12:53] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:12:53] [Server thread/INFO]: PEPELOTAS left the game
+[00:13:16] [User Authenticator #61/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:13:17] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17596] logged in with entity id 92513 at ([maincra-server]-33.91357486856443, 133.0, -207.85865812874997)
+[00:16:48] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:16:48] [Server thread/INFO]: PEPELOTAS left the game
+[00:17:20] [User Authenticator #62/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:17:20] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17698] logged in with entity id 93129 at ([maincra-server]-30.86318240643395, 140.0, -207.35010052042813)
+[00:17:44] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:17:44] [Server thread/INFO]: PEPELOTAS left the game
+[00:18:26] [User Authenticator #63/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:18:26] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17708] logged in with entity id 93186 at ([maincra-server]-28.54306677911821, 140.5, -207.66625977418738)
+[00:27:36] [Server thread/INFO]: aomali2 lost connection: Timed out
+[00:27:36] [Server thread/INFO]: aomali2 left the game
+[00:27:39] [User Authenticator #64/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[00:27:39] [Server thread/INFO]: aomali2[/187.189.187.177:17891] logged in with entity id 93979 at ([maincra-server]-76.58205331133779, 69.0, -239.92535548805273)
+[00:27:42] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[00:27:42] [Server thread/INFO]: aomali2 left the game
+[00:30:05] [User Authenticator #65/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[00:30:05] [Server thread/INFO]: aomali2[/187.189.187.177:18079] logged in with entity id 94157 at ([maincra-server]-76.58205331133779, 69.0, -239.92535548805273)
+[00:36:14] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:36:14] [Server thread/INFO]: PEPELOTAS left the game
+[00:36:18] [Async Chat Thread - #63/INFO]: <aomali2> hola vine bolando[m
+[00:36:23] [Async Chat Thread - #63/INFO]: <andres12234> OK[m
+[00:36:56] [User Authenticator #66/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:36:56] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18420] logged in with entity id 94718 at ([maincra-server]-35.617511018890035, 143.0, -205.21198829904287)
+[00:42:18] [Async Chat Thread - #64/INFO]: <aomali2> que hace[m
+[00:42:29] [Async Chat Thread - #64/INFO]: <andres12234> buscando semillas y calamares[m
+[00:42:43] [Server thread/INFO]: andres12234 was shot by Skeleton
+[00:42:46] [Async Chat Thread - #64/INFO]: <aomali2> para que calamares?[m
+[00:43:15] [Async Chat Thread - #64/INFO]: <aomali2> toma[m
+[00:43:23] [Async Chat Thread - #64/INFO]: <aomali2> tengo to[m
+[00:43:41] [Async Chat Thread - #64/INFO]: <andres12234> los calamares para hacer colorante negro y pintar las ventanas[m
+[00:43:51] [Async Chat Thread - #64/INFO]: <aomali2> que mas tenias?[m
+[00:44:00] [Async Chat Thread - #64/INFO]: <andres12234> me faltan cosas[m
+[00:44:02] [Async Chat Thread - #64/INFO]: <aomali2> a toma[m
+[00:44:29] [Async Chat Thread - #64/INFO]: <aomali2> ven tengo muchos colores para pintar ven[m
+[00:44:45] [Async Chat Thread - #64/INFO]: <aomali2> sube[m
+[00:45:29] [Async Chat Thread - #64/INFO]: <aomali2> que color quieres?[m
+[00:45:33] [Async Chat Thread - #64/INFO]: <andres12234> negro[m
+[00:45:34] [Async Chat Thread - #64/INFO]: <aomali2> tengo muchos[m
+[00:45:52] [Async Chat Thread - #64/INFO]: <aomali2> solo negro?[m
+[00:45:58] [Async Chat Thread - #64/INFO]: <andres12234> sip gracias[m
+[00:45:59] [Async Chat Thread - #64/INFO]: <aomali2> no quieres otros?[m
+[00:46:03] [Async Chat Thread - #64/INFO]: <andres12234> nop[m
+[00:46:06] [Async Chat Thread - #64/INFO]: <aomali2> ok[m
+[00:46:10] [Async Chat Thread - #64/INFO]: <andres12234> ty[m
+[00:49:22] [Async Chat Thread - #65/INFO]: <andres12234> encontre un pirata o eso creo[m
+[00:49:31] [Async Chat Thread - #65/INFO]: <aomali2> dondeee[m
+[00:49:33] [Async Chat Thread - #65/INFO]: <andres12234> es que dice ar y lanza flechas[m
+[00:49:38] [Async Chat Thread - #65/INFO]: <andres12234> al lado de mi casa[m
+[00:49:42] [Async Chat Thread - #65/INFO]: <aomali2> xd[m
+[00:49:52] [Async Chat Thread - #65/INFO]: <aomali2> ya voi son ladrones te quitan cosas[m
+[00:50:21] [Async Chat Thread - #65/INFO]: <aomali2> donde estas[m
+[00:50:24] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[00:50:24] [Server thread/INFO]: Jacqueline left the game
+[00:50:31] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:50:31] [Server thread/INFO]: PEPELOTAS left the game
+[00:50:34] [Async Chat Thread - #65/INFO]: <andres12234> en mi casa en que esa cosa si me mataba[m
+[00:50:54] [Async Chat Thread - #65/INFO]: <aomali2> lebantate[m
+[00:51:02] [Async Chat Thread - #65/INFO]: <aomali2> donde esta[m
+[00:51:07] [Async Chat Thread - #65/INFO]: <andres12234> ven[m
+[00:51:15] [Async Chat Thread - #65/INFO]: <andres12234> ahi derecho[m
+[00:51:25] [Async Chat Thread - #65/INFO]: <andres12234> en donde estanm los arboles blancos[m
+[00:51:33] [Async Chat Thread - #65/INFO]: <aomali2> ya lo vi[m
+[00:52:00] [Async Chat Thread - #65/INFO]: <aomali2> ya lo mate[m
+[00:52:31] [Async Chat Thread - #65/INFO]: <aomali2> me dio esto[m
+[00:52:38] [Async Chat Thread - #65/INFO]: <aomali2> todo tullo[m
+[00:52:44] [Async Chat Thread - #65/INFO]: <andres12234> seguro[m
+[00:52:46] [Async Chat Thread - #65/INFO]: <andres12234> ??[m
+[00:52:46] [Async Chat Thread - #65/INFO]: <aomali2> ponlo[m
+[00:52:53] [Async Chat Thread - #65/INFO]: <aomali2> si tengo muchos de esos[m
+[00:53:06] [Async Chat Thread - #65/INFO]: <aomali2> pero como yo lo mate me puso a miiii maldicion[m
+[00:53:13] [Async Chat Thread - #65/INFO]: <aomali2> asique estas seguro[m
+[00:53:53] [Async Chat Thread - #65/INFO]: <aomali2> off cuantas armaduras[m
+[00:53:59] [Async Chat Thread - #65/INFO]: <andres12234> lo se[m
+[00:54:01] [Async Chat Thread - #65/INFO]: <andres12234> jaja[m
+[00:54:19] [Async Chat Thread - #65/INFO]: <aomali2> te voi a traer unas que me dio un zombie xd asta esta echisada[m
+[00:54:35] [Async Chat Thread - #65/INFO]: <andres12234> oka[m
+[00:55:44] [Async Chat Thread - #66/INFO]: <aomali2> andres a momir[m
+[00:55:58] [Async Chat Thread - #66/INFO]: <andres12234> ya[m
+[00:56:16] [User Authenticator #67/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:56:17] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17967] logged in with entity id 95611 at ([maincra-server]-35.443626149963585, 146.5, -204.23650962131143)
+[00:56:50] [Async Chat Thread - #66/INFO]: <andres12234> saben donde hay arboles normales[m
+[00:57:01] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:57:01] [Server thread/INFO]: PEPELOTAS left the game
+[00:57:56] [User Authenticator #68/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[00:57:56] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18055] logged in with entity id 95702 at ([maincra-server]-35.63262130551828, 146.5, -204.06893460005864)
+[00:58:24] [Server thread/WARN]: aomali2 was kicked for floating too long!
+[00:58:24] [Server thread/INFO]: aomali2 lost connection: Flying is not enabled on this server
+[00:58:24] [Server thread/INFO]: aomali2 left the game
+[00:58:30] [User Authenticator #69/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[00:58:30] [Server thread/INFO]: aomali2[/187.189.187.177:18104] logged in with entity id 95773 at ([maincra-server]55.672849276058905, 67.93824823312094, -31.44239565929677)
+[01:00:16] [Async Chat Thread - #67/INFO]: <aomali2> andrss te traje un amigo[m
+[01:00:56] [Async Chat Thread - #67/INFO]: <andres12234> yo lo hago si quieres[m
+[01:01:02] [Async Chat Thread - #67/INFO]: <andres12234> pero esper[m
+[01:01:03] [Async Chat Thread - #67/INFO]: <aomali2> espera[m
+[01:01:14] [Async Chat Thread - #67/INFO]: <andres12234> no lo pongas quiero hacer un huerto de nieve[m
+[01:01:24] [Async Chat Thread - #67/INFO]: <andres12234> prestame eso para poder tener mucha niueve[m
+[01:01:24] [Async Chat Thread - #67/INFO]: <aomali2> voi a ayudar a mi tio[m
+[01:01:30] [Async Chat Thread - #67/INFO]: <andres12234> oca[m
+[01:13:30] [User Authenticator #70/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[01:13:30] [Server thread/INFO]: Jacqueline[/187.188.76.120:21690] logged in with entity id 96636 at ([maincra-server]-96.28811778853455, 74.0, -259.41768008692713)
+[01:13:51] [Server thread/INFO]: aomali2 has reached the goal [Hired Help]
+[01:15:11] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS ya terminaste tu rasca cielos?
+[01:15:40] [Server thread/INFO]: andres12234 hit the ground too hard
+[01:16:39] [Server thread/INFO]: andres12234 was shot by Skeleton
+[01:16:55] [Async Chat Thread - #68/INFO]: <PEPELOTAS> haste una armadura[m
+[01:18:05] [Async Chat Thread - #69/INFO]: <PEPELOTAS> tienen cuarzo?[m
+[01:18:18] [Async Chat Thread - #69/INFO]: <andres12234> SOLO TENGO MADERA jaja[m
+[01:18:18] [Async Chat Thread - #69/INFO]: <Jacqueline> solo 26[m
+[01:18:38] [Async Chat Thread - #69/INFO]: <PEPELOTAS> gracias[m
+[01:20:11] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[01:20:11] [Server thread/INFO]: aomali2 left the game
+[01:25:49] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[01:25:49] [Server thread/INFO]: PEPELOTAS left the game
+[01:26:36] [User Authenticator #71/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[01:26:36] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17676] logged in with entity id 97648 at ([maincra-server]-33.94998599803734, 65.0, -212.65416399913056)
+[01:31:01] [Async Chat Thread - #70/INFO]: <PEPELOTAS> pst[m
+[01:31:11] [Async Chat Thread - #70/INFO]: <PEPELOTAS> tienes poquito hierro amor?[m
+[01:31:25] [Async Chat Thread - #70/INFO]: <PEPELOTAS> uno[m
+[01:31:27] [Async Chat Thread - #70/INFO]: <Jacqueline> poquito voy por el[m
+[01:32:06] [Async Chat Thread - #70/INFO]: <PEPELOTAS> bueno 3 de hierro[m
+[01:32:33] [User Authenticator #72/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[01:32:33] [Server thread/INFO]: aomali2[/187.189.187.177:17909] logged in with entity id 97972 at ([maincra-server]-59.665407526665426, 64.0, -220.333120829668)
+[01:32:51] [Async Chat Thread - #70/INFO]: <PEPELOTAS> gracias[m
+[01:38:20] [Async Chat Thread - #71/INFO]: <andres12234> QUE HACE[m
+[01:38:46] [Async Chat Thread - #71/INFO]: <andres12234> por que hay un golem ?? aqui??[m
+[01:38:51] [Async Chat Thread - #71/INFO]: <aomali2> porque es mio[m
+[01:40:44] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[01:40:44] [Server thread/INFO]: andres12234 left the game
+[01:45:13] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[01:45:13] [Server thread/INFO]: PEPELOTAS left the game
+[01:45:15] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[01:45:15] [Server thread/INFO]: aomali2 left the game
+[01:59:31] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[01:59:31] [Server thread/INFO]: Jacqueline left the game
+[02:39:05] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[02:39:08] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
