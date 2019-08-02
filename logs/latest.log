@@ -12,3 +12,5 @@
 [01:40:00] [Server thread/INFO]: GatoDeNieve left the game
 [02:16:02] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [02:16:04] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[04:25:19] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[04:25:21] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
