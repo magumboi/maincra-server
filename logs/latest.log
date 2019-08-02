@@ -388,3 +388,344 @@
 [19:48:12] [Server thread/INFO]: [GatoDeNieve: Gave 1024 [Sand] to GatoDeNieve]
 [19:57:22] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:sand 1024
 [19:57:23] [Server thread/INFO]: [GatoDeNieve: Gave 1024 [Sand] to GatoDeNieve]
+[20:04:15] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 1
+[20:04:15] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Cobblestone] to GatoDeNieve]
+[20:08:34] [User Authenticator #91/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:08:35] [Server thread/INFO]: aomali2[/187.189.187.177:17800] logged in with entity id 133829 at ([maincra-server]-182.83083260237652, 60.0, -202.19469989297605)
+[20:10:42] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[20:10:42] [Server thread/INFO]: aomali2 left the game
+[20:11:15] [User Authenticator #92/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[20:11:15] [Server thread/INFO]: andres12234[/177.249.163.70:24767] logged in with entity id 133972 at ([maincra-server]-35.239910726401135, 42.0, -54.6999999880791)
+[20:13:44] [User Authenticator #93/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:13:44] [Server thread/INFO]: aomali2[/187.189.187.177:18062] logged in with entity id 134152 at ([maincra-server]-58.57669886854198, 65.0, -261.01139740068174)
+[20:15:53] [Async Chat Thread - #75/INFO]: <GatoDeNieve> que tal[m
+[20:16:00] [Async Chat Thread - #75/INFO]: <andres12234> olo[m
+[20:16:14] [Async Chat Thread - #75/INFO]: <GatoDeNieve> oye, no se si era tuyo un baul de ender en el edificio de apartamentos[m
+[20:16:19] [Async Chat Thread - #75/INFO]: <GatoDeNieve> lo había destruído pero ya te lo repuse[m
+[20:16:23] [Async Chat Thread - #75/INFO]: <aomali2> tu te llevaste mi cofre?[m
+[20:16:31] [Async Chat Thread - #75/INFO]: <GatoDeNieve> lo rompi por error[m
+[20:16:32] [Async Chat Thread - #75/INFO]: <aomali2> donde[m
+[20:16:34] [Async Chat Thread - #75/INFO]: <GatoDeNieve> no se si era ese mismo[m
+[20:16:41] [Async Chat Thread - #75/INFO]: <GatoDeNieve> en el primer piso del edificio de apartamentos[m
+[20:16:44] [Async Chat Thread - #75/INFO]: <aomali2> que haces en mi casa[m
+[20:16:45] [Async Chat Thread - #75/INFO]: <aomali2> ?[m
+[20:16:52] [Async Chat Thread - #75/INFO]: <aomali2> la tulla va hacer boom[m
+[20:16:55] [Async Chat Thread - #75/INFO]: <GatoDeNieve> en tu casa?[m
+[20:16:56] [Async Chat Thread - #75/INFO]: <GatoDeNieve> nada[m
+[20:17:23] [Async Chat Thread - #75/INFO]: <aomali2> rata[m
+[20:17:26] [Async Chat Thread - #75/INFO]: <GatoDeNieve> wat[m
+[20:17:32] [Async Chat Thread - #75/INFO]: <GatoDeNieve> tengo op[m
+[20:17:33] [Async Chat Thread - #75/INFO]: <aomali2> que haces en mi casa[m
+[20:17:34] [Async Chat Thread - #75/INFO]: <GatoDeNieve> no necesito robar[m
+[20:17:47] [Async Chat Thread - #75/INFO]: <aomali2> ok donde esta mi cofre[m
+[20:17:48] [Async Chat Thread - #75/INFO]: <GatoDeNieve> mira, ven[m
+[20:18:04] [Server thread/INFO]: GatoDeNieve issued server command: /tp aomali2
+[20:18:04] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to aomali2]
+[20:18:09] [Async Chat Thread - #75/INFO]: <aomali2> este es mio[m
+[20:18:15] [Async Chat Thread - #75/INFO]: <aomali2> dame el otro que rompiste[m
+[20:18:23] [Async Chat Thread - #75/INFO]: <GatoDeNieve> rompi uno en el edificio[m
+[20:18:33] [Async Chat Thread - #75/INFO]: <aomali2> cuando[m
+[20:18:39] [Async Chat Thread - #75/INFO]: <GatoDeNieve> antier o algo así[m
+[20:18:46] [Async Chat Thread - #75/INFO]: <GatoDeNieve> si me dices donde estaba puesto, y era ese, te doy dos[m
+[20:18:55] [Async Chat Thread - #75/INFO]: <aomali2> aqui[m
+[20:19:27] [Async Chat Thread - #75/INFO]: <aomali2> aqui[m
+[20:19:43] [Async Chat Thread - #75/INFO]: <GatoDeNieve> ese es el que volví a poner[m
+[20:20:11] [Async Chat Thread - #75/INFO]: <aomali2> pero porque te metes a casas ajenas[m
+[20:20:17] [Async Chat Thread - #75/INFO]: <aomali2> agenas[m
+[20:20:19] [Async Chat Thread - #75/INFO]: <GatoDeNieve> para verlas[m
+[20:20:30] [Async Chat Thread - #75/INFO]: <aomali2> mi cola ves raton[m
+[20:20:33] [Async Chat Thread - #75/INFO]: <GatoDeNieve> por cierto, hice una fundición comunitaria[m
+[20:20:39] [Async Chat Thread - #75/INFO]: <aomali2> de que[m
+[20:20:40] [Async Chat Thread - #75/INFO]: <GatoDeNieve> atrás de la casa de jaqueline[m
+[20:20:48] [Async Chat Thread - #75/INFO]: <GatoDeNieve> es para hacer vidrio, pero tambien piedra[m
+[20:20:49] [Async Chat Thread - #75/INFO]: <aomali2> haver[m
+[20:20:57] [Async Chat Thread - #75/INFO]: <GatoDeNieve> usala si quieres, nomas no destruyas nada[m
+[20:21:00] [Async Chat Thread - #75/INFO]: <GatoDeNieve> ni mezcles materiales[m
+[20:21:05] [Server thread/INFO]: GatoDeNieve issued server command: /tp aomali2
+[20:21:05] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to aomali2]
+[20:22:01] [Server thread/INFO]: GatoDeNieve issued server command: /tp aomali2
+[20:22:01] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to aomali2]
+[20:30:19] [Server thread/INFO]: andres12234 was blown up by Creeper
+[20:31:18] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:ender_chest
+[20:31:18] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Ender Chest] to GatoDeNieve]
+[20:32:43] [Server thread/INFO]: GatoDeNieve issued server command: /give aomali2 minecraft:ender_chest 2
+[20:32:43] [Server thread/INFO]: [GatoDeNieve: Gave 2 [Ender Chest] to aomali2]
+[20:32:57] [Async Chat Thread - #76/INFO]: <GatoDeNieve> te di dos baules de ender[m
+[20:33:04] [Async Chat Thread - #76/INFO]: <aomali2> OK GRACIAS[m
+[20:33:15] [Async Chat Thread - #76/INFO]: <GatoDeNieve> de nada[m
+[20:33:19] [Async Chat Thread - #76/INFO]: <GatoDeNieve> perdon por haberlo roto[m
+[20:34:10] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[20:34:10] [Server thread/INFO]: andres12234 left the game
+[20:36:28] [Async Chat Thread - #77/INFO]: <aomali2> tienes chetos?[m
+[20:36:35] [Async Chat Thread - #77/INFO]: <GatoDeNieve> soy admin[m
+[20:36:54] [Async Chat Thread - #77/INFO]: <aomali2> okei puedes hacer algo[m
+[20:37:00] [Async Chat Thread - #77/INFO]: <GatoDeNieve> depende[m
+[20:37:23] [Async Chat Thread - #77/INFO]: <aomali2> desirme que le pasa al server porque me desaparecioron cofres[m
+[20:37:31] [Async Chat Thread - #77/INFO]: <aomali2> del cofre negro[m
+[20:37:38] [Async Chat Thread - #77/INFO]: <GatoDeNieve> quien sabe[m
+[20:37:43] [Async Chat Thread - #77/INFO]: <GatoDeNieve> seguro fue un error[m
+[20:37:44] [Async Chat Thread - #77/INFO]: <aomali2> y me desparacen cosas de la mano[m
+[20:38:01] [Async Chat Thread - #77/INFO]: <GatoDeNieve> he estado jugando ayer y hoy y no me ha pasado[m
+[20:38:03] [Async Chat Thread - #77/INFO]: <aomali2> a pos ese error me deve muchas xosas >:U[m
+[20:38:13] [Async Chat Thread - #77/INFO]: <aomali2> no eso paso hace una semana[m
+[20:38:28] [Async Chat Thread - #77/INFO]: <GatoDeNieve> se actualizo el server a 1.14 y se cambiaron algunas cosas[m
+[20:38:40] [Async Chat Thread - #77/INFO]: <GatoDeNieve> a lo mejor por eso te faltan items, tambien a anaya se le desaparecieron algunas cosas[m
+[20:38:43] [Async Chat Thread - #77/INFO]: <GatoDeNieve> RIP[m
+[20:38:47] [Async Chat Thread - #77/INFO]: <aomali2> me desaparecio un tridente de la mano echisado me desparacerion 3 cofres llenos de cosas y las quiero >:U[m
+[20:39:00] [Async Chat Thread - #77/INFO]: <GatoDeNieve> ya fueron[m
+[20:39:06] [Async Chat Thread - #77/INFO]: <aomali2> que[m
+[20:39:13] [Async Chat Thread - #77/INFO]: <GatoDeNieve> que no se pueden restaurar[m
+[20:39:31] [Async Chat Thread - #77/INFO]: <aomali2> porqueria de server[m
+[20:39:35] [Async Chat Thread - #77/INFO]: <GatoDeNieve> jaja[m
+[20:39:42] [Async Chat Thread - #77/INFO]: <GatoDeNieve> es gratis, compa[m
+[20:39:43] [Async Chat Thread - #77/INFO]: <aomali2> bueno esta chido pero no los errores[m
+[20:39:49] [Async Chat Thread - #77/INFO]: <aomali2> que[m
+[20:40:03] [Async Chat Thread - #77/INFO]: <GatoDeNieve> el server, magumbo paga para hospedarlo[m
+[20:40:15] [Async Chat Thread - #77/INFO]: <aomali2> cuesta???[m
+[20:40:21] [Async Chat Thread - #77/INFO]: <GatoDeNieve> claro[m
+[20:40:39] [Async Chat Thread - #77/INFO]: <aomali2> pos no creo que este bien que selo den pero bien[m
+[20:40:55] [Async Chat Thread - #77/INFO]: <aomali2> no con sus bugs[m
+[20:41:07] [Async Chat Thread - #77/INFO]: <GatoDeNieve> fueron temporales, es un servidor privado[m
+[20:41:31] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si tienes mas problemas, trata de decirle a magumbo bien como pasan, cuando, con que items, y todo[m
+[20:41:39] [Async Chat Thread - #77/INFO]: <aomali2> fueron temporales pero eso me costo mucho a mi no c si a los demas tambien pero porlomenos ami si[m
+[20:41:50] [Async Chat Thread - #77/INFO]: <GatoDeNieve> ni modo[m
+[20:42:12] [Async Chat Thread - #77/INFO]: <aomali2> nanana[m
+[20:43:02] [Async Chat Thread - #77/INFO]: <GatoDeNieve> anaya perdio varios stacks de diamantes[m
+[20:43:14] [Async Chat Thread - #77/INFO]: <GatoDeNieve> o alex, mas bien[m
+[20:43:46] [Async Chat Thread - #77/INFO]: <aomali2> pues yo perdi mis stacks de diamantes mi armadura y mis eramientas[m
+[20:44:02] [Async Chat Thread - #77/INFO]: <GatoDeNieve> chale jaja[m
+[20:44:06] [Async Chat Thread - #77/INFO]: <GatoDeNieve> pero pues ni modo[m
+[20:44:15] [Async Chat Thread - #77/INFO]: <GatoDeNieve> son items que se perdieron para siempre[m
+[20:44:15] [Async Chat Thread - #77/INFO]: <aomali2> jaja nada[m
+[20:45:08] [Async Chat Thread - #77/INFO]: <aomali2> quien es jery[m
+[20:45:11] [Async Chat Thread - #77/INFO]: <GatoDeNieve> yo[m
+[20:45:11] [Async Chat Thread - #77/INFO]: <aomali2> jerry[m
+[20:45:22] [Async Chat Thread - #77/INFO]: <aomali2> a ok esque aqui esta un cofre tullo[m
+[20:45:28] [Async Chat Thread - #77/INFO]: <GatoDeNieve> el de vidrio no?[m
+[20:45:34] [Async Chat Thread - #77/INFO]: <aomali2> si[m
+[20:45:47] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si necesitas vidrio, puedes tomar el que quieras[m
+[20:45:50] [Async Chat Thread - #77/INFO]: <GatoDeNieve> pero solo esta ocasión[m
+[20:46:00] [Async Chat Thread - #77/INFO]: <aomali2> ok ven porfa[m
+[20:46:00] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si quieres llevate todo[m
+[20:46:06] [Server thread/INFO]: GatoDeNieve issued server command: /tp aomali2
+[20:46:06] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to aomali2]
+[20:46:10] [Async Chat Thread - #77/INFO]: <GatoDeNieve> aqui estoy[m
+[20:46:11] [Async Chat Thread - #77/INFO]: <aomali2> ven porfa no c como usar esto[m
+[20:46:18] [Async Chat Thread - #77/INFO]: <GatoDeNieve> te explico[m
+[20:46:26] [Async Chat Thread - #77/INFO]: <GatoDeNieve> primero tienes que apagar las palancas de los carritos[m
+[20:46:29] [Async Chat Thread - #77/INFO]: <GatoDeNieve> para que se detengan[m
+[20:46:43] [Async Chat Thread - #77/INFO]: <GatoDeNieve> luego, en el de arriba, pones lo que quieras fundir[m
+[20:46:43] [Async Chat Thread - #77/INFO]: <aomali2> :O[m
+[20:46:48] [Async Chat Thread - #77/INFO]: <aomali2> ok[m
+[20:46:51] [Async Chat Thread - #77/INFO]: <GatoDeNieve> y en el de abajo, pones carbón[m
+[20:46:53] [Async Chat Thread - #77/INFO]: <aomali2> aqui carbon?[m
+[20:46:58] [Async Chat Thread - #77/INFO]: <aomali2> ok[m
+[20:47:01] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si, lo más que puedas, pero no en bloques[m
+[20:47:04] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si no en bolitas[m
+[20:47:06] [Async Chat Thread - #77/INFO]: <aomali2> y despues donde sale todo[m
+[20:47:13] [Async Chat Thread - #77/INFO]: <GatoDeNieve> salen en los cofres de hasta abajo[m
+[20:47:22] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si te fijas, ahorita tienen vidrio[m
+[20:47:30] [Async Chat Thread - #77/INFO]: <aomali2> pero aaaaa ya entendi gracias[m
+[20:48:04] [Async Chat Thread - #77/INFO]: <aomali2> hoye[m
+[20:48:08] [Async Chat Thread - #77/INFO]: <GatoDeNieve> mande[m
+[20:48:16] [Async Chat Thread - #77/INFO]: <aomali2> ya viste el edificio blanco?[m
+[20:48:18] [Async Chat Thread - #77/INFO]: <GatoDeNieve> si[m
+[20:48:20] [Async Chat Thread - #77/INFO]: <GatoDeNieve> lo hiciste tu?[m
+[20:48:24] [Async Chat Thread - #77/INFO]: <aomali2> nesesito ayuda[m
+[20:48:31] [Async Chat Thread - #77/INFO]: <aomali2> yo y mi tio[m
+[20:48:38] [Async Chat Thread - #77/INFO]: <GatoDeNieve> esta bien chido[m
+[20:48:44] [Async Chat Thread - #77/INFO]: <GatoDeNieve> que necesitas?[m
+[20:48:51] [Async Chat Thread - #77/INFO]: <aomali2> tienes tinte negro para pintar todos los cristales porfa[m
+[20:49:01] [Async Chat Thread - #77/INFO]: <GatoDeNieve> ok[m
+[20:49:11] [Server thread/INFO]: GatoDeNieve issued server command: /give aomali2 minecraft:ink_sac 128
+[20:49:11] [Server thread/INFO]: [GatoDeNieve: Gave 128 [Ink Sac] to aomali2]
+[20:49:23] [Async Chat Thread - #77/INFO]: <aomali2> gracias[m
+[20:49:24] [Async Chat Thread - #77/INFO]: <GatoDeNieve> listo[m
+[20:49:39] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[20:49:39] [Server thread/INFO]: aomali2 left the game
+[20:52:39] [User Authenticator #94/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:52:39] [Server thread/INFO]: aomali2[/187.189.187.177:18356] logged in with entity id 138400 at ([maincra-server]-58.742475274700006, 65.0, -257.0885809146744)
+[20:52:47] [Async Chat Thread - #78/INFO]: <aomali2> perdon cracheo[m
+[20:54:07] [User Authenticator #95/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[20:54:07] [Server thread/INFO]: Jacqueline[/187.188.76.120:21761] logged in with entity id 138592 at ([maincra-server]-79.32516031419121, 65.0, -232.69999998807907)
+[20:57:24] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[20:57:24] [Server thread/INFO]: GatoDeNieve left the game
+[20:57:25] [User Authenticator #96/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[20:57:26] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8841] logged in with entity id 138931 at ([maincra-server]-203.4460973083003, 79.0, -85.37813985541858)
+[20:59:06] [Async Chat Thread - #79/INFO]: <aomali2> creo que me pase de carbon[m
+[20:59:11] [Async Chat Thread - #79/INFO]: <GatoDeNieve> no importa[m
+[20:59:20] [Async Chat Thread - #79/INFO]: <GatoDeNieve> conforme se va terminando el carbón, lo va tomando del carrito[m
+[20:59:33] [Async Chat Thread - #79/INFO]: <aomali2> porque puese loque me dio un stack de cadritos de carbon xd[m
+[20:59:53] [Async Chat Thread - #79/INFO]: <GatoDeNieve> como?[m
+[21:00:02] [Async Chat Thread - #79/INFO]: <aomali2> no puse los cuadritos sino el carbon que me dio los cuadros[m
+[21:00:14] [Async Chat Thread - #79/INFO]: <GatoDeNieve> ah, pues esos se ponen[m
+[21:00:20] [Async Chat Thread - #79/INFO]: <GatoDeNieve> si pones los cuadros completos, se desperdicia mucho[m
+[21:00:47] [Async Chat Thread - #79/INFO]: <GatoDeNieve> y si pones los carboncitos chicos, se aprovecha mejor[m
+[21:02:34] [Async Chat Thread - #80/INFO]: <aomali2> quien se metio a mi casa[m
+[21:02:41] [Async Chat Thread - #80/INFO]: <GatoDeNieve> ahorita?[m
+[21:02:45] [Async Chat Thread - #80/INFO]: <aomali2> si[m
+[21:02:52] [Async Chat Thread - #80/INFO]: <GatoDeNieve> a lo mejor jaqueline, yo ando lejos[m
+[21:02:56] [Async Chat Thread - #80/INFO]: <aomali2> estaba la puerta serrada[m
+[21:03:12] [Async Chat Thread - #80/INFO]: <aomali2> y como es de metal siempre esta abierta[m
+[21:07:21] [Async Chat Thread - #81/INFO]: <Jacqueline> me quede encerrada en el nether[m
+[21:07:27] [Async Chat Thread - #81/INFO]: <aomali2> xd[m
+[21:07:33] [Async Chat Thread - #81/INFO]: <aomali2> ya voi[m
+[21:07:44] [Server thread/INFO]: GatoDeNieve issued server command: /give Jacqueline flin
+[21:07:49] [Async Chat Thread - #81/INFO]: <aomali2> por cual te metiste?[m
+[21:07:50] [Server thread/INFO]: GatoDeNieve issued server command: /give Jacqueline minecraft:flint_and_steel
+[21:07:50] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Flint and Steel] to Jacqueline]
+[21:08:07] [Async Chat Thread - #81/INFO]: <Jacqueline> el q esta enfrente de tu casa[m
+[21:08:26] [Async Chat Thread - #81/INFO]: <Jacqueline> tengo un encendedor ntp[m
+[21:08:27] [Async Chat Thread - #81/INFO]: <aomali2> te refieres a mi portal privado?[m
+[21:08:37] [Async Chat Thread - #81/INFO]: <aomali2> que no lo deberian de tocar[m
+[21:08:40] [Async Chat Thread - #81/INFO]: <GatoDeNieve> jajaja[m
+[21:08:51] [Async Chat Thread - #81/INFO]: <aomali2> donde estas[m
+[21:09:02] [Async Chat Thread - #81/INFO]: <Jacqueline> si es tan privado porque esta afuera?[m
+[21:09:33] [Async Chat Thread - #81/INFO]: <GatoDeNieve> si alguien construye un portal en cualquier parte del mapa, a un radio de 1024 bloques, cuando regrese del nether va a salir por tu portal[m
+[21:09:42] [Async Chat Thread - #81/INFO]: <GatoDeNieve> se vinculan y son compartidos[m
+[21:09:55] [Async Chat Thread - #81/INFO]: <aomali2> no manches[m
+[21:09:56] [Async Chat Thread - #81/INFO]: <GatoDeNieve> si lo pones adentro de tu casa, la gente va a aparecer ahí por error[m
+[21:10:01] [Async Chat Thread - #81/INFO]: <GatoDeNieve> así que ten cuidado[m
+[21:10:01] [Async Chat Thread - #81/INFO]: <aomali2> bueno adios jaqui[m
+[21:10:39] [Server thread/INFO]: GatoDeNieve issued server command: /experience add GatoDeNieve 50 levels
+[21:10:39] [Server thread/INFO]: [GatoDeNieve: Gave 50 experience levels to GatoDeNieve]
+[21:11:26] [Async Chat Thread - #82/INFO]: <aomali2> gato[m
+[21:11:37] [Async Chat Thread - #82/INFO]: <GatoDeNieve> que onda[m
+[21:11:59] [Async Chat Thread - #82/INFO]: <aomali2> me puedes dar huevos de aldeanos para revivir la aldea de a un lado porfa[m
+[21:12:05] [Async Chat Thread - #82/INFO]: <GatoDeNieve> nop[m
+[21:12:10] [Async Chat Thread - #82/INFO]: <aomali2> o ponlos tu[m
+[21:12:15] [Async Chat Thread - #82/INFO]: <Jacqueline> transformalos[m
+[21:12:21] [Async Chat Thread - #82/INFO]: <aomali2> nel[m
+[21:12:23] [Async Chat Thread - #82/INFO]: <Jacqueline> los zombies[m
+[21:12:34] [Async Chat Thread - #82/INFO]: <aomali2> mm los pachis[m
+[21:12:41] [Async Chat Thread - #82/INFO]: <Jacqueline> yo aun no he tenido chanse[m
+[21:12:48] [Async Chat Thread - #82/INFO]: <aomali2> de que[m
+[21:12:57] [Async Chat Thread - #82/INFO]: <Jacqueline> de transformar aldeanos[m
+[21:13:05] [Async Chat Thread - #82/INFO]: <aomali2> pos yo si pero los mato[m
+[21:13:37] [Server thread/INFO]: GatoDeNieve issued server command: /experience add GatoDeNieve 50 levels
+[21:13:37] [Server thread/INFO]: [GatoDeNieve: Gave 50 experience levels to GatoDeNieve]
+[21:13:39] [Server thread/INFO]: GatoDeNieve issued server command: /experience add GatoDeNieve 50 levels
+[21:13:39] [Server thread/INFO]: [GatoDeNieve: Gave 50 experience levels to GatoDeNieve]
+[21:14:37] [Async Chat Thread - #83/INFO]: <Jacqueline> no los mates[m
+[21:15:50] [Async Chat Thread - #84/INFO]: <aomali2> me voi[m
+[21:16:05] [Async Chat Thread - #84/INFO]: <aomali2> y si los voi a seguir matando[m
+[21:16:07] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[21:16:07] [Server thread/INFO]: aomali2 left the game
+[21:16:27] [Async Chat Thread - #84/INFO]: <GatoDeNieve> que extraño muchacho[m
+[21:18:20] [Server thread/INFO]: GatoDeNieve has made the advancement [Fishy Business]
+[21:20:23] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:arrow 64
+[21:20:23] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Arrow] to GatoDeNieve]
+[21:33:02] [Server thread/WARN]: GatoDeNieve moved too quickly! -8.539377248035748,-2.7531999805212024,6.170596942977625
+[21:41:04] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:arrow 64
+[21:41:04] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Arrow] to GatoDeNieve]
+[21:44:51] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve flin
+[21:44:53] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:flint_and_steel
+[21:44:53] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Flint and Steel] to GatoDeNieve]
+[21:46:19] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[21:46:19] [Server thread/INFO]: GatoDeNieve left the game
+[23:18:54] [User Authenticator #97/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[23:18:54] [Server thread/INFO]: magumboss[/187.233.2.52:60464] logged in with entity id 147247 at ([maincra-server]106.74333904307532, 70.0, -12.984162501289896)
+[23:19:32] [Server thread/INFO]: magumboss issued server command: /gamemode creative magumboss
+[23:19:32] [Server thread/INFO]: [magumboss: Set own game mode to Creative Mode]
+[23:20:34] [User Authenticator #98/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[23:20:34] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:8639] logged in with entity id 147387 at ([maincra-server]-210.84681905247822, 72.0625, -107.33321378632193)
+[23:20:58] [Async Chat Thread - #85/INFO]: <magumboss> me voy media semana y ya tienen construida una civilizacion? xd[m
+[23:21:07] [Async Chat Thread - #85/INFO]: <GatoDeNieve> jaja[m
+[23:21:18] [Async Chat Thread - #85/INFO]: <Jacqueline> jaja si[m
+[23:22:05] [Async Chat Thread - #85/INFO]: <GatoDeNieve> cuanto tiempo dura el aggro de los pigmen?[m
+[23:22:15] [Async Chat Thread - #85/INFO]: <magumboss> segun yo es pa siempre[m
+[23:22:19] [Async Chat Thread - #85/INFO]: <GatoDeNieve> rip yo[m
+[23:23:02] [Server thread/WARN]: magumboss moved too quickly! -4.5394001424732835,0.0,-9.591561011436767
+[23:30:27] [Async Chat Thread - #86/INFO]: <GatoDeNieve> que pedo que pex[m
+[23:30:42] [Async Chat Thread - #86/INFO]: <GatoDeNieve> esos menes que jaja[m
+[23:30:47] [Async Chat Thread - #86/INFO]: <magumboss> wat[m
+[23:30:47] [Async Chat Thread - #86/INFO]: <GatoDeNieve> nooooooo[m
+[23:30:51] [Async Chat Thread - #86/INFO]: <magumboss> keseso[m
+[23:30:51] [Async Chat Thread - #86/INFO]: <GatoDeNieve> tengo bad omen[m
+[23:30:53] [Async Chat Thread - #86/INFO]: <GatoDeNieve> van a atacar[m
+[23:30:58] [Async Chat Thread - #86/INFO]: <magumboss> LOL[m
+[23:30:59] [Async Chat Thread - #86/INFO]: <GatoDeNieve> xD[m
+[23:31:13] [Async Chat Thread - #86/INFO]: <GatoDeNieve> wat[m
+[23:31:16] [Async Chat Thread - #86/INFO]: <GatoDeNieve> perdi el efecto de bad omen[m
+[23:31:19] [Async Chat Thread - #86/INFO]: <GatoDeNieve> wtf[m
+[23:31:26] [Async Chat Thread - #86/INFO]: <magumboss> ya te faltaba poquito[m
+[23:31:45] [Async Chat Thread - #86/INFO]: <GatoDeNieve> e we[m
+[23:31:50] [Async Chat Thread - #86/INFO]: <GatoDeNieve> alguien dinamitó la granja del ever[m
+[23:31:52] [Async Chat Thread - #86/INFO]: <magumboss> wat[m
+[23:31:59] [Async Chat Thread - #86/INFO]: <magumboss> si me dijo xd[m
+[23:32:20] [Async Chat Thread - #86/INFO]: <magumboss> quie fue xd[m
+[23:32:26] [Async Chat Thread - #86/INFO]: <GatoDeNieve> se me hace que el sobrino de anaya[m
+[23:32:31] [Async Chat Thread - #86/INFO]: <magumboss> LOL[m
+[23:32:34] [Async Chat Thread - #86/INFO]: <magumboss> ban[m
+[23:32:38] [Async Chat Thread - #86/INFO]: <GatoDeNieve> hace rato me dijo que porque le robaba xD[m
+[23:32:44] [Async Chat Thread - #86/INFO]: <GatoDeNieve> y me dijo que mi casa iba a hacer boom[m
+[23:32:45] [Async Chat Thread - #86/INFO]: <magumboss> que pedo XD[m
+[23:32:57] [Async Chat Thread - #86/INFO]: <GatoDeNieve> en su defensa, si le rompí un cofre de ender[m
+[23:33:06] [Async Chat Thread - #86/INFO]: <GatoDeNieve> pero lo repuse y le di otros dos[m
+[23:33:14] [Async Chat Thread - #86/INFO]: <GatoDeNieve> pero dice que han faltado cosas de su casa o sabe que[m
+[23:33:25] [Async Chat Thread - #86/INFO]: <magumboss> por eso me la estaba haciendo de pedo por sus cosas XD[m
+[23:33:38] [Async Chat Thread - #86/INFO]: <GatoDeNieve> dice que desaparecieron de dentro de los cofres de ender[m
+[23:33:44] [Async Chat Thread - #86/INFO]: <GatoDeNieve> pero esas madres son inrobables[m
+[23:33:52] [Async Chat Thread - #86/INFO]: <Jacqueline> XD[m
+[23:33:55] [Async Chat Thread - #86/INFO]: <GatoDeNieve> creo que fué por el cambio de versión, lo mismo que le pasó a anaya[m
+[23:34:03] [Async Chat Thread - #86/INFO]: <magumboss> simon[m
+[23:34:05] [Async Chat Thread - #86/INFO]: <GatoDeNieve> porque dice que fué hace una semana[m
+[23:34:09] [Async Chat Thread - #86/INFO]: <magumboss> ya no deberia pasar[m
+[23:35:11] [Async Chat Thread - #87/INFO]: <magumboss> quien hizo el edificio ? xd[m
+[23:35:17] [Async Chat Thread - #87/INFO]: <GatoDeNieve> anaya y el sobrino[m
+[23:35:21] [Async Chat Thread - #87/INFO]: <GatoDeNieve> a todo esto, como se llama?[m
+[23:35:27] [Async Chat Thread - #87/INFO]: <magumboss> npi[m
+[23:35:34] [Async Chat Thread - #87/INFO]: <GatoDeNieve> tu sabes, jaque[m
+[23:35:35] [Async Chat Thread - #87/INFO]: <GatoDeNieve> ?[m
+[23:35:47] [Async Chat Thread - #87/INFO]: <Jacqueline> residencia[m
+[23:35:52] [Async Chat Thread - #87/INFO]: <magumboss> khe[m
+[23:35:55] [Async Chat Thread - #87/INFO]: <GatoDeNieve> no, su sobrino[m
+[23:35:56] [Async Chat Thread - #87/INFO]: <GatoDeNieve> jajaja[m
+[23:36:06] [Async Chat Thread - #87/INFO]: <magumboss> cierto[m
+[23:36:09] [Async Chat Thread - #87/INFO]: <Jacqueline> que esta loco?[m
+[23:36:22] [Async Chat Thread - #87/INFO]: <magumboss> iba a instalar un plugin para delimitar residencias[m
+[23:36:38] [Async Chat Thread - #87/INFO]: <GatoDeNieve> pon el que es para reclamar chunks[m
+[23:37:02] [Async Chat Thread - #87/INFO]: <Jacqueline> hoo yaa no se empeze a construir y se me amontonaron XD[m
+[23:37:40] [Async Chat Thread - #87/INFO]: <GatoDeNieve> mmm, el de chunks tal vez no sirva para este server porque las construcciones de jaqueline, anaya y su sobrino están muy juntas[m
+[23:37:45] [Async Chat Thread - #87/INFO]: <GatoDeNieve> a menos que fueran chunks compartidos[m
+[23:38:49] [Async Chat Thread - #88/INFO]: <Jacqueline> no ay unos cubos que marcan los territorios?[m
+[23:41:18] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 1024
+[23:41:18] [Server thread/INFO]: [GatoDeNieve: Gave 1024 [Cobblestone] to GatoDeNieve]
+[23:43:19] [Async Chat Thread - #89/INFO]: <GatoDeNieve> we[m
+[23:43:22] [Async Chat Thread - #89/INFO]: <GatoDeNieve> esta pasando algo raro[m
+[23:43:32] [Async Chat Thread - #89/INFO]: <GatoDeNieve> me desaparecio de la mano una pica de diamante[m
+[23:43:38] [Async Chat Thread - #89/INFO]: <GatoDeNieve> y estaba casi nueva[m
+[23:44:10] [Async Chat Thread - #89/INFO]: <GatoDeNieve> wtf[m
+[23:44:51] [Async Chat Thread - #89/INFO]: <magumboss> como vergas paso eso xd[m
+[23:44:53] [Async Chat Thread - #89/INFO]: <GatoDeNieve> no se[m
+[23:45:03] [Async Chat Thread - #89/INFO]: <GatoDeNieve> hace rato tambien me dijo el sobrino que le pasaba eso[m
+[23:45:06] [Async Chat Thread - #89/INFO]: <GatoDeNieve> no le creí jaja[m
+[23:45:16] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > achinga
+[23:45:33] [Async Chat Thread - #89/INFO]: <Jacqueline> CUANDO SE TRAVA EL SERVER DESAPARECEN[m
+[23:45:58] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[23:45:58] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[23:46:11] [Async Chat Thread - #89/INFO]: <GatoDeNieve> me pase a modo creativo y apareció de nuevo[m
+[23:46:14] [Async Chat Thread - #89/INFO]: <GatoDeNieve> en el mismo slot y todo[m
+[23:46:22] [Async Chat Thread - #89/INFO]: <magumboss> mmmm[m
+[23:46:42] [Async Chat Thread - #89/INFO]: <magumboss> talves y desconectandote y volviendo a entrar[m
+[23:46:53] [Async Chat Thread - #89/INFO]: <Jacqueline> yo una vez estaba haciendo cuadros de cuarzo, en eso se trabo y se desaparecio todo mu cuarzo, y nunca mas lo vi[m
+[23:46:53] [Async Chat Thread - #89/INFO]: <GatoDeNieve> casi seguro que ha de ser un bug conocido[m
+[23:46:57] [Async Chat Thread - #89/INFO]: <GatoDeNieve> eso pasa seguido con los caballos[m
+[23:47:04] [Async Chat Thread - #89/INFO]: <magumboss> si we[m
+[23:47:06] [Async Chat Thread - #89/INFO]: <GatoDeNieve> te bajas y se vuelven invisibles para el jugador, no te puedes subir ni nada[m
+[23:47:09] [Async Chat Thread - #89/INFO]: <magumboss> y con los botes[m
+[23:47:22] [Async Chat Thread - #89/INFO]: <magumboss> te bajas y desaparecen[m
+[23:47:59] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[23:47:59] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[23:48:51] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[23:48:51] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[23:48:58] [Async Chat Thread - #90/INFO]: <magumboss> un motel[m
+[23:49:42] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[23:49:42] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[23:51:32] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[23:51:34] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[23:51:34] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[23:52:42] [Server thread/INFO]: magumboss lost connection: Disconnected
+[23:52:42] [Server thread/INFO]: magumboss left the game
+[23:59:56] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[23:59:56] [Server thread/INFO]: Jacqueline left the game
