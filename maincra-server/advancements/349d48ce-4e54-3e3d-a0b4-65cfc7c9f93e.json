@@ -542,6 +542,7 @@
       "minecraft:skeleton": "2019-07-27 18:21:10 -0500",
       "minecraft:spider": "2019-07-27 15:47:26 -0500",
       "minecraft:creeper": "2019-07-28 11:27:10 -0500",
+      "minecraft:husk": "2019-08-03 19:36:40 -0500",
       "minecraft:silverfish": "2019-08-02 09:55:35 -0500",
       "minecraft:zombie": "2019-07-27 23:07:18 -0500"
     },
@@ -2116,6 +2117,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-30 10:55:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2019-08-03 19:12:22 -0500"
     },
     "done": true
   },
