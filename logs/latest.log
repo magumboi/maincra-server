@@ -74,3 +74,297 @@
 [11:57:43] [Server thread/INFO]: Buster lost connection: Disconnected
 [11:57:43] [Server thread/INFO]: Buster left the game
 [11:57:49] [Server thread/INFO]: andres12234 was blown up by Creeper
+[12:22:47] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[12:22:47] [Server thread/INFO]: andres12234 left the game
+[12:44:55] [User Authenticator #150/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[12:44:55] [Server thread/INFO]: Jacqueline[/187.188.76.120:21556] logged in with entity id 201490 at ([maincra-server]-91.4698236432425, 69.0, -257.98329677560434)
+[13:42:12] [User Authenticator #151/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[13:42:12] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17593] logged in with entity id 203085 at ([maincra-server]-83.06941052748805, 81.25018270236957, -160.9566255644481)
+[13:44:09] [User Authenticator #152/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
+[13:44:09] [Server thread/INFO]: Buster[/187.190.76.163:22026] logged in with entity id 203134 at ([maincra-server]949.6491311004143, 25.0, -575.4272313922759)
+[13:44:55] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[13:44:55] [Server thread/INFO]: PEPELOTAS left the game
+[13:46:59] [User Authenticator #153/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[13:46:59] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17776] logged in with entity id 203610 at ([maincra-server]-91.5507155777676, 110.85358838394481, -133.64475663954644)
+[13:48:28] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[13:48:28] [Server thread/INFO]: PEPELOTAS left the game
+[13:49:07] [User Authenticator #154/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[13:49:07] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17873] logged in with entity id 203953 at ([maincra-server]-92.58236377306804, 110.1052373471524, -129.85438800845017)
+[13:50:25] [Server thread/INFO]: Buster lost connection: Timed out
+[13:50:25] [Server thread/INFO]: Buster left the game
+[13:50:40] [User Authenticator #155/INFO]: UUID of player Deliriousroom117 is 17b306ea-9ee9-3548-9180-126f35378904
+[13:50:40] [Server thread/INFO]: Deliriousroom117[/177.249.188.215:10534] logged in with entity id 209071 at ([maincra-server]344.299999974668, 69.0000002, -155.70000002533197)
+[13:50:46] [User Authenticator #156/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
+[13:50:47] [Server thread/INFO]: Buster[/187.190.76.163:22134] logged in with entity id 209144 at ([maincra-server]483.79249760219454, 71.0, -356.96925636481313)
+[13:51:47] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[13:51:47] [Server thread/INFO]: PEPELOTAS left the game
+[13:52:25] [User Authenticator #157/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[13:52:26] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17974] logged in with entity id 209371 at ([maincra-server]-94.72343213892304, 111.20297741725518, -125.2341593649108)
+[13:53:05] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[13:53:05] [Server thread/INFO]: PEPELOTAS left the game
+[13:53:27] [User Authenticator #158/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[13:53:27] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17988] logged in with entity id 209508 at ([maincra-server]-92.03036726054961, 112.69804343670216, -133.85909559389495)
+[14:02:28] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:02:28] [Server thread/INFO]: PEPELOTAS left the game
+[14:03:16] [User Authenticator #159/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:03:16] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18382] logged in with entity id 210079 at ([maincra-server]-77.1474823870573, 114.54019407297022, -125.98065713975663)
+[14:07:34] [Server thread/WARN]: Deliriousroom117 moved too quickly! -16.796269824496676,1.1661092609382138,-0.8081058746524832
+[14:07:48] [Server thread/WARN]: Deliriousroom117 moved too quickly! -15.205693249479566,2.495200877005928,-2.3521942978418338
+[14:07:53] [User Authenticator #160/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:07:54] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:53580] logged in with entity id 210295 at ([maincra-server]-173.0172327889145, 63.0, -156.91553925385776)
+[14:08:20] [Async Chat Thread - #131/INFO]: <Deliriousroom117> perro de atole[m
+[14:08:36] [Server thread/WARN]: Deliriousroom117 moved wrongly!
+[14:09:51] [Server thread/INFO]: Deliriousroom117 lost connection: Timed out
+[14:09:51] [Server thread/INFO]: Deliriousroom117 left the game
+[14:10:19] [User Authenticator #161/INFO]: UUID of player Deliriousroom117 is 17b306ea-9ee9-3548-9180-126f35378904
+[14:10:20] [Server thread/INFO]: Deliriousroom117[/177.249.188.215:65089] logged in with entity id 210476 at ([maincra-server]448.0174748791682, 68.0, -355.24300926565667)
+[14:12:59] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:12:59] [Server thread/INFO]: PEPELOTAS left the game
+[14:13:10] [Async Chat Thread - #132/INFO]: <Deliriousroom117> balones[m
+[14:13:24] [User Authenticator #162/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:13:24] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17752] logged in with entity id 210863 at ([maincra-server]-71.43337397753118, 115.0, -129.86657099174093)
+[14:13:50] [Server thread/INFO]: Deliriousroom117 lost connection: Disconnected
+[14:13:50] [Server thread/INFO]: Deliriousroom117 left the game
+[14:16:16] [Server thread/INFO]: GatoDeNieve has made the advancement [Spooky Scary Skeleton]
+[14:16:18] [Server thread/INFO]: GatoDeNieve has made the advancement [Withering Heights]
+[14:17:30] [Async Chat Thread - #133/INFO]: <GatoDeNieve> jajaja[m
+[14:17:44] [Async Chat Thread - #133/INFO]: <GatoDeNieve> holy shit[m
+[14:17:52] [Server thread/INFO]: Buster lost connection: Disconnected
+[14:17:52] [Server thread/INFO]: Buster left the game
+[14:18:35] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:18:35] [Server thread/INFO]: PEPELOTAS left the game
+[14:19:00] [Async Chat Thread - #134/INFO]: <Jacqueline> que?? nooo[m
+[14:19:31] [User Authenticator #163/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:19:31] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18007] logged in with entity id 211722 at ([maincra-server]-84.67256941175033, 122.9175930696707, -121.71721516796595)
+[14:20:37] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:20:37] [Server thread/INFO]: PEPELOTAS left the game
+[14:21:05] [User Authenticator #164/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:21:06] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18075] logged in with entity id 211830 at ([maincra-server]-87.76601317390299, 121.78053601495711, -113.89861027705348)
+[14:24:04] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:24:04] [Server thread/INFO]: PEPELOTAS left the game
+[14:24:14] [User Authenticator #165/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[14:24:15] [Server thread/INFO]: andres12234[/187.189.181.38:9019] logged in with entity id 211898 at ([maincra-server]-11.36502185253817, 89.0, -25.86250001192093)
+[14:24:16] [Server thread/INFO]: GatoDeNieve issued server command: /summon minecraft:horse
+[14:24:16] [Server thread/INFO]: [GatoDeNieve: Summoned new Horse]
+[14:24:20] [User Authenticator #166/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:24:20] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18145] logged in with entity id 211938 at ([maincra-server]-86.59071913350637, 122.79405104988078, -125.26114876728295)
+[14:24:51] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:24:51] [Server thread/INFO]: PEPELOTAS left the game
+[14:25:13] [User Authenticator #167/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:25:13] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18168] logged in with entity id 211963 at ([maincra-server]-85.91656481740661, 123.1715241314786, -131.41101551205577)
+[14:25:27] [Async Chat Thread - #135/INFO]: <andres12234> olo[m
+[14:25:30] [Async Chat Thread - #135/INFO]: <GatoDeNieve> que onda[m
+[14:28:18] [Async Chat Thread - #136/INFO]: <andres12234> QUE ES ESAestructura negra??}[m
+[14:29:57] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:29:57] [Server thread/INFO]: PEPELOTAS left the game
+[14:30:44] [User Authenticator #168/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:30:44] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18264] logged in with entity id 212216 at ([maincra-server]-83.26049766306873, 126.18525373659814, -124.55687726923372)
+[14:34:34] [Server thread/INFO]: andres12234 has made the advancement [Hot Stuff]
+[14:34:50] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:34:50] [Server thread/INFO]: PEPELOTAS left the game
+[14:35:19] [Server thread/INFO]: GatoDeNieve issued server command: /experience set GatoDeNieve 100 levels
+[14:35:19] [Server thread/INFO]: [GatoDeNieve: Set 100 experience levels on GatoDeNieve]
+[14:35:50] [Server thread/INFO]: GatoDeNieve issued server command: /experience set GatoDeNieve 100 levels
+[14:35:50] [Server thread/INFO]: [GatoDeNieve: Set 100 experience levels on GatoDeNieve]
+[14:35:59] [User Authenticator #169/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:36:00] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18373] logged in with entity id 212716 at ([maincra-server]-79.39507196420332, 133.1020824116275, -121.78583842563711)
+[14:37:44] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:37:44] [Server thread/INFO]: PEPELOTAS left the game
+[14:37:47] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[14:37:47] [Server thread/INFO]: Jacqueline left the game
+[14:38:18] [User Authenticator #170/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:38:18] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17417] logged in with entity id 212852 at ([maincra-server]-77.14367167647809, 134.14163189572008, -123.92639520880955)
+[14:38:36] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:38:36] [Server thread/INFO]: PEPELOTAS left the game
+[14:38:48] [User Authenticator #171/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:38:48] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17446] logged in with entity id 212879 at ([maincra-server]-75.17775110862509, 134.14985771462997, -120.69481859509199)
+[14:40:15] [User Authenticator #172/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[14:40:15] [Server thread/INFO]: Jacqueline[/187.188.76.120:22082] logged in with entity id 212936 at ([maincra-server]-92.04661408989101, 69.0, -258.3300922824286)
+[14:40:23] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[14:40:24] [Server thread/INFO]: Jacqueline left the game
+[14:40:26] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:40:26] [Server thread/INFO]: PEPELOTAS left the game
+[14:41:07] [User Authenticator #173/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:41:07] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17561] logged in with entity id 213024 at ([maincra-server]-81.06258185483979, 138.60433520940893, -118.82070507012418)
+[14:43:33] [User Authenticator #174/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[14:43:33] [Server thread/INFO]: aomali2[/187.189.187.177:17635] logged in with entity id 213222 at ([maincra-server]-27.757734791927643, 61.0, -186.51497558649123)
+[14:43:56] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[14:43:56] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[14:44:42] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[14:44:42] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[14:45:06] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[14:45:06] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[14:45:37] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:45:37] [Server thread/INFO]: GatoDeNieve left the game
+[14:45:38] [User Authenticator #175/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:45:39] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:53490] logged in with entity id 213351 at ([maincra-server]-206.05569353157355, 66.0, -164.30709505826064)
+[14:46:06] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[14:46:06] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[14:47:57] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:47:57] [Server thread/INFO]: PEPELOTAS left the game
+[14:48:50] [User Authenticator #176/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:48:50] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17828] logged in with entity id 213616 at ([maincra-server]-74.40558761005771, 164.42680463388314, -136.54149406419168)
+[14:49:30] [User Authenticator #177/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[14:49:30] [Server thread/INFO]: Jacqueline[/187.188.76.120:22128] logged in with entity id 213644 at ([maincra-server]-92.04661408989101, 69.0, -258.3300922824286)
+[14:50:47] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:50:47] [Server thread/INFO]: PEPELOTAS left the game
+[14:51:18] [User Authenticator #178/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:51:19] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17870] logged in with entity id 213893 at ([maincra-server]-76.7488238886314, 154.0674187506678, -129.55492233566758)
+[14:52:00] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[14:52:00] [Server thread/INFO]: PEPELOTAS left the game
+[14:52:21] [User Authenticator #179/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[14:52:22] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17898] logged in with entity id 214047 at ([maincra-server]-75.43495540754299, 161.1433331519925, -133.00828367349445)
+[14:55:07] [Async Chat Thread - #137/INFO]: <andres12234> amikos saben donde puedo conseguir una calabaza??[m
+[14:55:18] [Async Chat Thread - #137/INFO]: <GatoDeNieve> en la jungla[m
+[14:55:22] [Async Chat Thread - #137/INFO]: <GatoDeNieve> yo tengo semillas[m
+[14:55:41] [Server thread/INFO]: GatoDeNieve issued server command: /tp andres12234
+[14:55:41] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to andres12234]
+[14:55:42] [Async Chat Thread - #137/INFO]: <andres12234> con cara[m
+[14:55:48] [Async Chat Thread - #137/INFO]: <andres12234> ka[m
+[14:55:52] [Async Chat Thread - #137/INFO]: <andres12234> tp??[m
+[14:55:59] [Async Chat Thread - #137/INFO]: <GatoDeNieve> si[m
+[14:56:02] [Async Chat Thread - #137/INFO]: <andres12234> o[m
+[14:56:04] [Async Chat Thread - #137/INFO]: <GatoDeNieve> ahi te deje semillas[m
+[14:56:13] [Async Chat Thread - #137/INFO]: <GatoDeNieve> ahora como salgo jaja[m
+[14:56:21] [Async Chat Thread - #137/INFO]: <PEPELOTAS> hacia arriba[m
+[14:56:24] [Async Chat Thread - #137/INFO]: <andres12234> gracias[m
+[14:56:37] [Server thread/INFO]: GatoDeNieve issued server command: /tp
+[14:56:41] [Async Chat Thread - #137/INFO]: <aomali2> ya no dan chetos :U?[m
+[14:56:48] [Server thread/INFO]: GatoDeNieve issued server command: /tp 36.04 2 25.67 -46.00
+[14:56:53] [Async Chat Thread - #137/INFO]: <GatoDeNieve> no[m
+[14:56:59] [Async Chat Thread - #137/INFO]: <PEPELOTAS> solo usuarios vip[m
+[14:57:04] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
+[14:57:04] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
+[14:57:07] [Async Chat Thread - #137/INFO]: <aomali2> :,U[m
+[14:57:24] [Async Chat Thread - #137/INFO]: <aomali2> mi tio me dijo que si aller pero el no sabe dar permisos[m
+[14:57:34] [Async Chat Thread - #137/INFO]: <GatoDeNieve> xD[m
+[15:03:39] [Async Chat Thread - #138/INFO]: <aomali2> lag[m
+[15:03:58] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:03:58] [Server thread/INFO]: aomali2 left the game
+[15:03:59] [User Authenticator #180/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:04:00] [Server thread/INFO]: aomali2[/187.189.187.177:18132] logged in with entity id 215017 at ([maincra-server]63.447097443676185, 70.0, -0.5276064820941323)
+[15:04:20] [User Authenticator #181/INFO]: UUID of player Pinolito is 7344d90c-4675-3092-8241-0ad1ede80054
+[15:04:20] [Server thread/INFO]: Pinolito[/187.233.141.5:49331] logged in with entity id 215033 at ([maincra-server]-143.23215948706107, 65.0, -127.55134085879273)
+[15:04:30] [Server thread/INFO]: andres12234 has made the advancement [Voluntary Exile]
+[15:05:37] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS de que figura es tu edificio amor?
+[15:06:02] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline como?
+[15:06:30] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS es como una campana?
+[15:07:25] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS no le encuentro la forma, en que consepto se encuentra?
+[15:09:40] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline hasta que acabe amor
+[15:09:44] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:09:44] [Server thread/INFO]: PEPELOTAS left the game
+[15:10:09] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS bueno amor, ya la vere
+[15:11:39] [User Authenticator #182/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:11:39] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18361] logged in with entity id 215514 at ([maincra-server]-78.44563054926954, 168.11650136792815, -121.51819294174393)
+[15:11:48] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:11:48] [Server thread/INFO]: aomali2 left the game
+[15:11:49] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS bueno amor
+[15:11:53] [User Authenticator #183/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:11:53] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21523] logged in with entity id 215519 at ([maincra-server]81.5, 70.0, 7.5)
+[15:14:22] [Server thread/INFO]: Jacqueline has made the advancement [Voluntary Exile]
+[15:14:23] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[15:14:23] [Server thread/INFO]: Mike_YP_27 left the game
+[15:14:28] [User Authenticator #184/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:14:28] [Server thread/INFO]: aomali2[/187.189.187.177:17431] logged in with entity id 215618 at ([maincra-server]-57.56250737581213, 65.0, -211.13209065375594)
+[15:14:40] [User Authenticator #185/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:14:40] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21686] logged in with entity id 215633 at ([maincra-server]106.92259833471418, 78.0, -6.29489291636677)
+[15:15:09] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:15:09] [Server thread/INFO]: PEPELOTAS left the game
+[15:15:34] [Server thread/INFO]: Pinolito lost connection: Disconnected
+[15:15:34] [Server thread/INFO]: Pinolito left the game
+[15:15:43] [User Authenticator #186/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:15:43] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17448] logged in with entity id 215683 at ([maincra-server]-75.51522341219017, 167.0, -126.09373361353931)
+[15:16:39] [Async Chat Thread - #139/INFO]: <Mike_YP_27> ey[m
+[15:17:03] [Async Chat Thread - #139/INFO]: <Mike_YP_27> jaquii[m
+[15:17:15] [Async Chat Thread - #139/INFO]: <Jacqueline> mande[m
+[15:17:24] [Async Chat Thread - #139/INFO]: <Mike_YP_27> quien es[m
+[15:17:42] [Async Chat Thread - #139/INFO]: <Mike_YP_27> donde estas[m
+[15:17:51] [Async Chat Thread - #139/INFO]: <Mike_YP_27> jaqui[m
+[15:18:21] [Async Chat Thread - #139/INFO]: <Jacqueline> soy la novia de alejandro[m
+[15:18:26] [Async Chat Thread - #139/INFO]: <Jacqueline> en mi casa[m
+[15:18:44] [Async Chat Thread - #139/INFO]: <Mike_YP_27> y yo soy tu hermano[m
+[15:19:14] [Async Chat Thread - #139/INFO]: <Mike_YP_27> fgntfjrysjyt+[m
+[15:19:36] [Async Chat Thread - #139/INFO]: <aomali2> porque traes invacion jaqui?[m
+[15:19:42] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:19:42] [Server thread/INFO]: PEPELOTAS left the game
+[15:19:42] [Async Chat Thread - #139/INFO]: <andres12234> saben donde hay telaraña[m
+[15:19:59] [Async Chat Thread - #139/INFO]: <GatoDeNieve> en las minas que se generan en el subterraneo[m
+[15:20:13] [Async Chat Thread - #139/INFO]: <andres12234> donde esta eso :b[m
+[15:20:21] [Async Chat Thread - #139/INFO]: <GatoDeNieve> pues excavando encuentras[m
+[15:20:24] [Async Chat Thread - #139/INFO]: <GatoDeNieve> son aleatorias[m
+[15:20:50] [Async Chat Thread - #139/INFO]: <andres12234> raios a vcer si encuentro gracias[m
+[15:20:54] [Async Chat Thread - #139/INFO]: <GatoDeNieve> de nada[m
+[15:21:12] [User Authenticator #187/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:21:12] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17524] logged in with entity id 215950 at ([maincra-server]-80.73126025097106, 171.39212875854932, -123.59676756913478)
+[15:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[15:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[15:23:11] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:23:11] [Server thread/INFO]: PEPELOTAS left the game
+[15:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5662ms or 113 ticks behind
+[15:23:34] [User Authenticator #188/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:23:35] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17554] logged in with entity id 216231 at ([maincra-server]-93.32628851145849, 169.907054311046, -128.49090978426727)
+[15:24:32] [Server thread/INFO]: Mike_YP_27 has made the advancement [Suit Up]
+[15:29:48] [Server thread/INFO]: Jacqueline lost connection: Timed out
+[15:29:48] [Server thread/INFO]: Jacqueline left the game
+[15:30:40] [User Authenticator #189/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[15:30:40] [Server thread/INFO]: Jacqueline[/187.188.76.120:21977] logged in with entity id 217575 at ([maincra-server]-89.36986780149795, 88.0, -252.26922979799906)
+[15:33:28] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:33:28] [Server thread/INFO]: PEPELOTAS left the game
+[15:35:17] [User Authenticator #190/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:35:17] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17708] logged in with entity id 217742 at ([maincra-server]-75.60708553794079, 175.13244003510852, -122.4402820285352)
+[15:36:49] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:36:49] [Server thread/INFO]: PEPELOTAS left the game
+[15:37:11] [Async Chat Thread - #140/INFO]: <Jacqueline> no encuentro a los 2 asaltantes[m
+[15:37:19] [User Authenticator #191/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:37:19] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17731] logged in with entity id 217897 at ([maincra-server]-66.18036712138608, 172.51701414548873, -125.06950323641203)
+[15:37:47] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:37:47] [Server thread/INFO]: PEPELOTAS left the game
+[15:37:58] [Server thread/WARN]: Mike_YP_27 moved too quickly! 7.446727903868187,0.0,6.816159060586472
+[15:38:06] [Server thread/WARN]: Mike_YP_27 moved too quickly! 12.864967826146751,-1.7531999805212024,-11.907698341852665
+[15:38:10] [User Authenticator #192/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:38:11] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17745] logged in with entity id 217931 at ([maincra-server]-65.31422880351755, 173.65129189840414, -126.97804786159782)
+[15:38:17] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 andres te voi a desir unas cosas por aqui en secreto pon el /msg y mi nombre para responderme si?
+[15:38:34] [Async Chat Thread - #141/INFO]: <andres12234> tienen 6 de lana?? que me int6ercambien o me den[m
+[15:38:41] [Server thread/INFO]: aomali2 issued server command: /msg and
+[15:38:53] [Server thread/INFO]: aomali2 issued server command: /msg an
+[15:39:02] [Async Chat Thread - #141/INFO]: <andres12234> yo bien pediche jaja[m
+[15:39:04] [Async Chat Thread - #141/INFO]: <andres12234> srry[m
+[15:39:13] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 si?
+[15:39:18] [Async Chat Thread - #141/INFO]: <Mike_YP_27> te doy yo[m
+[15:39:27] [Async Chat Thread - #141/INFO]: <andres12234> donde te veo[m
+[15:40:20] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 mira te voi a desir unas cosas por el chat secreto
+[15:40:45] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 y quiero que respondas si o no en el chat
+[15:40:47] [Server thread/INFO]: andres12234 issued server command: /msg aomali2 ok
+[15:41:40] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 te sonara raro pero me puedo ir a vivir contigo esque me gusto tu casa y tambien te pudo ir ayudando que te parece?
+[15:42:18] [Server thread/INFO]: andres12234 issued server command: /msg aomali2 nada masconsigue material para hacerte tu espacio madera mas que nada
+[15:42:26] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:42:27] [Server thread/INFO]: PEPELOTAS left the game
+[15:42:34] [Server thread/INFO]: Mike_YP_27 has made the advancement [Monster Hunter]
+[15:42:43] [Async Chat Thread - #142/INFO]: <andres12234> mike en donde te veo jaja[m
+[15:42:48] [User Authenticator #193/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:42:48] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17826] logged in with entity id 218085 at ([maincra-server]-71.5682634182129, 174.02421461080695, -116.40129934311793)
+[15:42:55] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 si ya lo tengo resuelto pero me puedes poner un par de cofres porfa
+[15:43:18] [Server thread/INFO]: andres12234 issued server command: /msg aomali2 traime los materiales y lo hago
+[15:43:29] [Server thread/INFO]: andres12234 issued server command: /msg todo lo que quieras en tu cuarto traimelo
+[15:44:08] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 gracias creo que te escucho mi tio :)
+[15:44:32] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 solo por qui
+[15:44:43] [Server thread/INFO]: andres12234 issued server command: /msg aomali2 por que no querias que se enterara
+[15:45:31] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 porque quiero desaparecer voi a explotar mi casa segundos despues que me valla
+[15:45:49] [Server thread/INFO]: andres12234 issued server command: /msg aomali2 ka
+[15:46:07] [Server thread/INFO]: aomali2 issued server command: /msg andres12234 porque ka?
+[15:46:16] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[15:46:16] [Server thread/INFO]: andres12234 left the game
+[15:47:54] [Server thread/INFO]: Mike_YP_27 has made the advancement [Take Aim]
+[15:49:21] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[15:54:07] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[15:54:07] [Server thread/INFO]: Mike_YP_27 left the game
+[15:54:13] [User Authenticator #194/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:54:13] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22288] logged in with entity id 218863 at ([maincra-server]-64.77467120553698, 65.0, -175.3060554122235)
+[15:54:26] [Server thread/INFO]: Mike_YP_27 has made the advancement [The End?]
+[15:54:27] [Server thread/WARN]: Mike_YP_27 moved too quickly! 155.80954289508162,-16.121296840539202,199.8678316010854
+[15:54:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:54:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:55:34] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[15:55:34] [Server thread/INFO]: Mike_YP_27 left the game
+[15:59:33] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:59:33] [Server thread/INFO]: PEPELOTAS left the game

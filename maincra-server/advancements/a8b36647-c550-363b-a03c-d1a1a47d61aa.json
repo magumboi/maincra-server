@@ -636,11 +636,14 @@
       "minecraft:pillager": "2019-08-04 02:31:00 -0500",
       "minecraft:skeleton": "2019-07-21 13:53:01 -0500",
       "minecraft:zombie_pigman": "2019-08-01 17:47:01 -0500",
+      "minecraft:ravager": "2019-08-04 15:53:11 -0500",
       "minecraft:ghast": "2019-07-30 20:27:14 -0500",
+      "minecraft:vindicator": "2019-08-04 15:16:41 -0500",
       "minecraft:magma_cube": "2019-07-21 21:55:36 -0500",
       "minecraft:spider": "2019-07-20 00:05:50 -0500",
       "minecraft:creeper": "2019-07-20 00:06:46 -0500",
       "minecraft:phantom": "2019-07-21 17:08:10 -0500",
+      "minecraft:witch": "2019-08-04 15:47:38 -0500",
       "minecraft:wither_skeleton": "2019-07-30 20:40:43 -0500",
       "minecraft:husk": "2019-07-21 16:26:45 -0500",
       "minecraft:silverfish": "2019-07-21 19:35:08 -0500",
@@ -739,6 +742,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2019-07-21 16:09:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-08-04 15:14:22 -0500"
     },
     "done": true
   },
@@ -1870,6 +1879,7 @@
       "bread": "2019-07-21 15:41:45 -0500",
       "rotten_flesh": "2019-07-20 00:19:30 -0500",
       "suspicious_stew": "2019-07-21 17:30:25 -0500",
+      "cooked_chicken": "2019-08-04 15:27:20 -0500",
       "carrot": "2019-07-19 23:08:58 -0500"
     },
     "done": false
@@ -2991,10 +3001,12 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2019-08-04 15:35:52 -0500",
       "textures/entity/cat/black.png": "2019-08-04 03:09:41 -0500",
       "textures/entity/cat/jellie.png": "2019-08-04 02:35:49 -0500",
       "textures/entity/cat/siamese.png": "2019-08-04 03:31:40 -0500",
       "textures/entity/cat/ragdoll.png": "2019-08-04 02:35:23 -0500",
+      "textures/entity/cat/persian.png": "2019-08-04 15:36:42 -0500",
       "textures/entity/cat/red.png": "2019-08-04 03:31:06 -0500"
     },
     "done": false
