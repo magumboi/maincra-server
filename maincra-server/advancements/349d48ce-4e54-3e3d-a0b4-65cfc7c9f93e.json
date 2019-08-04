@@ -1054,6 +1054,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-08-03 20:54:18 -0500",
       "minecraft:forest": "2019-07-27 13:41:09 -0500",
       "minecraft:mountains": "2019-07-27 13:45:07 -0500",
       "minecraft:desert_hills": "2019-07-27 13:56:59 -0500",
@@ -1735,6 +1736,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2019-08-03 21:01:55 -0500",
       "minecraft:sheep": "2019-07-29 22:47:45 -0500",
       "minecraft:cow": "2019-07-30 09:45:00 -0500",
       "minecraft:chicken": "2019-07-29 22:55:12 -0500",
