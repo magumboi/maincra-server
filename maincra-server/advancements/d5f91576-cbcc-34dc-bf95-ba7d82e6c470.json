@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-07-20 20:05:51 -0500"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-07-17 22:48:59 -0500"
@@ -249,6 +261,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2019-07-17 22:42:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
@@ -333,6 +351,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2019-07-20 20:08:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
@@ -588,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-08-04 18:52:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2019-07-28 18:45:23 -0500"
@@ -669,6 +699,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2019-07-29 23:29:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-08-04 18:50:37 -0500"
     },
     "done": true
   },
@@ -1111,9 +1147,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-08-04 18:52:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-07-23 18:36:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-08-04 18:52:10 -0500"
     },
     "done": true
   },
@@ -1204,6 +1258,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2019-08-02 16:54:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-08-04 18:52:05 -0500"
     },
     "done": true
   },
@@ -1478,6 +1538,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-07-21 17:24:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
@@ -1799,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-04 19:46:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2019-08-02 18:14:21 -0500"
@@ -1868,6 +1940,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-07-18 23:36:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
@@ -2085,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2019-07-17 22:48:58 -0500"
@@ -2148,6 +2232,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-07-17 23:13:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-04 19:46:51 -0500"
     },
     "done": true
   },
@@ -2739,6 +2829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-07-17 23:09:41 -0500"
@@ -3129,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-04 18:53:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-07-20 00:13:44 -0500"
@@ -3198,6 +3300,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2019-08-02 17:02:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
@@ -3294,6 +3402,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2019-07-19 00:25:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-08-04 18:53:14 -0500"
     },
     "done": true
   },
