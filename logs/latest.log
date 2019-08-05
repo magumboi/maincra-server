@@ -110,3 +110,174 @@
 [04:59:58] [Server thread/INFO]: GatoDeNieve left the game
 [07:01:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [07:01:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[13:47:30] [JDA RateLimit-Worker 1/ERROR]: [DiscordSRV] [JDA] Requester timed out while executing a request
+java.net.SocketTimeoutException: timeout
+	at github.scarsz.discordsrv.dependencies.okio.Okio$4.newTimeoutException(Okio.java:232)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout.exit(AsyncTimeout.java:286)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
+	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.indexOf(RealBufferedSource.java:358)
+	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:230)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:226)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:202)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:101)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:94)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:264)
+	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.execute(RealCall.java:93)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:191)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:234)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:133)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:116)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.ratelimit.BotRateLimiter$Bucket.run(BotRateLimiter.java:350)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at github.scarsz.discordsrv.dependencies.okio.Okio$2.read(Okio.java:140)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	... 31 more
+
+[13:47:31] [ForkJoinPool.commonPool-worker-1/ERROR]: [DiscordSRV] [JDA] RestAction queue returned failure: [ErrorResponseException] -1: java.net.SocketTimeoutException
+java.net.SocketTimeoutException: timeout
+	at github.scarsz.discordsrv.dependencies.okio.Okio$4.newTimeoutException(Okio.java:232)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout.exit(AsyncTimeout.java:286)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
+	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.indexOf(RealBufferedSource.java:358)
+	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:230)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:226)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:202)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:101)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:94)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:264)
+	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.execute(RealCall.java:93)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:191)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:234)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:133)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:116)
+	at github.scarsz.discordsrv.dependencies.jda.core.requests.ratelimit.BotRateLimiter$Bucket.run(BotRateLimiter.java:350)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at github.scarsz.discordsrv.dependencies.okio.Okio$2.read(Okio.java:140)
+	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	... 31 more
+
+[13:56:41] [User Authenticator #26/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[13:56:41] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22484] logged in with entity id 26768 at ([maincra-server]-152.69999998807907, 38.0, -148.67077564492527)
+[13:59:07] [Server thread/INFO]: Mike_YP_27 issued server command: /?
+[14:24:24] [Server thread/INFO]: Mike_YP_27 has made the advancement [A Seedy Place]
+[14:31:53] [User Authenticator #27/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[14:31:54] [Server thread/INFO]: Jacqueline[/187.188.76.120:21754] logged in with entity id 28044 at ([maincra-server]-37.425345460155434, 65.0, -192.2811198143384)
+[14:36:54] [Server thread/INFO]: Mike_YP_27 has made the advancement [Not Today, Thank You]
+[14:39:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > Quién es mike
+[14:40:21] [Async Chat Thread - #24/INFO]: <Jacqueline> es mi hermano XD[m
+[14:42:47] [User Authenticator #28/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[14:42:48] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:26793] logged in with entity id 29020 at ([maincra-server]-176.40859254571959, 63.0, -167.05421383572974)
+[14:44:18] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[14:44:18] [Server thread/INFO]: GatoDeNieve left the game
+[15:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[15:04:30] [User Authenticator #29/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[15:04:31] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:27123] logged in with entity id 29922 at ([maincra-server]-179.1279358892305, 84.49286932196497, -110.83836435040794)
+[15:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[15:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[15:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[15:11:27] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[15:11:27] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[15:13:01] [Server thread/WARN]: Horse moved wrongly!
+[15:14:05] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:fishing_rod
+[15:14:05] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Fishing Rod] to GatoDeNieve]
+[15:14:36] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[15:14:36] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[15:15:30] [Server thread/INFO]: Mike_YP_27 has made the advancement [Hot Stuff]
+[15:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[15:15:44] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[15:15:44] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[15:21:55] [Server thread/INFO]: Jacqueline has completed the challenge [Hero of the Village]
+[15:22:56] [Server thread/INFO]: Jacqueline issued server command: /msg Jacqueline ajsda
+[15:23:41] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve me puedes poner en modo spectador porfavor
+[15:24:33] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve que me perdi
+[15:24:58] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 aprieta F3 y checa las coordenadas, 0, 62, 0 son el inicio del mundo
+[15:25:27] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 tambien puedes usar la brújula que sale en tu inventario para guiarte
+[15:25:39] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 la que sale en el recetario
+[15:26:18] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve pero estoy bajotierra
+[15:26:33] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 nomás sube
+[15:27:10] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[15:27:11] [Server thread/INFO]: Mike_YP_27 left the game
+[15:27:15] [User Authenticator #30/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:27:15] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22508] logged in with entity id 31268 at ([maincra-server]-173.2275658575644, 24.0, -82.964336574604)
+[15:27:40] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[15:27:40] [Server thread/INFO]: Mike_YP_27 left the game
+[15:28:18] [User Authenticator #31/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:28:18] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22520] logged in with entity id 31310 at ([maincra-server]-173.2275658575644, 24.0, -82.964336574604)
+[15:29:39] [Server thread/WARN]: Horse moved wrongly!
+[15:29:39] [Server thread/WARN]: Horse moved wrongly!
+[15:29:39] [Server thread/WARN]: Horse moved wrongly!
+[15:34:24] [Server thread/INFO]: Mike_YP_27 has made the advancement [Ol' Betsy]
+[15:39:54] [Server thread/INFO]: GatoDeNieve issued server command: /experience set GatoDeNieve 100 levels
+[15:39:54] [Server thread/INFO]: [GatoDeNieve: Set 100 experience levels on GatoDeNieve]
+[15:45:13] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
+[15:45:13] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
+[15:45:13] [Server thread/INFO]: Mike_YP_27 left the game
+[15:48:38] [User Authenticator #32/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:48:38] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21799] logged in with entity id 32869 at ([maincra-server]-181.4653282264659, 53.86179243348067, -68.61311261126257)
+[15:48:46] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
+[15:48:46] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
+[15:48:46] [Server thread/INFO]: Mike_YP_27 left the game
+[15:52:33] [User Authenticator #33/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:52:34] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21834] logged in with entity id 33241 at ([maincra-server]-181.4653282264659, 53.783392431954795, -68.61311261126257)
+[15:52:38] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
+[15:52:38] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
+[15:52:38] [Server thread/INFO]: Mike_YP_27 left the game
+[15:52:44] [User Authenticator #34/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[15:52:44] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21838] logged in with entity id 33255 at ([maincra-server]-181.4653282264659, 53.0, -68.61311261126257)
+[15:53:29] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 sigues bajo tierra?
+[15:57:27] [Async Chat Thread - #25/INFO]: <GatoDeNieve> hola[m
+[15:57:34] [Async Chat Thread - #25/INFO]: <Mike_YP_27> hola[m
