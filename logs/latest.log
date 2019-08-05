@@ -92,3 +92,21 @@
 [03:21:59] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
 [03:22:08] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
 [03:22:08] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[04:05:15] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[04:05:15] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[04:05:18] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[04:05:18] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[04:33:43] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[04:33:45] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[04:51:57] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[04:51:57] [Server thread/INFO]: GatoDeNieve left the game
+[04:51:58] [User Authenticator #24/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[04:51:58] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21172] logged in with entity id 26422 at ([maincra-server]-159.77664835858712, 90.5, -99.10095984099142)
+[04:52:23] [Server thread/INFO]: GatoDeNieve lost connection: Timed out
+[04:52:23] [Server thread/INFO]: GatoDeNieve left the game
+[04:53:04] [User Authenticator #25/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[04:53:05] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21227] logged in with entity id 26455 at ([maincra-server]-159.77664835858712, 90.5, -99.10095984099142)
+[04:59:58] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[04:59:58] [Server thread/INFO]: GatoDeNieve left the game
+[07:01:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[07:01:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
