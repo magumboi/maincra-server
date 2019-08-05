@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2019-08-04 23:27:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2019-07-21 16:47:13 -0500"
@@ -1903,7 +1909,10 @@
       "bread": "2019-07-21 15:41:45 -0500",
       "rotten_flesh": "2019-07-20 00:19:30 -0500",
       "suspicious_stew": "2019-07-21 17:30:25 -0500",
+      "beetroot": "2019-08-04 20:28:52 -0500",
+      "cooked_rabbit": "2019-08-04 20:37:38 -0500",
       "cooked_chicken": "2019-08-04 15:27:20 -0500",
+      "enchanted_golden_apple": "2019-08-04 20:39:38 -0500",
       "carrot": "2019-07-19 23:08:58 -0500"
     },
     "done": false
@@ -2096,6 +2105,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:fox": "2019-08-04 22:58:16 -0500",
       "minecraft:pig": "2019-07-24 20:34:39 -0500",
       "minecraft:sheep": "2019-07-24 00:45:13 -0500",
       "minecraft:cow": "2019-07-24 20:26:23 -0500",
@@ -2687,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-08-04 20:25:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-19 22:24:41 -0500"
@@ -3038,6 +3054,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-07-20 00:11:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2019-08-04 20:29:34 -0500"
     },
     "done": true
   },
