@@ -1,442 +1,94 @@
-[18:31:14] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:31:14] [Server thread/INFO]: Loading properties
-[18:31:15] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[18:31:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:31:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:31:15] [Server thread/INFO]: Debug logging is disabled
-[18:31:15] [Server thread/INFO]: Default game type: SURVIVAL
-[18:31:15] [Server thread/INFO]: Generating keypair
-[18:31:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:31:15] [Server thread/INFO]: Using epoll channel type
-[18:31:25] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
-[18:31:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:31:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:31:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:31:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:31:25] [Server thread/INFO]: Preparing level "maincra-server"
-[18:31:25] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:31:28] [Server thread/INFO]: Loaded 6 recipes
-[18:31:29] [Server thread/INFO]: -------- World Settings For [maincra-server] --------
-[18:31:29] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:31:29] [Server thread/INFO]: Mob Spawn Range: 6
-[18:31:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Potato Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[18:31:29] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[18:31:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:29] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[18:31:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:31:29] [Server thread/INFO]: Max TNT Explosions: 10
-[18:31:29] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:31:29] [Server thread/INFO]: View Distance: 10
-[18:31:29] [Server thread/INFO]: Arrow Despawn Rate: 300
-[18:31:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:29] [Server thread/INFO]: Item Despawn Rate: 5000
-[18:31:29] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:31:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:37] [User Authenticator #1/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[18:31:43] [User Authenticator #2/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
-[18:31:56] [Server thread/INFO]: -------- World Settings For [maincra-server_nether] --------
-[18:31:56] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:31:56] [Server thread/INFO]: Mob Spawn Range: 6
-[18:31:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[18:31:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:56] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[18:31:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:31:56] [Server thread/INFO]: Max TNT Explosions: 10
-[18:31:56] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:31:56] [Server thread/INFO]: View Distance: 10
-[18:31:56] [Server thread/INFO]: Arrow Despawn Rate: 300
-[18:31:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:56] [Server thread/INFO]: Item Despawn Rate: 5000
-[18:31:56] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:31:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:56] [Server thread/INFO]: -------- World Settings For [maincra-server_the_end] --------
-[18:31:56] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:31:56] [Server thread/INFO]: Mob Spawn Range: 6
-[18:31:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[18:31:56] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[18:31:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:31:56] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[18:31:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:31:56] [Server thread/INFO]: Max TNT Explosions: 10
-[18:31:56] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:31:56] [Server thread/INFO]: View Distance: 10
-[18:31:56] [Server thread/INFO]: Arrow Despawn Rate: 300
-[18:31:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:31:56] [Server thread/INFO]: Item Despawn Rate: 5000
-[18:31:56] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:31:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:31:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:31:56] [Server thread/INFO]: Preparing start region for dimension 'maincra-server'/minecraft:overworld
-[18:31:58] [Server thread/INFO]: Preparing spawn area: 0%
-[18:31:58] [Server thread/INFO]: Preparing spawn area: 0%
-[18:31:58] [Server thread/INFO]: Preparing spawn area: 0%
-[18:31:58] [Server thread/INFO]: Preparing spawn area: 0%
-[18:31:58] [Server thread/INFO]: Preparing spawn area: 0%
-[18:31:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:31:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:32:00] [Server thread/INFO]: Preparing spawn area: 27%
-[18:32:00] [Server thread/INFO]: Time elapsed: 4289 ms
-[18:32:00] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_nether'/minecraft:the_nether
-[18:32:02] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:02] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:02] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:02] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:02] [Server thread/INFO]: Time elapsed: 1979 ms
-[18:32:02] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_the_end'/minecraft:the_end
-[18:32:03] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:03] [Server thread/INFO]: Preparing spawn area: 9%
-[18:32:03] [Server thread/INFO]: Time elapsed: 645 ms
-[18:32:03] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
-[18:32:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:32:03] [Server thread/INFO]: Done (37.980s)! For help, type "help"
-[18:32:03] [Server thread/INFO]: Starting remote control listener
-[18:32:03] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[18:32:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@412795b8[id=d5f91576-cbcc-34dc-bf95-ba7d82e6c470,name=PEPELOTAS,properties={},legacy=false] (/187.189.187.177:17616) lost connection: Disconnected
-[18:32:04] [Server thread/INFO]: magumboss[/187.233.2.52:50923] logged in with entity id 305 at ([maincra-server]-205.6734124453588, 75.0, -117.48093098184096)
-[18:32:06] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
-[18:32:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
-[18:32:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
-[18:32:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
-[18:32:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
-[18:32:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
-[18:32:08] [User Authenticator #3/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[18:32:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
-[18:32:09] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[18:32:10] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Overjuan, LoL y galletitas(250047089432723456)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hehe-xd(250047089432723456)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:musica(493640162279030784)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-chat(603626295103848448)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-console(603627861781512202)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Libra ♎(449824936048197633)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:el-lobby-🛋(488866936457789441)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hablada-real-🙋🙍(460181774534967297)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:devs-chillones👨💻👨🍳(468929183150768131)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mimidisimos-chat-💪😴(582971485082091546)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:eventos-y-cumpleaños-🥒🙇🍰(470802141351772181)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:coliseo-versus-de-emotes-🆚(470805446601736192)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:owospam-⭕〰⭕(489313649685692416)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:counting(589153351258603524)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:smeg-memes-💩(460279858107252755)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:anime-dead-🎎(467897554743459871)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rayacraft-⏹⛏(543927938563833860)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cultura-ost🎼(451227973593333760)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:f-e-h-🤺(460165558168453130)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:overputas-deliciosas-🔫🏹🛡(479352599569760257)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ps3-xbox-pcerdo-etc-🖱💻📺🎮🕹(471319417830113301)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ligoleyens-🏰☄(512803398261932032)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:game-dev-💻🖱🎮(481674577953685515)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rpg-gaming-mmorpg-📺🏰🕹(498623576933400576)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:obo-oh-🃏🀄(532807307264917505)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:aqui-van-los-libros-📖📗(464686768927801354)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pero-mira-ese-paisaje-homs-🎇🗻🏕⛰(465340521728966688)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ropa-y-calzado-🧥🧤🧦👠👢🥾🥿(488879967174918145)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:arte-y-dibujos-hechos-por-ti-📃🖋✏✒🖊🖌(479540665500565512)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:meme-foundry-⏺🍆💿(479540558524710912)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-🎶🔊(509169481432432651)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:recetas-y-foodporn-🥗🥣🍱(504787725061324818)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cine-y-peliculas(598335044079058994)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:putas-excelentes-👯♀(449989096513994774)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:patas-diabeticas🦶🤔-y-fetiches-😏🤐(461058189711114262)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nalgas-peludas-y-pitos-picudos🐶🐺🦊(569788868417814528)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-homo-traprepucios-🧚♂(473300600239685632)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:salsahunters-👨💻-🍲(472510817670004737)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw-bot-🤖(477851245604765698)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pongan-🎶musica(467469885140893707)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:seccion-de-muditos-en-vc-🔇🔕(482066298210091018)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:fornais(591095349645410331)
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 603627861781512202
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
-[18:32:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
-[18:32:10] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17630] logged in with entity id 688 at ([maincra-server]-81.65120318804337, 177.0, -120.53681693003895)
-[18:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
-[18:32:54] [User Authenticator #4/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[18:32:54] [Server thread/INFO]: aomali2[/187.189.187.177:17646] logged in with entity id 1295 at ([maincra-server]-8.497056061662033, 88.0, -41.547096049285265)
-[18:33:11] [Server thread/INFO]: magumboss has made the advancement [The End?]
-[18:33:12] [Server thread/WARN]: magumboss moved too quickly! 156.10714553421928,-16.57536946370287,200.8705331206669
-[18:33:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[18:33:12] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[18:34:11] [Async Chat Thread - #0/INFO]: <magumboss> pinche witer en mi casa xd[m
-[18:34:35] [Server thread/INFO]: magumboss lost connection: Disconnected
-[18:34:35] [Server thread/INFO]: magumboss left the game
-[18:50:37] [Server thread/INFO]: PEPELOTAS has reached the goal [You Need a Mint]
-[19:02:08] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:02:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:02:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:09:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:11:56] [User Authenticator #5/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[19:11:56] [Server thread/INFO]: Jacqueline[/187.188.76.120:21871] logged in with entity id 2510 at ([maincra-server]-88.9756110862016, 69.0, -262.8431806210993)
-[19:17:01] [Server thread/INFO]: aomali2 has made the advancement [Local Brewery]
-[19:36:26] [Async Chat Thread - #1/INFO]: <aomali2> :=[m
-[19:36:30] [Async Chat Thread - #1/INFO]: <aomali2> jaqui[m
-[19:36:43] [Async Chat Thread - #1/INFO]: <Jacqueline> q?[m
-[19:36:45] [Async Chat Thread - #1/INFO]: <aomali2> como seles pinta las armaduras[m
-[19:37:06] [Async Chat Thread - #1/INFO]: <Jacqueline> me andas espiando??[m
-[19:37:13] [Async Chat Thread - #1/INFO]: <aomali2> xd[m
-[19:37:17] [Async Chat Thread - #1/INFO]: <aomali2> dime[m
-[19:37:34] [Async Chat Thread - #1/INFO]: <Jacqueline> te lo dejo a tu imaginacion XD[m
-[19:37:45] [Async Chat Thread - #1/INFO]: <Jacqueline> solo le pones tinte y ya[m
-[19:42:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:42:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:42:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:42:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:43:04] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
-[19:43:04] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
-[19:43:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[19:43:35] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
-[19:43:35] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
-[19:48:17] [Async Chat Thread - #2/INFO]: <Jacqueline> por que tanto caballo?[m
-[19:49:28] [Server thread/INFO]: PEPELOTAS issued server command: /ga
-[19:49:35] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
-[19:49:35] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
-[19:50:33] [Async Chat Thread - #3/INFO]: <PEPELOTAS> como se sube?[m
-[19:50:47] [Async Chat Thread - #3/INFO]: <Jacqueline> no pongas nada en tu mano[m
-[19:52:43] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
-[19:52:43] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
-[19:56:04] [Async Chat Thread - #4/INFO]: <Jacqueline> no se acercan con los gatos[m
-[20:02:50] [Async Chat Thread - #5/INFO]: <aomali2> jaqui tienes tinte negro que me des con 1 basta porfa[m
-[20:03:46] [Async Chat Thread - #5/INFO]: <aomali2> jaqui tinte negro porfa[m
-[20:05:53] [Async Chat Thread - #6/INFO]: <aomali2> solo quiero un tinte negro[m
-[20:05:55] [Async Chat Thread - #6/INFO]: <Jacqueline> no tengo[m
-[20:10:20] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[20:10:20] [Server thread/INFO]: aomali2 left the game
-[20:16:52] [User Authenticator #6/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[20:16:52] [Server thread/INFO]: aomali2[/187.189.187.177:17765] logged in with entity id 5791 at ([maincra-server]-71.28998966801387, 64.0, -206.02186203335285)
-[20:17:02] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[20:17:02] [Server thread/INFO]: aomali2 left the game
-[20:20:13] [User Authenticator #7/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[20:20:13] [Server thread/INFO]: aomali2[/187.189.187.177:17884] logged in with entity id 6511 at ([maincra-server]-71.28998966801387, 64.0, -206.02186203335285)
-[20:21:02] [Server thread/WARN]: aomali2 moved too quickly! 156.42301023603707,-15.766367993957516,200.59886961023125
-[20:25:01] [Server thread/INFO]: Jacqueline has made the advancement [A Throwaway Joke]
-[20:29:36] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[20:29:36] [Server thread/INFO]: Jacqueline left the game
-[20:31:18] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[20:31:18] [Server thread/INFO]: PEPELOTAS left the game
-[20:33:26] [Server thread/WARN]: Horse moved wrongly!
-[20:33:30] [Server thread/WARN]: Horse moved wrongly!
-[20:35:52] [Server thread/WARN]: Horse moved wrongly!
-[20:35:52] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:28] [Server thread/WARN]: Horse moved wrongly!
-[20:36:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:36:48] [Server thread/WARN]: Horse moved wrongly!
-[20:37:29] [User Authenticator #8/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[20:37:29] [Server thread/INFO]: Jacqueline[/187.188.76.120:21863] logged in with entity id 8376 at ([maincra-server]-88.96816874462455, 69.0, -258.2439264021218)
-[20:38:13] [Server thread/WARN]: Horse moved wrongly!
-[20:38:31] [User Authenticator #9/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[20:38:32] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18130] logged in with entity id 8428 at ([maincra-server]-85.0192348931751, 69.0, -258.75285106687323)
-[20:40:35] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[20:40:35] [Server thread/INFO]: PEPELOTAS left the game
-[20:55:14] [User Authenticator #10/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[20:55:14] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22468] logged in with entity id 9121 at ([maincra-server_the_end]2.0158650306624954, 61.38973749571887, 0.12867444023611935)
-[20:55:45] [Async Chat Thread - #7/INFO]: <aomali2> jaqui[m
-[20:56:24] [Async Chat Thread - #7/INFO]: <aomali2> jaquiiiii[m
-[20:57:09] [Async Chat Thread - #7/INFO]: <aomali2> jaqui[m
-[20:57:18] [Async Chat Thread - #7/INFO]: <Jacqueline> mande[m
-[20:57:23] [Async Chat Thread - #7/INFO]: <aomali2> mira ven[m
-[20:57:32] [Async Chat Thread - #7/INFO]: <aomali2> porfa va aser rapido[m
-[20:58:13] [Async Chat Thread - #7/INFO]: <aomali2> fuegos artificiales :O[m
-[20:58:20] [Async Chat Thread - #7/INFO]: <Jacqueline> si le pones caveza de creper sale el dibujo[m
-[20:58:29] [Async Chat Thread - #7/INFO]: <aomali2> :O[m
-[20:59:20] [Async Chat Thread - #7/INFO]: <aomali2> para que es la carga de fuego?[m
-[20:59:31] [Async Chat Thread - #7/INFO]: <Jacqueline> la lanzas[m
-[20:59:39] [Async Chat Thread - #7/INFO]: <aomali2> con cual boton[m
-[20:59:52] [Async Chat Thread - #7/INFO]: <aomali2> pero serquitas?[m
-[21:00:11] [Async Chat Thread - #7/INFO]: <Jacqueline> no me acuerdo como[m
-[21:00:21] [Async Chat Thread - #7/INFO]: <Jacqueline> pero si se lanza[m
-[21:07:33] [Server thread/INFO]: Mike_YP_27 has made the advancement [Sweet Dreams]
-[21:08:27] [Async Chat Thread - #8/INFO]: <Mike_YP_27> +[m
-[21:11:51] [User Authenticator #11/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[21:11:51] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:20661] logged in with entity id 9727 at ([maincra-server]-202.7528027806006, 70.5, -148.22293977295405)
-[21:14:16] [Async Chat Thread - #9/INFO]: <aomali2> ven[m
-[21:14:34] [Async Chat Thread - #9/INFO]: <aomali2> quieres esta casa?[m
-[21:14:44] [Async Chat Thread - #9/INFO]: <aomali2> si?[m
-[21:14:53] [Async Chat Thread - #9/INFO]: <aomali2> si o no[m
-[21:14:59] [Async Chat Thread - #9/INFO]: <Mike_YP_27> si[m
-[21:15:08] [Async Chat Thread - #9/INFO]: <aomali2> pos no tela doi xd[m
-[21:17:44] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[21:17:44] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[21:17:56] [Server thread/INFO]: GatoDeNieve issued server command: /experience set GatoDeNieve 10 levels
-[21:17:56] [Server thread/INFO]: [GatoDeNieve: Set 10 experience levels on GatoDeNieve]
-[21:18:50] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[21:18:50] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[21:19:02] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:19:02] [Server thread/INFO]: aomali2 left the game
-[21:23:42] [Server thread/INFO]: Mike_YP_27 has made the advancement [Stone Age]
-[21:23:49] [Server thread/INFO]: Mike_YP_27 was blown up by Creeper
-[21:26:55] [User Authenticator #12/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[21:26:56] [Server thread/INFO]: aomali2[/187.189.187.177:18345] logged in with entity id 10634 at ([maincra-server]-16.797758802268923, 88.0, -34.26201577969897)
-[21:28:21] [Server thread/INFO]: Mike_YP_27 has made the advancement [Cover Me With Diamonds]
-[21:32:49] [User Authenticator #13/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
-[21:32:49] [Server thread/INFO]: andres12234[/187.189.181.38:8545] logged in with entity id 11064 at ([maincra-server]-10.217181736970531, 88.0, -35.83637547426685)
-[21:34:08] [Server thread/INFO]: Mike_YP_27 has made the advancement [The Parrots and the Bats]
-[21:42:20] [Server thread/WARN]: Mike_YP_27 moved too quickly! 6.352987302683573,-6.231523797587016,4.931723393737684
-[21:42:37] [Server thread/WARN]: Mike_YP_27 moved too quickly! -3.8365660972641535,-0.0625,-17.739288133287005
-[21:48:58] [Server thread/INFO]: andres12234 has made the advancement [The Parrots and the Bats]
-[21:54:53] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
-[21:54:53] [Server thread/INFO]: Mike_YP_27 left the game
-[21:54:58] [User Authenticator #14/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[21:54:58] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22384] logged in with entity id 12073 at ([maincra-server]-92.8956222288491, 69.0, -257.95056790144645)
-[22:01:53] [Server thread/INFO]: Mike_YP_27 issued server command: /locate
-[22:02:06] [Server thread/INFO]: Mike_YP_27 issued server command: /list
-[22:09:59] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
-[22:09:59] [Server thread/INFO]: Mike_YP_27 left the game
-[22:11:43] [User Authenticator #15/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[22:11:43] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21770] logged in with entity id 13217 at ([maincra-server]-222.3666272492483, 80.5, -146.4013097052124)
-[22:14:12] [Async Chat Thread - #10/INFO]: <GatoDeNieve> con T usas el chat :)[m
-[22:14:44] [Async Chat Thread - #10/INFO]: <Mike_YP_27> gracias[m
-[22:14:46] [Async Chat Thread - #10/INFO]: <GatoDeNieve> de nada[m
-[22:16:36] [Server thread/INFO]: Mike_YP_27 has made the advancement [Diamonds!]
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:16:56] [Server thread/WARN]: Horse moved wrongly!
-[22:18:19] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[22:18:19] [Server thread/INFO]: GatoDeNieve left the game
-[22:19:38] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
-[22:19:38] [Server thread/INFO]: Mike_YP_27 left the game
-[22:19:55] [User Authenticator #16/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[22:19:55] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22510] logged in with entity id 13657 at ([maincra-server]-138.34578338963598, 63.0, -144.69999998807907)
-[22:23:56] [Server thread/INFO]: andres12234 was slain by Spider
-[22:28:32] [Async Chat Thread - #11/INFO]: <Mike_YP_27> aomali2 me puedes poner en creativo porfavor[m
-[22:28:42] [Async Chat Thread - #11/INFO]: <aomali2> no tramposo[m
-[22:28:46] [Async Chat Thread - #11/INFO]: <aomali2> trampas[m
-[22:29:05] [Server thread/INFO]: aomali2 issued server command: /gamemode 1
-[22:29:36] [Async Chat Thread - #11/INFO]: <Jacqueline> y tu que no querias estar en creativo?[m
-[22:29:39] [Async Chat Thread - #11/INFO]: <Jacqueline> XD[m
-[22:29:49] [Async Chat Thread - #11/INFO]: <aomali2> pero ya me di cuenta que es trampa[m
-[22:29:56] [Async Chat Thread - #11/INFO]: <aomali2> asique nop[m
-[22:37:47] [Server thread/WARN]: aomali2 moved too quickly! 1.5468671033725556,-4.0,-12.082982173505783
-[22:41:50] [Server thread/INFO]: Mike_YP_27 has made the advancement [Acquire Hardware]
-[22:46:39] [User Authenticator #17/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:46:39] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18419] logged in with entity id 15486 at ([maincra-server]-28.957862530750333, 71.0, -203.59632343341465)
-[22:47:13] [Async Chat Thread - #12/INFO]: <Mike_YP_27> alejandro me pones en creativo porfavor[m
-[22:54:33] [User Authenticator #18/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[22:54:33] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:20857] logged in with entity id 15903 at ([maincra-server]-222.6488392366701, 96.5, -141.4915977405819)
-[22:55:42] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS un violador
-[22:55:47] [Async Chat Thread - #13/INFO]: <Jacqueline> XD[m
-[22:58:01] [Server thread/INFO]: Mike_YP_27 was slain by Vex
-[23:02:35] [Async Chat Thread - #14/INFO]: <Mike_YP_27> gato me pones en creativo porfavor[m
-[23:03:46] [Server thread/INFO]: aomali2 was slain by Vex
-[23:05:35] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS encuentrame
-[23:06:32] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline
-[23:06:32] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Jacqueline]
-[23:06:42] [Async Chat Thread - #15/INFO]: <PEPELOTAS> ya[m
-[23:06:43] [Async Chat Thread - #15/INFO]: <Jacqueline> eso es trampa[m
-[23:06:50] [Async Chat Thread - #15/INFO]: <Jacqueline> e un comando[m
-[23:07:49] [Server thread/INFO]: Jacqueline fell from a high place
-[23:07:55] [Async Chat Thread - #16/INFO]: <PEPELOTAS> jajajaja[m
-[23:08:21] [Server thread/INFO]: PEPELOTAS issued server command: /tps Jacqueline
-[23:08:57] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline p
-[23:09:06] [Server thread/INFO]: andres12234 lost connection: Disconnected
-[23:09:06] [Server thread/INFO]: andres12234 left the game
-[23:09:08] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:09:08] [Server thread/INFO]: aomali2 left the game
-[23:10:23] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline
-[23:10:23] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Jacqueline]
-[23:11:56] [Async Chat Thread - #17/INFO]: <PEPELOTAS> ese era mio[m
-[23:12:09] [Async Chat Thread - #17/INFO]: <Mike_YP_27> era[m
-[23:12:10] [Server thread/INFO]: GatoDeNieve issued server command: /summon minecraft:fox
-[23:12:10] [Server thread/INFO]: [GatoDeNieve: Summoned new Fox]
-[23:16:13] [Server thread/INFO]: Mike_YP_27 has made the advancement [Voluntary Exile]
-[23:18:51] [Server thread/INFO]: Mike_YP_27 was slain by Vindicator
-[23:21:34] [Server thread/INFO]: Jacqueline issued server command: /msg GatoDeNieve como derrotar a alguien si esta en creativo?
-[23:21:50] [Async Chat Thread - #18/INFO]: <GatoDeNieve> msg Jacqueline es imposible, no tienen barra de vida[m
-[23:21:56] [Async Chat Thread - #18/INFO]: <GatoDeNieve> jsjs[m
-[23:22:08] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline se me fue sin la barra jaja
-[23:22:11] [Server thread/WARN]: GatoDeNieve moved too quickly! 15.053696982965107,10.83126077250489,-5.324836549713396
-[23:22:24] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline te estan molestando?
-[23:22:54] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
-[23:22:54] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
-[23:23:13] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
-[23:23:13] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
-[23:23:14] [Server thread/INFO]: Jacqueline issued server command: /msg GatoDeNieve estan mate y mate a mi hermano
-[23:23:29] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline tu hermano que usuario tiene?
-[23:23:40] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline mike?
-[23:23:51] [Server thread/INFO]: GatoDeNieve issued server command: /tp Mike_YP_27
-[23:23:51] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to Mike_YP_27]
-[23:23:57] [Server thread/INFO]: Jacqueline issued server command: /msg GatoDeNieve si
-[23:24:13] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline y como lo matan? es pepelotas?
-[23:24:19] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline que pasa amor
-[23:24:37] [Server thread/INFO]: Jacqueline issued server command: /msg GatoDeNieve no lo se es invisible
-[23:25:04] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS ya no se que hacer
-[23:25:09] [Async Chat Thread - #19/INFO]: <PEPELOTAS> como?[m
-[23:25:51] [Server thread/INFO]: GatoDeNieve issued server command: /msg Jacqueline cuando pase me avisas
-[23:26:28] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS es tardado tratar de conseguir los libros de reparacion con los aldeanos, solo espero a conseguir las cosas que piden
-[23:28:11] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS soy un creper
-[23:32:12] [Server thread/WARN]: Mike_YP_27 moved too quickly! -9.52087370475337,-3.0,-2.022473421532908
-[23:32:17] [Server thread/WARN]: Mike_YP_27 moved too quickly! 9.248698381669271,0.0,3.8084286279687944
-[23:32:40] [Server thread/WARN]: Mike_YP_27 moved too quickly! 10.39030156616495,-0.16610926093821377,1.0322330042074555
-[23:37:36] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS si pongo una dinamita cerca de un tocadisco explota?
-[23:37:44] [Async Chat Thread - #20/INFO]: <PEPELOTAS> quizas[m
-[23:41:16] [Server thread/INFO]: Jacqueline issued server command: /msg PEPELOTAS no me atrevo a hacer explotar cosas XD
-[23:43:24] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[23:43:24] [Server thread/INFO]: Jacqueline left the game
-[23:46:31] [Server thread/INFO]: GatoDeNieve has made the advancement [Bring Home the Beacon]
-[23:50:49] [Server thread/INFO]: Mike_YP_27 has made the advancement [Isn't It Iron Pick]
-[23:57:23] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
-[23:57:23] [Server thread/INFO]: Mike_YP_27 left the game
-[23:59:41] [User Authenticator #19/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[23:59:41] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21946] logged in with entity id 19366 at ([maincra-server]-148.30000001192093, 44.0, -148.30000001192093)
+[00:02:11] [Server thread/WARN]: PEPELOTAS moved too quickly! 0.5964677590283998,0.0,-17.262590849076005
+[00:02:25] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27
+[00:02:25] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Mike_YP_27]
+[00:03:00] [Server thread/INFO]: Mike_YP_27 fell from a high place
+[00:03:21] [Server thread/INFO]: Mike_YP_27 fell from a high place
+[00:03:33] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
+[00:03:33] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
+[00:03:55] [Async Chat Thread - #21/INFO]: <GatoDeNieve> andas matando al mike?[m
+[00:03:57] [Async Chat Thread - #21/INFO]: <GatoDeNieve> xD[m
+[00:04:00] [Async Chat Thread - #21/INFO]: <PEPELOTAS> nel[m
+[00:04:06] [Async Chat Thread - #21/INFO]: <PEPELOTAS> se avento al vacio[m
+[00:04:11] [Async Chat Thread - #21/INFO]: <Mike_YP_27> ME DAS MIS COSAS[m
+[00:04:15] [Async Chat Thread - #21/INFO]: <GatoDeNieve> hay un agujero[m
+[00:04:26] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative Mike_YP_27
+[00:04:26] [Server thread/INFO]: [GatoDeNieve: Set Mike_YP_27's game mode to Creative Mode]
+[00:04:28] [Async Chat Thread - #21/INFO]: <GatoDeNieve> baja por ellas[m
+[00:04:30] [Async Chat Thread - #21/INFO]: <GatoDeNieve> no moriras[m
+[00:04:36] [Async Chat Thread - #21/INFO]: <GatoDeNieve> salta[m
+[00:05:07] [Async Chat Thread - #21/INFO]: <GatoDeNieve> ahora sube[m
+[00:05:53] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival Mike_YP_27
+[00:05:53] [Server thread/INFO]: [GatoDeNieve: Set Mike_YP_27's game mode to Survival Mode]
+[00:06:00] [Async Chat Thread - #21/INFO]: <GatoDeNieve> ya no tienes creativo, no te caigas[m
+[00:06:12] [Async Chat Thread - #21/INFO]: <Mike_YP_27> gracias[m
+[00:06:20] [Async Chat Thread - #21/INFO]: <GatoDeNieve> de nada[m
+[00:14:52] [Async Chat Thread - #22/INFO]: <Mike_YP_27> GatoDeNieve como se hace para que la arena o grava flote[m
+[00:15:05] [Async Chat Thread - #22/INFO]: <PEPELOTAS> para un ascenmsor?[m
+[00:15:10] [Async Chat Thread - #22/INFO]: <Mike_YP_27> no[m
+[00:15:12] [Async Chat Thread - #22/INFO]: <GatoDeNieve> no tengo idea[m
+[00:15:17] [Async Chat Thread - #22/INFO]: <GatoDeNieve> jaja[m
+[00:15:25] [Async Chat Thread - #22/INFO]: <PEPELOTAS> como que flote?[m
+[00:15:29] [Async Chat Thread - #22/INFO]: <Mike_YP_27> para una trampa[m
+[00:15:29] [Async Chat Thread - #22/INFO]: <GatoDeNieve> a lo mejor usando pistones y soul sand, como el agua con burbujas[m
+[00:15:45] [Async Chat Thread - #22/INFO]: <GatoDeNieve> así flotaría hacia arriba (?)[m
+[00:16:01] [Async Chat Thread - #22/INFO]: <GatoDeNieve> para lo de la arena, solamente funciona con la generada automáticamente, creo[m
+[00:16:02] [Async Chat Thread - #22/INFO]: <PEPELOTAS> para una trampa usa los bloques de lava nuevos esos jalan hacia abajo[m
+[00:16:19] [Server thread/INFO]: Mike_YP_27 was blown up by Creeper
+[00:16:23] [Async Chat Thread - #22/INFO]: <GatoDeNieve> tu dices que flote en el aire y no caiga por gravedad no?[m
+[00:16:28] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
+[00:16:28] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
+[00:16:34] [Async Chat Thread - #22/INFO]: <PEPELOTAS> no[m
+[00:16:47] [Async Chat Thread - #22/INFO]: <PEPELOTAS> la arena de almas lo que hace es lanzarte para arriba{[m
+[00:16:54] [Async Chat Thread - #22/INFO]: <PEPELOTAS> el otro te jala hacia abajo[m
+[00:17:53] [Async Chat Thread - #22/INFO]: <Mike_YP_27> alguien tiene tierra[m
+[00:18:02] [Async Chat Thread - #22/INFO]: <GatoDeNieve> una pinche calaca con armadura de diamante, que pedo jaja[m
+[00:18:14] [Async Chat Thread - #22/INFO]: <GatoDeNieve> full diamante[m
+[00:18:18] [Async Chat Thread - #22/INFO]: <PEPELOTAS> jajaja[m
+[00:18:22] [Async Chat Thread - #22/INFO]: <GatoDeNieve> y arco encantado alv[m
+[00:20:01] [Async Chat Thread - #23/INFO]: <Mike_YP_27> me pueden dar dirt[m
+[00:20:05] [Async Chat Thread - #23/INFO]: <Mike_YP_27> pls[m
+[00:33:45] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[00:33:45] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[00:34:15] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[00:34:15] [Server thread/INFO]: GatoDeNieve left the game
+[00:34:16] [User Authenticator #20/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[00:34:16] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21459] logged in with entity id 21146 at ([maincra-server]-28.63664911176261, 60.0, -133.581636669879)
+[00:35:39] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[00:35:39] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[00:36:18] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
+[00:36:18] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
+[00:36:29] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode
+[00:36:37] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
+[00:36:37] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
+[00:36:51] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
+[00:36:51] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
+[00:37:36] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
+[00:37:36] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
+[00:40:14] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[00:40:14] [Server thread/INFO]: GatoDeNieve left the game
+[00:40:26] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[00:40:27] [Server thread/INFO]: PEPELOTAS left the game
+[00:40:32] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[00:40:32] [Server thread/INFO]: Mike_YP_27 left the game
+[00:42:25] [User Authenticator #21/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[00:42:25] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21047] logged in with entity id 21530 at ([maincra-server]-212.76701279019747, 85.74317126936853, -148.11912832066358)
+[00:46:25] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[00:46:25] [Server thread/INFO]: GatoDeNieve left the game
+[01:02:09] [User Authenticator #22/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[01:02:09] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21279] logged in with entity id 21671 at ([maincra-server]-224.31772654994572, 99.0, -145.77027172477287)
+[01:02:28] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[01:02:28] [Server thread/INFO]: GatoDeNieve left the game
+[01:03:29] [User Authenticator #23/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[01:03:29] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21359] logged in with entity id 21713 at ([maincra-server]-226.4716201412824, 99.0, -146.77281454680545)
+[02:16:46] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[02:16:46] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[02:21:00] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[02:21:00] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[02:42:04] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[02:42:04] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[02:42:18] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[02:42:18] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[03:21:59] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[03:21:59] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[03:22:08] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[03:22:08] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
