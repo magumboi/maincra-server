@@ -774,6 +774,7 @@
       "minecraft:spider": "2019-07-17 23:43:28 -0500",
       "minecraft:creeper": "2019-07-17 23:41:21 -0500",
       "minecraft:slime": "2019-07-20 00:12:07 -0500",
+      "minecraft:evoker": "2019-08-05 23:11:35 -0500",
       "minecraft:phantom": "2019-07-20 21:57:44 -0500",
       "minecraft:witch": "2019-07-20 20:24:57 -0500",
       "minecraft:wither_skeleton": "2019-07-24 20:23:34 -0500",
@@ -2096,6 +2097,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-07-17 23:41:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-08-05 22:33:09 -0500"
     },
     "done": true
   },
@@ -3456,6 +3463,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-07-18 22:17:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-05 22:15:36 -0500"
     },
     "done": true
   },

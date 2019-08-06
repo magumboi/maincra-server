@@ -361,3 +361,101 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 [18:21:14] [Server thread/INFO]: Jacqueline left the game
 [19:48:53] [User Authenticator #36/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
 [19:48:53] [Server thread/INFO]: aomali2[/187.189.187.177:17530] logged in with entity id 45956 at ([maincra-server]-8.80522485750436, 88.0, -41.511353314801454)
+[20:00:43] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[20:00:43] [Server thread/INFO]: aomali2 left the game
+[20:00:56] [User Authenticator #37/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:00:56] [Server thread/INFO]: aomali2[/187.189.187.177:17945] logged in with entity id 46050 at ([maincra-server]-11.45703667190434, 78.0, -35.08380086051407)
+[20:01:05] [Async Chat Thread - #26/INFO]: <aomali2> porque me sacan?[m
+[20:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[20:52:52] [User Authenticator #38/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[20:52:52] [Server thread/INFO]: Jacqueline[/187.188.76.120:22341] logged in with entity id 46734 at ([maincra-server]-90.27148968484252, 69.0, -248.46149725912213)
+[20:52:56] [Async Chat Thread - #27/INFO]: <aomali2> hola[m
+[20:53:15] [Async Chat Thread - #27/INFO]: <Jacqueline> hola[m
+[20:53:22] [Async Chat Thread - #27/INFO]: <aomali2> como tas[m
+[20:54:20] [Async Chat Thread - #27/INFO]: <Jacqueline> bien[m
+[20:54:28] [Async Chat Thread - #27/INFO]: <aomali2> que bueno :P[m
+[20:55:44] [Async Chat Thread - #28/INFO]: <aomali2> soi yo o me gustan los hornos?[m
+[20:56:45] [Async Chat Thread - #29/INFO]: <Jacqueline> no se[m
+[20:58:01] [Async Chat Thread - #30/INFO]: <aomali2> esque tengo mas de 50 en mi casa[m
+[20:58:08] [Async Chat Thread - #30/INFO]: <aomali2> eso quema masibamente[m
+[20:58:16] [Async Chat Thread - #30/INFO]: <aomali2> 2 cofres enteros xd[m
+[20:58:23] [Async Chat Thread - #30/INFO]: <aomali2> de cristal[m
+[20:58:45] [Async Chat Thread - #30/INFO]: <Jacqueline> facil[m
+[20:58:53] [Async Chat Thread - #30/INFO]: <aomali2> pues si xd[m
+[20:59:24] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[20:59:24] [Server thread/INFO]: Jacqueline left the game
+[21:59:52] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[21:59:52] [Server thread/INFO]: aomali2 left the game
+[22:06:13] [User Authenticator #39/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:06:13] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17495] logged in with entity id 47542 at ([maincra-server]-36.69999998807898, 78.0625, -193.91511331134961)
+[22:07:29] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[22:07:29] [Server thread/INFO]: PEPELOTAS left the game
+[22:07:55] [User Authenticator #40/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:07:55] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17565] logged in with entity id 47576 at ([maincra-server]-51.620253096247, 65.0, -191.04890378898793)
+[22:12:18] [Server thread/WARN]: PEPELOTAS moved too quickly! 156.45697135851276,-15.921599998474122,199.59708615480795
+[22:15:36] [Server thread/INFO]: PEPELOTAS has reached the goal [The End... Again...]
+[22:27:35] [Server thread/INFO]: PEPELOTAS fell out of the world
+[22:33:09] [Server thread/INFO]: PEPELOTAS has made the advancement [Withering Heights]
+[22:48:29] [Server thread/WARN]: PEPELOTAS moved too quickly! -11.416113616494329,0.049746495416755465,-3.103270586724193
+[23:12:37] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[23:12:37] [Server thread/INFO]: PEPELOTAS left the game
+[23:12:53] [User Authenticator #41/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[23:12:53] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22050] logged in with entity id 83075 at ([maincra-server]-144.41654752547726, 63.0, -142.43049849543013)
+[23:14:00] [Server thread/INFO]: Mike_YP_27 issued server command: /gamemode creative
+[23:15:09] [User Authenticator #42/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[23:15:09] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17695] logged in with entity id 84821 at ([maincra-server]-132.19012312678953, 72.88130623597132, -196.824950431839)
+[23:30:08] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[23:38:24] [User Authenticator #43/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:38:24] [Server thread/INFO]: aomali2[/187.189.187.177:17454] logged in with entity id 100203 at ([maincra-server]-10.302379637665876, 78.0, -63.11198903690013)
+[23:38:36] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[23:38:36] [Server thread/INFO]: aomali2 left the game
+[23:39:17] [User Authenticator #44/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[23:39:17] [Server thread/INFO]: Jacqueline[/187.188.76.120:21746] logged in with entity id 100777 at ([maincra-server]-97.68938493535792, 74.0, -255.8841545281653)
+[23:39:54] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline
+[23:39:54] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Jacqueline]
+[23:40:26] [Server thread/INFO]: Mike_YP_27 was killed by Evoker using magic
+[23:41:16] [Server thread/INFO]: Mike_YP_27 has made the advancement [Getting an Upgrade]
+[23:41:45] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[23:42:38] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[23:43:13] [User Authenticator #45/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:43:13] [Server thread/INFO]: aomali2[/187.189.187.177:17556] logged in with entity id 103328 at ([maincra-server]-10.302379637665876, 78.0, -63.11198903690013)
+[23:45:59] [Async Chat Thread - #31/INFO]: <aomali2> te cubro con mi escudo[m
+[23:47:37] [Server thread/WARN]: aomali2 moved too quickly! 10.237904920245725,1.252203340253729,5.051198353985228
+[23:47:52] [Async Chat Thread - #32/INFO]: <aomali2> quieres guerra jaqui?[m
+[23:48:01] [Async Chat Thread - #32/INFO]: <aomali2> yo protejo a mi tio[m
+[23:48:09] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline te pasaste xD
+[23:48:27] [Server thread/WARN]: PEPELOTAS moved too quickly! -0.009254932038814445,0.0,-10.07887900977056
+[23:48:58] [Server thread/INFO]: Mike_YP_27 has made the advancement [Ice Bucket Challenge]
+[23:49:13] [Server thread/INFO]: Mike_YP_27 has made the advancement [Spooky Scary Skeleton]
+[23:49:42] [Async Chat Thread - #33/INFO]: <Jacqueline> tu empezaste[m
+[23:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[23:50:01] [Async Chat Thread - #33/INFO]: <Jacqueline> tu estas en creativo[m
+[23:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12166ms or 243 ticks behind
+[23:50:38] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline yo que te hize xD
+[23:50:47] [Async Chat Thread - #33/INFO]: <aomali2> k?[m
+[23:50:56] [Async Chat Thread - #33/INFO]: <Jacqueline> llenaste mi casa de moustros[m
+[23:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7196ms or 143 ticks behind
+[23:51:07] [Async Chat Thread - #33/INFO]: <PEPELOTAS> puse una trampa xD[m
+[23:51:16] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[23:51:16] [Server thread/INFO]: Mike_YP_27 left the game
+[23:51:23] [User Authenticator #46/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[23:51:23] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22161] logged in with entity id 108591 at ([maincra-server]-82.01249998807907, 178.0, -114.30000001192084)
+[23:51:26] [Async Chat Thread - #33/INFO]: <PEPELOTAS> pisaron la placa de presion[m
+[23:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[23:51:48] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[23:51:48] [Server thread/INFO]: Mike_YP_27 left the game
+[23:51:56] [User Authenticator #47/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[23:51:57] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22188] logged in with entity id 108907 at ([maincra-server]-82.01249998807907, 178.0, -114.30000001192084)
+[23:54:06] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[23:54:06] [Server thread/INFO]: aomali2 left the game
+[23:54:08] [User Authenticator #48/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:54:08] [Server thread/INFO]: aomali2[/187.189.187.177:17739] logged in with entity id 110289 at ([maincra-server]-88.64671054885264, 64.0, -234.1399440965967)
+[23:55:27] [Server thread/INFO]: Mike_YP_27 was shot by Skeleton
+[23:58:29] [Async Chat Thread - #34/INFO]: <aomali2> lo matamos :D[m
+[23:58:37] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[23:58:37] [Server thread/INFO]: aomali2 left the game
+[23:58:39] [User Authenticator #49/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:58:39] [Server thread/INFO]: aomali2[/187.189.187.177:17832] logged in with entity id 113231 at ([maincra-server]-84.75698799269479, 69.0, -258.3041193317468)
+[23:58:47] [Async Chat Thread - #34/INFO]: <aomali2> lo matamos :D[m
+[23:59:41] [Async Chat Thread - #34/INFO]: <Jacqueline> a quien?[m
+[23:59:50] [Async Chat Thread - #34/INFO]: <aomali2> a el inbocador :D[m
