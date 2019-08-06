@@ -160,3 +160,79 @@
 [01:02:18] [Server thread/INFO]: Mike_YP_27 left the game
 [01:03:21] [Server thread/INFO]: aomali2 lost connection: Disconnected
 [01:03:21] [Server thread/INFO]: aomali2 left the game
+[12:02:09] [User Authenticator #57/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[12:02:09] [Server thread/INFO]: Jacqueline[/187.188.76.120:22408] logged in with entity id 547764 at ([maincra-server]-255.85544617593445, 69.5, -833.2960020737262)
+[12:13:18] [User Authenticator #58/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[12:13:18] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22503] logged in with entity id 553749 at ([maincra-server]-106.43360090783347, 63.0, -173.53824270633373)
+[12:14:14] [Server thread/INFO]: Mike_YP_27 was poked to death by a sweet berry bush
+[12:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[12:42:56] [Server thread/WARN]: Mike_YP_27 moved too quickly! 19.10960163834062,1.0,-14.791632671659386
+[12:51:17] [Server thread/WARN]: Mike_YP_27 moved too quickly! -0.8350561283292848,8.075444065189487,12.799222740606695
+[12:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[12:57:32] [User Authenticator #59/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
+[12:57:32] [Server thread/INFO]: magumboss[/187.190.235.165:65227] logged in with entity id 578043 at ([maincra-server]109.77443601129106, 70.0, -10.991947674403225)
+[12:57:39] [Server thread/INFO]: Mike_YP_27 was shot by Skeleton
+[12:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[13:00:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[13:00:19] [Server thread/INFO]: magumboss lost connection: Disconnected
+[13:00:19] [Server thread/INFO]: magumboss left the game
+[13:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[13:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
+[13:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[13:13:41] [User Authenticator #60/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[13:13:41] [Server thread/INFO]: Mike_YP_27 lost connection: You logged in from another location
+[13:13:41] [Server thread/INFO]: Mike_YP_27 left the game
+[13:13:41] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21739] logged in with entity id 586597 at ([maincra-server]-70.12701655129788, 99.0, 34.877716966423556)
+[13:14:06] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[13:14:06] [Server thread/INFO]: Mike_YP_27 left the game
+[13:14:20] [User Authenticator #61/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[13:14:20] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21752] logged in with entity id 586911 at ([maincra-server]-70.12701655129788, 99.0, 34.877716966423556)
+[13:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[13:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7792ms or 155 ticks behind
+[13:16:33] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[13:16:33] [Server thread/INFO]: Jacqueline left the game
+[13:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
+[13:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[13:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24790ms or 495 ticks behind
+[13:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17310ms or 346 ticks behind
+[13:23:28] [Server thread/INFO]: Mike_YP_27 was shot by Skeleton
+[13:23:40] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[13:23:40] [Server thread/INFO]: Mike_YP_27 left the game
+[14:16:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 256 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:21:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 258 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:26:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 260 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:31:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 261 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:36:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 263 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:41:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 264 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:46:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 266 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:51:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 267 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:56:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 269 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[14:56:56] [User Authenticator #62/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[14:56:56] [Server thread/INFO]: aomali2[/187.189.187.177:17949] logged in with entity id 636671 at ([maincra-server]-10.700000025331974, 78.0000002, -36.700000025331974)
+[14:57:06] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[14:57:06] [Server thread/INFO]: aomali2 left the game
+[15:00:22] [User Authenticator #63/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:00:22] [Server thread/INFO]: aomali2[/187.189.187.177:17421] logged in with entity id 638443 at ([maincra-server]-10.700000025331974, 78.0000002, -36.700000025331974)
+[15:01:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 271 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:06:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 272 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:09:22] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:09:22] [Server thread/INFO]: aomali2 left the game
+[15:10:38] [User Authenticator #64/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:10:38] [Server thread/INFO]: aomali2[/187.189.187.177:17909] logged in with entity id 643807 at ([maincra-server]-121.49703396580203, 76.0, -234.0709630341626)
+[15:11:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 274 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:14:30] [Async Chat Thread - #43/INFO]: <aomali2> sss[m
+[15:16:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 275 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:18:33] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:18:33] [Server thread/INFO]: aomali2 left the game
+[15:19:13] [User Authenticator #65/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:19:13] [Server thread/INFO]: aomali2[/187.189.187.177:17482] logged in with entity id 648046 at ([maincra-server]-10.674891671498592, 78.0, -37.64416740805466)
+[15:21:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 277 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:21:55] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:21:55] [Server thread/INFO]: aomali2 left the game
+[15:26:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 278 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:31:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 280 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:36:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 281 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:41:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 283 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:46:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 285 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:51:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 286 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[15:56:08] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 288 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
