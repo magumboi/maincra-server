@@ -1,461 +1,162 @@
-[00:02:11] [Server thread/WARN]: PEPELOTAS moved too quickly! 0.5964677590283998,0.0,-17.262590849076005
-[00:02:25] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27
-[00:02:25] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Mike_YP_27]
-[00:03:00] [Server thread/INFO]: Mike_YP_27 fell from a high place
-[00:03:21] [Server thread/INFO]: Mike_YP_27 fell from a high place
-[00:03:33] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
-[00:03:33] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
-[00:03:55] [Async Chat Thread - #21/INFO]: <GatoDeNieve> andas matando al mike?[m
-[00:03:57] [Async Chat Thread - #21/INFO]: <GatoDeNieve> xD[m
-[00:04:00] [Async Chat Thread - #21/INFO]: <PEPELOTAS> nel[m
-[00:04:06] [Async Chat Thread - #21/INFO]: <PEPELOTAS> se avento al vacio[m
-[00:04:11] [Async Chat Thread - #21/INFO]: <Mike_YP_27> ME DAS MIS COSAS[m
-[00:04:15] [Async Chat Thread - #21/INFO]: <GatoDeNieve> hay un agujero[m
-[00:04:26] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative Mike_YP_27
-[00:04:26] [Server thread/INFO]: [GatoDeNieve: Set Mike_YP_27's game mode to Creative Mode]
-[00:04:28] [Async Chat Thread - #21/INFO]: <GatoDeNieve> baja por ellas[m
-[00:04:30] [Async Chat Thread - #21/INFO]: <GatoDeNieve> no moriras[m
-[00:04:36] [Async Chat Thread - #21/INFO]: <GatoDeNieve> salta[m
-[00:05:07] [Async Chat Thread - #21/INFO]: <GatoDeNieve> ahora sube[m
-[00:05:53] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival Mike_YP_27
-[00:05:53] [Server thread/INFO]: [GatoDeNieve: Set Mike_YP_27's game mode to Survival Mode]
-[00:06:00] [Async Chat Thread - #21/INFO]: <GatoDeNieve> ya no tienes creativo, no te caigas[m
-[00:06:12] [Async Chat Thread - #21/INFO]: <Mike_YP_27> gracias[m
-[00:06:20] [Async Chat Thread - #21/INFO]: <GatoDeNieve> de nada[m
-[00:14:52] [Async Chat Thread - #22/INFO]: <Mike_YP_27> GatoDeNieve como se hace para que la arena o grava flote[m
-[00:15:05] [Async Chat Thread - #22/INFO]: <PEPELOTAS> para un ascenmsor?[m
-[00:15:10] [Async Chat Thread - #22/INFO]: <Mike_YP_27> no[m
-[00:15:12] [Async Chat Thread - #22/INFO]: <GatoDeNieve> no tengo idea[m
-[00:15:17] [Async Chat Thread - #22/INFO]: <GatoDeNieve> jaja[m
-[00:15:25] [Async Chat Thread - #22/INFO]: <PEPELOTAS> como que flote?[m
-[00:15:29] [Async Chat Thread - #22/INFO]: <Mike_YP_27> para una trampa[m
-[00:15:29] [Async Chat Thread - #22/INFO]: <GatoDeNieve> a lo mejor usando pistones y soul sand, como el agua con burbujas[m
-[00:15:45] [Async Chat Thread - #22/INFO]: <GatoDeNieve> así flotaría hacia arriba (?)[m
-[00:16:01] [Async Chat Thread - #22/INFO]: <GatoDeNieve> para lo de la arena, solamente funciona con la generada automáticamente, creo[m
-[00:16:02] [Async Chat Thread - #22/INFO]: <PEPELOTAS> para una trampa usa los bloques de lava nuevos esos jalan hacia abajo[m
-[00:16:19] [Server thread/INFO]: Mike_YP_27 was blown up by Creeper
-[00:16:23] [Async Chat Thread - #22/INFO]: <GatoDeNieve> tu dices que flote en el aire y no caiga por gravedad no?[m
-[00:16:28] [Server thread/INFO]: GatoDeNieve issued server command: /tp PEPELOTAS
-[00:16:28] [Server thread/INFO]: [GatoDeNieve: Teleported GatoDeNieve to PEPELOTAS]
-[00:16:34] [Async Chat Thread - #22/INFO]: <PEPELOTAS> no[m
-[00:16:47] [Async Chat Thread - #22/INFO]: <PEPELOTAS> la arena de almas lo que hace es lanzarte para arriba{[m
-[00:16:54] [Async Chat Thread - #22/INFO]: <PEPELOTAS> el otro te jala hacia abajo[m
-[00:17:53] [Async Chat Thread - #22/INFO]: <Mike_YP_27> alguien tiene tierra[m
-[00:18:02] [Async Chat Thread - #22/INFO]: <GatoDeNieve> una pinche calaca con armadura de diamante, que pedo jaja[m
-[00:18:14] [Async Chat Thread - #22/INFO]: <GatoDeNieve> full diamante[m
-[00:18:18] [Async Chat Thread - #22/INFO]: <PEPELOTAS> jajaja[m
-[00:18:22] [Async Chat Thread - #22/INFO]: <GatoDeNieve> y arco encantado alv[m
-[00:20:01] [Async Chat Thread - #23/INFO]: <Mike_YP_27> me pueden dar dirt[m
-[00:20:05] [Async Chat Thread - #23/INFO]: <Mike_YP_27> pls[m
-[00:33:45] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[00:33:45] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[00:34:15] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[00:34:15] [Server thread/INFO]: GatoDeNieve left the game
-[00:34:16] [User Authenticator #20/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[00:34:16] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21459] logged in with entity id 21146 at ([maincra-server]-28.63664911176261, 60.0, -133.581636669879)
-[00:35:39] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[00:35:39] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[00:36:18] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
-[00:36:18] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
-[00:36:29] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode
-[00:36:37] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
-[00:36:37] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
-[00:36:51] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode survival
-[00:36:51] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Survival Mode]
-[00:37:36] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
-[00:37:36] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
-[00:40:14] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[00:40:14] [Server thread/INFO]: GatoDeNieve left the game
-[00:40:26] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[00:40:27] [Server thread/INFO]: PEPELOTAS left the game
-[00:40:32] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
-[00:40:32] [Server thread/INFO]: Mike_YP_27 left the game
-[00:42:25] [User Authenticator #21/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[00:42:25] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21047] logged in with entity id 21530 at ([maincra-server]-212.76701279019747, 85.74317126936853, -148.11912832066358)
-[00:46:25] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[00:46:25] [Server thread/INFO]: GatoDeNieve left the game
-[01:02:09] [User Authenticator #22/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[01:02:09] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21279] logged in with entity id 21671 at ([maincra-server]-224.31772654994572, 99.0, -145.77027172477287)
-[01:02:28] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[01:02:28] [Server thread/INFO]: GatoDeNieve left the game
-[01:03:29] [User Authenticator #23/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[01:03:29] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21359] logged in with entity id 21713 at ([maincra-server]-226.4716201412824, 99.0, -146.77281454680545)
-[02:16:46] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[02:16:46] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[02:21:00] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[02:21:00] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[02:42:04] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[02:42:04] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[02:42:18] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[02:42:18] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[03:21:59] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[03:21:59] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[03:22:08] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[03:22:08] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[04:05:15] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[04:05:15] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[04:05:18] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[04:05:18] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[04:33:43] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[04:33:45] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[04:51:57] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[04:51:57] [Server thread/INFO]: GatoDeNieve left the game
-[04:51:58] [User Authenticator #24/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[04:51:58] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21172] logged in with entity id 26422 at ([maincra-server]-159.77664835858712, 90.5, -99.10095984099142)
-[04:52:23] [Server thread/INFO]: GatoDeNieve lost connection: Timed out
-[04:52:23] [Server thread/INFO]: GatoDeNieve left the game
-[04:53:04] [User Authenticator #25/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[04:53:05] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:21227] logged in with entity id 26455 at ([maincra-server]-159.77664835858712, 90.5, -99.10095984099142)
-[04:59:58] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[04:59:58] [Server thread/INFO]: GatoDeNieve left the game
-[07:01:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[07:01:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[13:47:30] [JDA RateLimit-Worker 1/ERROR]: [DiscordSRV] [JDA] Requester timed out while executing a request
-java.net.SocketTimeoutException: timeout
-	at github.scarsz.discordsrv.dependencies.okio.Okio$4.newTimeoutException(Okio.java:232)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout.exit(AsyncTimeout.java:286)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
-	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.indexOf(RealBufferedSource.java:358)
-	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:230)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:226)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:202)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:101)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:94)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:264)
-	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.execute(RealCall.java:93)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:191)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:234)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:133)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:116)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.ratelimit.BotRateLimiter$Bucket.run(BotRateLimiter.java:350)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
-	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
-	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
-	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
-	at github.scarsz.discordsrv.dependencies.okio.Okio$2.read(Okio.java:140)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
-	... 31 more
-
-[13:47:31] [ForkJoinPool.commonPool-worker-1/ERROR]: [DiscordSRV] [JDA] RestAction queue returned failure: [ErrorResponseException] -1: java.net.SocketTimeoutException
-java.net.SocketTimeoutException: timeout
-	at github.scarsz.discordsrv.dependencies.okio.Okio$4.newTimeoutException(Okio.java:232)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout.exit(AsyncTimeout.java:286)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
-	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.indexOf(RealBufferedSource.java:358)
-	at github.scarsz.discordsrv.dependencies.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:230)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:226)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:202)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:101)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:94)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at github.scarsz.discordsrv.dependencies.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:264)
-	at github.scarsz.discordsrv.dependencies.okhttp3.RealCall.execute(RealCall.java:93)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:191)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:234)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:133)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.Requester.execute(Requester.java:116)
-	at github.scarsz.discordsrv.dependencies.jda.core.requests.ratelimit.BotRateLimiter$Bucket.run(BotRateLimiter.java:350)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
-	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
-	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
-	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
-	at github.scarsz.discordsrv.dependencies.okio.Okio$2.read(Okio.java:140)
-	at github.scarsz.discordsrv.dependencies.okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
-	... 31 more
-
-[13:56:41] [User Authenticator #26/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[13:56:41] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22484] logged in with entity id 26768 at ([maincra-server]-152.69999998807907, 38.0, -148.67077564492527)
-[13:59:07] [Server thread/INFO]: Mike_YP_27 issued server command: /?
-[14:24:24] [Server thread/INFO]: Mike_YP_27 has made the advancement [A Seedy Place]
-[14:31:53] [User Authenticator #27/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[14:31:54] [Server thread/INFO]: Jacqueline[/187.188.76.120:21754] logged in with entity id 28044 at ([maincra-server]-37.425345460155434, 65.0, -192.2811198143384)
-[14:36:54] [Server thread/INFO]: Mike_YP_27 has made the advancement [Not Today, Thank You]
-[14:39:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > Quién es mike
-[14:40:21] [Async Chat Thread - #24/INFO]: <Jacqueline> es mi hermano XD[m
-[14:42:47] [User Authenticator #28/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[14:42:48] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:26793] logged in with entity id 29020 at ([maincra-server]-176.40859254571959, 63.0, -167.05421383572974)
-[14:44:18] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[14:44:18] [Server thread/INFO]: GatoDeNieve left the game
-[15:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[15:04:30] [User Authenticator #29/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[15:04:31] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:27123] logged in with entity id 29922 at ([maincra-server]-179.1279358892305, 84.49286932196497, -110.83836435040794)
-[15:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[15:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
-[15:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[15:11:27] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[15:11:27] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[15:13:01] [Server thread/WARN]: Horse moved wrongly!
-[15:14:05] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:fishing_rod
-[15:14:05] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Fishing Rod] to GatoDeNieve]
-[15:14:36] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[15:14:36] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[15:15:30] [Server thread/INFO]: Mike_YP_27 has made the advancement [Hot Stuff]
-[15:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[15:15:44] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[15:15:44] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[15:21:55] [Server thread/INFO]: Jacqueline has completed the challenge [Hero of the Village]
-[15:22:56] [Server thread/INFO]: Jacqueline issued server command: /msg Jacqueline ajsda
-[15:23:41] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve me puedes poner en modo spectador porfavor
-[15:24:33] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve que me perdi
-[15:24:58] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 aprieta F3 y checa las coordenadas, 0, 62, 0 son el inicio del mundo
-[15:25:27] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 tambien puedes usar la brújula que sale en tu inventario para guiarte
-[15:25:39] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 la que sale en el recetario
-[15:26:18] [Server thread/INFO]: Mike_YP_27 issued server command: /msg GatoDeNieve pero estoy bajotierra
-[15:26:33] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 nomás sube
-[15:27:10] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
-[15:27:11] [Server thread/INFO]: Mike_YP_27 left the game
-[15:27:15] [User Authenticator #30/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[15:27:15] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22508] logged in with entity id 31268 at ([maincra-server]-173.2275658575644, 24.0, -82.964336574604)
-[15:27:40] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
-[15:27:40] [Server thread/INFO]: Mike_YP_27 left the game
-[15:28:18] [User Authenticator #31/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[15:28:18] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22520] logged in with entity id 31310 at ([maincra-server]-173.2275658575644, 24.0, -82.964336574604)
-[15:29:39] [Server thread/WARN]: Horse moved wrongly!
-[15:29:39] [Server thread/WARN]: Horse moved wrongly!
-[15:29:39] [Server thread/WARN]: Horse moved wrongly!
-[15:34:24] [Server thread/INFO]: Mike_YP_27 has made the advancement [Ol' Betsy]
-[15:39:54] [Server thread/INFO]: GatoDeNieve issued server command: /experience set GatoDeNieve 100 levels
-[15:39:54] [Server thread/INFO]: [GatoDeNieve: Set 100 experience levels on GatoDeNieve]
-[15:45:13] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
-[15:45:13] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
-[15:45:13] [Server thread/INFO]: Mike_YP_27 left the game
-[15:48:38] [User Authenticator #32/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[15:48:38] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21799] logged in with entity id 32869 at ([maincra-server]-181.4653282264659, 53.86179243348067, -68.61311261126257)
-[15:48:46] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
-[15:48:46] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
-[15:48:46] [Server thread/INFO]: Mike_YP_27 left the game
-[15:52:33] [User Authenticator #33/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[15:52:34] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21834] logged in with entity id 33241 at ([maincra-server]-181.4653282264659, 53.783392431954795, -68.61311261126257)
-[15:52:38] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
-[15:52:38] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
-[15:52:38] [Server thread/INFO]: Mike_YP_27 left the game
-[15:52:44] [User Authenticator #34/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[15:52:44] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21838] logged in with entity id 33255 at ([maincra-server]-181.4653282264659, 53.0, -68.61311261126257)
-[15:53:29] [Server thread/INFO]: GatoDeNieve issued server command: /msg Mike_YP_27 sigues bajo tierra?
-[15:57:27] [Async Chat Thread - #25/INFO]: <GatoDeNieve> hola[m
-[15:57:34] [Async Chat Thread - #25/INFO]: <Mike_YP_27> hola[m
-[16:00:38] [Server thread/WARN]: Horse moved wrongly!
-[16:00:38] [Server thread/WARN]: Horse moved wrongly!
-[16:00:38] [Server thread/WARN]: Horse moved wrongly!
-[16:00:38] [Server thread/WARN]: Horse moved wrongly!
-[16:00:39] [Server thread/WARN]: Horse moved wrongly!
-[16:00:39] [Server thread/WARN]: Horse moved wrongly!
-[16:03:00] [Server thread/WARN]: Horse moved wrongly!
-[16:07:02] [Server thread/WARN]: Horse moved wrongly!
-[16:07:02] [Server thread/WARN]: Horse moved wrongly!
-[16:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[16:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8846ms or 176 ticks behind
-[16:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14126ms or 282 ticks behind
-[16:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13793ms or 275 ticks behind
-[16:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[16:16:47] [Server thread/INFO]: Mike_YP_27 has reached the goal [Sky's the Limit]
-[16:26:16] [Server thread/WARN]: Horse moved wrongly!
-[16:26:16] [Server thread/WARN]: Horse moved wrongly!
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.980163424551677,0.0,-19.03363868287144
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.910326064128284,0.0,-19.481389408645924
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.8140433530525755,0.0,-19.928433589573103
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.703610262106224,0.0,-20.375099712439464
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.585605585019223,0.0,-20.821563543975145
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.463549503149508,0.0,-21.267919133453034
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.339325595356854,0.0,-21.714216804763907
-[16:26:29] [Server thread/WARN]: Horse (vehicle of Mike_YP_27) moved too quickly! -6.213941727134625,0.0,-22.16048348521838
-[16:33:27] [Server thread/WARN]: Mike_YP_27 moved too quickly! 2.34913089082616,-17.176941895073362,-5.894293124248549
-[16:35:57] [Server thread/WARN]: GatoDeNieve moved wrongly!
-[16:36:06] [Server thread/WARN]: GatoDeNieve moved wrongly!
-[16:37:22] [Server thread/WARN]: GatoDeNieve moved wrongly!
-[16:38:57] [Server thread/WARN]: GatoDeNieve moved too quickly! 154.45881115891962,-15.766367993957516,199.90276689438656
-[16:45:12] [Server thread/WARN]: Mike_YP_27 moved too quickly! 155.39180874134584,-16.121296840539202,200.7174107009858
-[16:54:08] [Server thread/WARN]: Mike_YP_27 moved too quickly! 156.64276584969699,-15.8125,200.95547046709348
-[16:56:02] [Server thread/INFO]: GatoDeNieve has made the advancement [The City at the End of the Game]
-[17:16:38] [Server thread/INFO]: Mike_YP_27 has made the advancement [Fishy Business]
-[17:22:07] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 64
-[17:22:07] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Cobblestone] to GatoDeNieve]
-[17:23:56] [Server thread/INFO]: Jacqueline lost connection: Timed out
-[17:23:56] [Server thread/INFO]: Jacqueline left the game
-[17:24:51] [User Authenticator #35/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[17:24:51] [Server thread/INFO]: Jacqueline[/187.188.76.120:21707] logged in with entity id 41284 at ([maincra-server]-100.7888746132777, 66.02167597134077, -268.69999998807907)
-[17:27:21] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:cobblestone 64
-[17:27:21] [Server thread/INFO]: [GatoDeNieve: Gave 64 [Cobblestone] to GatoDeNieve]
-[17:27:35] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
-[17:27:35] [Server thread/INFO]: Mike_YP_27 left the game
-[17:35:37] [Server thread/WARN]: GatoDeNieve moved too quickly! 7.114181816681139,1.0,7.721546683448537
-[17:42:32] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[17:42:32] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[17:43:23] [Server thread/WARN]: GatoDeNieve moved too quickly! 0.422949161964425,0.0,20.79690475294072
-[17:43:50] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[17:43:50] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[17:47:12] [Server thread/WARN]: GatoDeNieve moved too quickly! 7.231429583406737,0.0,-6.93764902350857
-[17:47:45] [Server thread/WARN]: GatoDeNieve moved too quickly! 2.838694919555479,-6.0,-7.84688834393134
-[17:48:32] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
-[17:48:32] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
-[17:48:43] [Server thread/WARN]: GatoDeNieve moved too quickly! 155.20816205374845,-16.399197809526513,200.3997779675138
-[17:51:56] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
-[17:51:56] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
-[17:52:19] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:shulker_box
-[17:52:19] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Shulker Box] to GatoDeNieve]
-[17:52:33] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:dragon_head
-[17:52:33] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Dragon Head] to GatoDeNieve]
-[17:52:36] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:dragon
-[17:52:41] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:dragon_egg
-[17:52:41] [Server thread/INFO]: GatoDeNieve has reached the goal [The Next Generation]
-[17:52:41] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Dragon Egg] to GatoDeNieve]
-[17:52:54] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:dragon_breath
-[17:52:54] [Server thread/INFO]: GatoDeNieve has reached the goal [You Need a Mint]
-[17:52:54] [Server thread/INFO]: [GatoDeNieve: Gave 1 [Dragon's Breath] to GatoDeNieve]
-[17:53:55] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:end_rod 25
-[17:53:55] [Server thread/INFO]: [GatoDeNieve: Gave 25 [End Rod] to GatoDeNieve]
-[17:54:03] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:end_portal_frame
-[17:54:03] [Server thread/INFO]: [GatoDeNieve: Gave 1 [End Portal Frame] to GatoDeNieve]
-[17:54:35] [Server thread/INFO]: GatoDeNieve has made the advancement [A Throwaway Joke]
-[17:57:29] [Server thread/WARN]: Jacqueline moved too quickly! 3.867786759825904,0.0,9.263951843839521
-[18:05:09] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[18:05:09] [Server thread/INFO]: GatoDeNieve left the game
-[18:21:14] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[18:21:14] [Server thread/INFO]: Jacqueline left the game
-[19:48:53] [User Authenticator #36/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[19:48:53] [Server thread/INFO]: aomali2[/187.189.187.177:17530] logged in with entity id 45956 at ([maincra-server]-8.80522485750436, 88.0, -41.511353314801454)
-[20:00:43] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[20:00:43] [Server thread/INFO]: aomali2 left the game
-[20:00:56] [User Authenticator #37/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[20:00:56] [Server thread/INFO]: aomali2[/187.189.187.177:17945] logged in with entity id 46050 at ([maincra-server]-11.45703667190434, 78.0, -35.08380086051407)
-[20:01:05] [Async Chat Thread - #26/INFO]: <aomali2> porque me sacan?[m
-[20:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[20:52:52] [User Authenticator #38/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[20:52:52] [Server thread/INFO]: Jacqueline[/187.188.76.120:22341] logged in with entity id 46734 at ([maincra-server]-90.27148968484252, 69.0, -248.46149725912213)
-[20:52:56] [Async Chat Thread - #27/INFO]: <aomali2> hola[m
-[20:53:15] [Async Chat Thread - #27/INFO]: <Jacqueline> hola[m
-[20:53:22] [Async Chat Thread - #27/INFO]: <aomali2> como tas[m
-[20:54:20] [Async Chat Thread - #27/INFO]: <Jacqueline> bien[m
-[20:54:28] [Async Chat Thread - #27/INFO]: <aomali2> que bueno :P[m
-[20:55:44] [Async Chat Thread - #28/INFO]: <aomali2> soi yo o me gustan los hornos?[m
-[20:56:45] [Async Chat Thread - #29/INFO]: <Jacqueline> no se[m
-[20:58:01] [Async Chat Thread - #30/INFO]: <aomali2> esque tengo mas de 50 en mi casa[m
-[20:58:08] [Async Chat Thread - #30/INFO]: <aomali2> eso quema masibamente[m
-[20:58:16] [Async Chat Thread - #30/INFO]: <aomali2> 2 cofres enteros xd[m
-[20:58:23] [Async Chat Thread - #30/INFO]: <aomali2> de cristal[m
-[20:58:45] [Async Chat Thread - #30/INFO]: <Jacqueline> facil[m
-[20:58:53] [Async Chat Thread - #30/INFO]: <aomali2> pues si xd[m
-[20:59:24] [Server thread/INFO]: Jacqueline lost connection: Disconnected
-[20:59:24] [Server thread/INFO]: Jacqueline left the game
-[21:59:52] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:59:52] [Server thread/INFO]: aomali2 left the game
-[22:06:13] [User Authenticator #39/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:06:13] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17495] logged in with entity id 47542 at ([maincra-server]-36.69999998807898, 78.0625, -193.91511331134961)
-[22:07:29] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[22:07:29] [Server thread/INFO]: PEPELOTAS left the game
-[22:07:55] [User Authenticator #40/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:07:55] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17565] logged in with entity id 47576 at ([maincra-server]-51.620253096247, 65.0, -191.04890378898793)
-[22:12:18] [Server thread/WARN]: PEPELOTAS moved too quickly! 156.45697135851276,-15.921599998474122,199.59708615480795
-[22:15:36] [Server thread/INFO]: PEPELOTAS has reached the goal [The End... Again...]
-[22:27:35] [Server thread/INFO]: PEPELOTAS fell out of the world
-[22:33:09] [Server thread/INFO]: PEPELOTAS has made the advancement [Withering Heights]
-[22:48:29] [Server thread/WARN]: PEPELOTAS moved too quickly! -11.416113616494329,0.049746495416755465,-3.103270586724193
-[23:12:37] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:12:37] [Server thread/INFO]: PEPELOTAS left the game
-[23:12:53] [User Authenticator #41/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[23:12:53] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22050] logged in with entity id 83075 at ([maincra-server]-144.41654752547726, 63.0, -142.43049849543013)
-[23:14:00] [Server thread/INFO]: Mike_YP_27 issued server command: /gamemode creative
-[23:15:09] [User Authenticator #42/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:15:09] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17695] logged in with entity id 84821 at ([maincra-server]-132.19012312678953, 72.88130623597132, -196.824950431839)
-[23:30:08] [Server thread/INFO]: Mike_YP_27 was slain by Vex
-[23:38:24] [User Authenticator #43/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:38:24] [Server thread/INFO]: aomali2[/187.189.187.177:17454] logged in with entity id 100203 at ([maincra-server]-10.302379637665876, 78.0, -63.11198903690013)
-[23:38:36] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:38:36] [Server thread/INFO]: aomali2 left the game
-[23:39:17] [User Authenticator #44/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[23:39:17] [Server thread/INFO]: Jacqueline[/187.188.76.120:21746] logged in with entity id 100777 at ([maincra-server]-97.68938493535792, 74.0, -255.8841545281653)
-[23:39:54] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline
-[23:39:54] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Jacqueline]
-[23:40:26] [Server thread/INFO]: Mike_YP_27 was killed by Evoker using magic
-[23:41:16] [Server thread/INFO]: Mike_YP_27 has made the advancement [Getting an Upgrade]
-[23:41:45] [Server thread/INFO]: Mike_YP_27 was slain by Vex
-[23:42:38] [Server thread/INFO]: Mike_YP_27 was slain by Vex
-[23:43:13] [User Authenticator #45/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:43:13] [Server thread/INFO]: aomali2[/187.189.187.177:17556] logged in with entity id 103328 at ([maincra-server]-10.302379637665876, 78.0, -63.11198903690013)
-[23:45:59] [Async Chat Thread - #31/INFO]: <aomali2> te cubro con mi escudo[m
-[23:47:37] [Server thread/WARN]: aomali2 moved too quickly! 10.237904920245725,1.252203340253729,5.051198353985228
-[23:47:52] [Async Chat Thread - #32/INFO]: <aomali2> quieres guerra jaqui?[m
-[23:48:01] [Async Chat Thread - #32/INFO]: <aomali2> yo protejo a mi tio[m
-[23:48:09] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline te pasaste xD
-[23:48:27] [Server thread/WARN]: PEPELOTAS moved too quickly! -0.009254932038814445,0.0,-10.07887900977056
-[23:48:58] [Server thread/INFO]: Mike_YP_27 has made the advancement [Ice Bucket Challenge]
-[23:49:13] [Server thread/INFO]: Mike_YP_27 has made the advancement [Spooky Scary Skeleton]
-[23:49:42] [Async Chat Thread - #33/INFO]: <Jacqueline> tu empezaste[m
-[23:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[23:50:01] [Async Chat Thread - #33/INFO]: <Jacqueline> tu estas en creativo[m
-[23:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12166ms or 243 ticks behind
-[23:50:38] [Server thread/INFO]: PEPELOTAS issued server command: /msg Jacqueline yo que te hize xD
-[23:50:47] [Async Chat Thread - #33/INFO]: <aomali2> k?[m
-[23:50:56] [Async Chat Thread - #33/INFO]: <Jacqueline> llenaste mi casa de moustros[m
-[23:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7196ms or 143 ticks behind
-[23:51:07] [Async Chat Thread - #33/INFO]: <PEPELOTAS> puse una trampa xD[m
-[23:51:16] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
-[23:51:16] [Server thread/INFO]: Mike_YP_27 left the game
-[23:51:23] [User Authenticator #46/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[23:51:23] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22161] logged in with entity id 108591 at ([maincra-server]-82.01249998807907, 178.0, -114.30000001192084)
-[23:51:26] [Async Chat Thread - #33/INFO]: <PEPELOTAS> pisaron la placa de presion[m
-[23:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[23:51:48] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
-[23:51:48] [Server thread/INFO]: Mike_YP_27 left the game
-[23:51:56] [User Authenticator #47/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
-[23:51:57] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22188] logged in with entity id 108907 at ([maincra-server]-82.01249998807907, 178.0, -114.30000001192084)
-[23:54:06] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:54:06] [Server thread/INFO]: aomali2 left the game
-[23:54:08] [User Authenticator #48/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:54:08] [Server thread/INFO]: aomali2[/187.189.187.177:17739] logged in with entity id 110289 at ([maincra-server]-88.64671054885264, 64.0, -234.1399440965967)
-[23:55:27] [Server thread/INFO]: Mike_YP_27 was shot by Skeleton
-[23:58:29] [Async Chat Thread - #34/INFO]: <aomali2> lo matamos :D[m
-[23:58:37] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:58:37] [Server thread/INFO]: aomali2 left the game
-[23:58:39] [User Authenticator #49/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:58:39] [Server thread/INFO]: aomali2[/187.189.187.177:17832] logged in with entity id 113231 at ([maincra-server]-84.75698799269479, 69.0, -258.3041193317468)
-[23:58:47] [Async Chat Thread - #34/INFO]: <aomali2> lo matamos :D[m
-[23:59:41] [Async Chat Thread - #34/INFO]: <Jacqueline> a quien?[m
-[23:59:50] [Async Chat Thread - #34/INFO]: <aomali2> a el inbocador :D[m
+[00:01:03] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:02:01] [Server thread/INFO]: Mike_YP_27 was killed by Evoker using magic
+[00:02:26] [Server thread/INFO]: Mike_YP_27 was killed by Evoker using magic
+[00:02:36] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:02:47] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:02:59] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:03:12] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:03:23] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:03:32] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[00:03:32] [Server thread/INFO]: Mike_YP_27 left the game
+[00:03:42] [User Authenticator #50/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[00:03:42] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21772] logged in with entity id 117363 at ([maincra-server]-155.5, 67.0000002, -139.5)
+[00:04:57] [Server thread/INFO]: Mike_YP_27 was slain by Vex
+[00:05:00] [Server thread/WARN]: Mike_YP_27 was kicked for floating too long!
+[00:05:00] [Server thread/INFO]: Mike_YP_27 lost connection: Flying is not enabled on this server
+[00:05:00] [Server thread/INFO]: Mike_YP_27 left the game
+[00:05:08] [User Authenticator #51/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[00:05:08] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:21853] logged in with entity id 118527 at ([maincra-server]-26.67002408154472, 65.16949023489036, -202.4682597941303)
+[00:06:33] [Async Chat Thread - #35/INFO]: <aomali2> ayuda en el end tengo 4 withers no puedo minar y se destrullo el portal ayuda[m
+[00:06:43] [Async Chat Thread - #35/INFO]: <aomali2> prendanlo porfa[m
+[00:06:52] [Async Chat Thread - #35/INFO]: <aomali2> no quiero morir[m
+[00:07:08] [Server thread/INFO]: Mike_YP_27 was slain by Elder Guardian
+[00:08:36] [Server thread/INFO]: PEPELOTAS issued server command: /tps Jacqueline
+[00:08:57] [Server thread/WARN]: Jacqueline moved too quickly! -0.5624253221399442,0.0,11.454592345444183
+[00:09:18] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:09:18] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:10:34] [Async Chat Thread - #36/INFO]: <aomali2> dejenme reparar mi armadura >:U[m
+[00:10:38] [Async Chat Thread - #36/INFO]: <aomali2> noobbb[m
+[00:13:40] [Async Chat Thread - #37/INFO]: <aomali2> mia[m
+[00:13:53] [Server thread/INFO]: PEPELOTAS issued server command: /experience add Jacqueline 300 levels
+[00:13:53] [Server thread/INFO]: [PEPELOTAS: Gave 300 experience levels to Jacqueline]
+[00:13:57] [Server thread/WARN]: PEPELOTAS moved too quickly! -9.946119584310892,0.0,2.309352629520248
+[00:15:34] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS puedes darme mucha arena pls
+[00:16:13] [Server thread/INFO]: Mike_YP_27 was slain by Wolf
+[00:16:31] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS puedes darme mucha arena pls
+[00:17:05] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS puedes darme mucha arena pls
+[00:17:27] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS puedes darme mucha arena pls
+[00:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[00:18:28] [Server thread/INFO]: Mike_YP_27 was slain by Panda
+[00:18:54] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[00:18:54] [Server thread/INFO]: Mike_YP_27 left the game
+[00:19:01] [User Authenticator #52/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[00:19:01] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22163] logged in with entity id 129194 at ([maincra-server]-148.71937389192402, 63.0, -156.12858648986347)
+[00:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[00:19:07] [Server thread/WARN]: PEPELOTAS moved too quickly! 2.1229764616966094,0.0,12.119879723500475
+[00:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7564ms or 151 ticks behind
+[00:19:49] [Server thread/WARN]: Mike_YP_27 moved too quickly! -9.558295904383556,-7.0,-0.7853355802310489
+[00:19:51] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[00:19:51] [Server thread/INFO]: Mike_YP_27 left the game
+[00:19:55] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[00:19:55] [Server thread/INFO]: aomali2 left the game
+[00:20:07] [User Authenticator #53/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[00:20:07] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22179] logged in with entity id 129923 at ([maincra-server]-158.99012325696708, 63.0, -149.40201397025348)
+[00:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[00:20:16] [User Authenticator #54/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[00:20:17] [Server thread/INFO]: aomali2[/187.189.187.177:17707] logged in with entity id 130065 at ([maincra-server]-105.30000001192093, 66.0, -240.06502394522465)
+[00:20:32] [Server thread/INFO]: Mike_YP_27 lost connection: Timed out
+[00:20:32] [Server thread/INFO]: Mike_YP_27 left the game
+[00:20:37] [Async Chat Thread - #38/INFO]: <aomali2> ttt[m
+[00:20:38] [User Authenticator #55/INFO]: UUID of player Mike_YP_27 is a9ddc78d-9f30-3585-ab37-9a65cc16b497
+[00:20:39] [Server thread/INFO]: Mike_YP_27[/187.188.76.120:22196] logged in with entity id 130436 at ([maincra-server]-158.99012325696708, 63.0, -149.40201397025348)
+[00:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9122ms or 182 ticks behind
+[00:21:36] [Server thread/INFO]: Mike_YP_27 was blown up by Creeper
+[00:23:13] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:23:13] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:23:56] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:23:56] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:25:55] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:25:55] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:25:56] [Server thread/WARN]: Jacqueline moved too quickly! 155.62824968909894,-16.26474076635654,199.91861741780718
+[00:25:58] [Server thread/WARN]: PEPELOTAS moved too quickly! 155.1766167834844,-16.243060432843507,200.9642866044502
+[00:26:02] [Server thread/WARN]: aomali2 moved too quickly! 156.42030608033429,-15.8125,201.65824275574056
+[00:27:21] [Server thread/INFO]: Mike_YP_27 fell from a high place
+[00:28:17] [Async Chat Thread - #39/INFO]: <aomali2> jaqui pegale yo quito de donde se cura[m
+[00:28:40] [Server thread/WARN]: Mike_YP_27 moved too quickly! 155.8002738329302,-16.121296840539202,199.94938886571347
+[00:31:42] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS me matas a los endermans
+[00:32:12] [Server thread/INFO]: Mike_YP_27 issued server command: /msg PEPELOTAS y me das un pico de diamante
+[00:32:41] [Server thread/INFO]: Mike_YP_27 was slain by Enderman
+[00:34:20] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[00:34:20] [Server thread/INFO]: aomali2 left the game
+[00:34:50] [Server thread/WARN]: Mike_YP_27 moved too quickly! 156.12974622316796,-16.121296840539202,199.7178267112619
+[00:35:55] [Server thread/INFO]: Jacqueline has reached the goal [Postmortal]
+[00:36:50] [User Authenticator #56/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[00:36:51] [Server thread/INFO]: aomali2[/187.189.187.177:18294] logged in with entity id 143594 at ([maincra-server_the_end]22.736423329362623, 61.0, 56.386777594512814)
+[00:37:55] [Server thread/INFO]: aomali2 fell from a high place
+[00:38:21] [Server thread/INFO]: Mike_YP_27 was killed by Ender Dragon using magic
+[00:38:48] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:38:48] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:40:32] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27 PEPELOTAS
+[00:40:33] [Server thread/INFO]: [PEPELOTAS: Teleported Mike_YP_27 to PEPELOTAS]
+[00:43:04] [Server thread/INFO]: Mike_YP_27 fell from a high place
+[00:43:40] [Server thread/WARN]: Mike_YP_27 moved too quickly! 156.3984166533887,-15.766367993957516,200.87203854919693
+[00:44:28] [Server thread/WARN]: PEPELOTAS moved too quickly! -4.177618188966864,10.125000402331295,-6.7072681700950305
+[00:46:12] [Server thread/INFO]: Mike_YP_27 fell from a high place
+[00:49:23] [Server thread/INFO]: Jacqueline has made the advancement [Free the End]
+[00:49:35] [Server thread/INFO]: Mike_YP_27 blew up
+[00:50:01] [Async Chat Thread - #40/INFO]: <aomali2> reviviraa[m
+[00:50:15] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:50:15] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:50:20] [Server thread/WARN]: Mike_YP_27 moved too quickly! 155.8537221309889,-16.121296840539202,200.937770161644
+[00:50:53] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27 PEPELOTAS
+[00:50:53] [Server thread/INFO]: [PEPELOTAS: Teleported Mike_YP_27 to PEPELOTAS]
+[00:51:28] [Server thread/WARN]: aomali2 moved too quickly! 154.46968086360994,-15.921599998474122,199.61833250765284
+[00:51:29] [Server thread/INFO]: aomali2 has reached the goal [The End... Again...]
+[00:51:47] [Server thread/INFO]: PEPELOTAS fell out of the world
+[00:52:27] [Async Chat Thread - #41/INFO]: <aomali2> voi a vivir en el dragon porsi me visitan traigan comida tengo habre[m
+[00:52:36] [Server thread/INFO]: Mike_YP_27 was slain by Husk
+[00:53:03] [Server thread/INFO]: PEPELOTAS issued server command: /tp
+[00:53:10] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2
+[00:53:10] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to aomali2]
+[00:54:23] [Async Chat Thread - #42/INFO]: <aomali2> ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[m
+[00:54:40] [Async Chat Thread - #42/INFO]: <aomali2> D,:[m
+[00:56:02] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:56:02] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:56:13] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27
+[00:56:13] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Mike_YP_27]
+[00:56:17] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:56:17] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:56:22] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:56:22] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:57:01] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27 PEPELOTAS
+[00:57:01] [Server thread/INFO]: [PEPELOTAS: Teleported Mike_YP_27 to PEPELOTAS]
+[00:57:26] [Server thread/INFO]: PEPELOTAS issued server command: /tp Mike_YP_27 PEPELOTAS
+[00:57:26] [Server thread/INFO]: [PEPELOTAS: Teleported Mike_YP_27 to PEPELOTAS]
+[00:57:37] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:57:37] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:57:44] [Server thread/INFO]: aomali2 fell from a high place
+[00:58:22] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:22] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:43] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:43] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:48] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:48] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:49] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:49] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:53] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:53] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:54] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:54] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:55] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:55] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:56] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:56] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:56] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:56] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:58:57] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:58:57] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:59:01] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline PEPELOTAS
+[00:59:01] [Server thread/INFO]: [PEPELOTAS: Teleported Jacqueline to PEPELOTAS]
+[00:59:23] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:59:23] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[00:59:29] [Server thread/WARN]: Jacqueline moved too quickly! -2.805684480010626,1.5800000131130219,-10.730044041189046
+[00:59:34] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[00:59:34] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[01:01:03] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[01:01:03] [Server thread/INFO]: PEPELOTAS left the game
+[01:01:31] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[01:01:31] [Server thread/INFO]: Jacqueline left the game
+[01:02:18] [Server thread/INFO]: Mike_YP_27 lost connection: Disconnected
+[01:02:18] [Server thread/INFO]: Mike_YP_27 left the game
+[01:03:21] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[01:03:21] [Server thread/INFO]: aomali2 left the game
