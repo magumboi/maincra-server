@@ -2118,6 +2118,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2019-08-05 17:56:38 -0500",
       "minecraft:fox": "2019-08-04 22:58:16 -0500",
       "minecraft:pig": "2019-07-24 20:34:39 -0500",
       "minecraft:sheep": "2019-07-24 00:45:13 -0500",
