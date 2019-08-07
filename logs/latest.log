@@ -1,292 +1,213 @@
-[00:01:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 440 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:06:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 441 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:11:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 443 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:16:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 445 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:20:29] [User Authenticator #66/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[00:20:29] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:25486] logged in with entity id 906194 at ([maincra-server]-60.11767034120142, 65.0, -218.8129667328001)
-[00:21:11] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 446 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[00:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
-[00:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7301ms or 146 ticks behind
-[00:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[00:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
-[00:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6481ms or 129 ticks behind
-[00:26:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 448 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
-[00:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5422ms or 108 ticks behind
-[00:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5803ms or 116 ticks behind
-[00:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6531ms or 130 ticks behind
-[00:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[00:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[00:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11761ms or 235 ticks behind
-[00:32:34] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 449 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5575ms or 111 ticks behind
-[00:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9715ms or 194 ticks behind
-[00:33:29] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[00:33:29] [Server thread/INFO]: GatoDeNieve left the game
-[00:33:31] [User Authenticator #67/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
-[00:33:31] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:24610] logged in with entity id 911841 at ([maincra-server]-91.96778326457401, 65.0, -132.30915136148133)
-[00:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[00:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6884ms or 137 ticks behind
-[00:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[00:38:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 451 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
-[00:38:20] [Server thread/WARN]: GatoDeNieve moved too quickly! -7.827257403883664,6.0,3.8104150095378913
-[00:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6027ms or 120 ticks behind
-[00:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[00:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[00:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[00:43:28] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 452 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5391ms or 107 ticks behind
-[00:45:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[00:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[00:47:07] [Server thread/WARN]: GatoDeNieve moved too quickly! 3.5080536856129925,0.875,-9.85347549394345
-[00:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[00:48:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 454 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[00:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[00:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5542ms or 110 ticks behind
-[00:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6821ms or 136 ticks behind
-[00:53:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[00:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6046ms or 120 ticks behind
-[00:54:23] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 455 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[00:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6182ms or 123 ticks behind
-[00:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5972ms or 119 ticks behind
-[00:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[00:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[00:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
-[00:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
-[00:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5923ms or 118 ticks behind
-[01:00:06] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 457 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
-[01:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
-[01:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5779ms or 115 ticks behind
-[01:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
-[01:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[01:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5929ms or 118 ticks behind
-[01:05:38] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 458 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6475ms or 129 ticks behind
-[01:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5504ms or 110 ticks behind
-[01:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[01:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[01:11:05] [Server thread/INFO]: GatoDeNieve issued server command: /give GatoDeNieve minecraft:shulker_shell 13
-[01:11:05] [Server thread/INFO]: [GatoDeNieve: Gave 13 [Shulker Shell] to GatoDeNieve]
-[01:11:06] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 460 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
-[01:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
-[01:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[01:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5725ms or 114 ticks behind
-[01:14:34] [Server thread/WARN]: GatoDeNieve moved too quickly! 8.539833046662437,-0.03584062504455687,-5.544291272775837
-[01:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
-[01:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6120ms or 122 ticks behind
-[01:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8710ms or 174 ticks behind
-[01:16:48] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 461 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6755ms or 135 ticks behind
-[01:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7067ms or 141 ticks behind
-[01:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5075ms or 101 ticks behind
-[01:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24475ms or 489 ticks behind
-[01:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22752ms or 455 ticks behind
-[01:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22837ms or 456 ticks behind
-[01:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20930ms or 418 ticks behind
-[01:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12158ms or 243 ticks behind
-[01:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
-[01:23:54] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 463 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5629ms or 112 ticks behind
-[01:28:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5435ms or 108 ticks behind
-[01:29:11] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 464 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5333ms or 106 ticks behind
-[01:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7068ms or 141 ticks behind
-[01:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5151ms or 103 ticks behind
-[01:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[01:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[01:34:37] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 466 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6239ms or 124 ticks behind
-[01:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6687ms or 133 ticks behind
-[01:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[01:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[01:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[01:40:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 467 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
-[01:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6470ms or 129 ticks behind
-[01:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6686ms or 133 ticks behind
-[01:44:09] [Server thread/WARN]: GatoDeNieve moved too quickly! 6.825799909593002,-2.0,-7.124147759317026
-[01:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[01:45:38] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 469 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5500ms or 110 ticks behind
-[01:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
-[01:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
-[01:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[01:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6609ms or 132 ticks behind
-[01:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[01:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[01:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6584ms or 131 ticks behind
-[01:51:21] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 471 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
-[01:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6666ms or 133 ticks behind
-[01:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6869ms or 137 ticks behind
-[01:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6044ms or 120 ticks behind
-[01:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[01:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7126ms or 142 ticks behind
-[01:56:58] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 472 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[01:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
-[01:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
-[01:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:59:28] [Server thread/WARN]: GatoDeNieve moved too quickly! 3.265074267108531,0.49520087700592086,-9.598770860479078
-[01:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
-[02:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
-[02:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5928ms or 118 ticks behind
-[02:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5666ms or 113 ticks behind
-[02:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
-[02:02:23] [Server thread/WARN]: GatoDeNieve moved too quickly! 10.011272465803842,0.0,-2.019679050216183
-[02:02:50] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 474 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7952ms or 159 ticks behind
-[02:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6993ms or 139 ticks behind
-[02:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[02:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[02:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7191ms or 143 ticks behind
-[02:08:18] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 475 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:08:26] [Server thread/WARN]: GatoDeNieve moved too quickly! -4.889813596633985,-6.0,7.047193697867797
-[02:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[02:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7194ms or 143 ticks behind
-[02:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
-[02:10:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[02:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[02:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[02:12:15] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
-[02:12:15] [Server thread/INFO]: GatoDeNieve left the game
-[02:13:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 477 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:18:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 478 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:23:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 480 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:28:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 481 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:33:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 483 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:38:49] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 485 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:40:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
-[02:43:54] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 486 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[02:49:02] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 488 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
-[02:54:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 489 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[02:59:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 491 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:04:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 492 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:09:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 494 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:14:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 496 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:19:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 497 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:24:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 499 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:29:05] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 500 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:34:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 502 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5296ms or 105 ticks behind
-[03:39:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 503 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:44:11] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 505 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:49:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 507 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:54:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 508 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[03:59:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 510 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:04:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 511 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:09:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 513 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:14:13] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 514 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:15:06] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[04:15:09] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[04:19:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 516 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:24:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 518 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:29:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 519 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:34:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 521 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:39:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 522 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:44:10] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 524 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:49:11] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 525 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5085ms or 101 ticks behind
-[04:54:15] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 527 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[04:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
-[04:59:20] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 528 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:04:22] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 530 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:09:20] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 532 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:14:20] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 533 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5923ms or 118 ticks behind
-[05:19:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 535 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5435ms or 108 ticks behind
-[05:24:32] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 536 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
-[05:29:37] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 538 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5197ms or 103 ticks behind
-[05:34:43] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 539 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6400ms or 128 ticks behind
-[05:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
-[05:39:56] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 541 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5587ms or 111 ticks behind
-[05:44:59] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 543 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:49:59] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 544 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6225ms or 124 ticks behind
-[05:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5356ms or 107 ticks behind
-[05:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5454ms or 109 ticks behind
-[05:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
-[05:55:21] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 546 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[05:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5191ms or 103 ticks behind
-[06:00:29] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 547 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:05:27] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 549 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:10:27] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 550 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
-[06:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5881ms or 117 ticks behind
-[06:15:38] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 552 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5643ms or 112 ticks behind
-[06:20:44] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 554 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:22:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6055ms or 121 ticks behind
-[06:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5175ms or 103 ticks behind
-[06:25:55] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 555 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:30:55] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 557 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6049ms or 120 ticks behind
-[06:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6026ms or 120 ticks behind
-[06:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6107ms or 122 ticks behind
-[06:36:13] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 558 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5514ms or 110 ticks behind
-[06:41:19] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 560 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5553ms or 111 ticks behind
-[06:46:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6057ms or 121 ticks behind
-[06:46:30] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 561 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6092ms or 121 ticks behind
-[06:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
-[06:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6080ms or 121 ticks behind
-[06:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[06:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
-[06:51:58] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 563 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5616ms or 112 ticks behind
-[06:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6047ms or 120 ticks behind
-[06:57:12] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 565 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[06:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
-[07:00:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
-[07:02:22] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 566 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5367ms or 107 ticks behind
-[07:07:30] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 568 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
-[07:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
-[07:12:40] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 569 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6029ms or 120 ticks behind
-[07:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5765ms or 115 ticks behind
-[07:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5197ms or 103 ticks behind
-[07:17:57] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 571 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5587ms or 111 ticks behind
-[07:23:03] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 572 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5629ms or 112 ticks behind
-[07:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5159ms or 103 ticks behind
-[07:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6157ms or 123 ticks behind
-[07:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6265ms or 125 ticks behind
-[07:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
-[07:28:31] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 574 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
-[07:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
-[07:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5784ms or 115 ticks behind
-[07:33:50] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 576 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
-[07:38:56] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 577 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6825ms or 136 ticks behind
-[07:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6464ms or 129 ticks behind
-[07:44:09] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 579 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7643ms or 152 ticks behind
-[07:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6642ms or 132 ticks behind
-[07:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
-[07:49:32] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 580 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:54:30] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 582 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
-[07:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5269ms or 105 ticks behind
-[07:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
-[07:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5358ms or 107 ticks behind
-[07:59:48] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 583 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:16:30] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[10:16:30] [Server thread/INFO]: Loading properties
+[10:16:30] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[10:16:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:16:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:16:30] [Server thread/INFO]: Debug logging is disabled
+[10:16:30] [Server thread/INFO]: Default game type: SURVIVAL
+[10:16:30] [Server thread/INFO]: Generating keypair
+[10:16:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:16:31] [Server thread/INFO]: Using epoll channel type
+[10:16:41] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
+[10:16:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:16:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:16:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:16:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:16:41] [Server thread/INFO]: Preparing level "maincra-server"
+[10:16:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:16:42] [Server thread/INFO]: Loaded 6 recipes
+[10:16:44] [Server thread/INFO]: -------- World Settings For [maincra-server] --------
+[10:16:44] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:16:44] [Server thread/INFO]: Mob Spawn Range: 6
+[10:16:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:16:44] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[10:16:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:16:44] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[10:16:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:16:44] [Server thread/INFO]: Max TNT Explosions: 10
+[10:16:44] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:16:44] [Server thread/INFO]: View Distance: 10
+[10:16:44] [Server thread/INFO]: Arrow Despawn Rate: 300
+[10:16:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:16:44] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:16:44] [Server thread/INFO]: Item Despawn Rate: 5000
+[10:16:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:16:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:11] [Server thread/INFO]: -------- World Settings For [maincra-server_nether] --------
+[10:17:11] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:17:11] [Server thread/INFO]: Mob Spawn Range: 6
+[10:17:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[10:17:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:11] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[10:17:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:17:11] [Server thread/INFO]: Max TNT Explosions: 10
+[10:17:11] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:17:11] [Server thread/INFO]: View Distance: 10
+[10:17:11] [Server thread/INFO]: Arrow Despawn Rate: 300
+[10:17:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:11] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:17:11] [Server thread/INFO]: Item Despawn Rate: 5000
+[10:17:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:11] [Server thread/INFO]: -------- World Settings For [maincra-server_the_end] --------
+[10:17:11] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:17:11] [Server thread/INFO]: Mob Spawn Range: 6
+[10:17:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:17:11] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[10:17:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:11] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[10:17:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:17:11] [Server thread/INFO]: Max TNT Explosions: 10
+[10:17:11] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:17:11] [Server thread/INFO]: View Distance: 10
+[10:17:11] [Server thread/INFO]: Arrow Despawn Rate: 300
+[10:17:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:11] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:17:11] [Server thread/INFO]: Item Despawn Rate: 5000
+[10:17:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:11] [Server thread/INFO]: Preparing start region for dimension 'maincra-server'/minecraft:overworld
+[10:17:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:17:14] [Server thread/INFO]: Time elapsed: 3291 ms
+[10:17:14] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_nether'/minecraft:the_nether
+[10:17:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:16] [Server thread/INFO]: Preparing spawn area: 85%
+[10:17:16] [Server thread/INFO]: Time elapsed: 1779 ms
+[10:17:16] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_the_end'/minecraft:the_end
+[10:17:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:17:19] [Server thread/INFO]: Time elapsed: 2673 ms
+[10:17:19] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
+[10:17:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:17:19] [Server thread/INFO]: Done (38.235s)! For help, type "help"
+[10:17:19] [Server thread/INFO]: Starting remote control listener
+[10:17:19] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[10:17:22] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[10:17:23] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[10:17:24] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[10:17:24] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Overjuan, LoL y galletitas(250047089432723456)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hehe-xd(250047089432723456)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:musica(493640162279030784)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-chat(603626295103848448)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-console(603627861781512202)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Libra ♎(449824936048197633)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:el-lobby-🛋(488866936457789441)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hablada-real-🙋🙍(460181774534967297)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:devs-chillones👨💻👨🍳(468929183150768131)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mimidisimos-chat-💪😴(582971485082091546)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:eventos-y-cumpleaños-🥒🙇🍰(470802141351772181)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:coliseo-versus-de-emotes-🆚(470805446601736192)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:owospam-⭕〰⭕(489313649685692416)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:counting(589153351258603524)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:smeg-memes-💩(460279858107252755)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:anime-dead-🎎(467897554743459871)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rayacraft-⏹⛏(543927938563833860)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cultura-ost🎼(451227973593333760)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:f-e-h-🤺(460165558168453130)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:overputas-deliciosas-🔫🏹🛡(479352599569760257)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ps3-xbox-pcerdo-etc-🖱💻📺🎮🕹(471319417830113301)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ligoleyens-🏰☄(512803398261932032)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:game-dev-💻🖱🎮(481674577953685515)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rpg-gaming-mmorpg-📺🏰🕹(498623576933400576)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:obo-oh-🃏🀄(532807307264917505)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:aqui-van-los-libros-📖📗(464686768927801354)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pero-mira-ese-paisaje-homs-🎇🗻🏕⛰(465340521728966688)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ropa-y-calzado-🧥🧤🧦👠👢🥾🥿(488879967174918145)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:arte-y-dibujos-hechos-por-ti-📃🖋✏✒🖊🖌(479540665500565512)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:meme-foundry-⏺🍆💿(479540558524710912)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-🎶🔊(509169481432432651)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:recetas-y-foodporn-🥗🥣🍱(504787725061324818)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cine-y-peliculas(598335044079058994)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:putas-excelentes-👯♀(449989096513994774)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:patas-diabeticas🦶🤔-y-fetiches-😏🤐(461058189711114262)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nalgas-peludas-y-pitos-picudos🐶🐺🦊(569788868417814528)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-homo-traprepucios-🧚♂(473300600239685632)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:salsahunters-👨💻-🍲(472510817670004737)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw-bot-🤖(477851245604765698)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pongan-🎶musica(467469885140893707)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:seccion-de-muditos-en-vc-🔇🔕(482066298210091018)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:fornais(591095349645410331)
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 603627861781512202
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[10:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[10:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[10:22:28] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:27:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:37:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:42:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:47:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:52:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[10:57:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:02:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:07:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:12:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:17:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:22:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:27:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:37:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:42:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:47:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:52:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[11:57:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
