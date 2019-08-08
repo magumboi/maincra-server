@@ -262,3 +262,57 @@
 [15:47:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
 [15:52:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
 [15:57:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:02:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:07:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:12:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:17:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:22:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:27:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:37:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:42:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:47:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:52:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[16:57:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:02:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:07:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:12:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:17:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:22:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:27:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:30:38] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[17:30:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[17:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:37:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:42:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:47:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:52:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[17:57:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:02:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:07:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:12:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:17:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:19:25] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[18:19:28] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[18:22:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:27:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:37:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:42:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:47:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:52:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[18:52:39] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[18:52:42] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[18:57:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:02:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:07:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:12:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:17:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:22:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:27:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:32:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:37:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:42:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:47:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:52:26] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
+[19:57:25] [Server thread/WARN]: Large Chunk Detected: ([-5, -3]) Size: 624 ./maincra-server_the_end/DIM1/region/r.-1.-1.mca
