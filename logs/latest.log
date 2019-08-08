@@ -23,3 +23,5 @@
 [01:18:14] [Server thread/INFO]: selfepidemiic has made the advancement [Isn't It Iron Pick]
 [01:39:04] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
 [01:39:04] [Server thread/INFO]: selfepidemiic left the game
+[06:02:27] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[06:02:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
