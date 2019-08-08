@@ -1,221 +1,25 @@
-[23:48:59] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[23:48:59] [Server thread/INFO]: Loading properties
-[23:49:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[23:49:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:49:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:49:00] [Server thread/INFO]: Debug logging is disabled
-[23:49:00] [Server thread/INFO]: Default game type: SURVIVAL
-[23:49:00] [Server thread/INFO]: Generating keypair
-[23:49:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:49:01] [Server thread/INFO]: Using epoll channel type
-[23:49:11] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
-[23:49:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:49:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:49:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:49:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:49:11] [Server thread/INFO]: Preparing level "maincra-server"
-[23:49:11] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[23:49:14] [Server thread/INFO]: Loaded 6 recipes
-[23:49:14] [Server thread/INFO]: -------- World Settings For [maincra-server] --------
-[23:49:14] [Server thread/INFO]: Experience Merge Radius: 6.0
-[23:49:14] [Server thread/INFO]: Mob Spawn Range: 6
-[23:49:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:49:14] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[23:49:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[23:49:14] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[23:49:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[23:49:14] [Server thread/INFO]: Max TNT Explosions: 10
-[23:49:14] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[23:49:14] [Server thread/INFO]: View Distance: 10
-[23:49:14] [Server thread/INFO]: Arrow Despawn Rate: 300
-[23:49:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:49:14] [Server thread/INFO]: Item Despawn Rate: 5000
-[23:49:14] [Server thread/INFO]: Item Merge Radius: 4.0
-[23:49:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:49:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:49:41] [Server thread/INFO]: -------- World Settings For [maincra-server_nether] --------
-[23:49:41] [Server thread/INFO]: Experience Merge Radius: 6.0
-[23:49:41] [Server thread/INFO]: Mob Spawn Range: 6
-[23:49:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[23:49:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[23:49:41] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[23:49:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[23:49:41] [Server thread/INFO]: Max TNT Explosions: 10
-[23:49:41] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[23:49:41] [Server thread/INFO]: View Distance: 10
-[23:49:41] [Server thread/INFO]: Arrow Despawn Rate: 300
-[23:49:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:49:41] [Server thread/INFO]: Item Despawn Rate: 5000
-[23:49:41] [Server thread/INFO]: Item Merge Radius: 4.0
-[23:49:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:49:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:49:41] [Server thread/INFO]: ---- Migration of old the_end folder required ----
-[23:49:41] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
-[23:49:41] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
-[23:49:41] [Server thread/INFO]: Attempting to move maincra-server/DIM1 to maincra-server_the_end/DIM1...
-[23:49:41] [Server thread/INFO]: Success! To restore the_end in the future, simply move maincra-server_the_end/DIM1 to maincra-server/DIM1
-[23:49:41] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
-[23:49:41] [Server thread/INFO]: -------- World Settings For [maincra-server_the_end] --------
-[23:49:41] [Server thread/INFO]: Experience Merge Radius: 6.0
-[23:49:41] [Server thread/INFO]: Mob Spawn Range: 6
-[23:49:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:49:41] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
-[23:49:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[23:49:41] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
-[23:49:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[23:49:41] [Server thread/INFO]: Max TNT Explosions: 10
-[23:49:41] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[23:49:41] [Server thread/INFO]: View Distance: 10
-[23:49:41] [Server thread/INFO]: Arrow Despawn Rate: 300
-[23:49:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:49:41] [Server thread/INFO]: Item Despawn Rate: 5000
-[23:49:41] [Server thread/INFO]: Item Merge Radius: 4.0
-[23:49:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:49:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:49:41] [Server thread/INFO]: Preparing start region for dimension 'maincra-server'/minecraft:overworld
-[23:49:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:43] [Server thread/INFO]: Preparing spawn area: 5%
-[23:49:44] [Server thread/INFO]: Preparing spawn area: 87%
-[23:49:44] [Server thread/INFO]: Time elapsed: 2994 ms
-[23:49:44] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_nether'/minecraft:the_nether
-[23:49:45] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:45] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:45] [Server thread/INFO]: Preparing spawn area: 0%
-[23:49:46] [Server thread/INFO]: Time elapsed: 1475 ms
-[23:49:46] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_the_end'/minecraft:the_end
-[23:49:46] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[23:49:46] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[23:49:47] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[23:49:47] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[23:49:48] [Server-Worker-1/INFO]: Preparing spawn area: 9%
-[23:49:48] [Server-Worker-1/INFO]: Preparing spawn area: 13%
-[23:49:49] [Server-Worker-1/INFO]: Preparing spawn area: 17%
-[23:49:49] [Server-Worker-1/INFO]: Preparing spawn area: 25%
-[23:49:50] [Server-Worker-1/INFO]: Preparing spawn area: 31%
-[23:49:50] [Server-Worker-1/INFO]: Preparing spawn area: 42%
-[23:49:51] [Server-Worker-1/INFO]: Preparing spawn area: 58%
-[23:49:51] [Server-Worker-1/INFO]: Preparing spawn area: 81%
-[23:49:52] [Server thread/INFO]: Time elapsed: 5905 ms
-[23:49:52] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
-[23:49:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:49:52] [Server thread/INFO]: Done (41.110s)! For help, type "help"
-[23:49:52] [Server thread/INFO]: Starting remote control listener
-[23:49:52] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[23:49:54] [User Authenticator #1/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
-[23:49:55] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
-[23:49:56] [Server thread/INFO]: Adrian[/187.233.2.52:52040] logged in with entity id 493 at ([maincra-server]65.84519880887514, 70.0, -479.31201048657266)
-[23:49:58] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
-[23:49:59] [JDA MainWS-WriteThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[23:49:59] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Overjuan, LoL y galletitas(250047089432723456)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hehe-xd(250047089432723456)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:musica(493640162279030784)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-chat(603626295103848448)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-console(603627861781512202)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Libra ♎(449824936048197633)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:el-lobby-🛋(488866936457789441)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hablada-real-🙋🙍(460181774534967297)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:devs-chillones👨💻👨🍳(468929183150768131)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mimidisimos-chat-💪😴(582971485082091546)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:eventos-y-cumpleaños-🥒🙇🍰(470802141351772181)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:coliseo-versus-de-emotes-🆚(470805446601736192)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:owospam-⭕〰⭕(489313649685692416)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:counting(589153351258603524)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:smeg-memes-💩(460279858107252755)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:anime-dead-🎎(467897554743459871)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rayacraft-⏹⛏(543927938563833860)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cultura-ost🎼(451227973593333760)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:f-e-h-🤺(460165558168453130)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:overputas-deliciosas-🔫🏹🛡(479352599569760257)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ps3-xbox-pcerdo-etc-🖱💻📺🎮🕹(471319417830113301)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ligoleyens-🏰☄(512803398261932032)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:game-dev-💻🖱🎮(481674577953685515)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rpg-gaming-mmorpg-📺🏰🕹(498623576933400576)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:obo-oh-🃏🀄(532807307264917505)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:aqui-van-los-libros-📖📗(464686768927801354)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pero-mira-ese-paisaje-homs-🎇🗻🏕⛰(465340521728966688)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ropa-y-calzado-🧥🧤🧦👠👢🥾🥿(488879967174918145)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:arte-y-dibujos-hechos-por-ti-📃🖋✏✒🖊🖌(479540665500565512)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:meme-foundry-⏺🍆💿(479540558524710912)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-🎶🔊(509169481432432651)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:recetas-y-foodporn-🥗🥣🍱(504787725061324818)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cine-y-peliculas(598335044079058994)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:putas-excelentes-👯♀(449989096513994774)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:patas-diabeticas🦶🤔-y-fetiches-😏🤐(461058189711114262)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nalgas-peludas-y-pitos-picudos🐶🐺🦊(569788868417814528)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-homo-traprepucios-🧚♂(473300600239685632)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:salsahunters-👨💻-🍲(472510817670004737)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw-bot-🤖(477851245604765698)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pongan-🎶musica(467469885140893707)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:seccion-de-muditos-en-vc-🔇🔕(482066298210091018)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:fornais(591095349645410331)
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 603627861781512202
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
-[23:49:59] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
-[23:50:16] [User Authenticator #2/INFO]: UUID of player magumboss is 33a80638-2adf-3ef9-8822-9d7b1ace3e64
-[23:50:16] [Server thread/INFO]: magumboss[/187.233.2.52:61658] logged in with entity id 686 at ([maincra-server]65.34322562375108, 94.46813685360573, 21.376677469377196)
-[23:50:39] [User Authenticator #3/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[23:50:39] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58293] logged in with entity id 943 at ([maincra-server]71.49466759508121, 70.0, -496.9252437289974)
-[23:50:45] [Server thread/INFO]: magumboss lost connection: Disconnected
-[23:50:45] [Server thread/INFO]: magumboss left the game
-[23:51:15] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | bergas] Rare Akuma ☆ > @Anaya que pijas le hiciste al the end xd
-[23:51:18] [Async Chat Thread - #0/INFO]: <selfepidemiic> :o[m
-[23:51:49] [Server thread/INFO]: [0;33;22mTPS from last 1m, 5m, 15m: [0;32;1m*20.0, [0;32;1m*20.0, [0;32;1m*20.0[m
-[23:54:58] [Server thread/WARN]: Adrian moved too quickly! -3.485088365288341,1.0,-16.22991326469321
-[23:54:58] [Server thread/WARN]: selfepidemiic moved too quickly! 2.9464957056660985,-5.694561548248785,-8.00475543033815
-[23:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5604ms or 112 ticks behind
-[23:55:19] [Server thread/INFO]: [0;33;22mTPS from last 1m, 5m, 15m: [0;32;1m19.35, [0;32;1m19.98, [0;32;1m*20.0[m
+[00:01:14] [Server thread/INFO]: Adrian has made the advancement [A Seedy Place]
+[00:10:28] [Server thread/INFO]: Adrian has made the advancement [Best Friends Forever]
+[00:10:51] [Server thread/INFO]: selfepidemiic has made the advancement [Best Friends Forever]
+[00:12:10] [Server thread/INFO]: selfepidemiic was shot by Pillager
+[00:15:01] [Server thread/WARN]: selfepidemiic moved too quickly! -0.1813543746283699,4.4990033597325265,-11.435462941719607
+[00:20:00] [Server thread/WARN]: selfepidemiic moved too quickly! -6.34847856177845,-0.5358406250445569,7.9098819434083225
+[00:27:34] [Server thread/INFO]: Adrian has made the advancement [Sweet Dreams]
+[00:48:24] [Server thread/INFO]: selfepidemiic has made the advancement [Acquire Hardware]
+[00:48:55] [Server thread/WARN]: selfepidemiic moved too quickly! 8.529879832574366,0.0,-6.208802071736727
+[00:48:59] [Server thread/INFO]: Adrian lost connection: Disconnected
+[00:48:59] [Server thread/INFO]: Adrian left the game
+[00:50:41] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[00:50:41] [Server thread/INFO]: selfepidemiic left the game
+[00:53:14] [User Authenticator #4/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[00:53:14] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58445] logged in with entity id 3811 at ([maincra-server]-103.98568677927499, 68.5625, -854.9439615695792)
+[00:54:04] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[00:54:05] [Server thread/INFO]: selfepidemiic left the game
+[00:54:22] [User Authenticator #5/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[00:54:22] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58449] logged in with entity id 4328 at ([maincra-server]-50.30000001192093, 61.1592101268059, -864.3549425234836)
+[01:02:14] [Server thread/INFO]: selfepidemiic has made the advancement [The Parrots and the Bats]
+[01:04:11] [Server thread/INFO]: selfepidemiic has made the advancement [Sweet Dreams]
+[01:16:35] [Server thread/INFO]: selfepidemiic has made the advancement [Suit Up]
+[01:18:14] [Server thread/INFO]: selfepidemiic has made the advancement [Isn't It Iron Pick]
+[01:39:04] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[01:39:04] [Server thread/INFO]: selfepidemiic left the game
