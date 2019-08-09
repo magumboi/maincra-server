@@ -25,3 +25,238 @@
 [01:39:04] [Server thread/INFO]: selfepidemiic left the game
 [06:02:27] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [06:02:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[12:21:06] [User Authenticator #6/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[12:21:06] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58743] logged in with entity id 6010 at ([maincra-server]-297.17943588781714, 71.5625, -781.2218343132116)
+[12:43:52] [User Authenticator #7/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[12:43:52] [Server thread/INFO]: Adrian[/187.233.2.52:19611] logged in with entity id 6813 at ([maincra-server]-105.54614836791362, 68.0, -861.7441358075832)
+[12:44:28] [Server thread/INFO]: Adrian has made the advancement [Suit Up]
+[12:44:35] [Server thread/INFO]: Adrian has made the advancement [Isn't It Iron Pick]
+[12:46:28] [Server thread/INFO]: Adrian has made the advancement [The Parrots and the Bats]
+[13:13:52] [Server thread/INFO]: Adrian has made the advancement [Acquire Hardware]
+[13:18:58] [Server thread/INFO]: selfepidemiic was slain by Cave Spider
+[13:25:26] [Server thread/INFO]: selfepidemiic was slain by Cave Spider
+[14:10:42] [Server thread/INFO]: selfepidemiic has made the advancement [Diamonds!]
+[14:22:46] [Server thread/INFO]: selfepidemiic has made the advancement [Ice Bucket Challenge]
+[14:43:46] [User Authenticator #8/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[14:43:46] [Server thread/INFO]: Jacqueline[/187.188.76.120:21549] logged in with entity id 11954 at ([maincra-server]-91.75200538063584, 69.0, -257.90586187703445)
+[14:48:11] [Async Chat Thread - #1/INFO]: <Adrian> ttt[m
+[14:50:25] [Async Chat Thread - #2/INFO]: <selfepidemiic> Eres Ahri?[m
+[14:50:33] [Async Chat Thread - #2/INFO]: <selfepidemiic> Ari, pues[m
+[14:50:41] [Async Chat Thread - #2/INFO]: <Jacqueline> yo no[m
+[14:50:44] [Async Chat Thread - #2/INFO]: <selfepidemiic> Ah okis[m
+[14:50:51] [Async Chat Thread - #2/INFO]: <selfepidemiic> Hola de todos modos uwu[m
+[14:51:03] [Async Chat Thread - #2/INFO]: <Jacqueline> hola[m
+[15:17:02] [Server thread/INFO]: Adrian has made the advancement [We Need to Go Deeper]
+[15:17:04] [Server thread/INFO]: selfepidemiic has made the advancement [We Need to Go Deeper]
+[15:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[15:22:05] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[15:22:05] [Server thread/INFO]: selfepidemiic left the game
+[15:22:09] [User Authenticator #9/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:22:09] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58899] logged in with entity id 14496 at ([maincra-server]-77.24292393235544, 64.0, -225.69401623590426)
+[15:22:59] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[15:22:59] [Server thread/INFO]: selfepidemiic left the game
+[15:23:17] [User Authenticator #10/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:23:18] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58904] logged in with entity id 14510 at ([maincra-server]-88.71019541882907, 68.0, -241.4648723243506)
+[15:23:51] [Async Chat Thread - #3/INFO]: <selfepidemiic> ADRIÁN NECESITO COMIDA ALV[m
+[15:23:51] [Async Chat Thread - #3/INFO]: <selfepidemiic> VEN[m
+[15:24:09] [Async Chat Thread - #3/INFO]: <selfepidemiic> si[m
+[15:24:21] [Async Chat Thread - #3/INFO]: <selfepidemiic> tengo medio corazón[m
+[15:25:01] [Async Chat Thread - #3/INFO]: <selfepidemiic> atras de ti[m
+[15:25:01] [Async Chat Thread - #4/INFO]: <selfepidemiic> akdjaslkjafsñ[m
+[15:25:05] [User Authenticator #11/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:25:05] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[15:25:05] [Server thread/INFO]: selfepidemiic left the game
+[15:25:05] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58911] logged in with entity id 14564 at ([maincra-server]-95.9050817531712, 64.0, -221.06914246936867)
+[15:25:55] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[15:25:56] [Server thread/INFO]: selfepidemiic left the game
+[15:26:03] [User Authenticator #12/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:26:04] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58916] logged in with entity id 14602 at ([maincra-server]-87.81801171501617, 65.0, -221.44578485727433)
+[15:26:54] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[15:26:54] [Server thread/INFO]: selfepidemiic left the game
+[15:29:05] [User Authenticator #13/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:29:05] [Server thread/INFO]: selfepidemiic[/187.232.142.119:58923] logged in with entity id 14614 at ([maincra-server]-82.43715457921243, 65.0, -222.10749944814287)
+[15:29:34] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:29:34] [Server thread/INFO]: selfepidemiic left the game
+[15:43:52] [Server thread/INFO]: Adrian lost connection: Disconnected
+[15:43:52] [Server thread/INFO]: Adrian left the game
+[16:12:53] [User Authenticator #14/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[16:12:54] [Server thread/INFO]: selfepidemiic[/187.232.142.119:61981] logged in with entity id 15791 at ([maincra-server]-90.65041534173889, 64.0, -225.12666584507008)
+[16:15:18] [User Authenticator #15/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[16:15:18] [Server thread/INFO]: Adrian[/187.233.2.52:53252] logged in with entity id 15932 at ([maincra-server]-92.07763218856249, 64.0, -229.40666330796404)
+[16:16:51] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[16:16:51] [Server thread/INFO]: selfepidemiic left the game
+[16:17:07] [User Authenticator #16/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[16:17:07] [Server thread/INFO]: selfepidemiic[/187.232.142.119:61992] logged in with entity id 15950 at ([maincra-server]-43.34353096677385, 65.0, -203.85486509344264)
+[16:20:43] [Server thread/INFO]: Adrian issued server command: /home
+[16:22:38] [Async Chat Thread - #5/INFO]: <Adrian> wt[m
+[16:22:47] [Async Chat Thread - #5/INFO]: <selfepidemiic> xd[m
+[16:23:42] [Server thread/WARN]: selfepidemiic moved too quickly! -8.672701435271463,-1.3331999936342243,10.220908672837822
+[16:40:57] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[16:40:57] [Server thread/INFO]: Jacqueline left the game
+[16:54:13] [Server thread/INFO]: selfepidemiic has made the advancement [Voluntary Exile]
+[16:57:10] [Server thread/INFO]: Adrian has made the advancement [Voluntary Exile]
+[17:52:23] [User Authenticator #17/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[17:52:23] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17923] logged in with entity id 21379 at ([maincra-server]-85.8051071877291, 72.49323530006211, -224.64476937732)
+[18:10:41] [Async Chat Thread - #6/INFO]: <selfepidemiic> Buenas tardes pepelotas[m
+[18:10:50] [Async Chat Thread - #6/INFO]: <selfepidemiic> oye no tienes una silla de montar que intercambies?[m
+[18:11:28] [Async Chat Thread - #6/INFO]: <PEPELOTAS> buena tarde, creo que si tenia una, deja veo[m
+[18:11:52] [Async Chat Thread - #6/INFO]: <selfepidemiic> gracias :3[m
+[18:15:59] [User Authenticator #18/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[18:16:00] [Server thread/INFO]: aomali2[/187.189.187.177:17573] logged in with entity id 23128 at ([maincra-server]-9.987455622975476, 84.0, -66.54148794241698)
+[18:16:36] [Async Chat Thread - #7/INFO]: <PEPELOTAS> donde estas, tienen carbon?[m
+[18:16:58] [Async Chat Thread - #7/INFO]: <selfepidemiic> deja veo si queda[m
+[18:17:08] [Async Chat Thread - #7/INFO]: <selfepidemiic> y estamos en -100, 60, -900[m
+[18:17:20] [Async Chat Thread - #7/INFO]: <selfepidemiic> y tú??[m
+[18:17:39] [Async Chat Thread - #7/INFO]: <PEPELOTAS> voy para alla, yo casi por el spawn[m
+[18:17:48] [Async Chat Thread - #7/INFO]: <selfepidemiic> ah bueno xD no está tan leeejos[m
+[18:18:41] [Server thread/WARN]: Horse moved wrongly!
+[18:18:41] [Server thread/WARN]: Horse moved wrongly!
+[18:18:42] [Server thread/WARN]: Horse moved wrongly!
+[18:18:42] [Server thread/WARN]: Horse moved wrongly!
+[18:18:42] [Server thread/WARN]: Horse moved wrongly!
+[18:18:42] [Server thread/WARN]: Horse moved wrongly!
+[18:18:42] [Server thread/WARN]: Horse moved wrongly!
+[18:19:21] [Async Chat Thread - #8/INFO]: <selfepidemiic> Oye, no tengo naditita de carbón[m
+[18:19:23] [Async Chat Thread - #8/INFO]: <selfepidemiic> pero tengo una mina[m
+[18:19:27] [Async Chat Thread - #8/INFO]: <selfepidemiic> que está llena[m
+[18:19:44] [Async Chat Thread - #8/INFO]: <selfepidemiic> me avisas cuando estés en las coords que te di xD[m
+[18:19:49] [Async Chat Thread - #8/INFO]: <selfepidemiic> iré por carbón[m
+[18:19:55] [Async Chat Thread - #8/INFO]: <PEPELOTAS> ok[m
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:03] [Server thread/WARN]: Horse moved wrongly!
+[18:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5389ms or 107 ticks behind
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:25] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:21:26] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:03] [Server thread/WARN]: Horse moved wrongly!
+[18:22:04] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:22:39] [Server thread/WARN]: Horse moved wrongly!
+[18:23:53] [Server thread/WARN]: Horse moved wrongly!
+[18:24:15] [Async Chat Thread - #9/INFO]: <selfepidemiic> gracias uwu[m
+[18:24:18] [Async Chat Thread - #9/INFO]: <PEPELOTAS> Gracias[m
+[18:24:20] [Async Chat Thread - #9/INFO]: <selfepidemiic> es todo el carbón que tengo xD[m
+[18:24:23] [Async Chat Thread - #9/INFO]: <selfepidemiic> a ti uwu[m
+[18:24:27] [Async Chat Thread - #9/INFO]: <PEPELOTAS> es bastante jaja[m
+[18:24:32] [Async Chat Thread - #9/INFO]: <PEPELOTAS> nos vemos[m
+[18:24:35] [Async Chat Thread - #9/INFO]: <selfepidemiic> nos vemos!![m
+[18:27:20] [Server thread/WARN]: Horse moved wrongly!
+[18:27:20] [Server thread/WARN]: Horse moved wrongly!
+[18:27:20] [Server thread/WARN]: Horse moved wrongly!
+[18:27:50] [Server thread/WARN]: Horse moved wrongly!
+[18:27:50] [Server thread/WARN]: Horse moved wrongly!
+[18:27:50] [Server thread/WARN]: Horse moved wrongly!
+[18:27:50] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:14] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:28:15] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:46] [Server thread/WARN]: Horse moved wrongly!
+[18:29:47] [Server thread/WARN]: Horse moved wrongly!
+[18:29:47] [Server thread/WARN]: Horse moved wrongly!
+[18:29:47] [Server thread/WARN]: Horse moved wrongly!
+[18:41:25] [Server thread/INFO]: selfepidemiic has made the advancement [Enchanter]
+[18:45:10] [Server thread/WARN]: Adrian moved too quickly! 7.85371797967106,-2.0,5.903174892045968
+[18:45:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[18:45:49] [Server thread/INFO]: selfepidemiic left the game
+[18:48:34] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[18:48:34] [Server thread/INFO]: aomali2 left the game
+[18:48:37] [User Authenticator #19/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[18:48:37] [Server thread/INFO]: aomali2[/187.189.187.177:17785] logged in with entity id 25791 at ([maincra-server]-73.26742137729882, 55.0, -237.30000001192093)
+[18:48:42] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[18:48:42] [Server thread/INFO]: aomali2 left the game
+[18:48:45] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:48:45] [Server thread/INFO]: Adrian left the game
+[18:52:04] [User Authenticator #20/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[18:52:04] [Server thread/INFO]: aomali2[/187.189.187.177:17875] logged in with entity id 25875 at ([maincra-server]-73.26742137729882, 55.0, -237.30000001192093)
+[19:01:41] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[19:01:41] [Server thread/INFO]: aomali2 left the game
+[19:02:34] [User Authenticator #21/INFO]: UUID of player Buster is 04bad22e-b9b4-329b-95d9-accd3c3ab128
+[19:02:34] [Server thread/INFO]: Buster[/187.190.76.163:21691] logged in with entity id 26259 at ([maincra-server]509.67894392484214, 64.0, -418.1952361265902)
+[19:06:07] [Server thread/INFO]: Buster has made the advancement [Spooky Scary Skeleton]
+[19:12:25] [User Authenticator #22/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[19:12:25] [Server thread/INFO]: Axfer06[/177.249.190.224:27663] logged in with entity id 26811 at ([maincra-server]963.9371905662812, 64.0, -580.0964216742057)
+[19:27:44] [Server thread/INFO]: Buster has made the advancement [We Need to Go Deeper]
+[19:30:10] [Server thread/WARN]: PEPELOTAS moved too quickly! 0.2383047508431133,2.493907480229481,15.910395226938675
+[19:50:08] [User Authenticator #23/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[19:50:08] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:4222] logged in with entity id 29478 at ([maincra-server]-204.1537970897101, 76.5, -112.11056056919985)
+[19:50:10] [Server thread/WARN]: Buster moved too quickly! 8.764242369730823,-2.0,4.511078061108719
+[19:50:41] [Server thread/INFO]: PEPELOTAS issued server command: /tp GatoDeNieve
+[19:50:41] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to GatoDeNieve]
+[19:50:45] [Async Chat Thread - #10/INFO]: <GatoDeNieve> que pedo[m
+[19:50:50] [Async Chat Thread - #10/INFO]: <PEPELOTAS> que onda[m
+[19:52:04] [User Authenticator #24/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:52:04] [Server thread/INFO]: selfepidemiic[/187.232.142.119:62839] logged in with entity id 29699 at ([maincra-server]-103.25288415118496, 68.5625, -854.0572466124572)
+[19:52:31] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[19:52:31] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[19:55:11] [Server thread/WARN]: GatoDeNieve moved too quickly! -37.298221148568516,0.0,39.414161354012236
+[19:56:30] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[19:56:30] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[19:56:32] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[19:56:32] [Server thread/INFO]: GatoDeNieve left the game
+[19:58:32] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[19:58:34] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!

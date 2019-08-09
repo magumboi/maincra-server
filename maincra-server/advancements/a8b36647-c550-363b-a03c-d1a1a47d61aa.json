@@ -842,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-08 15:53:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-07-23 01:19:31 -0500"
@@ -1972,6 +1978,7 @@
       "bread": "2019-07-21 15:41:45 -0500",
       "rotten_flesh": "2019-07-20 00:19:30 -0500",
       "suspicious_stew": "2019-07-21 17:30:25 -0500",
+      "cookie": "2019-08-08 14:55:00 -0500",
       "beetroot": "2019-08-04 20:28:52 -0500",
       "cooked_rabbit": "2019-08-04 20:37:38 -0500",
       "cooked_chicken": "2019-08-04 15:27:20 -0500",
@@ -2790,6 +2797,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2019-07-21 17:54:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-08 15:53:21 -0500"
     },
     "done": true
   },
