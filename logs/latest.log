@@ -54,3 +54,45 @@
 [01:48:31] [Server thread/INFO]: PEPELOTAS left the game
 [02:01:02] [Server thread/INFO]: Jacqueline lost connection: Disconnected
 [02:01:02] [Server thread/INFO]: Jacqueline left the game
+[12:50:15] [User Authenticator #38/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[12:50:16] [Server thread/INFO]: selfepidemiic[/187.232.142.119:54249] logged in with entity id 53463 at ([maincra-server]-97.72231179461208, 70.0, -849.5975028923409)
+[13:25:20] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[13:25:20] [Server thread/INFO]: selfepidemiic left the game
+[13:43:45] [User Authenticator #39/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[13:43:45] [Server thread/INFO]: selfepidemiic[/187.232.142.119:54527] logged in with entity id 54803 at ([maincra-server]-118.2456649475233, 67.0, -860.6469220356206)
+[13:48:42] [User Authenticator #40/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[13:48:42] [Server thread/INFO]: Adrian[/187.233.2.52:27539] logged in with entity id 55165 at ([maincra-server]-110.46418657394085, 69.0, -844.6649285124987)
+[13:57:06] [Server thread/INFO]: selfepidemiic was slain by Zombie Pigman
+[13:58:54] [Server thread/INFO]: Adrian was slain by Zombie Pigman
+[13:59:48] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:01:05] [Server thread/INFO]: Adrian tried to swim in lava
+[14:01:47] [Server thread/WARN]: selfepidemiic moved too quickly! -0.9577110390343861,-10.027364629052776,-0.4226310666374147
+[14:02:00] [Server thread/INFO]: selfepidemiic was slain by Zombie Pigman
+[14:03:17] [Server thread/INFO]: selfepidemiic was slain by Zombie Pigman
+[14:03:25] [Server thread/INFO]: Adrian burned to death
+[14:05:17] [Server thread/INFO]: Adrian has made the advancement [A Terrible Fortress]
+[14:08:50] [Server thread/INFO]: Adrian went up in flames
+[14:11:53] [Server thread/INFO]: Adrian fell from a high place
+[14:27:05] [Server thread/INFO]: selfepidemiic has made the advancement [A Terrible Fortress]
+[14:40:23] [Server thread/WARN]: selfepidemiic moved too quickly! 6.002992113266231,0.0,-8.916656064801316
+[14:48:52] [Async Chat Thread - #28/INFO]: <Adrian> selfepidemiic[m
+[14:48:58] [Async Chat Thread - #28/INFO]: <selfepidemiic> A[m
+[15:00:11] [Async Chat Thread - #29/INFO]: <Adrian> a[m
+[15:00:12] [Async Chat Thread - #29/INFO]: <selfepidemiic> Adrian[m
+[15:03:11] [Server thread/INFO]: Adrian lost connection: Disconnected
+[15:03:11] [Server thread/INFO]: Adrian left the game
+[15:20:34] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:20:34] [Server thread/INFO]: selfepidemiic left the game
+[15:23:42] [User Authenticator #41/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:23:42] [Server thread/INFO]: selfepidemiic[/187.232.142.119:54633] logged in with entity id 61853 at ([maincra-server]-115.49149742140276, 70.5, -826.1241906162977)
+[15:35:19] [Server thread/WARN]: selfepidemiic moved too quickly! -6.577441301104059,0.49520087700592796,-7.7221880851325295
+[15:36:05] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:36:05] [Server thread/INFO]: selfepidemiic left the game
+[15:36:09] [User Authenticator #42/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:36:09] [Server thread/INFO]: selfepidemiic[/187.232.142.119:54640] logged in with entity id 62440 at ([maincra-server]-87.00524683909285, 70.0, -782.7024639483568)
+[15:51:35] [User Authenticator #43/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[15:51:36] [Server thread/INFO]: Axfer06[/177.249.190.224:27065] logged in with entity id 63272 at ([maincra-server]485.4109661428388, 71.0, -356.22427918804266)
+[15:52:01] [Server thread/INFO]: Axfer06 lost connection: Timed out
+[15:52:01] [Server thread/INFO]: Axfer06 left the game
+[15:52:05] [User Authenticator #44/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[15:52:05] [Server thread/INFO]: Axfer06[/177.249.190.224:40928] logged in with entity id 64277 at ([maincra-server]485.4109661428388, 71.0, -356.22427918804266)
