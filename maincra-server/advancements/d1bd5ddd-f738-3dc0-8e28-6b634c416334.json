@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2019-08-10 14:47:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-07-28 21:00:23 -0500"
@@ -38,6 +44,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-08-01 07:53:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2019-08-10 14:47:25 -0500"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-31 23:32:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2019-08-10 14:32:10 -0500"
     },
     "done": true
   },
@@ -218,6 +236,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-08-01 07:47:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2019-08-10 14:25:27 -0500"
     },
     "done": true
   },
@@ -356,6 +380,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2019-08-04 15:21:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-08-10 14:47:25 -0500"
     },
     "done": true
   },
@@ -641,6 +671,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-08-01 07:27:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2019-08-10 14:47:25 -0500"
     },
     "done": true
   },
@@ -1040,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-08-10 14:32:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-07-28 21:00:23 -0500"
@@ -1067,7 +1109,9 @@
       "minecraft:beach": "2019-07-28 20:22:26 -0500",
       "minecraft:dark_forest": "2019-07-28 20:19:42 -0500",
       "minecraft:river": "2019-07-28 20:29:49 -0500",
+      "minecraft:lukewarm_ocean": "2019-08-10 14:42:29 -0500",
       "minecraft:birch_forest_hills": "2019-07-28 20:47:38 -0500",
+      "minecraft:stone_shore": "2019-08-10 14:19:07 -0500",
       "minecraft:savanna": "2019-08-04 21:57:40 -0500",
       "minecraft:plains": "2019-07-28 20:21:41 -0500"
     },
@@ -1181,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-08-10 14:47:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2019-08-04 15:37:22 -0500"
@@ -1190,6 +1240,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-31 23:36:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-08-10 14:47:25 -0500"
     },
     "done": true
   },
@@ -1277,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-08-10 14:25:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2019-08-01 01:19:13 -0500"
@@ -1349,15 +1411,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2019-08-04 22:13:38 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-04 21:34:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2019-08-04 22:13:38 -0500"
     },
     "done": true
   },
@@ -1978,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-08-10 14:32:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-07-28 20:38:03 -0500"
@@ -2194,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-08-10 14:47:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-08-04 22:15:08 -0500"
@@ -2350,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2019-08-10 14:47:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-07-31 21:36:20 -0500"
@@ -2377,6 +2457,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-07-31 23:21:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2019-08-10 14:32:10 -0500"
     },
     "done": true
   },

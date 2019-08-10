@@ -2,3 +2,38 @@
 [02:10:45] [Server thread/INFO]: selfepidemiic[/187.232.142.119:60419] logged in with entity id 69413 at ([maincra-server]-114.36826885152693, 69.0, -841.0677083837047)
 [02:43:28] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
 [02:43:28] [Server thread/INFO]: selfepidemiic left the game
+[12:29:28] [User Authenticator #56/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[12:29:29] [Server thread/INFO]: selfepidemiic[/187.233.219.249:60690] logged in with entity id 70469 at ([maincra-server]-114.16835045438762, 74.0, -822.4428335553532)
+[12:57:40] [Server thread/WARN]: selfepidemiic moved too quickly! 1.6156762500493045,0.35749998688697815,-10.390965334438533
+[13:15:12] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[13:15:12] [Server thread/INFO]: selfepidemiic left the game
+[13:27:09] [User Authenticator #57/INFO]: UUID of player Pinolito is 7344d90c-4675-3092-8241-0ad1ede80054
+[13:27:09] [Server thread/INFO]: Pinolito[/187.233.141.5:3811] logged in with entity id 71642 at ([maincra-server]107.58954022797764, 78.0, -7.381489566540033)
+[13:28:31] [Server thread/INFO]: Pinolito issued server command: /bukkit:help
+[13:29:34] [Server thread/INFO]: Pinolito issued server command: /help defaultgamemode
+[13:30:05] [Server thread/INFO]: Pinolito issued server command: /me defaultgamemode creative
+[13:30:05] [Server thread/INFO]: * Pinolito defaultgamemode creative
+[13:31:49] [Server thread/INFO]: Pinolito has made the advancement [Spooky Scary Skeleton]
+[13:33:08] [Server thread/INFO]: Pinolito issued server command: /minecraft:help
+[13:46:08] [Server thread/INFO]: Pinolito lost connection: Disconnected
+[13:46:08] [Server thread/INFO]: Pinolito left the game
+[14:13:02] [User Authenticator #58/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[14:13:02] [Server thread/INFO]: andres12234[/187.189.187.177:17467] logged in with entity id 72140 at ([maincra-server]-12.434037589893524, 84.0, -58.39891669995431)
+[14:16:17] [User Authenticator #59/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[14:16:17] [Server thread/INFO]: aomali2[/187.189.187.177:17600] logged in with entity id 72216 at ([maincra-server]-23.700000025331974, 63.0000002, -77.70000002533197)
+[14:40:47] [Server thread/INFO]: aomali2 was slain by Iron Golem
+[14:43:55] [Server thread/INFO]: aomali2 has completed the challenge [Hero of the Village]
+[14:44:50] [Server thread/INFO]: aomali2 has made the advancement [What a Deal!]
+[14:45:22] [Server thread/WARN]: aomali2 moved too quickly! 5.820495796064996,1.0146178540372404,9.833456146918877
+[14:48:31] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[14:48:31] [Server thread/INFO]: aomali2 left the game
+[14:49:42] [User Authenticator #60/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[14:49:42] [Server thread/INFO]: aomali2[/187.189.187.177:18127] logged in with entity id 73560 at ([maincra-server]-6.295708923973557, 84.5, -73.10312929529897)
+[14:49:46] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[14:49:46] [Server thread/INFO]: aomali2 left the game
+[14:56:44] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[14:56:44] [Server thread/INFO]: andres12234 left the game
+[15:13:24] [User Authenticator #61/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:13:24] [Server thread/INFO]: aomali2[/187.189.187.177:17883] logged in with entity id 73600 at ([maincra-server]-6.295708923973557, 84.5, -73.10312929529897)
+[15:38:41] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:38:41] [Server thread/INFO]: aomali2 left the game
