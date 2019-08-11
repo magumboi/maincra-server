@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-10 21:24:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-07-28 20:22:09 -0500"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2019-08-01 20:19:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2019-08-10 22:05:52 -0500"
     },
     "done": true
   },
@@ -565,6 +577,7 @@
       "minecraft:spider": "2019-07-28 22:12:18 -0500",
       "minecraft:creeper": "2019-08-03 20:49:38 -0500",
       "minecraft:phantom": "2019-08-04 22:57:56 -0500",
+      "minecraft:witch": "2019-08-10 21:11:14 -0500",
       "minecraft:husk": "2019-07-28 22:01:47 -0500",
       "minecraft:zombie": "2019-07-28 20:27:40 -0500",
       "minecraft:drowned": "2019-08-03 22:56:11 -0500",
@@ -1129,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-10 21:58:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-07-28 21:00:23 -0500"
@@ -1195,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-10 20:54:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-28 21:00:23 -0500"
@@ -1204,6 +1229,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-07-28 21:59:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-10 20:55:02 -0500"
     },
     "done": true
   },
@@ -1531,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-08-10 21:50:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2019-08-03 20:53:13 -0500"
@@ -1740,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-08-10 21:50:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-03 19:46:07 -0500"
@@ -1857,6 +1900,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-07-28 21:00:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_cyan_dye": "2019-08-10 21:51:47 -0500"
     },
     "done": true
   },
@@ -2106,9 +2155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-10 22:39:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-07-31 23:32:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_the_recipe": "2019-08-10 22:07:02 -0500"
     },
     "done": true
   },
@@ -2286,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-08-10 21:50:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-31 23:32:18 -0500"
@@ -2355,6 +2422,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-31 23:32:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-08-10 21:01:11 -0500"
     },
     "done": true
   },
@@ -2595,6 +2668,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-07-28 22:10:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-10 21:24:12 -0500"
     },
     "done": true
   },
