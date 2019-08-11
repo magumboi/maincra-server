@@ -54,3 +54,14 @@
 [02:23:08] [Server thread/WARN]: selfepidemiic moved too quickly! -1.7543786601573501,0.0,-9.914466012636353
 [02:30:32] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
 [02:30:32] [Server thread/INFO]: selfepidemiic left the game
+[09:39:54] [User Authenticator #73/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[09:39:54] [Server thread/INFO]: andres12234[/187.189.187.177:18349] logged in with entity id 98203 at ([maincra-server]-9.324872138819185, 78.0, -45.6563944929373)
+[09:42:25] [Server thread/INFO]: andres12234 issued server command: /magumbo
+[09:42:38] [Async Chat Thread - #38/INFO]: <andres12234> magumbo[m
+[09:43:09] [Server thread/INFO]: andres12234 issued server command: /discord link
+[09:49:55] [User Authenticator #74/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[09:49:55] [Server thread/INFO]: aomali2[/187.189.187.177:17708] logged in with entity id 98320 at ([maincra-server]-20.93618750039856, 72.0, -25.884727937461733)
+[10:12:04] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[10:12:04] [Server thread/INFO]: andres12234 left the game
+[10:12:14] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[10:12:14] [Server thread/INFO]: aomali2 left the game
