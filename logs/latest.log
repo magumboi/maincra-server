@@ -65,3 +65,111 @@
 [10:12:04] [Server thread/INFO]: andres12234 left the game
 [10:12:14] [Server thread/INFO]: aomali2 lost connection: Disconnected
 [10:12:14] [Server thread/INFO]: aomali2 left the game
+[13:58:43] [User Authenticator #75/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[13:58:43] [Server thread/INFO]: Adrian[/187.233.2.52:40639] logged in with entity id 99149 at ([maincra-server]388.30000001192093, 65.0, -2652.699999988079)
+[14:00:43] [User Authenticator #76/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:00:43] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63548] logged in with entity id 99297 at ([maincra-server]-104.64717216598679, 68.5625, -853.9656239154313)
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.476186587290385,0.0,19.851510550756757
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.497507973082353,0.0,20.24878577814343
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.514765156181147,0.0,20.646286787087547
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.528165396880029,0.0,21.04398086663832
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.537914425160411,0.0,21.44183869987546
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.544216582547202,0.0,21.839834281551248
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.547271123206999,0.0,22.237944568295916
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.547272714302123,0.0,22.6361493463437
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.544408060203301,0.0,23.034430821911883
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.538860517890054,0.0,23.43277377408299
+[14:05:23] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -4.5308027755198435,0.0,23.83116482440687
+[14:08:47] [Server thread/WARN]: Horse moved wrongly!
+[14:08:47] [Server thread/WARN]: Horse moved wrongly!
+[14:09:51] [Server thread/WARN]: selfepidemiic was kicked for floating too long!
+[14:09:51] [Server thread/INFO]: selfepidemiic lost connection: Flying is not enabled on this server
+[14:09:51] [Server thread/INFO]: selfepidemiic left the game
+[14:09:55] [User Authenticator #77/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:09:55] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63570] logged in with entity id 103245 at ([maincra-server]134.09242881918303, 64.54414655769251, -1049.2393460390958)
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -18.064949194109957,0.0,9.071216446274548
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -18.597931502805572,0.0,9.340625848081118
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -19.13470258752908,0.0,9.602240066154991
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -19.680376324519667,0.0,9.843663359401035
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -20.243025544568624,0.0,10.034716446522225
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -20.82173520549081,0.0,10.135374600628666
+[14:10:23] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -21.40537622025264,0.0,10.144260468876382
+[14:11:31] [Server thread/WARN]: Horse moved wrongly!
+[14:27:37] [Server thread/INFO]: selfepidemiic was shot by Skeleton
+[14:28:56] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[14:28:56] [Server thread/INFO]: selfepidemiic left the game
+[14:30:17] [User Authenticator #78/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:30:17] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63588] logged in with entity id 104428 at ([maincra-server]-159.85785098072395, 28.0, -918.3000000119209)
+[14:46:04] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[14:46:04] [Server thread/INFO]: selfepidemiic left the game
+[14:46:06] [User Authenticator #79/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:46:06] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63599] logged in with entity id 105348 at ([maincra-server]81.03074751878255, 71.0, -1209.8625950025514)
+[14:51:19] [Server thread/WARN]: Horse moved wrongly!
+[14:51:19] [Server thread/WARN]: Horse moved wrongly!
+[14:59:18] [Server thread/WARN]: Horse moved wrongly!
+[14:59:18] [Server thread/WARN]: Horse moved wrongly!
+[15:00:22] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.017032271637238,2.0,8.60176505321715
+[15:00:22] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.623983059512316,2.0,8.654605713581077
+[15:00:22] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.231021414134208,2.0,8.707214143914939
+[15:01:06] [Server thread/INFO]: Adrian lost connection: Disconnected
+[15:01:06] [Server thread/INFO]: Adrian left the game
+[15:01:08] [User Authenticator #80/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[15:01:08] [Server thread/INFO]: Adrian[/187.233.2.52:41061] logged in with entity id 106440 at ([maincra-server]-118.50286889695786, 67.0, -864.7049553602182)
+[15:06:47] [Server thread/WARN]: Horse moved wrongly!
+[15:06:47] [Server thread/WARN]: Horse moved wrongly!
+[15:06:48] [Server thread/WARN]: Horse moved wrongly!
+[15:06:48] [Server thread/WARN]: Horse moved wrongly!
+[15:06:48] [Server thread/WARN]: Horse moved wrongly!
+[15:06:48] [Server thread/WARN]: Horse moved wrongly!
+[15:08:58] [Server thread/WARN]: Horse moved wrongly!
+[15:08:58] [Server thread/WARN]: Horse moved wrongly!
+[15:10:22] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.76527945714372,1.0,-4.98965280920811
+[15:10:22] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -20.263696816724746,1.0,-4.9434774409244255
+[15:14:03] [Server thread/INFO]: selfepidemiic suffocated in a wall
+[15:15:23] [Server thread/WARN]: selfepidemiic moved too quickly! -12.751727325923412,0.6709083839322858,-7.559364060050939
+[15:16:02] [User Authenticator #81/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:16:02] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17745] logged in with entity id 108278 at ([maincra-server]-49.48090251452525, 65.0, -207.18780736315784)
+[15:20:09] [User Authenticator #82/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[15:20:09] [Server thread/INFO]: aomali2[/187.189.187.177:17860] logged in with entity id 108517 at ([maincra-server]-9.201472564141095, 78.0, -67.58973342355036)
+[15:20:46] [Server thread/WARN]: Horse moved wrongly!
+[15:20:46] [Server thread/WARN]: Horse moved wrongly!
+[15:21:38] [Server thread/WARN]: Horse moved wrongly!
+[15:21:38] [Server thread/WARN]: Horse moved wrongly!
+[15:21:38] [Server thread/WARN]: Horse moved wrongly!
+[15:21:38] [Server thread/WARN]: Horse moved wrongly!
+[15:23:28] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:23:28] [Server thread/INFO]: selfepidemiic left the game
+[15:23:30] [User Authenticator #83/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:23:30] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63626] logged in with entity id 109488 at ([maincra-server]-290.7833609893774, 68.0, -1042.8767492203688)
+[15:25:25] [Server thread/WARN]: PEPELOTAS moved too quickly! 0.5785977730923832,0.0,-21.945530650551973
+[15:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5813ms or 116 ticks behind
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 10.665753628340957,0.0,-17.290460269241976
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 10.889879648857322,0.0,-17.621711904068434
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 11.11407982132818,0.0,-17.952919262014348
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 11.338346730556301,0.0,-18.28408677076959
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 11.562673702864378,0.0,-18.615218415253366
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 11.787057904027668,0.0,-18.94631562495124
+[15:30:26] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 12.01149361115928,0.0,-19.277381843342027
+[15:31:08] [Server thread/INFO]: selfepidemiic issued server command: /msg Adrian
+[15:31:26] [Server thread/INFO]: selfepidemiic issued server command: /msg Adrian -76 62 -1750
+[15:31:35] [Server thread/INFO]: selfepidemiic issued server command: /msg Adrian son las coords
+[15:35:30] [Server thread/WARN]: aomali2 moved too quickly! -2.4165360507329297,0.16610926093821377,9.948568850931338
+[15:40:11] [Server thread/WARN]: selfepidemiic moved too quickly! -0.5841101954746506,-0.28665354629987405,-11.286499831186234
+[15:40:30] [Server thread/WARN]: Adrian moved too quickly! 6.217942799610796,-3.0,-13.133466357186308
+[15:40:39] [Server thread/WARN]: Boat moved wrongly!
+[15:40:39] [Server thread/WARN]: Boat moved wrongly!
+[15:41:48] [Server thread/INFO]: selfepidemiic has made the advancement [Fishy Business]
+[15:46:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:46:49] [Server thread/INFO]: selfepidemiic left the game
+[15:46:53] [User Authenticator #84/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:46:53] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63648] logged in with entity id 116296 at ([maincra-server]4.876638211514454, 62.07326536870067, -1225.199964107406)
+[15:58:00] [Server thread/WARN]: Horse moved wrongly!
+[15:58:01] [Server thread/WARN]: Horse moved wrongly!
+[15:58:01] [Server thread/WARN]: Horse moved wrongly!
+[15:58:26] [Server thread/WARN]: Horse moved wrongly!
+[15:58:27] [Server thread/WARN]: Horse moved wrongly!
+[15:58:27] [Server thread/WARN]: Horse moved wrongly!
+[15:58:27] [Server thread/WARN]: Horse moved wrongly!
+[15:58:27] [Server thread/WARN]: Horse moved wrongly!
+[15:58:46] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[15:58:46] [Server thread/INFO]: aomali2 left the game
