@@ -1,69 +1,56 @@
-[02:10:44] [User Authenticator #55/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[02:10:45] [Server thread/INFO]: selfepidemiic[/187.232.142.119:60419] logged in with entity id 69413 at ([maincra-server]-114.36826885152693, 69.0, -841.0677083837047)
-[02:43:28] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[02:43:28] [Server thread/INFO]: selfepidemiic left the game
-[12:29:28] [User Authenticator #56/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[12:29:29] [Server thread/INFO]: selfepidemiic[/187.233.219.249:60690] logged in with entity id 70469 at ([maincra-server]-114.16835045438762, 74.0, -822.4428335553532)
-[12:57:40] [Server thread/WARN]: selfepidemiic moved too quickly! 1.6156762500493045,0.35749998688697815,-10.390965334438533
-[13:15:12] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[13:15:12] [Server thread/INFO]: selfepidemiic left the game
-[13:27:09] [User Authenticator #57/INFO]: UUID of player Pinolito is 7344d90c-4675-3092-8241-0ad1ede80054
-[13:27:09] [Server thread/INFO]: Pinolito[/187.233.141.5:3811] logged in with entity id 71642 at ([maincra-server]107.58954022797764, 78.0, -7.381489566540033)
-[13:28:31] [Server thread/INFO]: Pinolito issued server command: /bukkit:help
-[13:29:34] [Server thread/INFO]: Pinolito issued server command: /help defaultgamemode
-[13:30:05] [Server thread/INFO]: Pinolito issued server command: /me defaultgamemode creative
-[13:30:05] [Server thread/INFO]: * Pinolito defaultgamemode creative
-[13:31:49] [Server thread/INFO]: Pinolito has made the advancement [Spooky Scary Skeleton]
-[13:33:08] [Server thread/INFO]: Pinolito issued server command: /minecraft:help
-[13:46:08] [Server thread/INFO]: Pinolito lost connection: Disconnected
-[13:46:08] [Server thread/INFO]: Pinolito left the game
-[14:13:02] [User Authenticator #58/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
-[14:13:02] [Server thread/INFO]: andres12234[/187.189.187.177:17467] logged in with entity id 72140 at ([maincra-server]-12.434037589893524, 84.0, -58.39891669995431)
-[14:16:17] [User Authenticator #59/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[14:16:17] [Server thread/INFO]: aomali2[/187.189.187.177:17600] logged in with entity id 72216 at ([maincra-server]-23.700000025331974, 63.0000002, -77.70000002533197)
-[14:40:47] [Server thread/INFO]: aomali2 was slain by Iron Golem
-[14:43:55] [Server thread/INFO]: aomali2 has completed the challenge [Hero of the Village]
-[14:44:50] [Server thread/INFO]: aomali2 has made the advancement [What a Deal!]
-[14:45:22] [Server thread/WARN]: aomali2 moved too quickly! 5.820495796064996,1.0146178540372404,9.833456146918877
-[14:48:31] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[14:48:31] [Server thread/INFO]: aomali2 left the game
-[14:49:42] [User Authenticator #60/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[14:49:42] [Server thread/INFO]: aomali2[/187.189.187.177:18127] logged in with entity id 73560 at ([maincra-server]-6.295708923973557, 84.5, -73.10312929529897)
-[14:49:46] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[14:49:46] [Server thread/INFO]: aomali2 left the game
-[14:56:44] [Server thread/INFO]: andres12234 lost connection: Disconnected
-[14:56:44] [Server thread/INFO]: andres12234 left the game
-[15:13:24] [User Authenticator #61/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[15:13:24] [Server thread/INFO]: aomali2[/187.189.187.177:17883] logged in with entity id 73600 at ([maincra-server]-6.295708923973557, 84.5, -73.10312929529897)
-[15:38:41] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[15:38:41] [Server thread/INFO]: aomali2 left the game
-[20:34:01] [User Authenticator #62/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
-[20:34:01] [Server thread/INFO]: andres12234[/187.189.187.177:18116] logged in with entity id 75180 at ([maincra-server]-14.630494661093476, 88.0, -42.691414327063384)
-[20:54:59] [User Authenticator #63/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[20:54:59] [Server thread/INFO]: aomali2[/187.189.187.177:17670] logged in with entity id 75569 at ([maincra-server]-8.516006167415101, 68.0, -119.43752781718882)
-[21:01:11] [Server thread/INFO]: andres12234 has made the advancement [A Throwaway Joke]
-[21:10:24] [Server thread/WARN]: aomali2 moved too quickly! -4.363264413423238,-2.1754232959521005,-16.132146022381107
-[21:20:42] [Server thread/INFO]: aomali2 issued server command: /gamemode 1
-[21:21:16] [Server thread/INFO]: aomali2 issued server command: /gamemode 0
-[21:29:41] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[21:29:41] [Server thread/INFO]: aomali2 left the game
-[21:34:38] [User Authenticator #64/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[21:34:38] [Server thread/INFO]: aomali2[/187.189.187.177:17678] logged in with entity id 78271 at ([maincra-server]-196.06299107193078, 86.17075710317033, -137.26404721289032)
-[21:41:20] [Server thread/WARN]: Mule moved wrongly!
-[21:44:56] [Server thread/INFO]: aomali2 issued server command: /gamemode 1
-[21:58:28] [Server thread/INFO]: andres12234 has made the advancement [Local Brewery]
-[22:08:14] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[22:08:14] [Server thread/INFO]: aomali2 left the game
-[22:10:41] [User Authenticator #65/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[22:10:41] [Server thread/INFO]: aomali2[/187.189.187.177:17468] logged in with entity id 79249 at ([maincra-server]113.6577414576736, 78.5, -3.436426563854652)
-[22:38:58] [Server thread/INFO]: aomali2 fell from a high place
-[22:40:37] [Server thread/INFO]: andres12234 fell from a high place
-[23:09:48] [Async Chat Thread - #37/INFO]: <andres12234> como mi cuerpo bb[m
-[23:28:43] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:28:43] [Server thread/INFO]: aomali2 left the game
-[23:32:04] [Server thread/INFO]: andres12234 lost connection: Disconnected
-[23:32:04] [Server thread/INFO]: andres12234 left the game
-[23:37:03] [User Authenticator #66/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[23:37:03] [Server thread/INFO]: PEPELOTAS[/187.189.69.181:17068] logged in with entity id 81411 at ([maincra-server]-253.02141324446927, 64.9988414607825, -445.8819457764027)
-[23:39:08] [User Authenticator #67/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
-[23:39:08] [Server thread/INFO]: Jacqueline[/187.189.69.181:17089] logged in with entity id 82250 at ([maincra-server]-244.66019007372944, 65.0, -451.90224905562786)
+[00:00:23] [Server thread/WARN]: Jacqueline moved too quickly! 7.329014576248298,-2.024424088213692,-7.126266992727437
+[00:10:14] [User Authenticator #68/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[00:10:14] [Server thread/INFO]: Adrian[/187.233.2.52:59664] logged in with entity id 84250 at ([maincra-server]-113.08636301442067, 67.0, -849.6216548040045)
+[00:10:25] [Server thread/WARN]: Adrian moved too quickly! -5.239053316934715,0.0,-10.341145197872038
+[00:11:08] [User Authenticator #69/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[00:11:08] [Server thread/INFO]: selfepidemiic[/187.233.2.52:63084] logged in with entity id 84520 at ([maincra-server]-108.78308723912788, 68.0, -847.7866373920829)
+[00:25:23] [Server thread/WARN]: Jacqueline moved too quickly! -4.357536712808411,1.0,-12.215752620287418
+[00:32:16] [Server thread/INFO]: Adrian tried to swim in lava to escape Zombie
+[00:35:23] [Server thread/WARN]: PEPELOTAS moved too quickly! 9.59253909009584,-0.513532114828962,11.932365037117904
+[00:35:23] [Server thread/WARN]: Adrian moved too quickly! 12.579093879539812,-1.0,2.3631264384480346
+[00:36:32] [Server thread/INFO]: PEPELOTAS issued server command: /give PEPELOTAS minecraft:command_block 3
+[00:36:32] [Server thread/INFO]: [PEPELOTAS: Gave 3 [Command Block] to PEPELOTAS]
+[00:38:31] [Server thread/INFO]: Adrian tried to swim in lava
+[00:39:49] [Server thread/INFO]: Jacqueline lost connection: Timed out
+[00:39:49] [Server thread/INFO]: Jacqueline left the game
+[00:41:22] [User Authenticator #70/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[00:41:22] [Server thread/INFO]: Jacqueline[/187.189.69.181:16618] logged in with entity id 87723 at ([maincra-server]-75.84903369298122, 65.0, -236.46175602418194)
+[00:50:23] [Server thread/WARN]: Adrian moved too quickly! 11.65532363140801,-2.249187078744683,3.6240808938237024
+[00:54:52] [Server thread/INFO]: [@: Changed the block at -163, 154, -264]
+[00:57:19] [Server thread/INFO]: [@: Changed the block at -76, 77, -122]
+[00:58:48] [Server thread/WARN]: Boat moved wrongly!
+[00:59:34] [Server thread/WARN]: Boat moved wrongly!
+[00:59:34] [Server thread/WARN]: Boat moved wrongly!
+[00:59:34] [Server thread/WARN]: Boat moved wrongly!
+[00:59:34] [Server thread/WARN]: Boat moved wrongly!
+[00:59:34] [Server thread/WARN]: Boat moved wrongly!
+[00:59:35] [Server thread/WARN]: Boat moved wrongly!
+[00:59:35] [Server thread/WARN]: Boat moved wrongly!
+[00:59:35] [Server thread/WARN]: Boat moved wrongly!
+[00:59:35] [Server thread/WARN]: Boat moved wrongly!
+[01:00:24] [Server thread/WARN]: selfepidemiic moved too quickly! 0.15260501539989946,0.6071879252112069,-10.03281582017462
+[01:00:24] [Server thread/WARN]: Adrian moved too quickly! 2.275638258958395,-0.2336320060424768,-15.948818640276386
+[01:05:42] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[01:05:42] [Server thread/INFO]: selfepidemiic left the game
+[01:05:44] [Server thread/INFO]: Adrian lost connection: Disconnected
+[01:05:44] [Server thread/INFO]: Adrian left the game
+[01:07:52] [Server thread/INFO]: [@: Changed the block at -76, 77, -122]
+[01:15:09] [Server thread/INFO]: [@: Changed the block at -29, 71, -210]
+[01:19:01] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[01:19:01] [Server thread/INFO]: PEPELOTAS left the game
+[01:19:48] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[01:19:48] [Server thread/INFO]: Jacqueline left the game
+[01:53:04] [User Authenticator #71/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[01:53:04] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63277] logged in with entity id 91814 at ([maincra-server]388.30000001192093, 65.0, -2652.0177525598397)
+[02:01:04] [Server thread/INFO]: selfepidemiic tried to swim in lava
+[02:06:12] [Server thread/INFO]: selfepidemiic was shot by Skeleton
+[02:08:00] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[02:08:00] [Server thread/INFO]: selfepidemiic left the game
+[02:08:37] [User Authenticator #72/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[02:08:37] [Server thread/INFO]: selfepidemiic[/187.233.219.249:63293] logged in with entity id 96257 at ([maincra-server]-5.806674497063686, 65.0, -342.396800234235)
+[02:12:49] [Server thread/INFO]: selfepidemiic hit the ground too hard
+[02:18:20] [Server thread/INFO]: selfepidemiic was slain by Vex
+[02:21:33] [Server thread/INFO]: selfepidemiic was slain by Vex
+[02:23:08] [Server thread/WARN]: selfepidemiic moved too quickly! -1.7543786601573501,0.0,-9.914466012636353
+[02:30:32] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[02:30:32] [Server thread/INFO]: selfepidemiic left the game
