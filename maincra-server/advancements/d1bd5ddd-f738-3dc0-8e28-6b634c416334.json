@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-11 16:50:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2019-07-28 20:23:34 -0500"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2019-08-11 17:22:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-01 07:53:29 -0500"
@@ -341,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2019-08-11 17:39:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2019-08-01 20:19:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-11 16:50:02 -0500"
     },
     "done": true
   },
@@ -482,6 +506,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-28 21:00:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-11 17:22:58 -0500"
     },
     "done": true
   },
@@ -909,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-08-11 17:41:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-08-04 21:34:16 -0500"
@@ -972,6 +1008,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-07-31 21:42:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-08-11 16:50:02 -0500"
     },
     "done": true
   },
@@ -1047,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-08-11 16:50:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-28 21:59:43 -0500"
@@ -1119,6 +1167,7 @@
       "minecraft:desert_hills": "2019-08-04 15:32:51 -0500",
       "minecraft:desert": "2019-07-28 20:46:58 -0500",
       "minecraft:birch_forest": "2019-07-28 20:30:03 -0500",
+      "minecraft:warm_ocean": "2019-08-11 16:54:23 -0500",
       "minecraft:beach": "2019-07-28 20:22:26 -0500",
       "minecraft:dark_forest": "2019-07-28 20:19:42 -0500",
       "minecraft:river": "2019-07-28 20:29:49 -0500",
@@ -1265,6 +1314,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2019-08-04 15:37:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2019-08-11 17:22:58 -0500"
     },
     "done": true
   },
@@ -1433,6 +1488,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-03 19:46:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-11 16:50:13 -0500"
     },
     "done": true
   },
@@ -1780,6 +1841,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2019-08-10 21:50:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-11 16:50:02 -0500"
     },
     "done": true
   },
@@ -2140,6 +2207,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2019-07-31 23:33:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-11 16:50:13 -0500"
     },
     "done": true
   },
@@ -2674,6 +2747,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-08-10 21:24:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-11 16:50:13 -0500"
     },
     "done": true
   },

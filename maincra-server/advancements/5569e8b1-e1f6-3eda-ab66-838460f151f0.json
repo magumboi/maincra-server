@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-11 16:55:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-08-10 14:23:54 -0500"
@@ -188,6 +194,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-07-19 23:30:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-11 16:55:51 -0500"
     },
     "done": true
   },
@@ -1219,6 +1231,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-07-20 21:03:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-11 16:55:51 -0500"
     },
     "done": true
   },
@@ -2378,6 +2396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-11 16:55:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-07-19 23:34:59 -0500"
@@ -3167,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-08-11 16:55:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-07-20 21:24:58 -0500"
@@ -3626,6 +3656,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2019-08-04 20:51:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-11 16:55:51 -0500"
     },
     "done": true
   },
