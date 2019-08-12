@@ -528,3 +528,61 @@
 [19:58:38] [Server thread/INFO]: Adrian left the game
 [19:58:42] [User Authenticator #101/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
 [19:58:42] [Server thread/INFO]: Adrian[/187.233.2.52:52020] logged in with entity id 134296 at ([maincra-server]-286.090526669538, 63.521600016355514, -819.1568648234494)
+[20:02:52] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:02:52] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:04:24] [Server thread/WARN]: selfepidemiic moved too quickly! -11.457546665396649,0.8232407249357578,-0.38028487886720086
+[20:06:24] [User Authenticator #102/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:06:24] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[20:06:24] [Server thread/INFO]: selfepidemiic left the game
+[20:06:24] [Server thread/INFO]: selfepidemiic[/187.233.219.249:64089] logged in with entity id 134553 at ([maincra-server]-271.700985570817, 64.0, -847.5640276465764)
+[20:07:14] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[20:07:14] [Server thread/INFO]: selfepidemiic left the game
+[20:09:05] [User Authenticator #103/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:09:06] [Server thread/INFO]: selfepidemiic[/187.233.219.249:64104] logged in with entity id 134611 at ([maincra-server]-269.1829580615182, 66.08770925941234, -847.3467483441816)
+[20:09:10] [User Authenticator #104/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[20:09:10] [Server thread/INFO]: Jacqueline[/187.188.76.120:21600] logged in with entity id 134628 at ([maincra-server]-89.81147506816743, 69.0, -258.0456428389205)
+[20:13:06] [Server thread/WARN]: Horse moved wrongly!
+[20:13:06] [Server thread/WARN]: Horse moved wrongly!
+[20:13:06] [Server thread/WARN]: Horse moved wrongly!
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 19.90953056322695,1.8443080319538865,2.9176925141599668
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.31374364181434,1.8939450599375647,2.9769391313520828
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.70169252140633,1.8647844610455309,3.0338018604038552
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.07513698791624,1.7599466198291935,3.0885386379507054
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.435646418466746,1.5824283536700392,3.141379491890916
+[20:13:14] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.784620383616215,1.335107806037243,3.19252956110995
+[20:16:20] [Server thread/WARN]: Horse moved wrongly!
+[20:16:20] [Server thread/WARN]: Horse moved wrongly!
+[20:16:41] [Server thread/WARN]: Jacqueline moved too quickly! 1.8654951174647891,0.0,-10.100359351878296
+[20:18:05] [User Authenticator #105/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[20:18:05] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17549] logged in with entity id 135255 at ([maincra-server]-78.4994283177472, 63.0, -184.40090880019702)
+[20:20:44] [Server thread/WARN]: PEPELOTAS moved too quickly! -21.753882082251764,0.0,9.716839095925451
+[20:26:08] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[20:26:08] [Server thread/INFO]: PEPELOTAS left the game
+[20:28:42] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 19.141933096293883,1.0,6.618215090354056
+[20:28:42] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 19.6898303029771,2.0,6.618215090354056
+[20:29:45] [Server thread/WARN]: Horse moved wrongly!
+[20:39:53] [Server thread/INFO]: Jacqueline lost connection: Disconnected
+[20:39:53] [Server thread/INFO]: Jacqueline left the game
+[21:02:25] [Server thread/WARN]: Horse moved wrongly!
+[21:02:25] [Server thread/WARN]: Horse moved wrongly!
+[21:03:27] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -18.94533072083121,1.0,7.448173947293071
+[21:08:08] [Async Chat Thread - #42/INFO]: <selfepidemiic> decorasion[m
+[21:15:01] [Server thread/INFO]: Adrian lost connection: Timed out
+[21:15:01] [Server thread/INFO]: Adrian left the game
+[21:17:12] [User Authenticator #106/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[21:17:12] [Server thread/INFO]: Adrian[/187.233.210.247:1237] logged in with entity id 139330 at ([maincra-server]-267.33672263480526, 68.0, -826.4361459918373)
+[21:17:18] [Async Chat Thread - #43/INFO]: <Adrian> se me fue la luz[m
+[21:17:18] [Async Chat Thread - #43/INFO]: <Adrian> xd[m
+[21:17:19] [Async Chat Thread - #43/INFO]: <selfepidemiic> qué pasó decorasion'??[m
+[21:17:22] [Async Chat Thread - #43/INFO]: <selfepidemiic> ahhh okeis[m
+[21:18:28] [Async Chat Thread - #44/INFO]: <selfepidemiic> esa es mi chamba[m
+[21:18:29] [Async Chat Thread - #44/INFO]: <selfepidemiic> orale[m
+[21:18:30] [Async Chat Thread - #44/INFO]: <selfepidemiic> saquese[m
+[21:20:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:20:49] [Server thread/INFO]: selfepidemiic left the game
+[21:28:26] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:04:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:04:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:05:00] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:05:13] [Server thread/INFO]: Adrian lost connection: Disconnected
+[22:05:13] [Server thread/INFO]: Adrian left the game
