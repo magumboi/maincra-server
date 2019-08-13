@@ -59,3 +59,229 @@
 [15:52:54] [User Authenticator #115/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
 [15:52:54] [Server thread/INFO]: selfepidemiic[/187.233.219.249:61676] logged in with entity id 149925 at ([maincra-server]-289.90666328786716, 63.0, -826.065842083466)
 [15:52:58] [Async Chat Thread - #47/INFO]: <selfepidemiic> hola[m
+[16:00:44] [Server thread/WARN]: Skeleton Horse (vehicle of Adrian) moved too quickly! -17.8770376926484,1.0,9.478771815206414
+[16:09:47] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[16:09:47] [Server thread/INFO]: Axfer06 left the game
+[16:14:43] [Server thread/INFO]: Adrian has made the advancement [Diamonds!]
+[16:22:54] [Async Chat Thread - #48/INFO]: <selfepidemiic> -346 28 -740[m
+[16:24:45] [Server thread/INFO]: Adrian lost connection: Disconnected
+[16:24:45] [Server thread/INFO]: Adrian left the game
+[16:27:31] [User Authenticator #116/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[16:27:32] [Server thread/INFO]: Adrian[/187.233.210.247:7073] logged in with entity id 152385 at ([maincra-server]-348.08585756666326, 28.0, -741.4224580646877)
+[16:27:58] [User Authenticator #117/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[16:27:58] [Server thread/INFO]: andres12234[/187.189.187.177:17451] logged in with entity id 152399 at ([maincra-server]-14.110293505521255, 50.26284027587949, 119.55490694448406)
+[16:55:43] [Server thread/WARN]: Skeleton Horse (vehicle of selfepidemiic) moved too quickly! -19.268580101334067,0.0,5.8312339772974155
+[16:59:36] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[16:59:36] [Server thread/INFO]: selfepidemiic left the game
+[17:00:26] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[17:00:26] [Server thread/INFO]: andres12234 left the game
+[17:19:28] [Server thread/INFO]: Adrian lost connection: Disconnected
+[17:19:28] [Server thread/INFO]: Adrian left the game
+[17:56:53] [User Authenticator #118/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[17:56:53] [Server thread/INFO]: selfepidemiic[/187.233.219.249:61830] logged in with entity id 155492 at ([maincra-server]-303.92923382135206, 63.0, -817.274800403358)
+[17:56:56] [User Authenticator #119/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[17:56:56] [Server thread/INFO]: Adrian[/187.233.210.247:58626] logged in with entity id 155723 at ([maincra-server]-296.45125076710764, 68.0, -838.9827714719963)
+[17:56:59] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[17:56:59] [Server thread/INFO]: selfepidemiic left the game
+[17:59:51] [User Authenticator #120/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[17:59:51] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62297] logged in with entity id 155843 at ([maincra-server]-297.44325238811547, 63.0, -822.0214058844052)
+[18:06:37] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[18:06:37] [Server thread/INFO]: selfepidemiic left the game
+[18:06:40] [User Authenticator #121/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[18:06:41] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62301] logged in with entity id 156516 at ([maincra-server]-117.90632230296238, 67.0, -862.7008688966818)
+[18:07:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[18:07:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[18:11:10] [Server thread/WARN]: Adrian was kicked for floating too long!
+[18:11:10] [Server thread/INFO]: Adrian lost connection: Flying is not enabled on this server
+[18:11:10] [Server thread/INFO]: Adrian left the game
+[18:11:13] [User Authenticator #122/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:11:13] [Server thread/INFO]: Adrian[/187.233.210.247:7657] logged in with entity id 156715 at ([maincra-server]-124.49213431335451, 67.58410001635552, -851.7702587113159)
+[18:34:36] [Server thread/WARN]: Adrian was kicked for floating too long!
+[18:34:36] [Server thread/INFO]: Adrian lost connection: Flying is not enabled on this server
+[18:34:36] [Server thread/INFO]: Adrian left the game
+[18:34:38] [User Authenticator #123/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:34:38] [Server thread/INFO]: Adrian[/187.233.210.247:8165] logged in with entity id 157936 at ([maincra-server]-414.74358637896626, 66.58410001635552, -857.9221661362147)
+[18:37:37] [Server thread/WARN]: selfepidemiic was kicked for floating too long!
+[18:37:37] [Server thread/INFO]: selfepidemiic lost connection: Flying is not enabled on this server
+[18:37:37] [Server thread/INFO]: selfepidemiic left the game
+[18:37:55] [User Authenticator #124/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[18:37:55] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62318] logged in with entity id 158190 at ([maincra-server]-430.9355887053409, 67.77160001635552, -891.0317544120909)
+[18:40:27] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:40:27] [Server thread/INFO]: Adrian left the game
+[18:40:29] [User Authenticator #125/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:40:29] [Server thread/INFO]: Adrian[/187.233.210.247:58858] logged in with entity id 158519 at ([maincra-server]-292.54985718150056, 69.0, -864.8605021949012)
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:03:03] [Server thread/WARN]: Horse moved wrongly!
+[19:05:28] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:05:28] [Server thread/INFO]: selfepidemiic left the game
+[19:09:17] [User Authenticator #126/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:09:17] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62432] logged in with entity id 159272 at ([maincra-server]-109.57935019850608, 74.0, -825.6515751122157)
+[19:16:15] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:16:15] [Server thread/INFO]: selfepidemiic left the game
+[19:21:23] [User Authenticator #127/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:21:24] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62493] logged in with entity id 159821 at ([maincra-server]-276.700000025332, 64.0000002, -828.700000025332)
+[19:21:33] [Async Chat Thread - #49/INFO]: <selfepidemiic> me p0nes videos de yutu?[m
+[19:21:38] [Async Chat Thread - #49/INFO]: <selfepidemiic> pero xxx[m
+[19:24:31] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:24:31] [Server thread/INFO]: selfepidemiic left the game
+[19:30:46] [User Authenticator #128/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:30:46] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62599] logged in with entity id 160305 at ([maincra-server]-293.69999998807907, 65.0, -839.4925768739934)
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.24950736447721,-2.0,1.6089693331277886
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.84455382759245,-2.0,1.6562482728146506
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.43973076038145,-2.0,1.7035375788590272
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 22.03497750489163,-2.0,1.7508324317346933
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 22.630261604261875,-2.0,1.7981302526092122
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 23.22556569147298,-2.0,1.8454296616006332
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 23.820880473779198,-2.0,1.8927299203618304
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 24.416200978817585,-2.0,1.9400306338178552
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 25.011524545975817,-2.0,1.987331590572012
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 26.00559311284809,-1.2999044166492837,2.0663145094363244
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 26.565177326460685,-0.7043646068084115,2.1107758233480354
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 27.091892485610913,-0.20924016380075727,2.1526255530141043
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 27.589295021146825,0.18944535902330983,2.1921462717828035
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 28.060556558190058,0.49551094110040594,2.229589978573472
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 28.508505552105646,0.712624330352881,2.2651814060286597
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 28.93566441946092,0.8443080319538865,2.299120970724857
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 29.344282651415313,0.8939450599375647,2.3315874041701363
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 29.73636634424264,0.8647844610455309,2.3627400991280183
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 30.11370453465156,0.7599466198291935,2.3927212020689694
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 30.477892685624738,0.5824283536700392,2.4216574792192205
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 30.8303536310911,0.335107806037243,2.4496619807024445
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 31.172356254385136,0.020749145972430938,2.4768355246218334
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 31.5050321456971,-0.35799291852517,2.5032680205645192
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 31.829390457187685,-0.7985688058434874,2.5290396499024155
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 32.146331150779815,-1.2985298977546051,2.554221918385224
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 32.45665681253945,-1.8555245412666892,2.578878594842422
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 32.76108318874088,-2.0,2.6030665483175426
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 33.309350073184135,-2.0,2.646628653906646
+[19:32:25] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 33.87949618610992,-2.0,2.6919291561310956
+[19:32:31] [Async Chat Thread - #50/INFO]: <selfepidemiic> tengo lagg[m
+[19:36:58] [Server thread/WARN]: Horse moved wrongly!
+[19:39:09] [Async Chat Thread - #51/INFO]: <selfepidemiic> YA[m
+[19:39:10] [Async Chat Thread - #51/INFO]: <selfepidemiic> SE[m
+[19:39:11] [Async Chat Thread - #51/INFO]: <selfepidemiic> PUEDE[m
+[19:39:12] [Async Chat Thread - #51/INFO]: <selfepidemiic> AAAAAAAAAAAAA[m
+[19:39:13] [Async Chat Thread - #51/INFO]: <selfepidemiic> A MIMIR[m
+[19:39:14] [Async Chat Thread - #51/INFO]: <selfepidemiic> ORALES[m
+[19:40:44] [Server thread/WARN]: Adrian moved too quickly! -10.467204638895367,0.0,7.0127811074472675
+[19:41:33] [Server thread/WARN]: Horse moved wrongly!
+[19:41:34] [Server thread/WARN]: Horse moved wrongly!
+[19:41:34] [Server thread/WARN]: Horse moved wrongly!
+[19:41:34] [Server thread/WARN]: Horse moved wrongly!
+[19:41:34] [Server thread/WARN]: Horse moved wrongly!
+[19:41:34] [Server thread/WARN]: Horse moved wrongly!
+[19:41:35] [Server thread/WARN]: Horse moved wrongly!
+[19:41:35] [Server thread/WARN]: Horse moved wrongly!
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 17.884826610109855,-1.0,9.087797043769953
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 18.45241731821217,-1.0,8.906011365439042
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 19.017857514620104,-1.0,8.716081176380584
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 19.58214701509695,-1.0,8.521793022015842
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.145820801123477,-1.0,8.325173007304166
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 20.70916513062366,-1.0,8.12730526061312
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.27233317450525,-1.0,7.928769877417011
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.637639587642028,-1.0,7.7298772552382715
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 21.90564827322364,-1.0,7.550915359194271
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 22.321235232270446,-1.0,7.4003106150356714
+[19:42:00] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 22.815929433011206,-1.0,7.265583966633407
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 18.623326085197455,0.0,-7.448179925790733
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:42:01] [Server thread/WARN]: Horse moved wrongly!
+[19:44:39] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -2.2798834514227977,0.0,-19.945865406794837
+[19:44:39] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -2.2051486522775505,0.0,-20.538364723218365
+[19:45:35] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:45:35] [Server thread/INFO]: selfepidemiic left the game
+[19:45:36] [User Authenticator #129/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:45:37] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62615] logged in with entity id 161769 at ([maincra-server]-98.88843921523016, 70.0, -841.8748368159735)
+[19:49:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:49:49] [Server thread/INFO]: selfepidemiic left the game
+[19:49:51] [User Authenticator #130/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:49:51] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62620] logged in with entity id 161988 at ([maincra-server]-122.52903571818347, 62.11970399985695, -543.3868675743452)
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:09] [Server thread/WARN]: Horse moved wrongly!
+[19:50:10] [Server thread/WARN]: Horse moved wrongly!
+[19:50:10] [Server thread/WARN]: Horse moved wrongly!
+[19:50:10] [Server thread/WARN]: Horse moved wrongly!
+[19:50:10] [Server thread/WARN]: Horse moved wrongly!
+[19:50:10] [Server thread/WARN]: Horse moved wrongly!
+[19:50:13] [Async Chat Thread - #52/INFO]: <Adrian> selfepidemiic[m
+[19:50:43] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -9.088961455891052,-2.772546541336993,-17.806258145658035
+[19:50:43] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -9.284842466335533,-2.772546541336993,-18.268694091549037
+[19:50:43] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -9.544926147146725,-2.772546541336993,-18.74631077906747
+[19:50:43] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -9.83634905184158,-2.772546541336993,-19.23405531377375
+[19:51:05] [Async Chat Thread - #52/INFO]: <selfepidemiic> Adrian[m
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:35] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:51:36] [Server thread/WARN]: Horse moved wrongly!
+[19:56:50] [Server thread/WARN]: Horse moved wrongly!
+[19:56:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:57:50] [Server thread/WARN]: Horse moved wrongly!
+[19:58:27] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:58:27] [Server thread/INFO]: selfepidemiic left the game
+[19:58:47] [User Authenticator #131/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:58:47] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62630] logged in with entity id 162797 at ([maincra-server]-123.30000001192093, 54.0, -935.9671039985782)
+[19:59:02] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[19:59:02] [Server thread/INFO]: selfepidemiic left the game
+[19:59:03] [User Authenticator #132/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[19:59:03] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62634] logged in with entity id 162802 at ([maincra-server]-120.4378423007472, 69.0, -932.2692237517937)
