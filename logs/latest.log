@@ -1,2 +1,427 @@
 [06:51:34] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [06:51:37] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[12:02:56] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[12:02:58] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[12:47:05] [User Authenticator #145/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[12:47:05] [Server thread/INFO]: Axfer06[/177.249.190.224:5566] logged in with entity id 176501 at ([maincra-server]453.3641942662577, 72.0, -376.57936419248324)
+[13:03:37] [User Authenticator #146/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[13:03:38] [Server thread/INFO]: Adrian[/187.233.210.247:15527] logged in with entity id 177133 at ([maincra-server]-105.56474100308361, 68.0, -854.3843180905234)
+[13:12:18] [Async Chat Thread - #55/INFO]: <Axfer06> Adrian quieres ver mi casa ?[m
+[13:12:31] [Async Chat Thread - #55/INFO]: <Adrian> pasame las coords[m
+[13:14:08] [Async Chat Thread - #56/INFO]: <Axfer06> 452.200 7200000 377.679[m
+[13:14:17] [Async Chat Thread - #56/INFO]: <Axfer06> creo que son esas[m
+[13:14:29] [Async Chat Thread - #56/INFO]: <Adrian> en un rato voy, ando perdido en minando xD[m
+[13:14:40] [Async Chat Thread - #56/INFO]: <Axfer06> ok xd[m
+[13:19:17] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[13:19:19] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[13:26:00] [Server thread/WARN]: Adrian moved too quickly! 10.180766335084343,0.0,-0.2391359472608201
+[13:28:21] [Async Chat Thread - #57/INFO]: <Adrian> ya voy[m
+[13:28:42] [Server thread/WARN]: Horse moved wrongly!
+[13:28:42] [Server thread/WARN]: Horse moved wrongly!
+[13:28:57] [Server thread/WARN]: Horse moved wrongly!
+[13:28:57] [Server thread/WARN]: Horse moved wrongly!
+[13:29:37] [Server thread/WARN]: Horse moved wrongly!
+[13:29:37] [Server thread/WARN]: Horse moved wrongly!
+[13:29:37] [Server thread/WARN]: Horse moved wrongly!
+[13:32:03] [Server thread/INFO]: Adrian lost connection: Disconnected
+[13:32:03] [Server thread/INFO]: Adrian left the game
+[13:32:05] [User Authenticator #147/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[13:32:05] [Server thread/INFO]: Adrian[/187.233.210.247:15765] logged in with entity id 179656 at ([maincra-server]194.68203820673722, 72.0, -241.9446817770332)
+[13:33:32] [Server thread/INFO]: Adrian was slain by Vex
+[13:33:38] [Async Chat Thread - #58/INFO]: <Axfer06> f[m
+[13:33:44] [Async Chat Thread - #58/INFO]: <Adrian> xd[m
+[13:33:46] [Async Chat Thread - #58/INFO]: <Adrian> no llegue[m
+[13:34:07] [Async Chat Thread - #58/INFO]: <Axfer06> donde es tu casa ?[m
+[13:34:52] [Async Chat Thread - #58/INFO]: <Axfer06> tienes una cama para dormir?[m
+[13:35:02] [Async Chat Thread - #58/INFO]: <Adrian> un buen[m
+[13:35:21] [Async Chat Thread - #58/INFO]: <Adrian> -128, 73, -900[m
+[13:36:01] [Server thread/WARN]: Adrian moved too quickly! 9.35922553308157,1.0,5.417937811329125
+[13:36:43] [Async Chat Thread - #59/INFO]: <Axfer06> primero hay que dormir[m
+[13:36:50] [Async Chat Thread - #59/INFO]: <Adrian> listo[m
+[13:38:07] [Async Chat Thread - #60/INFO]: <Axfer06> voy a tu casa o tu a la mia ?[m
+[13:38:20] [Async Chat Thread - #60/INFO]: <Adrian> tienes caballo?[m
+[13:38:27] [Async Chat Thread - #60/INFO]: <Axfer06> aun no[m
+[13:38:33] [Async Chat Thread - #60/INFO]: <Adrian> xd ni yo[m
+[13:38:36] [Async Chat Thread - #60/INFO]: <Adrian> mmm[m
+[13:38:41] [Async Chat Thread - #60/INFO]: <Adrian> es que caminando tardaremos años[m
+[13:38:49] [Async Chat Thread - #60/INFO]: <Adrian> estoy intentando hacer una silla de montar[m
+[13:38:53] [Async Chat Thread - #60/INFO]: <Axfer06> tienes razon[m
+[13:38:55] [Async Chat Thread - #60/INFO]: <Adrian> para ir contigo[m
+[13:39:45] [Async Chat Thread - #60/INFO]: <Axfer06> creo que las sillas de motar no las haces creo que te la debes de encontrar[m
+[13:40:32] [Async Chat Thread - #60/INFO]: <Adrian> estoy viendo a ver si la pesco[m
+[13:42:31] [Async Chat Thread - #61/INFO]: <Adrian> a ver[m
+[13:42:36] [Async Chat Thread - #61/INFO]: <Adrian> intentare ir corriendo[m
+[13:42:43] [Async Chat Thread - #61/INFO]: <Axfer06> ok[m
+[13:42:44] [Async Chat Thread - #61/INFO]: <Adrian> pasame las coords otra vez[m
+[13:42:49] [Async Chat Thread - #61/INFO]: <Adrian> que necesitabas?[m
+[13:42:58] [Async Chat Thread - #61/INFO]: <Adrian> para darte[m
+[13:43:18] [Async Chat Thread - #61/INFO]: <Axfer06> nada por?[m
+[13:43:33] [Async Chat Thread - #61/INFO]: <Adrian> me robe el caballo de mi novia xd[m
+[13:43:39] [Async Chat Thread - #61/INFO]: <Adrian> pasame tus coords otra vez[m
+[13:43:54] [Async Chat Thread - #61/INFO]: <Axfer06> 452.200 7200000 377.679[m
+[13:44:06] [Async Chat Thread - #61/INFO]: <Adrian> ya voy[m
+[13:44:11] [Async Chat Thread - #61/INFO]: <Axfer06> ok[m
+[13:45:49] [Server thread/WARN]: Horse moved wrongly!
+[13:45:49] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.264157643506465,0.0,9.343458577880199
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.793748640818002,0.0,9.57779014702993
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.308820716031505,0.0,9.856145214940284
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.81572720217465,0.0,10.158655680260892
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.318264444410524,0.0,10.474091217129057
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.818463791344946,0.0,10.796442702084164
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 21.317808980447943,0.0,11.12189547201416
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 21.81669712672541,-0.07683200149536162,11.449007677701275
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.10681207588302,-0.2274534586630068,11.639335788582116
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.38870644383927,-0.4489423104376016,11.824367294288834
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.663269697268852,-0.7384922093173572,12.004675287365103
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.93129506257514,-1.0,12.180770851756165
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 23.402018581701405,-1.0768320014953616,12.490781797931788
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 23.67706320041249,-1.2274534586630068,12.67195936581038
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 23.945517847289196,-1.4489423104376016,12.848830417032445
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.208095557114625,-1.7384922093173572,13.021860916589617
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.465432214326682,-2.0,13.191466412073282
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.92662354329979,-2.0,13.495689514630499
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 25.40509631972766,-2.0,13.81144214858034
+[13:46:00] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 25.892816054133682,-2.0,14.133364004904308
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:46:00] [Server thread/WARN]: Horse moved wrongly!
+[13:47:44] [User Authenticator #148/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[13:47:44] [Server thread/INFO]: selfepidemiic[/187.233.219.249:49839] logged in with entity id 180991 at ([maincra-server]-281.8055510041314, 64.0, -832.684211170509)
+[13:48:01] [Server thread/WARN]: selfepidemiic moved too quickly! -12.235850880068028,4.975575911786308,-10.440854114877311
+[13:48:06] [Async Chat Thread - #62/INFO]: <Axfer06> tienen cosas de iron ?[m
+[13:48:13] [Async Chat Thread - #62/INFO]: <Adrian> no xd[m
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:30] [Server thread/WARN]: Horse moved wrongly!
+[13:48:31] [Server thread/WARN]: Horse moved wrongly!
+[13:48:31] [Server thread/WARN]: Horse moved wrongly!
+[13:48:31] [Server thread/WARN]: Horse moved wrongly!
+[13:48:32] [Async Chat Thread - #62/INFO]: <Axfer06> le puedo dar un poco de iron[m
+[13:49:25] [Async Chat Thread - #62/INFO]: <selfepidemiic> Eres Axelito verdad?[m
+[13:49:30] [Async Chat Thread - #62/INFO]: <selfepidemiic> Adrián me acaba de decir!![m
+[13:49:35] [Async Chat Thread - #62/INFO]: <selfepidemiic> Soy Fer, su novia :P[m
+[13:50:21] [Async Chat Thread - #62/INFO]: <Axfer06> sip[m
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 16.84144636936162,1.9231679985046384,-11.237341452884493
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 17.140080479245285,1.7725465413369932,-11.372209651937311
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 17.431376378557275,1.5510576895623984,-11.504617897918735
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 17.716128061492896,1.2615077906826428,-11.634832357687884
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 17.994850966290073,1.0,-11.763479180722015
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.47794837626293,1.0,-12.02681688952859
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.964546175607097,1.0,-12.32602699335817
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.45301696351362,2.0,-12.644431700546164
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.94248995025646,2.0,-12.97310705729214
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.43208865433769,2.0,-13.307867967877371
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.921754627260157,3.0,-13.645885136989136
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 21.416339838870726,3.0,-13.97840716233037
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 21.922616142732863,2.9231679985046384,-14.29309443878617
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.2185209726847,2.772546541336993,-14.47354302280408
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.508284764189966,2.5510576895623984,-14.644534087764868
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 22.792751976257023,2.261507790682643,-14.806615439933609
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 23.073107843530806,2.0,-14.958887627120305
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 23.59381708664887,2.0,-15.156478407601497
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.143285149925987,1.9231679985046384,-15.323298829155561
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.46436334236614,1.7725465413369932,-15.418740554610935
+[13:51:02] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 24.77775358202291,1.5510576895623984,-15.510104981344796
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:51:02] [Server thread/WARN]: Horse moved wrongly!
+[13:52:04] [Server thread/INFO]: Adrian lost connection: Disconnected
+[13:52:04] [Server thread/INFO]: Adrian left the game
+[13:52:05] [User Authenticator #149/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[13:52:05] [Server thread/INFO]: Adrian[/187.233.210.247:63766] logged in with entity id 182092 at ([maincra-server]677.9655798229585, 61.44571558461648, 194.32933508899836)
+[13:52:36] [Server thread/WARN]: Horse moved wrongly!
+[13:52:36] [Server thread/WARN]: Horse moved wrongly!
+[13:52:36] [Server thread/WARN]: Horse moved wrongly!
+[13:52:36] [Server thread/WARN]: Horse moved wrongly!
+[13:52:54] [Server thread/WARN]: Horse moved wrongly!
+[13:52:54] [Server thread/WARN]: Horse moved wrongly!
+[13:53:13] [Async Chat Thread - #63/INFO]: <Adrian> axel[m
+[13:53:18] [Async Chat Thread - #63/INFO]: <Adrian> me pones otra vez las coors?[m
+[13:53:19] [Async Chat Thread - #63/INFO]: <Axfer06> que?[m
+[13:54:01] [Async Chat Thread - #63/INFO]: <Axfer06> 452.200 7200000 377.679[m
+[13:55:37] [Async Chat Thread - #64/INFO]: <selfepidemiic> Axel para cuando gustes nuestra casa está en -100 60 -900[m
+[13:56:00] [Server thread/WARN]: selfepidemiic moved too quickly! 12.539746810642896,0.7531999805212024,-1.2750220058534296
+[13:56:10] [Async Chat Thread - #64/INFO]: <Axfer06> gracias!!!!!![m
+[13:56:19] [Async Chat Thread - #64/INFO]: <Adrian> vives sobre el mar?[m
+[13:56:28] [Async Chat Thread - #64/INFO]: <Axfer06> no[m
+[13:57:09] [Async Chat Thread - #64/INFO]: <selfepidemiic> axel sabes por qué los shulkers se aparecen en mi casa??[m
+[13:57:14] [Async Chat Thread - #64/INFO]: <selfepidemiic> si son del end D:[m
+[13:58:42] [Server thread/WARN]: Horse moved wrongly!
+[13:58:56] [Async Chat Thread - #65/INFO]: <Axfer06> a lo mejor viven ceerca de un portal[m
+[13:59:04] [Async Chat Thread - #65/INFO]: <selfepidemiic> igual y si[m
+[13:59:15] [Async Chat Thread - #65/INFO]: <selfepidemiic> :([m
+[13:59:22] [Async Chat Thread - #65/INFO]: <Axfer06> viven cerca de la casa de ivan[m
+[13:59:29] [Async Chat Thread - #65/INFO]: <Axfer06> ?[m
+[13:59:35] [Async Chat Thread - #65/INFO]: <selfepidemiic> De hecho no[m
+[14:01:01] [Server thread/WARN]: selfepidemiic moved too quickly! 0.4820843409591191,-1.0625,-9.9833505833368
+[14:01:01] [Server thread/WARN]: Axfer06 moved too quickly! -10.579321303959603,4.9769118908984495,3.289648986688576
+[14:01:46] [Async Chat Thread - #66/INFO]: <Adrian> axel[m
+[14:01:51] [Async Chat Thread - #66/INFO]: <Axfer06> eu[m
+[14:01:55] [Async Chat Thread - #66/INFO]: <Adrian> seguro que estan bien las coords?[m
+[14:01:57] [Async Chat Thread - #66/INFO]: <Adrian> aqui estoy[m
+[14:01:58] [Async Chat Thread - #66/INFO]: <Adrian> no te veo[m
+[14:02:04] [Async Chat Thread - #66/INFO]: <Adrian> estoy sobre el mar[m
+[14:02:18] [Async Chat Thread - #66/INFO]: <Adrian> no son negativos?[m
+[14:02:31] [Async Chat Thread - #66/INFO]: <Axfer06> estas en el desierto?[m
+[14:02:36] [Async Chat Thread - #66/INFO]: <Adrian> si[m
+[14:02:41] [Async Chat Thread - #66/INFO]: <Adrian> o sea[m
+[14:02:43] [Async Chat Thread - #66/INFO]: <Adrian> mi ksa[m
+[14:02:48] [Async Chat Thread - #66/INFO]: <Adrian> yo ahorita estoy bien lejos[m
+[14:02:50] [Async Chat Thread - #66/INFO]: <Adrian> sobre el mar[m
+[14:03:23] [Async Chat Thread - #66/INFO]: <Adrian> tus coordenadas son negativas?[m
+[14:03:30] [Async Chat Thread - #66/INFO]: <Axfer06> como?[m
+[14:03:31] [Async Chat Thread - #66/INFO]: <Adrian> es que aqui estoy y no hay nada[m
+[14:03:47] [Async Chat Thread - #66/INFO]: <Adrian> en la tecla f3[m
+[14:04:07] [Async Chat Thread - #66/INFO]: <Adrian> las coordenadas pueden estar en positivo o negativo, indicando la direccion[m
+[14:04:45] [Async Chat Thread - #66/INFO]: <Axfer06> espera[m
+[14:04:53] [Async Chat Thread - #66/INFO]: <Adrian> donde dice XYZ[m
+[14:08:07] [Async Chat Thread - #67/INFO]: <Axfer06> 463.651 72.00000 374.934[m
+[14:08:33] [Async Chat Thread - #67/INFO]: <Axfer06> prueba con esas[m
+[14:08:56] [Async Chat Thread - #67/INFO]: <Axfer06> hay que dormir[m
+[14:09:23] [Async Chat Thread - #67/INFO]: <selfepidemiic> si, vamos[m
+[14:09:31] [Server thread/INFO]: Adrian lost connection: Disconnected
+[14:09:31] [Server thread/INFO]: Adrian left the game
+[14:09:36] [Async Chat Thread - #67/INFO]: <selfepidemiic> listo[m
+[14:09:39] [Async Chat Thread - #67/INFO]: <selfepidemiic> ya estoy acostada[m
+[14:10:01] [Async Chat Thread - #67/INFO]: <selfepidemiic> gracias !![m
+[14:10:07] [User Authenticator #150/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[14:10:08] [Server thread/INFO]: Adrian[/187.233.210.247:63808] logged in with entity id 184068 at ([maincra-server]456.971662746965, 62.07326471152709, 379.32785576169704)
+[14:10:16] [Async Chat Thread - #67/INFO]: <Axfer06> de nada ;)[m
+[14:10:43] [Async Chat Thread - #67/INFO]: <Adrian> no hay nada Axel xd[m
+[14:10:47] [Async Chat Thread - #67/INFO]: <Adrian> me rindo[m
+[14:10:53] [Async Chat Thread - #67/INFO]: <Axfer06> gg[m
+[14:10:55] [Async Chat Thread - #67/INFO]: <Adrian> wp[m
+[14:11:00] [Server thread/WARN]: Axfer06 moved too quickly! -6.935253252570135,3.0013359791121417,11.848307919294939
+[14:11:07] [Async Chat Thread - #67/INFO]: <selfepidemiic> nuestra casa está en -100 60 -900[m
+[14:11:10] [Async Chat Thread - #67/INFO]: <selfepidemiic> para que vengas xD[m
+[14:16:00] [Server thread/WARN]: Adrian moved too quickly! -11.784271745646464,0.0,-0.03178252282506122
+[14:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:16:42] [Async Chat Thread - #68/INFO]: <Axfer06> saben donde es la casa de ivan?[m
+[14:17:03] [Async Chat Thread - #68/INFO]: <Adrian> -150, 90, -100[m
+[14:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[14:17:19] [Async Chat Thread - #68/INFO]: <selfepidemiic> son de la ciudad esas[m
+[14:17:19] [Async Chat Thread - #68/INFO]: <Axfer06> para que vayan ahi y los llevo a mi casa[m
+[14:17:25] [Async Chat Thread - #68/INFO]: <selfepidemiic> si, mejor jajaja[m
+[14:17:37] [Async Chat Thread - #68/INFO]: <Axfer06> esta bien cerca[m
+[14:18:02] [Async Chat Thread - #68/INFO]: <Adrian> ya estoy aqui por donde vive Ivan[m
+[14:18:12] [Async Chat Thread - #68/INFO]: <selfepidemiic> Voy para allá[m
+[14:19:00] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[14:19:00] [Server thread/INFO]: selfepidemiic left the game
+[14:19:02] [User Authenticator #151/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:19:02] [Server thread/INFO]: selfepidemiic[/187.233.219.249:49890] logged in with entity id 185170 at ([maincra-server]-79.30000001192093, 141.0, -120.28677805019622)
+[14:19:09] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:19:17] [Async Chat Thread - #69/INFO]: <selfepidemiic> se me buggeó[m
+[14:19:44] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:20:34] [Server thread/INFO]: Adrian was slain by Vex
+[14:20:44] [Async Chat Thread - #70/INFO]: <Axfer06> donde estan?[m
+[14:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:20:55] [Async Chat Thread - #70/INFO]: <selfepidemiic> bien muertos[m
+[14:21:00] [Async Chat Thread - #70/INFO]: <Axfer06> xd[m
+[14:21:11] [Async Chat Thread - #70/INFO]: <Axfer06> f[m
+[14:21:17] [Async Chat Thread - #70/INFO]: <selfepidemiic> :c[m
+[14:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7697ms or 153 ticks behind
+[14:21:45] [Server thread/INFO]: Adrian was slain by Vex
+[14:21:58] [Async Chat Thread - #70/INFO]: <Adrian> por la nave gigante[m
+[14:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:22:22] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[14:22:22] [Server thread/INFO]: selfepidemiic left the game
+[14:22:26] [User Authenticator #152/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[14:22:26] [Server thread/INFO]: selfepidemiic[/187.233.219.249:49897] logged in with entity id 188895 at ([maincra-server]-80.42054012524375, 77.0, -162.58529439817605)
+[14:22:39] [Server thread/INFO]: selfepidemiic discovered the floor was lava
+[14:22:41] [Server thread/INFO]: Adrian fell from a high place
+[14:22:45] [Async Chat Thread - #70/INFO]: <selfepidemiic> AJAJAJA[m
+[14:23:42] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:23:56] [Server thread/INFO]: Adrian fell from a high place
+[14:24:06] [Async Chat Thread - #71/INFO]: <selfepidemiic> GG NUESTRAS COSAS[m
+[14:24:06] [Async Chat Thread - #71/INFO]: <selfepidemiic> :([m
+[14:24:16] [Async Chat Thread - #71/INFO]: <selfepidemiic> Nos vemos en el spawn axel xD[m
+[14:24:20] [Async Chat Thread - #71/INFO]: <selfepidemiic> en casa de iván pues[m
+[14:24:44] [Server thread/INFO]: Adrian fell from a high place
+[14:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:25:51] [Server thread/INFO]: Adrian fell from a high place
+[14:26:14] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7466ms or 149 ticks behind
+[14:26:21] [Async Chat Thread - #72/INFO]: <selfepidemiic> que pedo[m
+[14:26:24] [Async Chat Thread - #72/INFO]: <selfepidemiic> está bugg[m
+[14:26:26] [Async Chat Thread - #72/INFO]: <selfepidemiic> la casa esa[m
+[14:26:43] [Server thread/INFO]: Adrian fell from a high place
+[14:26:47] [Async Chat Thread - #72/INFO]: <selfepidemiic> JAJAJAJ[m
+[14:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[14:27:24] [Server thread/INFO]: selfepidemiic fell from a high place
+[14:27:36] [Server thread/INFO]: Adrian was slain by Vex
+[14:27:41] [Async Chat Thread - #72/INFO]: <selfepidemiic> ay dios mío[m
+[14:27:45] [Async Chat Thread - #72/INFO]: <selfepidemiic> no podemos wtf[m
+[14:28:11] [Server thread/INFO]: Adrian fell from a high place
+[14:28:47] [Server thread/INFO]: Adrian tried to swim in lava
+[14:28:58] [Server thread/INFO]: selfepidemiic was killed by Silent DEATH using magic
+[14:29:05] [Async Chat Thread - #73/INFO]: <selfepidemiic> qué pedo[m
+[14:29:47] [Server thread/INFO]: Axfer06 has made the advancement [Ice Bucket Challenge]
+[14:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
+[14:30:11] [Server thread/INFO]: selfepidemiic was slain by Vex
+[14:30:32] [Async Chat Thread - #74/INFO]: <Axfer06> estan muy lejos de la casa de ivan?[m
+[14:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
+[14:30:59] [Server thread/INFO]: Adrian was slain by Vex
+[14:31:06] [Async Chat Thread - #74/INFO]: <selfepidemiic> estamos en la nave espacial[m
+[14:31:09] [Async Chat Thread - #74/INFO]: <selfepidemiic> de la casa de ivan[m
+[14:31:15] [Async Chat Thread - #74/INFO]: <selfepidemiic> pero no vengas[m
+[14:31:17] [Async Chat Thread - #74/INFO]: <selfepidemiic> está embrujada[m
+[14:31:19] [Async Chat Thread - #74/INFO]: <selfepidemiic> y no podemos salir[m
+[14:31:26] [Server thread/INFO]: selfepidemiic was slain by Vex
+[14:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5247ms or 104 ticks behind
+[14:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
+[14:33:01] [Server thread/INFO]: Adrian fell from a high place
+[14:33:05] [Async Chat Thread - #75/INFO]: <selfepidemiic> cuáles son las coordenadas de la casa de iván?[m
+[14:33:07] [Async Chat Thread - #75/INFO]: <selfepidemiic> iré a pie[m
+[14:35:44] [Server thread/INFO]: selfepidemiic was killed by Silent DEATH using magic
+[14:35:49] [Async Chat Thread - #76/INFO]: <selfepidemiic> wtf[m
+[14:35:53] [Async Chat Thread - #76/INFO]: <selfepidemiic> todo está lleno de esas mierdas[m
+[14:36:01] [Async Chat Thread - #76/INFO]: <selfepidemiic> perdón por la palabra :v[m
+[14:36:29] [Async Chat Thread - #76/INFO]: <Axfer06> 103.443 6993750 -4.311[m
+[14:36:46] [Async Chat Thread - #76/INFO]: <selfepidemiic> ahí vives?[m
+[14:37:02] [Async Chat Thread - #76/INFO]: <Axfer06> no es la casa de iva[m
+[14:37:08] [Async Chat Thread - #76/INFO]: <selfepidemiic> tu en cuáles vives?[m
+[14:37:12] [Async Chat Thread - #76/INFO]: <selfepidemiic> para ir directow[m
+[14:37:35] [Async Chat Thread - #76/INFO]: <Axfer06> dejame ir a mi casa[m
+[14:41:16] [Async Chat Thread - #77/INFO]: <Axfer06> 445.710 7200000 -380.611[m
+[14:41:22] [Async Chat Thread - #77/INFO]: <Adrian> xd[m
+[14:41:26] [Async Chat Thread - #77/INFO]: <Adrian> era z negativo[m
+[14:41:45] [Async Chat Thread - #77/INFO]: <selfepidemiic> hay que dormir[m
+[14:41:47] [Async Chat Thread - #77/INFO]: <selfepidemiic> para ir mañana[m
+[14:41:59] [Async Chat Thread - #77/INFO]: <selfepidemiic> buenas noshes[m
+[14:42:19] [Server thread/WARN]: Axfer06 was kicked for floating too long!
+[14:42:19] [Server thread/INFO]: Axfer06 lost connection: Flying is not enabled on this server
+[14:42:19] [Server thread/INFO]: Axfer06 left the game
+[14:42:31] [User Authenticator #153/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[14:42:32] [Server thread/INFO]: Axfer06[/177.249.190.224:13034] logged in with entity id 202569 at ([maincra-server]448.299999974668, 72.0000002, -373.700000025332)
+[14:42:53] [Async Chat Thread - #77/INFO]: <selfepidemiic> ahorita vamos para allá[m
+[14:42:59] [Async Chat Thread - #77/INFO]: <Axfer06> ok[m
+[14:47:26] [Async Chat Thread - #78/INFO]: <selfepidemiic> ya estamos por aquí axel xD[m
+[14:48:29] [Async Chat Thread - #79/INFO]: <selfepidemiic> ya viene adrián xD[m
+[14:49:14] [Async Chat Thread - #79/INFO]: <selfepidemiic> sorry D:[m
+[14:49:54] [Async Chat Thread - #79/INFO]: <Axfer06> quieren comida?[m
+[14:50:27] [Async Chat Thread - #79/INFO]: <selfepidemiic> gracias uwu[m
+[14:50:34] [Async Chat Thread - #79/INFO]: <Adrian> con razon[m
+[14:50:37] [Async Chat Thread - #79/INFO]: <Adrian> era paka :c[m
+[14:50:54] [Async Chat Thread - #79/INFO]: <Adrian> <3[m
+[14:51:23] [Async Chat Thread - #79/INFO]: <selfepidemiic> qué lindo por acá uwu[m
+[14:51:46] [Async Chat Thread - #79/INFO]: <Axfer06> la casa sigue en construccion[m
+[14:51:49] [Async Chat Thread - #79/INFO]: <Axfer06> xd[m
+[14:52:03] [Async Chat Thread - #79/INFO]: <selfepidemiic> y ya se ve linda!![m
+[14:52:16] [Async Chat Thread - #79/INFO]: <selfepidemiic> te está robando[m
+[14:52:18] [Async Chat Thread - #79/INFO]: <selfepidemiic> cuidado[m
+[14:52:30] [Server thread/WARN]: selfepidemiic moved too quickly! 9.751293569029258,0.0,2.9185911250751815
+[14:52:32] [Async Chat Thread - #79/INFO]: <Adrian> me das cuero?[m
+[14:52:35] [Async Chat Thread - #79/INFO]: <selfepidemiic> no[m
+[14:52:37] [Async Chat Thread - #79/INFO]: <selfepidemiic> popó[m
+[14:53:26] [Async Chat Thread - #79/INFO]: <Adrian> esta chida[m
+[14:53:31] [Async Chat Thread - #79/INFO]: <Axfer06> tengo muchos lobos xd[m
+[14:53:33] [Async Chat Thread - #79/INFO]: <Adrian> tienes aldea?[m
+[14:53:37] [Async Chat Thread - #79/INFO]: <Axfer06> nop[m
+[14:53:50] [Async Chat Thread - #79/INFO]: <selfepidemiic> tiene un castillo[m
+[14:54:12] [Async Chat Thread - #79/INFO]: <Adrian> tienes mesa de trabajo?[m
+[14:54:17] [Async Chat Thread - #79/INFO]: <Axfer06> si[m
+[14:54:55] [Async Chat Thread - #79/INFO]: <Axfer06> puedo ver su casa ?[m
+[14:55:10] [Async Chat Thread - #79/INFO]: <Adrian> si[m
+[14:55:51] [Async Chat Thread - #79/INFO]: <selfepidemiic> vamos[m
+[14:55:52] [Async Chat Thread - #79/INFO]: <Adrian> traete cuero[m
+[14:56:00] [Async Chat Thread - #79/INFO]: <Adrian> para que tradees unos esmeraldas[m
+[14:56:03] [Async Chat Thread - #79/INFO]: <Axfer06> esperen[m
+[14:56:04] [Async Chat Thread - #79/INFO]: <Adrian> con nuestros aldeanos[m
+[14:56:39] [Async Chat Thread - #79/INFO]: <Adrian> tienes arcilla?[m
+[14:56:42] [Async Chat Thread - #79/INFO]: <Adrian> para que traigas tambien[m
+[14:56:53] [Async Chat Thread - #79/INFO]: <Axfer06> no :([m
+[14:57:02] [Async Chat Thread - #79/INFO]: <selfepidemiic> por 10 de arcilla te dan 1 esmeralda[m
+[14:57:05] [Async Chat Thread - #79/INFO]: <selfepidemiic> nuestros aldeanos[m
+[14:57:09] [Async Chat Thread - #79/INFO]: <selfepidemiic> vengan xD[m
+[14:57:19] [Async Chat Thread - #79/INFO]: <selfepidemiic> estoy en el castillo[m
+[14:58:17] [Async Chat Thread - #79/INFO]: <selfepidemiic> Y Axel?[m
+[14:58:18] [Async Chat Thread - #79/INFO]: <Axfer06> donde estan?[m
+[14:58:26] [Async Chat Thread - #79/INFO]: <Adrian> en la entrada de tu ksa[m
+[14:58:30] [Async Chat Thread - #79/INFO]: <selfepidemiic> vengan[m
+[14:58:31] [Async Chat Thread - #79/INFO]: <Adrian> vamos[m
+[14:59:50] [Async Chat Thread - #80/INFO]: <Axfer06> tienen comida?[m
+[14:59:55] [Async Chat Thread - #80/INFO]: <Adrian> si[m
+[14:59:56] [Async Chat Thread - #80/INFO]: <Adrian> ven[m
+[15:02:11] [Server thread/WARN]: Axfer06 moved too quickly! -3.914478837789531,-1.1661092609382138,-14.495541270374474
+[15:02:57] [Async Chat Thread - #81/INFO]: <selfepidemiic> listo[m
+[15:03:15] [Async Chat Thread - #81/INFO]: <selfepidemiic> para donde se mete el sol está nuestra aldea[m
+[15:03:24] [Async Chat Thread - #81/INFO]: <selfepidemiic> gracias uwu[m
+[15:03:38] [Async Chat Thread - #81/INFO]: <Adrian> vamos a la aldea[m
+[15:04:30] [Async Chat Thread - #81/INFO]: <selfepidemiic> vamos a dormir[m
+[15:04:31] [Async Chat Thread - #81/INFO]: <Adrian> a dormir[m
+[15:05:32] [Async Chat Thread - #82/INFO]: <selfepidemiic> cuando necesites algo[m
+[15:05:33] [Async Chat Thread - #82/INFO]: <Axfer06> tienen muchas cosas[m
+[15:05:35] [Async Chat Thread - #82/INFO]: <selfepidemiic> aquí está tu casa[m
+[15:05:41] [Async Chat Thread - #82/INFO]: <selfepidemiic> siii xD[m
+[15:06:20] [Async Chat Thread - #82/INFO]: <Adrian> tradea el cuero[m
+[15:06:25] [Async Chat Thread - #82/INFO]: <selfepidemiic> cambia el cuero[m
+[15:06:33] [Async Chat Thread - #82/INFO]: <selfepidemiic> hay un wey que pide 6 de cuero y te da 1 esmeralda[m
+[15:06:39] [Async Chat Thread - #82/INFO]: <Adrian> toma[m
+[15:06:42] [Async Chat Thread - #82/INFO]: <Adrian> Axel[m
+[15:06:51] [Async Chat Thread - #82/INFO]: <Adrian> buscalo[m
+[15:08:33] [Server thread/INFO]: Axfer06 has made the advancement [What a Deal!]
+[15:08:39] [Server thread/INFO]: Adrian lost connection: Disconnected
+[15:08:39] [Server thread/INFO]: Adrian left the game
+[15:08:58] [Async Chat Thread - #83/INFO]: <selfepidemiic> regresamos en un ratito[m
+[15:09:03] [Async Chat Thread - #83/INFO]: <Axfer06> ok[m
+[15:09:06] [Async Chat Thread - #83/INFO]: <selfepidemiic> estás "en tu casa minecraftiana"[m
+[15:09:08] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:09:08] [Server thread/INFO]: selfepidemiic left the game
+[15:14:52] [Server thread/INFO]: Axfer06 has made the advancement [We Need to Go Deeper]
+[15:16:31] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[15:16:31] [Server thread/INFO]: Axfer06 left the game
+[15:16:33] [User Authenticator #154/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[15:16:33] [Server thread/INFO]: Axfer06[/177.249.190.224:8091] logged in with entity id 204748 at ([maincra-server]-79.31039020992759, 141.0, -119.84314338774958)
+[15:19:18] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[15:19:18] [Server thread/INFO]: Axfer06 left the game
+[15:25:31] [User Authenticator #155/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[15:25:31] [Server thread/INFO]: Adrian[/187.233.210.247:16361] logged in with entity id 204786 at ([maincra-server]-216.95498349857968, 63.0, -909.8645969854225)
