@@ -285,3 +285,73 @@
 [19:59:02] [Server thread/INFO]: selfepidemiic left the game
 [19:59:03] [User Authenticator #132/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
 [19:59:03] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62634] logged in with entity id 162802 at ([maincra-server]-120.4378423007472, 69.0, -932.2692237517937)
+[20:00:08] [Server thread/INFO]: selfepidemiic has made the advancement [Cover Me With Diamonds]
+[20:01:46] [Async Chat Thread - #53/INFO]: <selfepidemiic> DUÉRMETE CHATO PLIS[m
+[20:14:50] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:14:50] [Server thread/INFO]: Adrian left the game
+[20:15:00] [User Authenticator #133/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:15:00] [Server thread/INFO]: Adrian[/187.233.210.247:8877] logged in with entity id 163699 at ([maincra-server]-355.59744704011047, 20.0, -856.7800041111652)
+[20:26:05] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:26:05] [Server thread/INFO]: Adrian left the game
+[20:26:17] [User Authenticator #134/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:26:17] [Server thread/INFO]: Adrian[/187.233.210.247:8917] logged in with entity id 164588 at ([maincra-server]-403.64141037264073, 22.0, -903.7967986189284)
+[20:29:24] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:29:24] [Server thread/INFO]: Adrian left the game
+[20:30:13] [User Authenticator #135/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:30:13] [Server thread/INFO]: Adrian[/187.233.210.247:59434] logged in with entity id 164868 at ([maincra-server]-413.1113646927752, 23.0, -908.4274457610874)
+[20:35:44] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:35:44] [Server thread/INFO]: selfepidemiic left the game
+[20:37:14] [User Authenticator #136/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:37:15] [Server thread/INFO]: selfepidemiic[/187.233.219.249:62653] logged in with entity id 165330 at ([maincra-server]-288.04050431849714, 63.0, -830.2195639531652)
+[20:42:17] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:42:17] [Server thread/INFO]: Adrian left the game
+[20:42:38] [User Authenticator #137/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:42:39] [Server thread/INFO]: Adrian[/187.233.210.247:59466] logged in with entity id 165682 at ([maincra-server]-420.955445120607, 22.0, -849.5773747114202)
+[20:45:47] [Server thread/INFO]: Adrian was shot by Skeleton
+[20:48:45] [Server thread/INFO]: Adrian was shot by Skeleton
+[20:50:29] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:50:29] [Server thread/INFO]: selfepidemiic left the game
+[21:19:03] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:19:04] [Server thread/INFO]: Adrian left the game
+[21:19:16] [User Authenticator #138/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[21:19:16] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18352] logged in with entity id 167574 at ([maincra-server]-42.005927357818194, 103.49390748022948, -237.61937640973034)
+[21:37:48] [Server thread/WARN]: PEPELOTAS moved too quickly! 155.50037880707657,-15.890447453259966,200.42871212403693
+[21:37:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:37:48] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[21:41:03] [Server thread/INFO]: PEPELOTAS fell out of the world
+[21:51:35] [Server thread/INFO]: [@: Teleported PEPELOTAS to -54.5, 65.0, -199.5]
+[21:51:36] [Server thread/WARN]: PEPELOTAS moved too quickly! 154.5,-16.0,199.5
+[21:51:54] [Server thread/INFO]: PEPELOTAS fell out of the world
+[21:55:11] [User Authenticator #139/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:55:12] [Server thread/INFO]: selfepidemiic[/187.233.219.249:65106] logged in with entity id 170375 at ([maincra-server]-303.3581731690402, 69.0, -838.1131580359934)
+[21:55:39] [Server thread/INFO]: selfepidemiic was blown up by Creeper
+[22:00:28] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[22:00:28] [Server thread/INFO]: PEPELOTAS left the game
+[22:00:32] [User Authenticator #140/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:00:32] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17661] logged in with entity id 172057 at ([maincra-server]-97.45543331749369, 75.36083306614088, -211.50931130623093)
+[22:00:43] [Server thread/WARN]: PEPELOTAS moved too quickly! 0.6463206803738188,4.306831392530185,-17.39879712116297
+[22:13:06] [User Authenticator #141/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:13:06] [Server thread/INFO]: Adrian[/187.233.210.247:11263] logged in with entity id 172688 at ([maincra-server]-286.9789248419168, 62.9375, -820.3646405349431)
+[22:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[22:25:51] [Server thread/WARN]: PEPELOTAS moved too quickly! -11.461291778382872,0.0,29.909073553994403
+[22:28:35] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:28:35] [Server thread/INFO]: selfepidemiic left the game
+[22:28:49] [User Authenticator #142/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:28:49] [Server thread/INFO]: selfepidemiic[/187.233.219.249:65138] logged in with entity id 173953 at ([maincra-server]-298.413497255407, 68.0, -842.211285682478)
+[22:42:22] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:42:22] [Server thread/INFO]: selfepidemiic left the game
+[22:44:54] [User Authenticator #143/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:44:54] [Server thread/INFO]: selfepidemiic[/187.233.219.249:65244] logged in with entity id 175270 at ([maincra-server]-303.68168578748407, 69.0, -838.6394222358653)
+[22:45:10] [Async Chat Thread - #54/INFO]: <selfepidemiic> PEPELOTAS tu pusiste un shulker en mi casa? xD[m
+[22:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[22:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6402ms or 128 ticks behind
+[22:46:50] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:46:50] [Server thread/INFO]: selfepidemiic left the game
+[22:46:59] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[22:46:59] [Server thread/INFO]: PEPELOTAS left the game
+[22:57:56] [Server thread/INFO]: Adrian lost connection: Disconnected
+[22:57:56] [Server thread/INFO]: Adrian left the game
+[23:18:37] [User Authenticator #144/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[23:18:38] [Server thread/INFO]: andres12234[/187.189.181.38:8982] logged in with entity id 176321 at ([maincra-server]-12.122943066949476, 48.494069378350176, 113.6626107429414)
+[23:19:03] [Server thread/INFO]: andres12234 lost connection: Timed out
+[23:19:03] [Server thread/INFO]: andres12234 left the game
