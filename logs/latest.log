@@ -19365,3 +19365,7 @@
 [02:30:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
 [03:06:04] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
 [03:06:04] [Server thread/INFO]: PEPELOTAS left the game
+[04:19:25] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[04:19:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[05:49:31] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[05:49:33] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
