@@ -516,3 +516,100 @@
 [19:57:05] [User Authenticator #166/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
 [19:57:05] [Server thread/INFO]: Adrian[/187.233.210.247:19861] logged in with entity id 215376 at ([maincra-server]-275.700000025332, 64.0000002, -824.700000025332)
 [19:57:31] [Server thread/WARN]: selfepidemiic moved wrongly!
+[20:16:32] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:16:32] [Server thread/INFO]: selfepidemiic left the game
+[20:19:45] [Server thread/INFO]: Adrian has made the advancement [Cover Me With Diamonds]
+[20:35:48] [Server thread/WARN]: Adrian was kicked for floating too long!
+[20:35:48] [Server thread/INFO]: Adrian lost connection: Flying is not enabled on this server
+[20:35:48] [Server thread/INFO]: Adrian left the game
+[20:35:51] [User Authenticator #167/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:35:52] [Server thread/INFO]: Adrian[/187.233.210.247:50912] logged in with entity id 215963 at ([maincra-server]-275.700000025332, 64.0000002, -824.700000025332)
+[20:44:11] [Server thread/WARN]: Horse moved wrongly!
+[20:44:17] [Server thread/WARN]: Horse moved wrongly!
+[20:53:31] [Server thread/WARN]: Horse moved wrongly!
+[21:00:37] [User Authenticator #168/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:00:38] [Server thread/INFO]: selfepidemiic[/187.233.219.249:50245] logged in with entity id 216579 at ([maincra-server]-286.82181891824837, 63.0, -826.1993699319543)
+[21:01:47] [Server thread/WARN]: selfepidemiic moved too quickly! 9.193177518301354,-3.7531999805212024,2.33909176411521
+[21:06:19] [Server thread/WARN]: Horse moved wrongly!
+[21:06:20] [Server thread/WARN]: Horse moved wrongly!
+[21:06:20] [Server thread/WARN]: Horse moved wrongly!
+[21:06:20] [Server thread/WARN]: Horse moved wrongly!
+[21:07:14] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:07:14] [Server thread/INFO]: selfepidemiic left the game
+[21:08:24] [Server thread/WARN]: Horse moved wrongly!
+[21:14:07] [User Authenticator #169/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:14:07] [Server thread/INFO]: selfepidemiic[/187.233.219.249:50253] logged in with entity id 216928 at ([maincra-server]-284.927760234133, 62.9375, -837.4233293834368)
+[21:32:01] [Server thread/WARN]: Horse moved wrongly!
+[21:32:01] [Server thread/WARN]: Horse moved wrongly!
+[21:35:01] [Server thread/WARN]: Horse moved wrongly!
+[21:35:01] [Server thread/WARN]: Horse moved wrongly!
+[21:37:33] [Server thread/WARN]: Horse moved wrongly!
+[21:37:38] [Server thread/WARN]: Horse moved wrongly!
+[21:40:39] [Server thread/WARN]: Horse moved wrongly!
+[21:47:19] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:47:19] [Server thread/INFO]: selfepidemiic left the game
+[21:49:52] [User Authenticator #170/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[21:49:53] [Server thread/INFO]: Axfer06[/177.249.190.224:30714] logged in with entity id 218599 at ([maincra-server]443.84828164644983, 62.0, -389.52783987295805)
+[21:49:56] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[21:49:56] [Server thread/INFO]: Axfer06 left the game
+[21:49:58] [User Authenticator #171/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[21:49:58] [Server thread/INFO]: Axfer06[/177.249.190.224:34176] logged in with entity id 218890 at ([maincra-server]443.84828164644983, 62.0, -389.52783987295805)
+[21:49:58] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:49:58] [Server thread/INFO]: Adrian left the game
+[22:59:00] [User Authenticator #172/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:59:00] [Server thread/INFO]: Adrian[/187.233.210.247:21819] logged in with entity id 221113 at ([maincra-server]-298.4610565926745, 63.0, -818.64350132951)
+[22:59:47] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[22:59:47] [Server thread/INFO]: Axfer06 left the game
+[22:59:56] [Async Chat Thread - #92/INFO]: <Adrian> Adrian[m
+[23:17:43] [User Authenticator #173/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[23:17:43] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18430] logged in with entity id 222321 at ([maincra-server]-81.73287382520166, 75.0, -165.2272481241082)
+[23:17:44] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[23:17:44] [Server thread/INFO]: PEPELOTAS left the game
+[23:18:00] [User Authenticator #174/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[23:18:01] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17422] logged in with entity id 222335 at ([maincra-server]-81.73287382520166, 75.0, -165.2272481241082)
+[23:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5377ms or 107 ticks behind
+[23:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[23:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[23:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[23:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6112ms or 122 ticks behind
+[23:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[23:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[23:28:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[23:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[23:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[23:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[23:31:19] [Server thread/INFO]: [@: Changed the block at -32, 76, -201]
+[23:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[23:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5285ms or 105 ticks behind
+[23:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[23:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[23:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9519ms or 190 ticks behind
+[23:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[23:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[23:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
+[23:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
+[23:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[23:37:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6441ms or 128 ticks behind
+[23:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[23:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7730ms or 154 ticks behind
+[23:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7834ms or 156 ticks behind
+[23:40:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8188ms or 163 ticks behind
+[23:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7610ms or 152 ticks behind
+[23:41:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8019ms or 160 ticks behind
+[23:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8489ms or 169 ticks behind
+[23:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7487ms or 149 ticks behind
+[23:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[23:43:32] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[23:43:32] [Server thread/INFO]: PEPELOTAS left the game
+[23:43:38] [User Authenticator #175/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[23:43:38] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18339] logged in with entity id 223608 at ([maincra-server]-51.619162199116694, 65.0, -205.5016051227747)
+[23:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[23:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8303ms or 166 ticks behind
+[23:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
+[23:45:49] [Server thread/INFO]: [@: Killed 311 entities]
+[23:52:05] [Server thread/INFO]: Adrian lost connection: Disconnected
+[23:52:05] [Server thread/INFO]: Adrian left the game
