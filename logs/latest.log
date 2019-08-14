@@ -425,3 +425,94 @@
 [15:19:18] [Server thread/INFO]: Axfer06 left the game
 [15:25:31] [User Authenticator #155/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
 [15:25:31] [Server thread/INFO]: Adrian[/187.233.210.247:16361] logged in with entity id 204786 at ([maincra-server]-216.95498349857968, 63.0, -909.8645969854225)
+[16:15:47] [Server thread/INFO]: Adrian lost connection: Disconnected
+[16:15:47] [Server thread/INFO]: Adrian left the game
+[17:49:42] [User Authenticator #156/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[17:49:42] [Server thread/INFO]: Adrian[/187.233.210.247:49738] logged in with entity id 205925 at ([maincra-server]-120.64222491814647, 69.0625, -829.0336729330885)
+[17:52:16] [User Authenticator #157/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[17:52:16] [Server thread/INFO]: Axfer06[/177.249.190.224:42375] logged in with entity id 206238 at ([maincra-server]0.30000001192093184, 68.0, -141.30000001192093)
+[17:53:19] [Async Chat Thread - #84/INFO]: <Adrian> hola Axel[m
+[17:53:24] [Async Chat Thread - #84/INFO]: <Axfer06> holaaa[m
+[17:53:32] [Async Chat Thread - #84/INFO]: <Adrian> y Angel?[m
+[17:53:44] [Async Chat Thread - #84/INFO]: <Adrian> por cierto, acabo de pescar un arco con infinidad[m
+[17:53:52] [Async Chat Thread - #84/INFO]: <Adrian> lml[m
+[17:54:17] [Async Chat Thread - #84/INFO]: <Axfer06> me dijo que hasta la 8[m
+[17:57:54] [Async Chat Thread - #85/INFO]: <Axfer06> hay que dormir[m
+[18:11:10] [Server thread/INFO]: Adrian was slain by Iron Golem
+[18:12:24] [Async Chat Thread - #86/INFO]: <Axfer06> le pegate a un aldeano?[m
+[18:12:40] [Async Chat Thread - #86/INFO]: <Adrian> a un golem[m
+[18:12:42] [Async Chat Thread - #86/INFO]: <Adrian> sin querer[m
+[18:12:48] [Async Chat Thread - #86/INFO]: <Axfer06> f[m
+[18:19:39] [User Authenticator #158/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[18:19:39] [Server thread/INFO]: selfepidemiic[/187.233.219.249:50040] logged in with entity id 208419 at ([maincra-server]-229.897903676683, 72.0, -833.4008281346346)
+[18:20:57] [Async Chat Thread - #87/INFO]: <selfepidemiic> Hola Axel!![m
+[18:21:12] [Async Chat Thread - #87/INFO]: <Axfer06> holaa[m
+[18:21:43] [Async Chat Thread - #87/INFO]: <selfepidemiic> hay que dormir amigos por fa[m
+[18:21:49] [Async Chat Thread - #87/INFO]: <Axfer06> ya[m
+[18:21:51] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:21:51] [Server thread/INFO]: Adrian left the game
+[18:21:54] [Async Chat Thread - #87/INFO]: <selfepidemiic> listo[m
+[18:21:55] [User Authenticator #159/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:21:56] [Server thread/INFO]: Adrian[/187.233.210.247:49880] logged in with entity id 208524 at ([maincra-server]-320.56935615912477, 11.0, -753.0913820519413)
+[18:32:28] [Async Chat Thread - #88/INFO]: <selfepidemiic> a dormir[m
+[18:32:29] [Async Chat Thread - #88/INFO]: <selfepidemiic> por fisss[m
+[18:32:55] [Async Chat Thread - #88/INFO]: <Axfer06> ya[m
+[18:32:57] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:32:57] [Server thread/INFO]: Adrian left the game
+[18:33:00] [Async Chat Thread - #88/INFO]: <selfepidemiic> gracias[m
+[18:33:03] [User Authenticator #160/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:33:03] [Server thread/INFO]: Adrian[/187.233.210.247:18257] logged in with entity id 209388 at ([maincra-server]-363.2129109965069, 21.0, -762.4529796870395)
+[18:37:17] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[18:37:17] [Server thread/INFO]: selfepidemiic left the game
+[18:37:18] [User Authenticator #161/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[18:37:18] [Server thread/INFO]: selfepidemiic[/187.233.219.249:50052] logged in with entity id 209841 at ([maincra-server]-275.30000001192093, 61.0, -870.5585647694749)
+[18:43:46] [Async Chat Thread - #89/INFO]: <selfepidemiic> a dormir?[m
+[18:43:56] [Async Chat Thread - #89/INFO]: <Axfer06> sip[m
+[18:44:24] [Server thread/INFO]: Axfer06 lost connection: Timed out
+[18:44:24] [Server thread/INFO]: Axfer06 left the game
+[18:44:28] [User Authenticator #162/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[18:44:28] [Server thread/INFO]: Axfer06[/177.249.190.224:2135] logged in with entity id 210605 at ([maincra-server]451.299999974668, 57.3750002, -426.700000025332)
+[18:46:07] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[18:46:07] [Server thread/INFO]: Axfer06 left the game
+[18:47:57] [User Authenticator #163/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[18:47:57] [Server thread/INFO]: Axfer06[/177.249.190.224:46152] logged in with entity id 211313 at ([maincra-server]463.85699359198554, 75.0, -305.05993682462247)
+[18:48:00] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[18:48:00] [Server thread/INFO]: Axfer06 left the game
+[18:48:01] [User Authenticator #164/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
+[18:48:02] [Server thread/INFO]: Axfer06[/177.249.190.224:48639] logged in with entity id 211602 at ([maincra-server]463.85699359198554, 75.0, -305.05993682462247)
+[18:50:10] [Server thread/INFO]: Axfer06 lost connection: Disconnected
+[18:50:10] [Server thread/INFO]: Axfer06 left the game
+[18:51:38] [Server thread/INFO]: selfepidemiic was slain by Vindicator
+[18:52:11] [Server thread/WARN]: selfepidemiic moved too quickly! -11.448878439248546,-1.1661092609382138,0.25613132946432415
+[18:55:09] [Server thread/INFO]: selfepidemiic was shot by Pillager
+[18:55:16] [Server thread/INFO]: Adrian was slain by Vindicator
+[18:55:56] [Server thread/INFO]: selfepidemiic was slain by Vex
+[18:56:01] [Async Chat Thread - #90/INFO]: <selfepidemiic> qué onda???[m
+[18:56:05] [Async Chat Thread - #90/INFO]: <selfepidemiic> por qué salen esas cosas?[m
+[18:56:36] [Server thread/WARN]: selfepidemiic moved too quickly! -14.37927584433129,0.8322033533667508,-0.3764426209309022
+[18:56:41] [Server thread/INFO]: Adrian was slain by Vex
+[18:56:50] [Server thread/INFO]: selfepidemiic was slain by Vex
+[18:57:04] [Async Chat Thread - #90/INFO]: <selfepidemiic> hay qye dormir por fa[m
+[18:57:12] [Async Chat Thread - #90/INFO]: <Adrian> selfepidemiic[m
+[18:58:17] [Server thread/INFO]: Adrian was slain by Vex
+[18:58:41] [Server thread/INFO]: selfepidemiic was slain by Vex
+[18:59:14] [Server thread/WARN]: selfepidemiic moved too quickly! -8.743801342682161,-1.1767592750642422,-6.1318321601318075
+[18:59:14] [Server thread/INFO]: Adrian was slain by Vex
+[18:59:24] [Server thread/INFO]: selfepidemiic was slain by Vex
+[19:03:38] [Server thread/INFO]: Adrian has completed the challenge [Hero of the Village]
+[19:03:38] [Server thread/INFO]: selfepidemiic has completed the challenge [Hero of the Village]
+[19:03:40] [Server thread/INFO]: selfepidemiic was slain by Vex
+[19:06:45] [Server thread/INFO]: Adrian lost connection: Disconnected
+[19:06:45] [Server thread/INFO]: Adrian left the game
+[19:07:44] [Async Chat Thread - #91/INFO]: <selfepidemiic> A dormir?[m
+[19:07:56] [Async Chat Thread - #91/INFO]: <selfepidemiic> nice[m
+[19:11:09] [User Authenticator #165/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[19:11:09] [Server thread/INFO]: Adrian[/187.233.210.247:50252] logged in with entity id 213659 at ([maincra-server]-104.45554936482952, 69.0625, -827.2523952963581)
+[19:42:58] [Server thread/WARN]: selfepidemiic moved wrongly!
+[19:52:48] [Server thread/WARN]: selfepidemiic moved wrongly!
+[19:57:02] [Server thread/WARN]: Adrian was kicked for floating too long!
+[19:57:02] [Server thread/INFO]: Adrian lost connection: Flying is not enabled on this server
+[19:57:02] [Server thread/INFO]: Adrian left the game
+[19:57:05] [User Authenticator #166/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[19:57:05] [Server thread/INFO]: Adrian[/187.233.210.247:19861] logged in with entity id 215376 at ([maincra-server]-275.700000025332, 64.0000002, -824.700000025332)
+[19:57:31] [Server thread/WARN]: selfepidemiic moved wrongly!
