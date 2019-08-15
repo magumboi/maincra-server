@@ -448,3 +448,5 @@ java.lang.ArrayIndexOutOfBoundsException: 126
 [02:34:44] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
 [02:34:53] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
 [02:34:53] [Server thread/INFO]: PEPELOTAS left the game
+[05:52:54] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[05:52:57] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
