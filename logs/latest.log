@@ -1043,3 +1043,566 @@ java.lang.ArrayIndexOutOfBoundsException: 126
 [19:57:57] [User Authenticator #246/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
 [19:57:58] [Server thread/INFO]: Adrian[/187.233.210.247:34693] logged in with entity id 317976 at ([maincra-server]-1400.9377340764293, 63.0, -2458.5194333372046)
 [19:58:23] [Server thread/WARN]: selfepidemiic moved too quickly! -9.661469618360115,-1.0,2.600436279524274
+[20:08:23] [Server thread/WARN]: Adrian moved too quickly! -0.13145180508445264,1.0,-9.996190002023695
+[20:08:46] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:08:46] [Server thread/INFO]: Adrian left the game
+[20:08:52] [User Authenticator #247/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:08:53] [Server thread/INFO]: Adrian[/187.233.210.247:34727] logged in with entity id 318685 at ([maincra-server]-1727.3137309941285, 68.0, -2035.632054793295)
+[20:13:22] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 14.838158502416263,0.0,13.88078864616682
+[20:13:22] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 15.143696498584632,0.0,14.138839615909319
+[20:19:15] [User Authenticator #248/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:19:15] [Server thread/INFO]: aomali2[/187.189.187.177:18089] logged in with entity id 319585 at ([maincra-server]-10.260216825938587, 78.0, -65.17184002534617)
+[20:23:43] [Server thread/WARN]: Boat moved wrongly!
+[20:23:43] [Server thread/WARN]: Boat moved wrongly!
+[20:23:43] [Server thread/WARN]: Boat moved wrongly!
+[20:23:43] [Server thread/WARN]: Boat moved wrongly!
+[20:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[20:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[20:30:24] [Async Chat Thread - #151/INFO]: <aomali2> se an metido al edificio blanco y negro?? esque hay cosas bien chidas[m
+[20:30:34] [Async Chat Thread - #151/INFO]: <selfepidemiic> No, nunca[m
+[20:30:36] [Async Chat Thread - #151/INFO]: <selfepidemiic> da miedo?[m
+[20:30:41] [Async Chat Thread - #151/INFO]: <aomali2> que[m
+[20:30:46] [Async Chat Thread - #151/INFO]: <selfepidemiic> el edificio?[m
+[20:30:49] [Async Chat Thread - #151/INFO]: <selfepidemiic> es que hay 1 embrujado[m
+[20:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[20:31:30] [Async Chat Thread - #151/INFO]: <aomali2> aaaaaa es para cuidar pero la entrada esta en el lagua que esta en las escaleras subiendo[m
+[20:31:39] [Async Chat Thread - #151/INFO]: <selfepidemiic> uy ni idea[m
+[20:31:52] [Async Chat Thread - #151/INFO]: <aomali2> pos para eso telo digo[m
+[20:32:03] [Async Chat Thread - #151/INFO]: <selfepidemiic> para ir xD[m
+[20:32:08] [Async Chat Thread - #151/INFO]: <selfepidemiic> oye eres amigo de Iván?[m
+[20:32:24] [Async Chat Thread - #151/INFO]: <aomali2> soi sobrino de alejandro[m
+[20:32:40] [Async Chat Thread - #151/INFO]: <selfepidemiic> ahh con razón[m
+[20:32:42] [Async Chat Thread - #151/INFO]: <selfepidemiic> Anaya verdad?[m
+[20:32:52] [Async Chat Thread - #151/INFO]: <aomali2> sip[m
+[20:33:07] [Async Chat Thread - #151/INFO]: <selfepidemiic> tu agarraste unos caballos de hueso?[m
+[20:33:10] [Async Chat Thread - #151/INFO]: <aomali2> me caiste bien asique no te metas en el agua que me dises[m
+[20:33:11] [Async Chat Thread - #151/INFO]: <selfepidemiic> de su casa?[m
+[20:33:25] [Async Chat Thread - #151/INFO]: <aomali2> no entiendo[m
+[20:33:39] [Async Chat Thread - #151/INFO]: <aomali2> que?[m
+[20:33:39] [Async Chat Thread - #151/INFO]: <selfepidemiic> es que hace ratito me preguntaron si agarré unos caballos de hueso[m
+[20:33:52] [Async Chat Thread - #151/INFO]: <selfepidemiic> no fuiste tu?? :P eran de Jaqueline[m
+[20:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[20:34:20] [Async Chat Thread - #151/INFO]: <aomali2> pos ami me desaparecieron 2 de hueso y dos normales con una armadura que creo que es 10 veses mejor que la tulla claro si no la echisaste[m
+[20:34:36] [Async Chat Thread - #151/INFO]: <selfepidemiic> no se de que armadura hablas jajaja[m
+[20:34:45] [Async Chat Thread - #151/INFO]: <selfepidemiic> pero si alguien robó cosas[m
+[20:34:48] [Async Chat Thread - #151/INFO]: <aomali2> de cuero chisada asta no poder mas[m
+[20:34:56] [Async Chat Thread - #151/INFO]: <selfepidemiic> se pueden hechizar??[m
+[20:34:57] [Async Chat Thread - #151/INFO]: <selfepidemiic> :o[m
+[20:35:01] [Async Chat Thread - #151/INFO]: <selfepidemiic> qué padre!![m
+[20:35:18] [Async Chat Thread - #151/INFO]: <aomali2> si por eso digo que te digo que es mejor que la de diamante[m
+[20:35:32] [Async Chat Thread - #151/INFO]: <aomali2> te digo que te digo xd[m
+[20:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[20:35:37] [Async Chat Thread - #151/INFO]: <selfepidemiic> Con razón!!![m
+[20:35:43] [Async Chat Thread - #151/INFO]: <aomali2> ???[m
+[20:35:59] [Async Chat Thread - #151/INFO]: <selfepidemiic> No, pues no se[m
+[20:36:12] [Async Chat Thread - #151/INFO]: <selfepidemiic> sólo se que desaparecieron unos caballitos de hueso[m
+[20:36:21] [Async Chat Thread - #151/INFO]: <selfepidemiic> y creen que fuimos nosotros[m
+[20:36:22] [Async Chat Thread - #151/INFO]: <aomali2> pues tambien ami[m
+[20:36:33] [Async Chat Thread - #151/INFO]: <selfepidemiic> Alguien los está robando[m
+[20:36:44] [Async Chat Thread - #151/INFO]: <aomali2> no c[m
+[20:36:44] [Async Chat Thread - #151/INFO]: <selfepidemiic> :([m
+[20:37:17] [Async Chat Thread - #151/INFO]: <aomali2> tambien vi a alguien con un burro serca de tu casa era tuyo?[m
+[20:37:22] [Async Chat Thread - #151/INFO]: <selfepidemiic> Si[m
+[20:37:25] [Async Chat Thread - #151/INFO]: <selfepidemiic> Se lo robaron también[m
+[20:37:26] [Async Chat Thread - #151/INFO]: <aomali2> :U[m
+[20:37:33] [Async Chat Thread - #151/INFO]: <selfepidemiic> estaba dentro de mi casa[m
+[20:37:34] [Async Chat Thread - #151/INFO]: <selfepidemiic> encerrado[m
+[20:37:37] [Async Chat Thread - #151/INFO]: <aomali2> quiero mis caballos :,U[m
+[20:37:37] [Async Chat Thread - #151/INFO]: <selfepidemiic> y lo tomaron[m
+[20:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[20:37:45] [Async Chat Thread - #151/INFO]: <selfepidemiic> por mi casa hay muchos caballos[m
+[20:37:49] [Async Chat Thread - #151/INFO]: <selfepidemiic> están libres[m
+[20:37:56] [Async Chat Thread - #151/INFO]: <aomali2> pero las armaduras :,U[m
+[20:37:56] [Server thread/WARN]: Horse moved wrongly!
+[20:37:56] [Server thread/WARN]: Horse moved wrongly!
+[20:38:02] [Async Chat Thread - #151/INFO]: <selfepidemiic> pues tengo una azul de cuero[m
+[20:38:08] [Async Chat Thread - #151/INFO]: <selfepidemiic> te la regalo si quieres!![m
+[20:38:10] [Async Chat Thread - #151/INFO]: <aomali2> echisada ???[m
+[20:38:13] [Async Chat Thread - #151/INFO]: <selfepidemiic> no xD[m
+[20:38:24] [Async Chat Thread - #151/INFO]: <aomali2> :,U a subir lvl se a dicho[m
+[20:38:43] [Async Chat Thread - #151/INFO]: <selfepidemiic> si xD[m
+[20:41:05] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:41:05] [Server thread/INFO]: selfepidemiic left the game
+[20:41:43] [User Authenticator #249/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[20:41:43] [Server thread/INFO]: andres12234[/187.189.181.38:8631] logged in with entity id 320998 at ([maincra-server]-12.122943066949476, 48.46906937686006, 113.6626107429414)
+[20:44:27] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:44:27] [Server thread/INFO]: Adrian left the game
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:01] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:02] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: andres12234 was slain by Vex
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to andres12234]
+[20:56:23] [Async Chat Thread - #152/INFO]: <aomali2> donde te metiste[m
+[21:03:43] [Server thread/INFO]: andres12234 has made the advancement [Into Fire]
+[21:10:09] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[21:10:10] [Server thread/INFO]: aomali2 left the game
+[21:13:02] [User Authenticator #250/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[21:13:02] [Server thread/INFO]: aomali2[/187.189.187.177:17831] logged in with entity id 322235 at ([maincra-server]120.82352036600265, 69.0, -217.57605372653603)
+[21:25:45] [Server thread/INFO]: andres12234 lost connection: Disconnected
+[21:25:45] [Server thread/INFO]: andres12234 left the game
+[21:34:48] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[21:34:48] [Server thread/INFO]: aomali2 left the game
+[21:53:38] [User Authenticator #251/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:53:38] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58303] logged in with entity id 323079 at ([maincra-server]-296.1601967471553, 68.0, -833.6123722120536)
+[22:09:37] [Server thread/WARN]: Horse moved wrongly!
+[22:09:37] [Server thread/WARN]: Horse moved wrongly!
+[22:13:07] [Server thread/WARN]: Horse moved wrongly!
+[22:13:07] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:13:08] [Server thread/WARN]: Horse moved wrongly!
+[22:14:04] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[22:14:04] [Server thread/INFO]: selfepidemiic left the game
+[22:14:08] [User Authenticator #252/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:14:09] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58324] logged in with entity id 324094 at ([maincra-server]-81.16534608771524, 75.77160001635552, -165.29696930405552)
+[22:14:20] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:14:20] [Server thread/INFO]: selfepidemiic left the game
+[22:14:25] [User Authenticator #253/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:14:25] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58331] logged in with entity id 324099 at ([maincra-server]-82.47859729120307, 78.22436952560321, -163.80576687979246)
+[22:14:29] [Server thread/WARN]: selfepidemiic was kicked for floating too long!
+[22:14:29] [Server thread/INFO]: selfepidemiic lost connection: Flying is not enabled on this server
+[22:14:29] [Server thread/INFO]: selfepidemiic left the game
+[22:14:32] [User Authenticator #254/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:14:32] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58335] logged in with entity id 324100 at ([maincra-server]-82.47859729120307, 77.63936052409446, -163.80576687979246)
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:53] [Server thread/WARN]: Horse moved wrongly!
+[22:14:56] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:14:56] [Server thread/INFO]: selfepidemiic left the game
+[22:15:01] [User Authenticator #255/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:15:01] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58342] logged in with entity id 324119 at ([maincra-server]-80.63995368400398, 63.85000001788139, -181.46321660906256)
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:04] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:07] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:19] [Server thread/WARN]: Horse moved wrongly!
+[22:15:20] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:15:20] [Server thread/INFO]: selfepidemiic left the game
+[22:15:47] [User Authenticator #256/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:15:47] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58349] logged in with entity id 324129 at ([maincra-server]-87.01704867048342, 63.85000001788139, -184.4113965038617)
+[22:16:21] [User Authenticator #257/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:16:21] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[22:16:21] [Server thread/INFO]: selfepidemiic left the game
+[22:16:22] [Server thread/INFO]: selfepidemiic[/187.232.156.125:58353] logged in with entity id 324245 at ([maincra-server]-103.7352239826659, 63.771600016355514, -185.76722083378613)
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 1.7059586767824726,0.0,-19.977363179861868
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 1.8534865382496832,0.0,-20.379609827442778
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 2.0012409391289907,0.0,-20.781784036709382
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 2.1307205818313832,0.0,-21.189696876279186
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 2.237703239570692,0.0,-21.603566496887197
+[22:18:52] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 2.328024848154257,0.0,-22.021458164979663
+[22:20:54] [User Authenticator #258/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:20:54] [Server thread/INFO]: Adrian[/187.233.210.247:37279] logged in with entity id 324905 at ([maincra-server]-286.2307295185153, 63.0, -826.8656674308634)
+[22:22:19] [Server thread/INFO]: Adrian lost connection: Disconnected
+[22:22:19] [Server thread/INFO]: Adrian left the game
+[22:22:23] [User Authenticator #259/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:22:23] [Server thread/INFO]: Adrian[/187.233.210.247:54136] logged in with entity id 324986 at ([maincra-server]-282.30000001192093, 55.0, -819.5124999880791)
+[22:33:26] [Server thread/INFO]: Adrian lost connection: Disconnected
+[22:33:26] [Server thread/INFO]: Adrian left the game
+[22:33:36] [User Authenticator #260/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:33:36] [Server thread/INFO]: Adrian[/187.233.210.247:54160] logged in with entity id 325466 at ([maincra-server]-283.81249676530933, 64.8500000178814, -816.5508465965942)
+[22:40:22] [Server thread/WARN]: Horse moved wrongly!
+[22:43:52] [Server thread/WARN]: selfepidemiic moved too quickly! -0.638433338245818,-0.8563757811071184,10.556671028313644
+[22:56:12] [User Authenticator #261/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[22:56:12] [Server thread/INFO]: aomali2[/187.189.187.177:18326] logged in with entity id 326700 at ([maincra-server]130.3967799530576, 69.0, -226.87828078474791)
+[23:07:43] [Async Chat Thread - #153/INFO]: <selfepidemiic> Oye aomali2, tu agarraste a mi burrito? Me quedé con la duda[m
+[23:07:54] [Async Chat Thread - #153/INFO]: <selfepidemiic> No tiene nada de malo[m
+[23:07:55] [Async Chat Thread - #153/INFO]: <aomali2> nop[m
+[23:07:56] [Async Chat Thread - #153/INFO]: <selfepidemiic> te lo regreso[m
+[23:07:59] [Async Chat Thread - #153/INFO]: <selfepidemiic> regalo**[m
+[23:08:06] [Async Chat Thread - #153/INFO]: <selfepidemiic> :)[m
+[23:08:29] [Async Chat Thread - #153/INFO]: <aomali2> no no lo agarre para que yo tenia caballos[m
+[23:08:41] [Async Chat Thread - #153/INFO]: <selfepidemiic> Bueno, gracias C:[m
+[23:08:46] [Async Chat Thread - #153/INFO]: <selfepidemiic> oye tu vives en la casa moradita?[m
+[23:08:49] [Async Chat Thread - #153/INFO]: <selfepidemiic> de obsidiana?[m
+[23:09:06] [Async Chat Thread - #153/INFO]: <aomali2> nop[m
+[23:09:15] [Async Chat Thread - #153/INFO]: <aomali2> en una roja nueva del desierto[m
+[23:09:35] [Async Chat Thread - #153/INFO]: <selfepidemiic> Uy no se cual sea[m
+[23:09:45] [Async Chat Thread - #153/INFO]: <aomali2> por eso es nueva xd[m
+[23:21:55] [User Authenticator #262/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[23:21:56] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18008] logged in with entity id 328525 at ([maincra-server]157.20949029761007, 70.0, -211.2115590309775)
+[23:30:06] [Server thread/INFO]: selfepidemiic was slain by Iron Golem
+[23:32:23] [Async Chat Thread - #154/INFO]: <aomali2> ontas?[m
+[23:34:16] [Async Chat Thread - #155/INFO]: <selfepidemiic> quién??[m
+[23:34:21] [Async Chat Thread - #155/INFO]: <aomali2> tu[m
+[23:34:24] [Async Chat Thread - #155/INFO]: <selfepidemiic> yo estaba muerta :([m
+[23:34:28] [Async Chat Thread - #155/INFO]: <selfepidemiic> aparecí en el spawn[m
+[23:34:35] [Async Chat Thread - #155/INFO]: <aomali2> esque pasaste por mi casa[m
+[23:34:38] [Async Chat Thread - #155/INFO]: <selfepidemiic> porque estaba remodelando mi casa[m
+[23:34:43] [Async Chat Thread - #155/INFO]: <selfepidemiic> de verdad??[m
+[23:34:43] [Async Chat Thread - #155/INFO]: <selfepidemiic> :o[m
+[23:34:49] [Async Chat Thread - #155/INFO]: <selfepidemiic> creo que si se cual es entonce[m
+[23:34:51] [Async Chat Thread - #155/INFO]: <selfepidemiic> entonces*[m
+[23:48:32] [Async Chat Thread - #156/INFO]: <selfepidemiic> alguien tiene algún cd que venda?[m
+[23:48:38] [Async Chat Thread - #156/INFO]: <selfepidemiic> un disco de música, pues[m
+[23:48:40] [Async Chat Thread - #156/INFO]: <aomali2> yo[m
+[23:48:42] [Async Chat Thread - #156/INFO]: <PEPELOTAS> yo tengo uno[m
+[23:48:51] [Async Chat Thread - #156/INFO]: <selfepidemiic> a cómo lo venden??[m
+[23:49:04] [Async Chat Thread - #156/INFO]: <PEPELOTAS> tienes obsidiana?[m
+[23:49:13] [Async Chat Thread - #156/INFO]: <selfepidemiic> no :c[m
+[23:49:15] [Async Chat Thread - #156/INFO]: <selfepidemiic> justo eso no[m
+[23:49:26] [Async Chat Thread - #156/INFO]: <PEPELOTAS> mmmm slime?[m
+[23:49:30] [Async Chat Thread - #156/INFO]: <selfepidemiic> tengo libros de flecha incendiaria...[m
+[23:49:33] [Async Chat Thread - #156/INFO]: <selfepidemiic> tampoco tengo slime[m
+[23:49:45] [Async Chat Thread - #156/INFO]: <PEPELOTAS> mmm cuarzo[m
+[23:49:50] [Async Chat Thread - #156/INFO]: <selfepidemiic> no xD[m
+[23:49:53] [Async Chat Thread - #156/INFO]: <PEPELOTAS> xD[m
+[23:49:57] [Async Chat Thread - #156/INFO]: <selfepidemiic> quieres todo lo que no tenemos jajajaaja[m
+[23:50:00] [Async Chat Thread - #156/INFO]: <PEPELOTAS> jajaja[m
+[23:50:01] [Async Chat Thread - #156/INFO]: <selfepidemiic> :c[m
+[23:50:07] [Async Chat Thread - #156/INFO]: <PEPELOTAS> mmm deja veo[m
+[23:50:27] [Async Chat Thread - #156/INFO]: <selfepidemiic> te sirve caida de pluma?[m
+[23:50:29] [Async Chat Thread - #156/INFO]: <PEPELOTAS> lapizlazuli?[m
+[23:50:31] [Async Chat Thread - #156/INFO]: <selfepidemiic> para cuando vayas por cuarzo[m
+[23:50:34] [Async Chat Thread - #156/INFO]: <selfepidemiic> eso si[m
+[23:50:41] [Async Chat Thread - #156/INFO]: <selfepidemiic> 4 stacks[m
+[23:50:49] [Async Chat Thread - #156/INFO]: <PEPELOTAS> pues te cambio 30 por 1 cd[m
+[23:51:01] [Async Chat Thread - #156/INFO]: <selfepidemiic> te doy los 4 stacks[m
+[23:51:02] [Async Chat Thread - #156/INFO]: <selfepidemiic> va?[m
+[23:51:10] [Async Chat Thread - #156/INFO]: <PEPELOTAS> ok[m
+[23:51:13] [Async Chat Thread - #156/INFO]: <selfepidemiic> dónde vives?[m
+[23:51:40] [Async Chat Thread - #156/INFO]: <selfepidemiic> por el spawn=[m
+[23:51:41] [Async Chat Thread - #156/INFO]: <selfepidemiic> ??[m
+[23:52:40] [Async Chat Thread - #156/INFO]: <PEPELOTAS> si[m
+[23:52:45] [Async Chat Thread - #156/INFO]: <selfepidemiic> voy llegando[m
+[23:52:59] [Async Chat Thread - #156/INFO]: <PEPELOTAS> no estoy ahi pero ya voy tambien[m
+[23:53:03] [Async Chat Thread - #156/INFO]: <selfepidemiic> sale[m
+[23:53:08] [Async Chat Thread - #156/INFO]: <selfepidemiic> te espero en la torre de cuarzo?[m
+[23:53:18] [Async Chat Thread - #156/INFO]: <PEPELOTAS> si[m
+[23:53:31] [Async Chat Thread - #156/INFO]: <selfepidemiic> propiedad privada, no entrar[m
+[23:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[23:53:35] [Async Chat Thread - #156/INFO]: <selfepidemiic> xD[m
+[23:53:52] [Async Chat Thread - #156/INFO]: <selfepidemiic> por qué no ponen un mod para privatizar cosas??[m
+[23:53:59] [Async Chat Thread - #156/INFO]: <selfepidemiic> a nosotros nos han robado un buen de cosas[m
+[23:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10284ms or 205 ticks behind
+[23:54:44] [Async Chat Thread - #156/INFO]: <PEPELOTAS> a mi tambien, pero con un cofre shulker metes tus cosas, luego lo rompes con toque de seda y lo guardas en un cofre ender[m
+[23:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5946ms or 118 ticks behind
+[23:55:04] [Async Chat Thread - #156/INFO]: <selfepidemiic> pues si... eso si xD[m
+[23:55:10] [Async Chat Thread - #156/INFO]: <selfepidemiic> pero me robaron más bien a mis burritos[m
+[23:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:55:35] [Async Chat Thread - #156/INFO]: <selfepidemiic> gracias!![m
+[23:55:37] [Async Chat Thread - #156/INFO]: <selfepidemiic> :3[m
+[23:55:38] [Async Chat Thread - #156/INFO]: <aomali2> vendes burros?[m
+[23:55:38] [Async Chat Thread - #156/INFO]: <PEPELOTAS> listo gracias[m
+[23:55:43] [Async Chat Thread - #156/INFO]: <selfepidemiic> nope, me los robaron[m
+[23:55:48] [Async Chat Thread - #156/INFO]: <selfepidemiic> gracias a ti[m
+[23:55:58] [Async Chat Thread - #156/INFO]: <aomali2> si encuentras me los vendes?[m
+[23:56:04] [Async Chat Thread - #156/INFO]: <selfepidemiic> te los regalo xD[m
+[23:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6622ms or 132 ticks behind
+[23:56:08] [Async Chat Thread - #156/INFO]: <aomali2> gracias[m
+[23:56:10] [Async Chat Thread - #156/INFO]: <selfepidemiic> pero son bien difíciles de encontrar[m
+[23:58:17] [Server thread/WARN]: Horse moved wrongly!
+[23:58:17] [Server thread/WARN]: Horse moved wrongly!
+[23:58:17] [Server thread/WARN]: Horse moved wrongly!
+[23:58:25] [Server thread/WARN]: Horse moved wrongly!
+[23:59:26] [Server thread/WARN]: PEPELOTAS moved too quickly! 7.589086120498976,-0.5800000131130219,-10.059683050705928
