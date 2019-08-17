@@ -1542,3 +1542,369 @@
 [15:59:51] [Server thread/INFO]: selfepidemiic left the game
 [15:59:54] [User Authenticator #298/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
 [15:59:54] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63191] logged in with entity id 354594 at ([maincra-server]-329.69999998807907, 48.0, -1008.6999999880791)
+[16:00:30] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[16:00:30] [Server thread/INFO]: selfepidemiic left the game
+[16:05:32] [User Authenticator #299/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[16:05:32] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63195] logged in with entity id 354911 at ([maincra-server]-337.69999998807907, 41.0, -1007.6708938772607)
+[16:12:36] [Server thread/WARN]: selfepidemiic moved too quickly! -12.383833327866796,-1.0874481067041586,-3.2529875778432142
+[16:15:54] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[16:15:54] [Server thread/INFO]: selfepidemiic left the game
+[16:15:56] [User Authenticator #300/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[16:15:56] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63208] logged in with entity id 356049 at ([maincra-server]-425.6052396246208, 63.10075721315798, -834.9819121413619)
+[16:16:39] [User Authenticator #301/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[16:16:39] [Server thread/INFO]: Adrian[/187.233.210.247:63168] logged in with entity id 356269 at ([maincra-server]-287.54767920312645, 63.0, -816.0403088693806)
+[16:20:15] [Server thread/WARN]: Horse moved wrongly!
+[16:25:45] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[16:25:45] [Server thread/INFO]: selfepidemiic left the game
+[16:25:47] [User Authenticator #302/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[16:25:47] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63224] logged in with entity id 356795 at ([maincra-server]22.841434098389286, 68.0, -979.2890978894379)
+[16:44:07] [Server thread/INFO]: Adrian lost connection: Disconnected
+[16:44:07] [Server thread/INFO]: Adrian left the game
+[16:45:45] [User Authenticator #303/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[16:45:45] [Server thread/INFO]: Adrian[/187.233.210.247:42785] logged in with entity id 358159 at ([maincra-server]526.7171222273264, 64.8500000178814, -818.976666072833)
+[16:56:41] [Server thread/INFO]: selfepidemiic was slain by Zombie
+[16:58:33] [Async Chat Thread - #161/INFO]: <selfepidemiic> 440 412[m
+[17:00:32] [User Authenticator #304/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[17:00:32] [Server thread/INFO]: aomali2[/187.189.187.177:18414] logged in with entity id 359563 at ([maincra-server]-59.590919771880834, 65.0, -200.2614110980202)
+[17:00:57] [Server thread/INFO]: aomali2 lost connection: Timed out
+[17:00:57] [Server thread/INFO]: aomali2 left the game
+[17:00:57] [User Authenticator #305/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[17:00:58] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17423] logged in with entity id 359613 at ([maincra-server]-50.769979560088736, 65.0, -211.32326299079887)
+[17:01:07] [User Authenticator #306/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[17:01:07] [Server thread/INFO]: aomali2[/187.189.187.177:17441] logged in with entity id 359633 at ([maincra-server]-59.590919771880834, 65.0, -200.2614110980202)
+[17:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[17:02:11] [Server thread/INFO]: Adrian lost connection: Disconnected
+[17:02:11] [Server thread/INFO]: Adrian left the game
+[17:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6535ms or 130 ticks behind
+[17:02:17] [User Authenticator #307/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[17:02:17] [Server thread/INFO]: Adrian[/187.233.210.247:63338] logged in with entity id 359841 at ([maincra-server]449.8412729046822, 62.0, -450.0479323311554)
+[17:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7814ms or 156 ticks behind
+[17:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5991ms or 119 ticks behind
+[17:03:42] [Server thread/INFO]: PEPELOTAS issued server command: /give PEPELOTAS minecraft:barrier 2
+[17:03:42] [Server thread/INFO]: [PEPELOTAS: Gave 2 [Barrier] to PEPELOTAS]
+[17:03:55] [Server thread/INFO]: Adrian has completed the challenge [Uneasy Alliance]
+[17:09:32] [Server thread/WARN]: Horse moved wrongly!
+[17:09:32] [Server thread/WARN]: Horse moved wrongly!
+[17:18:16] [Server thread/WARN]: aomali2 moved wrongly!
+[17:18:41] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[17:18:44] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[17:22:24] [Server thread/INFO]: aomali2 lost connection: Timed out
+[17:22:24] [Server thread/INFO]: aomali2 left the game
+[17:22:36] [User Authenticator #308/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[17:22:36] [Server thread/INFO]: aomali2[/187.189.187.177:18119] logged in with entity id 363115 at ([maincra-server]112.6895590035289, 69.0, -217.2319290258186)
+[17:29:57] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[17:29:57] [Server thread/INFO]: aomali2 left the game
+[17:29:59] [User Authenticator #309/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[17:29:59] [Server thread/INFO]: aomali2[/187.189.187.177:18408] logged in with entity id 364185 at ([maincra-server]112.52416169692164, 71.0, -223.9209143690598)
+[17:32:29] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[17:32:31] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[17:35:12] [Server thread/WARN]: PEPELOTAS moved too quickly! -1.132434205981781,-33.53465930139407,-5.366013991794489
+[17:36:52] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[17:36:52] [Server thread/INFO]: aomali2 left the game
+[17:49:27] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[17:49:27] [Server thread/INFO]: selfepidemiic left the game
+[17:49:29] [User Authenticator #310/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[17:49:29] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63349] logged in with entity id 367358 at ([maincra-server]1220.8631182389058, 62.0, -87.6959539877)
+[17:50:41] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[17:50:41] [Server thread/INFO]: selfepidemiic left the game
+[17:50:43] [User Authenticator #311/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[17:50:43] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63353] logged in with entity id 367639 at ([maincra-server]1302.9542778807438, 62.709062861136346, 54.80104580014589)
+[17:51:59] [Server thread/WARN]: Boat moved wrongly!
+[17:51:59] [Server thread/WARN]: Boat moved wrongly!
+[17:51:59] [Server thread/WARN]: Boat moved wrongly!
+[17:54:17] [Async Chat Thread - #162/INFO]: <selfepidemiic> 420 60 277[m
+[17:54:40] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[17:54:40] [Server thread/INFO]: selfepidemiic left the game
+[17:54:42] [User Authenticator #312/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[17:54:42] [Server thread/INFO]: selfepidemiic[/187.232.7.224:63368] logged in with entity id 370045 at ([maincra-server]335.03753264281477, 63.0857641723825, 352.16978984800846)
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -19.927853949210657,0.0,-4.127525925982695
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -20.315370296923447,0.0,-4.220760839957848
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -20.701479497323135,0.0,-4.319003636492653
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -21.086154917683643,0.0,-4.422182212198891
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -21.469645108438726,0.0,-4.529535286886926
+[17:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5434ms or 108 ticks behind
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -19.57610377716219,0.0,-5.634331134104968
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -19.958018303241033,0.0,-5.753154083659808
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -20.33988632860587,0.0,-5.872134751667545
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -20.72171134848918,0.0,-5.991261023582922
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -21.10349650487524,0.0,-6.110521995384147
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -21.48524463299964,0.0,-6.229907854383157
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -21.866959435689523,0.0,-6.349406111857149
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -22.24864308692372,0.0,-6.469009184328399
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -22.630297547008922,0.0,-6.588710247598442
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -23.01192573506023,0.0,-6.708499502585084
+[17:55:14] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -23.39352911971673,0.0,-6.828371786486969
+[18:05:17] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 2.112118637509923,0.0,20.289798525751166
+[18:07:02] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:07:02] [Server thread/INFO]: Adrian left the game
+[18:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[18:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:50] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:51] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:52] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:53] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:53] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:54] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:54] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:54] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:54] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:54] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7574ms or 151 ticks behind
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:55] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:56] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:57] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:58] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:10:59] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:11:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:11:00] [Server thread/INFO]: [@: Applied effect Mining Fatigue to PEPELOTAS]
+[18:11:33] [RCON Listener #1/INFO]: Rcon connection from: /83.97.20.131
+[18:15:26] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[18:15:26] [Server thread/INFO]: selfepidemiic left the game
+[18:28:49] [User Authenticator #313/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[18:28:49] [Server thread/INFO]: Adrian[/187.233.210.247:43511] logged in with entity id 374902 at ([maincra-server]53.5904491490126, 62.07326525746143, 372.4297808407314)
+[18:29:23] [Server thread/INFO]: [@: Changed the block at 234, 72, -544]
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -6.8725343177106595,0.0,-19.207445929461812
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.007290218749446,0.0,-19.5840634279308
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.142046120582307,0.0,-19.960680928619126
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.2768020231298465,0.0,-20.33729843130476
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.411557926320583,0.0,-20.713915935788066
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.546313830090199,0.0,-21.090533441889193
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.681069734380813,0.0,-21.46715094944642
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.815825639140314,0.0,-21.843768458314116
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -7.950581544321821,0.0,-22.220385968361256
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -8.085337449883141,0.0,-22.597003479469834
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -8.22009335578629,0.0,-22.973620991533778
+[18:35:35] [Server thread/WARN]: Boat (vehicle of Adrian) moved too quickly! -8.354849261997074,0.0,-23.350238504457536
+[18:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[18:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10943ms or 218 ticks behind
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -14.6656611550098,0.17466416665834572,13.919659895818313
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -14.918684969251359,0.6128716483775776,14.246892664726147
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -15.156504855546785,0.9568941205163384,14.558094229128415
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -15.380510346931473,1.210461307693521,14.855157380770947
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -15.592196160579704,1.377155237502805,15.139611895550956
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -15.792793996568932,1.4604160893121332,15.412883465106006
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -15.983450929294634,1.463547811450752,15.676213734080193
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.16524256423442,1.3897235159558647,15.93067835094098
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.33907728083969,1.2419906596872892,16.17726696495822
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.50581601746974,1.0232760202701598,16.416831759437287
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.66622655897551,0.7363904749903725,16.650132711471542
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.820993615906815,0.3840335904458385,16.877847568652555
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -16.97072781314955,0.0,17.10058074630001
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -17.221390087429256,0.0,17.49578481204901
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -17.472643786059976,0.0,17.903821240310663
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -17.72421394406919,0.0,18.318724009903235
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -17.975953433182326,0.0,18.737300821841814
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.22778352799307,0.0,19.15784354058735
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.47966210410611,0.0,19.579438176869303
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.73156662159741,0.0,20.001595673251927
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -18.983485019803,0.0,20.424054344852266
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.235410845302056,0.0,20.84667416930688
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.487340644997744,0.0,21.26938022344075
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.73927257120684,0.0,21.692132417356675
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -19.99120563527083,0.0,22.11490929975014
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -20.243139308178314,0.0,22.537699392455693
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -20.574548779808026,0.0,22.88988132684881
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -20.94848416675751,0.0,23.204282243503712
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -21.34417803729565,0.0,23.50000901845783
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -21.660994896958528,0.0,23.861508898402803
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -21.929163423584185,0.0,24.261406306282197
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -22.163675171023584,0.0,24.68532300168772
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -22.374102718885354,0.0,25.124622677447178
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -22.569970319396845,0.0,25.572814716793005
+[18:40:52] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! -22.758047182375236,0.0,26.02576488259922
+[18:40:52] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:41:19] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13505ms or 270 ticks behind
+[18:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7183ms or 143 ticks behind
+[18:45:55] [Server thread/INFO]: Adrian lost connection: Disconnected
+[18:45:55] [Server thread/INFO]: Adrian left the game
+[18:50:22] [Server thread/INFO]: [@: Changed the block at 218, 105, -544]
+[18:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:54:21] [User Authenticator #314/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[18:54:21] [Server thread/INFO]: aomali2[/187.189.187.177:17903] logged in with entity id 380632 at ([maincra-server]124.31625154965977, 69.0, -206.01822732539358)
+[18:54:22] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ name=vex]
+[18:55:08] [Server thread/INFO]: PEPELOTAS issued server command: /kill @s[name=Vex]
+[18:56:07] [Server thread/INFO]: PEPELOTAS issued server command: /kill @s[ type= minecraft:vex]
+[18:56:24] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= minecraft:vex]
+[18:56:24] [Server thread/INFO]: [PEPELOTAS: Killed 142 entities]
+[18:57:56] [Server thread/INFO]: [@: Changed the block at 218, 105, -544]
+[18:59:00] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= minecraft:wither_skeleton]
+[18:59:00] [Server thread/INFO]: [PEPELOTAS: Killed 54 entities]
+[18:59:40] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= st]
+[18:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[18:59:45] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= minecraft:stray]
+[18:59:45] [Server thread/INFO]: [PEPELOTAS: Killed 193 entities]
+[19:00:02] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[19:00:02] [Server thread/INFO]: PEPELOTAS left the game
+[19:05:59] [User Authenticator #315/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[19:05:59] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17556] logged in with entity id 382007 at ([maincra-server]-74.32013124340868, 83.5693886050468, -197.45219150601565)
+[19:06:20] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[19:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[19:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[19:09:15] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[19:09:15] [Server thread/INFO]: aomali2 left the game
+[19:09:16] [User Authenticator #316/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[19:09:17] [Server thread/INFO]: aomali2[/187.189.187.177:17714] logged in with entity id 382304 at ([maincra-server]119.71888908749322, 69.0, -217.08774576309528)
+[19:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[19:11:32] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= minecraft:pillager ]
+[19:11:32] [Server thread/INFO]: [PEPELOTAS: Killed 27 entities]
+[19:12:44] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type= !minecraft:zombie_pigman ]
+[19:12:44] [Server thread/INFO]: aomali2 fell out of the world
+[19:12:44] [Server thread/INFO]: PEPELOTAS fell out of the world
+[19:12:44] [Server thread/INFO]: [PEPELOTAS: Killed 428 entities]
+[19:13:09] [Server thread/INFO]: PEPELOTAS issued server command: /kill @e[ type=minecraft:zombie_pigman ]
+[19:13:09] [Server thread/INFO]: [PEPELOTAS: Killed 172 entities]
+[19:13:28] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:22:01] [Server thread/INFO]: PEPELOTAS issued server command: /tp PEPELOTAS aomali2
+[19:22:01] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to aomali2]
+[19:23:11] [Server thread/INFO]: PEPELOTAS issued server command: /tp aomali2 PEPELOTAS
+[19:23:11] [Server thread/INFO]: [PEPELOTAS: Teleported aomali2 to PEPELOTAS]
+[19:24:32] [Server thread/INFO]: PEPELOTAS issued server command: /give PEPELOTAS minecraft:command_block
+[19:24:32] [Server thread/INFO]: [PEPELOTAS: Gave 1 [Command Block] to PEPELOTAS]
+[19:27:45] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:28:34] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:28:57] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[19:28:57] [Server thread/INFO]: aomali2 left the game
+[19:30:11] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:30:26] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:30:48] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:31:03] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:34:24] [Server thread/INFO]: [@: Gave 1 [DEATH] to PEPELOTAS]
+[19:34:48] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode adventure
+[19:34:48] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Adventure Mode]
+[19:35:42] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode
+[19:35:49] [Server thread/INFO]: PEPELOTAS issued server command: /gamemode creative
+[19:35:49] [Server thread/INFO]: [PEPELOTAS: Set own game mode to Creative Mode]
+[19:37:20] [Server thread/INFO]: [@: Gave 1 [GOD] to PEPELOTAS]
+[19:42:34] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[19:42:34] [Server thread/INFO]: PEPELOTAS left the game
+[19:42:37] [User Authenticator #317/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[19:42:37] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17855] logged in with entity id 387301 at ([maincra-server]33.890592782736555, 73.43292600763121, -243.78042856557573)
+[19:46:17] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[19:46:17] [Server thread/INFO]: PEPELOTAS left the game
