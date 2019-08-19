@@ -202,3 +202,77 @@
 [19:49:09] [Server thread/INFO]: selfepidemiic left the game
 [19:49:10] [User Authenticator #403/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
 [19:49:11] [Server thread/INFO]: selfepidemiic[/189.239.23.28:57954] logged in with entity id 456429 at ([maincra-server_nether]-9.271722666721937, 69.0, -13.406376792046224)
+[20:01:16] [Server thread/INFO]: [@: Teleported selfepidemiic to -54.5, 65.0, -199.5]
+[20:01:17] [Server thread/WARN]: selfepidemiic moved too quickly! 154.5,-15.921599998474122,199.5
+[20:01:46] [Server thread/WARN]: selfepidemiic moved too quickly! -9.85806243839108,0.0,-2.0233817306952204
+[20:07:50] [Server thread/WARN]: selfepidemiic moved too quickly! -7.572767095865004,0.0,7.487968782285407
+[20:12:21] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:12:21] [Server thread/INFO]: selfepidemiic left the game
+[20:12:22] [User Authenticator #404/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:12:23] [Server thread/INFO]: selfepidemiic[/189.239.23.28:57969] logged in with entity id 458138 at ([maincra-server]-285.4021476957435, 48.0, -866.8540710515791)
+[20:27:27] [User Authenticator #405/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:27:27] [Server thread/INFO]: Adrian[/187.233.210.247:64109] logged in with entity id 458914 at ([maincra-server]-284.41138897608585, 62.9375, -818.1900585571781)
+[20:42:41] [Server thread/INFO]: Adrian lost connection: Disconnected
+[20:42:41] [Server thread/INFO]: Adrian left the game
+[20:42:45] [User Authenticator #406/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:42:45] [Server thread/INFO]: Adrian[/187.233.210.247:4623] logged in with entity id 459353 at ([maincra-server]-287.69999998807907, 48.0, -863.9683947758523)
+[20:49:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:49:49] [Server thread/INFO]: selfepidemiic left the game
+[20:49:50] [User Authenticator #407/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:49:50] [Server thread/INFO]: selfepidemiic[/189.239.23.28:57997] logged in with entity id 459518 at ([maincra-server]-286.7092038834494, 48.0, -864.5029470821531)
+[21:18:16] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:18:16] [Server thread/INFO]: selfepidemiic left the game
+[21:18:24] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:18:24] [Server thread/INFO]: Adrian left the game
+[22:10:36] [User Authenticator #408/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:10:36] [Server thread/INFO]: Adrian[/187.233.210.247:5735] logged in with entity id 460346 at ([maincra-server]-273.30000001192093, 45.0, -867.1868096198882)
+[22:11:25] [User Authenticator #409/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:11:25] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58524] logged in with entity id 460803 at ([maincra-server]-273.30000001192093, 45.0, -866.5114177927696)
+[22:11:30] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:11:30] [Server thread/INFO]: selfepidemiic left the game
+[22:11:35] [User Authenticator #410/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:11:35] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58528] logged in with entity id 460805 at ([maincra-server]-273.30000001192093, 45.0, -866.5114177927696)
+[22:18:22] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:18:22] [Server thread/INFO]: selfepidemiic left the game
+[22:18:24] [User Authenticator #411/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:18:24] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58537] logged in with entity id 461028 at ([maincra-server]-287.69999998807907, 49.0, -864.6627750051806)
+[22:19:56] [User Authenticator #412/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:19:56] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17750] logged in with entity id 461052 at ([maincra-server]-286.0480974271424, 79.0, -775.9204393231789)
+[22:24:24] [Server thread/INFO]: [@: Changed the block at -31, 64, -201]
+[22:29:30] [User Authenticator #413/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[22:29:30] [Server thread/INFO]: aomali2[/187.189.187.177:17758] logged in with entity id 462828 at ([maincra-server]-248.8433461144287, 66.0, -478.07217070771566)
+[22:30:28] [Server thread/INFO]: [@: Changed the block at -31, 64, -201]
+[22:35:13] [Server thread/INFO]: [@: Changed the block at -31, 64, -201]
+[22:36:10] [Server thread/INFO]: [@: Changed the block at -31, 64, -201]
+[22:36:46] [Server thread/WARN]: PEPELOTAS moved too quickly! 10.041265538837244,4.4943438141239085,-31.91946989423201
+[22:39:13] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[22:39:13] [Server thread/INFO]: PEPELOTAS left the game
+[22:40:36] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[22:40:36] [Server thread/INFO]: aomali2 left the game
+[22:57:11] [Server thread/WARN]: selfepidemiic moved wrongly!
+[23:04:40] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:04:40] [Server thread/INFO]: selfepidemiic left the game
+[23:04:45] [User Authenticator #414/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:04:45] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58609] logged in with entity id 466382 at ([maincra-server]-301.07499998807907, 63.0, -817.7173063881879)
+[23:04:48] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:04:48] [Server thread/INFO]: selfepidemiic left the game
+[23:04:51] [User Authenticator #415/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:04:51] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58613] logged in with entity id 466383 at ([maincra-server]-301.07499998807907, 63.0, -817.7173063881879)
+[23:05:27] [User Authenticator #416/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:05:27] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[23:05:27] [Server thread/INFO]: selfepidemiic left the game
+[23:05:27] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58616] logged in with entity id 466421 at ([maincra-server]-304.4300746331052, 63.0, -816.5172476173738)
+[23:18:12] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:18:12] [Server thread/INFO]: selfepidemiic left the game
+[23:18:17] [User Authenticator #417/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:18:17] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58632] logged in with entity id 466932 at ([maincra-server]-303.30000001192093, 59.74288283277848, -804.6999999880791)
+[23:36:58] [User Authenticator #418/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:36:58] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[23:36:58] [Server thread/INFO]: selfepidemiic left the game
+[23:36:58] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58652] logged in with entity id 469024 at ([maincra-server]-303.9410804678762, 11.0, -804.9136427636945)
+[23:37:01] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:37:01] [Server thread/INFO]: selfepidemiic left the game
+[23:37:05] [User Authenticator #419/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:37:05] [Server thread/INFO]: selfepidemiic[/189.239.23.28:58656] logged in with entity id 469030 at ([maincra-server]-304.62429098082106, 11.0, -805.895612991252)
+[23:51:15] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:51:15] [Server thread/INFO]: selfepidemiic left the game
