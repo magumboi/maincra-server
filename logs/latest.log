@@ -1,2 +1,4 @@
 [00:06:26] [Server thread/INFO]: Adrian lost connection: Disconnected
 [00:06:26] [Server thread/INFO]: Adrian left the game
+[06:29:23] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[06:29:25] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
