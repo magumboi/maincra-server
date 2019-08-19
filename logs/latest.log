@@ -2,3 +2,14 @@
 [00:06:26] [Server thread/INFO]: Adrian left the game
 [06:29:23] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [06:29:25] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[15:08:49] [User Authenticator #420/INFO]: UUID of player Jacqueline is a8b36647-c550-363b-a03c-d1a1a47d61aa
+[15:08:49] [Server thread/INFO]: Jacqueline[/187.188.76.120:22196] logged in with entity id 469915 at ([maincra-server]-84.62968113381324, 69.0625, -255.04590585316376)
+[15:43:37] [User Authenticator #421/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[15:43:38] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18180] logged in with entity id 471740 at ([maincra-server]-25.32592014201221, 65.0, -208.3841059692719)
+[15:43:52] [Server thread/INFO]: PEPELOTAS issued server command: /tp Jacqueline
+[15:43:52] [Server thread/INFO]: [PEPELOTAS: Teleported PEPELOTAS to Jacqueline]
+[15:44:01] [Async Chat Thread - #172/INFO]: <PEPELOTAS> ya te vi[m
+[15:45:26] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[15:45:26] [Server thread/INFO]: PEPELOTAS left the game
+[15:55:02] [User Authenticator #422/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:55:03] [Server thread/INFO]: selfepidemiic[/189.239.23.28:59370] logged in with entity id 472055 at ([maincra-server]-296.27966511458567, 63.0, -822.0814122725736)
