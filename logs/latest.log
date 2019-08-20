@@ -1,2 +1,4 @@
 [06:50:17] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [06:50:19] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[10:54:02] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[10:54:04] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
