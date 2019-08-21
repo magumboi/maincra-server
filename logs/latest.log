@@ -11,3 +11,5 @@
 [00:27:35] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:17720] logged in with entity id 501589 at ([maincra-server]-183.356945469922, 51.024070517907845, -832.1956411867569)
 [00:57:43] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
 [00:57:43] [Server thread/INFO]: PEPELOTAS left the game
+[06:26:16] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[06:26:18] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
