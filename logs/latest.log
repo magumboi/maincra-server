@@ -25,3 +25,11 @@
 [13:32:36] [Server thread/INFO]: selfepidemiic[/187.233.229.196:61670] logged in with entity id 513193 at ([maincra-server]-281.68807905351525, 55.0, -822.539353824742)
 [13:46:54] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
 [13:46:54] [Server thread/INFO]: selfepidemiic left the game
+[17:53:19] [User Authenticator #452/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[17:53:19] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:18121] logged in with entity id 513869 at ([maincra-server]-149.88495034752205, 103.0, -719.3515968117524)
+[17:56:54] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[17:56:54] [Server thread/INFO]: PEPELOTAS left the game
+[19:50:42] [User Authenticator #453/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[19:50:42] [Server thread/INFO]: aomali2[/187.189.187.177:17434] logged in with entity id 515965 at ([maincra-server]123.5520221351924, 69.0, -203.60649585339993)
+[19:50:48] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[19:50:48] [Server thread/INFO]: aomali2 left the game
