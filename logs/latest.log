@@ -532,3 +532,19 @@
 [18:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5458ms or 109 ticks behind
 [19:01:01] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
 [19:01:01] [Server thread/INFO]: PEPELOTAS left the game
+[20:14:58] [User Authenticator #502/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[20:14:58] [Server thread/INFO]: aomali2[/187.189.187.177:41044] logged in with entity id 545874 at ([maincra-server]123.5520221351924, 69.0, -203.60649585339993)
+[20:15:20] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[20:15:20] [Server thread/INFO]: aomali2 left the game
+[23:57:33] [User Authenticator #503/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[23:57:33] [Server thread/INFO]: Adrian[/187.233.210.247:59051] logged in with entity id 545959 at ([maincra-server]-280.1861029474338, 64.0625, -828.709737939219)
+[23:59:00] [User Authenticator #504/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:59:01] [Server thread/INFO]: selfepidemiic[/187.232.143.59:65415] logged in with entity id 546438 at ([maincra-server]-274.4654259487041, 46.0, -868.58446419984)
+[23:59:32] [Server thread/WARN]: Horse moved wrongly!
+[23:59:32] [Server thread/WARN]: Horse moved wrongly!
+[23:59:32] [Server thread/WARN]: Horse moved wrongly!
+[23:59:32] [Server thread/WARN]: Horse moved wrongly!
+[23:59:33] [Server thread/WARN]: Horse moved wrongly!
+[23:59:33] [Server thread/WARN]: Horse moved wrongly!
+[23:59:33] [Server thread/WARN]: Horse moved wrongly!
+[23:59:33] [Server thread/WARN]: Horse moved wrongly!
