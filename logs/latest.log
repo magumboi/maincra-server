@@ -521,3 +521,22 @@
 [19:44:47] [Server thread/INFO]: selfepidemiic left the game
 [19:47:14] [User Authenticator #558/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
 [19:47:14] [Server thread/INFO]: selfepidemiic[/187.232.167.83:55754] logged in with entity id 578900 at ([maincra-server]-297.22534096300745, 69.0, -791.4342561975171)
+[20:10:12] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:10:12] [Server thread/INFO]: selfepidemiic left the game
+[20:51:43] [User Authenticator #559/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:51:43] [Server thread/INFO]: selfepidemiic[/187.232.167.83:56205] logged in with entity id 580192 at ([maincra-server]-312.5847120645458, 69.0, -845.7179551456605)
+[20:59:21] [User Authenticator #560/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:59:21] [Server thread/INFO]: Adrian[/187.233.210.247:8197] logged in with entity id 581149 at ([maincra-server]-291.63672887022847, 67.0, -830.3983781697335)
+[21:01:30] [Async Chat Thread - #200/INFO]: <selfepidemiic> lagg?[m
+[21:03:34] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:03:34] [Server thread/INFO]: Adrian left the game
+[21:04:29] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:04:29] [Server thread/INFO]: selfepidemiic left the game
+[22:26:08] [User Authenticator #561/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:26:08] [Server thread/INFO]: Adrian[/187.233.210.247:54348] logged in with entity id 581458 at ([maincra-server]-95.66767426749007, 69.0, -998.8937668409073)
+[22:26:15] [Server thread/INFO]: Adrian lost connection: Disconnected
+[22:26:15] [Server thread/INFO]: Adrian left the game
+[23:24:52] [User Authenticator #562/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[23:24:53] [Server thread/INFO]: Adrian[/187.233.210.247:54786] logged in with entity id 581677 at ([maincra-server]-95.66767426749007, 69.0, -998.8937668409073)
+[23:25:04] [Server thread/INFO]: Adrian lost connection: Disconnected
+[23:25:04] [Server thread/INFO]: Adrian left the game
