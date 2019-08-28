@@ -2,3 +2,7 @@
 [00:54:51] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
 [05:02:43] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [05:02:45] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[18:33:00] [User Authenticator #585/INFO]: UUID of player andres12234 is d1bd5ddd-f738-3dc0-8e28-6b634c416334
+[18:33:00] [Server thread/INFO]: andres12234[/177.249.185.196:35667] logged in with entity id 594290 at ([maincra-server]-30.378236221299662, 48.0, 104.73572385465121)
+[18:33:25] [Server thread/INFO]: andres12234 lost connection: Timed out
+[18:33:25] [Server thread/INFO]: andres12234 left the game
