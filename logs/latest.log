@@ -1,185 +1,264 @@
-[00:08:34] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:08:34] [Server thread/INFO]: selfepidemiic left the game
-[00:08:43] [User Authenticator #614/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:08:43] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51466] logged in with entity id 611122 at ([maincra-server]1269.8283112177226, 68.0, -5701.312941058811)
-[00:10:28] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:10:28] [Server thread/INFO]: selfepidemiic left the game
-[00:10:29] [User Authenticator #615/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:10:30] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51470] logged in with entity id 611260 at ([maincra-server]1236.8442287865998, 89.0, -5781.174620582449)
-[00:13:11] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:13:12] [Server thread/WARN]: Boat moved wrongly!
-[00:17:30] [Server thread/WARN]: Adrian moved too quickly! -7.720818563042712,-1.0,-11.457241480246921
-[00:19:03] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:19:04] [Server thread/INFO]: selfepidemiic left the game
-[00:19:15] [User Authenticator #616/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:19:15] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51485] logged in with entity id 612374 at ([maincra-server]953.6585763236076, 62.07326552579505, -6536.113778877612)
-[00:22:30] [Server thread/WARN]: selfepidemiic moved too quickly! 1.5962136217825673,1.0,-10.096747468753165
-[00:27:31] [Server thread/WARN]: selfepidemiic moved too quickly! -1.0809189728313413,2.0,-9.898390936448777
-[00:29:35] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:29:35] [Server thread/INFO]: selfepidemiic left the game
-[00:29:44] [User Authenticator #617/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:29:44] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51506] logged in with entity id 613806 at ([maincra-server]1098.6353565293255, 69.8500000178814, -7180.981976413081)
-[00:30:18] [Server thread/WARN]: Horse moved wrongly!
-[00:30:18] [Server thread/WARN]: Horse moved wrongly!
-[00:31:20] [Async Chat Thread - #209/INFO]: <selfepidemiic> 1008 68 -7132[m
-[00:31:42] [Async Chat Thread - #209/INFO]: <Adrian> w[m
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -14.334882373749451,0.0,-14.177220382233827
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -14.789476814476075,0.0,-14.35674540018681
-[00:32:31] [Server thread/WARN]: Adrian moved too quickly! -5.280526761473425,-5.001335979112142,8.104451646369853
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -15.244077753513238,0.0,-14.536272984403695
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -15.698682169666881,0.0,-14.71580194177659
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -16.1532884463561,0.0,-14.895331633898422
-[00:32:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -16.60789571858095,0.0,-15.074861719169348
-[00:40:42] [Server thread/WARN]: selfepidemiic moved wrongly!
-[00:40:56] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:40:56] [Server thread/INFO]: selfepidemiic left the game
-[00:40:58] [User Authenticator #618/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:40:58] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51518] logged in with entity id 615842 at ([maincra-server]1100.1189305656187, 75.0, -8118.821427696877)
-[00:41:18] [Server thread/WARN]: Horse moved wrongly!
-[00:41:54] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:41:54] [Server thread/INFO]: selfepidemiic left the game
-[00:42:02] [User Authenticator #619/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:42:02] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51524] logged in with entity id 616173 at ([maincra-server]1071.4136578130494, 82.8500000178814, -8275.316351886753)
-[00:42:07] [Server thread/INFO]: Adrian lost connection: Disconnected
-[00:42:07] [Server thread/INFO]: Adrian left the game
-[00:42:09] [User Authenticator #620/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[00:42:09] [Server thread/INFO]: Adrian[/187.232.179.250:55756] logged in with entity id 616178 at ([maincra-server]1065.5323904573518, 82.0, -8275.42286102788)
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 12.754596288120183,-6.772546541336993,-14.077050324571246
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.043041247718747,-6.772546541336993,-14.390556536272925
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.331815565878514,-6.849378542832355,-14.704420700652918
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.375475425527839,-7.0,-14.88697448108178
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.375475425527839,-7.221488851774595,-15.064387271006126
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.375475425527839,-7.51103875065435,-15.237215325465513
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.388918742405622,-7.772546541336993,-15.405954712719904
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.535340663993338,-7.772546541336993,-15.702549743748023
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.748121286147352,-7.772546541336993,-16.00736507252259
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 13.996409125924629,-7.772546541336993,-16.31657891872601
-[00:42:30] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! 14.26369616991451,-7.772546541336993,-16.628146323910187
-[00:43:50] [Server thread/INFO]: selfepidemiic has made the advancement [Local Brewery]
-[00:46:17] [Server thread/INFO]: selfepidemiic has reached the goal [Zombie Doctor]
-[00:48:11] [Server thread/WARN]: Horse moved wrongly!
-[00:48:11] [Server thread/WARN]: Horse moved wrongly!
-[00:48:11] [Server thread/WARN]: Horse moved wrongly!
-[00:48:11] [Server thread/WARN]: Horse moved wrongly!
-[00:48:11] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:12] [Server thread/WARN]: Horse moved wrongly!
-[00:48:57] [Server thread/WARN]: Horse moved wrongly!
-[00:48:57] [Server thread/WARN]: Horse moved wrongly!
-[00:50:46] [Server thread/INFO]: Adrian lost connection: Disconnected
-[00:50:46] [Server thread/INFO]: Adrian left the game
-[00:50:47] [User Authenticator #621/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[00:50:47] [Server thread/INFO]: Adrian[/187.232.179.250:1599] logged in with entity id 617713 at ([maincra-server]1342.1073793340915, 65.8500000178814, -8972.972600582947)
-[00:52:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.2492867190792367,2.0,-19.67090712931531
-[00:52:31] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.292781623874248,2.0,-20.178380995021143
-[00:54:35] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.134627717890453,-2.0,-20.15021504457036
-[00:54:35] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.188408282555656,-2.0,-20.656678393588663
-[00:54:35] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.240599201699297,-2.0,-21.163318663460814
-[00:54:35] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.2919395332183967,-2.0,-21.67005360015537
-[00:54:35] [Server thread/WARN]: Horse (vehicle of selfepidemiic) moved too quickly! -3.342824732258464,-2.0,-22.17683919117917
-[00:55:07] [Server thread/INFO]: Adrian lost connection: Disconnected
-[00:55:07] [Server thread/INFO]: Adrian left the game
-[00:55:11] [User Authenticator #622/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[00:55:11] [Server thread/INFO]: Adrian[/187.232.179.250:55886] logged in with entity id 619556 at ([maincra-server]630.7605094978553, 65.0, -9457.023180599183)
-[00:55:31] [Server thread/INFO]: Adrian lost connection: Disconnected
-[00:55:31] [Server thread/INFO]: Adrian left the game
-[00:55:32] [User Authenticator #623/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[00:55:33] [Server thread/INFO]: Adrian[/187.232.179.250:1667] logged in with entity id 619581 at ([maincra-server]628.1702210646288, 66.8500000178814, -9462.663951656323)
-[00:57:30] [Server thread/WARN]: selfepidemiic moved too quickly! -6.764191226719959,2.0,7.140865283437961
-[00:57:48] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[00:57:48] [Server thread/INFO]: selfepidemiic left the game
-[00:57:50] [User Authenticator #624/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[00:57:50] [Server thread/INFO]: selfepidemiic[/187.232.167.83:51554] logged in with entity id 620151 at ([maincra-server]563.8204587710727, 68.0, -9647.98033107457)
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[00:58:40] [Server thread/WARN]: Horse moved wrongly!
-[01:01:49] [Server thread/INFO]: Adrian lost connection: Disconnected
-[01:01:49] [Server thread/INFO]: Adrian left the game
-[01:01:52] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[01:01:52] [Server thread/INFO]: selfepidemiic left the game
-[01:18:21] [User Authenticator #625/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
-[01:18:22] [Server thread/INFO]: Adrian[/187.232.179.250:55960] logged in with entity id 620433 at ([maincra-server]588.8738682201288, 64.8500000178814, -9806.059515821287)
-[01:21:56] [User Authenticator #626/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[01:21:56] [Server thread/INFO]: selfepidemiic[/187.232.167.83:52046] logged in with entity id 620699 at ([maincra-server]585.8527312032655, 64.8500000178814, -9810.709667884266)
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0339573434069678,0.0,20.00844555727417
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0401547884260651,0.0,20.24429187582973
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.045732488795494,0.0,20.456553556907238
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.050752418994989,0.0,20.647589064816202
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.055270356054848,0.0,20.819521017379884
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.059336499300997,0.0,20.974259770588105
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0629960281256103,0.0,21.113524644786594
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0662896039804934,0.0,21.23886302824394
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.069253822171362,0.0,21.35166757036677
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0719216184724871,0.0,21.453191655587943
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0743226350798807,0.0,21.544563329867742
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0764835499692822,0.0,21.62679783454041
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.062926383335224,0.0,21.737682838340334
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 1.0349582031557532,0.0,21.874240868859488
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.9937878132018341,0.0,22.033804121932917
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.9405248105775001,0.0,22.213979437963644
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.8761893536519949,0.0,22.412621195084284
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.8017174737773018,0.0,22.627805311138218
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.7179728668301948,0.0,22.857808929989915
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.6257435748767364,0.0,23.10108571308774
-[01:27:31] [Server thread/WARN]: Boat (vehicle of selfepidemiic) moved too quickly! 0.5257564433421749,0.0,23.356251566541687
-[01:29:27] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[01:29:27] [Server thread/INFO]: selfepidemiic left the game
-[01:29:32] [User Authenticator #627/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[01:29:32] [Server thread/INFO]: selfepidemiic[/187.232.167.83:52071] logged in with entity id 624440 at ([maincra-server]-303.84016696284226, 65.0, -9596.300000011921)
-[01:32:30] [Server thread/WARN]: Adrian moved wrongly!
-[01:43:38] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[01:43:38] [Server thread/INFO]: selfepidemiic left the game
-[01:43:41] [User Authenticator #628/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
-[01:43:42] [Server thread/INFO]: selfepidemiic[/187.232.167.83:52087] logged in with entity id 625518 at ([maincra-server]-213.04508186017884, 68.0, -9457.214536033807)
-[01:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9465ms or 189 ticks behind
-[02:23:55] [Server thread/INFO]: selfepidemiic has completed the challenge [Subspace Bubble]
-[02:23:56] [Server thread/INFO]: Adrian has completed the challenge [Subspace Bubble]
-[02:31:49] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
-[02:31:49] [Server thread/INFO]: selfepidemiic left the game
-[02:33:40] [Server thread/INFO]: Adrian lost connection: Disconnected
-[02:33:40] [Server thread/INFO]: Adrian left the game
+[22:00:25] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:00:25] [Server thread/INFO]: Loading properties
+[22:00:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[22:00:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:00:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:00:26] [Server thread/INFO]: Debug logging is disabled
+[22:00:26] [Server thread/INFO]: Default game type: SURVIVAL
+[22:00:26] [Server thread/INFO]: Generating keypair
+[22:00:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:00:27] [Server thread/INFO]: Using epoll channel type
+[22:00:30] [User Authenticator #1/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:00:36] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
+[22:00:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:00:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:00:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:00:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:00:36] [Server thread/INFO]: Preparing level "maincra-server"
+[22:00:36] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:00:38] [Server thread/INFO]: Loaded 6 recipes
+[22:00:39] [Server thread/INFO]: -------- World Settings For [maincra-server] --------
+[22:00:39] [Server thread/INFO]: Experience Merge Radius: 6.0
+[22:00:39] [Server thread/INFO]: Mob Spawn Range: 6
+[22:00:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:00:39] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[22:00:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:00:39] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[22:00:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:00:39] [Server thread/INFO]: Max TNT Explosions: 10
+[22:00:39] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:00:39] [Server thread/INFO]: View Distance: 10
+[22:00:39] [Server thread/INFO]: Arrow Despawn Rate: 300
+[22:00:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:00:39] [Server thread/INFO]: Item Despawn Rate: 5000
+[22:00:39] [Server thread/INFO]: Item Merge Radius: 4.0
+[22:00:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:00:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:05] [Server thread/INFO]: -------- World Settings For [maincra-server_nether] --------
+[22:01:05] [Server thread/INFO]: Experience Merge Radius: 6.0
+[22:01:05] [Server thread/INFO]: Mob Spawn Range: 6
+[22:01:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[22:01:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:01:05] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[22:01:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:01:05] [Server thread/INFO]: Max TNT Explosions: 10
+[22:01:05] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:01:05] [Server thread/INFO]: View Distance: 10
+[22:01:05] [Server thread/INFO]: Arrow Despawn Rate: 300
+[22:01:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:01:05] [Server thread/INFO]: Item Despawn Rate: 5000
+[22:01:05] [Server thread/INFO]: Item Merge Radius: 4.0
+[22:01:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:01:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:05] [Server thread/INFO]: -------- World Settings For [maincra-server_the_end] --------
+[22:01:05] [Server thread/INFO]: Experience Merge Radius: 6.0
+[22:01:05] [Server thread/INFO]: Mob Spawn Range: 6
+[22:01:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:01:05] [Server thread/INFO]: Entity Activation Range: An 20 / Mo 24 / Ra 48 / Mi 12 / Tiv true
+[22:01:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:01:05] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[22:01:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:01:05] [Server thread/INFO]: Max TNT Explosions: 10
+[22:01:05] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:01:05] [Server thread/INFO]: View Distance: 10
+[22:01:05] [Server thread/INFO]: Arrow Despawn Rate: 300
+[22:01:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:01:05] [Server thread/INFO]: Item Despawn Rate: 5000
+[22:01:05] [Server thread/INFO]: Item Merge Radius: 4.0
+[22:01:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:01:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:05] [Server thread/INFO]: Preparing start region for dimension 'maincra-server'/minecraft:overworld
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:01:09] [Server-Worker-1/INFO]: Preparing spawn area: 13%
+[22:01:09] [Server thread/INFO]: Time elapsed: 4361 ms
+[22:01:09] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_nether'/minecraft:the_nether
+[22:01:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:11] [Server thread/INFO]: Preparing spawn area: 85%
+[22:01:12] [Server thread/INFO]: Time elapsed: 2258 ms
+[22:01:12] [Server thread/INFO]: Preparing start region for dimension 'maincra-server_the_end'/minecraft:the_end
+[22:01:13] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:13] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:13] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:13] [Server thread/INFO]: Time elapsed: 1477 ms
+[22:01:13] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
+[22:01:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:01:13] [Server thread/INFO]: Done (37.317s)! For help, type "help"
+[22:01:13] [Server thread/INFO]: Starting remote control listener
+[22:01:13] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[22:01:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@260ee0a2[id=2d75aef4-517b-392c-945d-19c3b3c59e06,name=Adrian,properties={},legacy=false] (/187.232.179.250:53901) lost connection: Disconnected
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[22:01:16] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[22:01:17] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[22:01:18] [JDA MainWS-WriteThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[22:01:18] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Overjuan, LoL y galletitas(250047089432723456)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hehe-xd(250047089432723456)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:musica(493640162279030784)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-chat(603626295103848448)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:maincra-console(603627861781512202)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Libra ♎(449824936048197633)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:el-lobby-🛋(488866936457789441)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hablada-real-🙋🙍(460181774534967297)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:devs-chillones👨💻👨🍳(468929183150768131)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:eventos-y-cumpleaños-🥒🙇🍰(470802141351772181)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mimidisimos-chat-💪😴(582971485082091546)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:coliseo-versus-de-emotes-🆚(470805446601736192)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:owospam-⭕〰⭕(489313649685692416)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:counting(589153351258603524)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:smeg-memes-💩(460279858107252755)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:meme-foundry-⏺🍆💿(479540558524710912)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:anime-dead-🎎(467897554743459871)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rayacraft-⏹⛏(543927938563833860)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cultura-ost🎼(451227973593333760)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:f-e-h-🤺(460165558168453130)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:overputas-deliciosas-🔫🏹🛡(479352599569760257)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ps3-xbox-pcerdo-etc-🖱💻📺🎮🕹(471319417830113301)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ligoleyens-🏰☄(512803398261932032)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:game-dev-💻🖱🎮(481674577953685515)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rpg-gaming-mmorpg-📺🏰🕹(498623576933400576)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:obo-oh-🃏🀄(532807307264917505)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:aqui-van-los-libros-📖📗(464686768927801354)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pero-mira-ese-paisaje-homs-🎇🗻🏕⛰(465340521728966688)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ropa-y-calzado-🧥🧤🧦👠👢🥾🥿(488879967174918145)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:arte-y-dibujos-hechos-por-ti-📃🖋✏✒🖊🖌(479540665500565512)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-🎶🔊(509169481432432651)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:recetas-y-foodporn-🥗🥣🍱(504787725061324818)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cine-y-peliculas(598335044079058994)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:putas-excelentes-👯♀(449989096513994774)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:patas-diabeticas🦶🤔-y-fetiches-😏🤐(461058189711114262)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nalgas-peludas-y-pitos-picudos🐶🐺🦊(569788868417814528)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-homo-traprepucios-🧚♂(473300600239685632)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:salsahunters-👨💻-🍲(472510817670004737)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw-bot-🤖(477851245604765698)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:pongan-🎶musica(467469885140893707)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:seccion-de-muditos-en-vc-🔇🔕(482066298210091018)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:fornais(591095349645410331)
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 603627861781512202
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[22:01:18] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[22:01:20] [User Authenticator #2/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[22:01:21] [Server thread/INFO]: Adrian[/187.232.179.250:9661] logged in with entity id 241 at ([maincra-server]-341.42654714205753, 64.0, -821.9772569287204)
+[22:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[22:01:32] [User Authenticator #3/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:01:32] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59393] logged in with entity id 618 at ([maincra-server]-315.5692720443909, 69.0, -839.1419054942133)
+[22:02:39] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:02:39] [Server thread/INFO]: selfepidemiic left the game
+[22:02:45] [User Authenticator #4/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:02:46] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59400] logged in with entity id 771 at ([maincra-server]-275.64203881384134, 64.5625, -832.4383583023762)
+[22:04:50] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:04:50] [Server thread/INFO]: selfepidemiic left the game
+[22:04:51] [User Authenticator #5/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:04:52] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59406] logged in with entity id 816 at ([maincra-server]-305.2188469179284, 63.0, -816.0692391006695)
+[22:10:53] [Server thread/WARN]: Horse moved wrongly!
+[22:26:15] [Server thread/WARN]: selfepidemiic moved wrongly!
+[22:27:03] [Server thread/WARN]: selfepidemiic moved wrongly!
+[22:28:58] [Server thread/INFO]: selfepidemiic was shot by Skeleton
+[22:37:16] [User Authenticator #6/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:37:16] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:37:16] [Server thread/INFO]: selfepidemiic left the game
+[22:37:16] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59529] logged in with entity id 1896 at ([maincra-server]-326.0229355897869, 63.9375, -819.4176206111658)
+[22:37:50] [Server thread/WARN]: selfepidemiic moved too quickly! 7.207424767928728,3.0,-7.648980904234804
+[22:38:37] [User Authenticator #7/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:38:38] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[22:38:38] [Server thread/INFO]: selfepidemiic left the game
+[22:38:38] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59535] logged in with entity id 1955 at ([maincra-server]-313.49549641988955, 69.0, -853.5064774425377)
+[22:39:26] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[22:39:26] [Server thread/INFO]: selfepidemiic left the game
+[22:39:29] [User Authenticator #8/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:39:30] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59537] logged in with entity id 1996 at ([maincra-server]-307.2574139955013, 70.0, -853.5226296976807)
+[22:39:50] [Async Chat Thread - #0/INFO]: <selfepidemiic> tengo lagg[m
+[22:39:52] [User Authenticator #9/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:39:52] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[22:39:52] [Server thread/INFO]: selfepidemiic left the game
+[22:39:52] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59542] logged in with entity id 2008 at ([maincra-server]-314.8218375868656, 69.0, -842.9614445173289)
+[22:41:31] [Server thread/INFO]: selfepidemiic lost connection: Timed out
+[22:41:31] [Server thread/INFO]: selfepidemiic left the game
+[22:41:35] [User Authenticator #10/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:41:35] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59547] logged in with entity id 2091 at ([maincra-server]-303.67712235940866, 69.0, -847.6784973297918)
+[22:43:55] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:43:55] [Server thread/INFO]: selfepidemiic left the game
+[22:44:02] [User Authenticator #11/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:44:03] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59555] logged in with entity id 2135 at ([maincra-server]-328.30000001192093, 62.0, -817.6999999880791)
+[22:54:24] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[22:54:24] [Server thread/INFO]: selfepidemiic left the game
+[22:54:26] [User Authenticator #12/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[22:54:26] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59564] logged in with entity id 2432 at ([maincra-server]-275.9708464606799, 63.0, -848.4480448572837)
+[22:56:37] [Async Chat Thread - #1/INFO]: <selfepidemiic> quieres ser mi novio?[m
+[22:56:44] [Async Chat Thread - #1/INFO]: <selfepidemiic> te amo[m
+[22:58:25] [Async Chat Thread - #2/INFO]: <selfepidemiic> TEAMO[m
+[22:58:30] [Async Chat Thread - #2/INFO]: <selfepidemiic> YO MAS OWO[m
+[23:02:27] [Server thread/WARN]: selfepidemiic was kicked for floating too long!
+[23:02:27] [Server thread/INFO]: selfepidemiic lost connection: Flying is not enabled on this server
+[23:02:27] [Server thread/INFO]: selfepidemiic left the game
+[23:02:30] [User Authenticator #13/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:02:30] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59591] logged in with entity id 2631 at ([maincra-server]-322.49426370079135, 68.05411736736092, -843.2665900411247)
+[23:03:14] [Server thread/WARN]: selfepidemiic moved too quickly! 25.426757365486537,-2.9388359791121417,7.372078467029041
+[23:03:16] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:03:16] [Server thread/INFO]: selfepidemiic left the game
+[23:03:19] [User Authenticator #14/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[23:03:19] [Server thread/INFO]: selfepidemiic[/187.232.167.83:59595] logged in with entity id 2656 at ([maincra-server]-280.57731387638034, 64.0625, -826.2720137867436)
+[23:03:37] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[23:03:37] [Server thread/INFO]: selfepidemiic left the game
+[23:04:08] [Server thread/INFO]: Adrian lost connection: Disconnected
+[23:04:08] [Server thread/INFO]: Adrian left the game
+[23:33:38] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[23:33:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
