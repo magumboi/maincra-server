@@ -1,2 +1,9 @@
-[14:47:18] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[14:47:20] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[15:40:20] [User Authenticator #15/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:40:20] [Server thread/INFO]: selfepidemiic[/187.233.9.242:62921] logged in with entity id 2687 at ([maincra-server]-286.09700701085785, 63.0, -823.6111198319608)
+[15:45:43] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:45:43] [Server thread/INFO]: selfepidemiic left the game
+[15:51:51] [User Authenticator #16/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:51:51] [Server thread/INFO]: selfepidemiic[/187.233.9.242:63122] logged in with entity id 3299 at ([maincra-server]-286.2553348078961, 63.0, -822.9109470935634)
+[15:52:43] [User Authenticator #17/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[15:52:43] [Server thread/INFO]: Adrian[/187.232.179.250:31833] logged in with entity id 3757 at ([maincra-server]-319.73064623503683, 64.0, -830.0374845922004)
+[15:54:18] [Server thread/WARN]: selfepidemiic moved too quickly! -9.76964775595087,0.0,2.159611744542417
