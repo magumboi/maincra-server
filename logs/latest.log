@@ -1,2 +1,48 @@
 [18:34:50] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [18:34:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[20:32:45] [User Authenticator #27/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:32:46] [Server thread/INFO]: selfepidemiic[/187.233.9.242:49992] logged in with entity id 10660 at ([maincra-server]-414.1370261271793, 63.0, -849.4236326166705)
+[20:33:45] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:33:45] [Server thread/INFO]: selfepidemiic left the game
+[20:36:04] [User Authenticator #28/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:36:04] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50002] logged in with entity id 11066 at ([maincra-server]-408.03387329772096, 63.0, -843.7179613696209)
+[20:44:18] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:44:18] [Server thread/INFO]: selfepidemiic left the game
+[20:47:53] [User Authenticator #29/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:47:53] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50010] logged in with entity id 11927 at ([maincra-server]-325.69999998807907, 64.0, -825.7166539904329)
+[20:50:24] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:50:24] [Server thread/INFO]: selfepidemiic left the game
+[20:51:46] [User Authenticator #30/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:51:46] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50015] logged in with entity id 12448 at ([maincra-server]-280.2744372277042, 64.0625, -828.6084145007222)
+[20:53:14] [User Authenticator #31/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:53:14] [Server thread/INFO]: Adrian[/187.233.210.168:52471] logged in with entity id 12988 at ([maincra-server]-249.38778212262127, 22.5, -929.4889173244031)
+[20:54:21] [Async Chat Thread - #4/INFO]: <selfepidemiic> NATASION[m
+[20:58:14] [Async Chat Thread - #5/INFO]: <selfepidemiic> TENIA K RETARTE PARA Q LO HICIERAS[m
+[20:58:24] [Async Chat Thread - #5/INFO]: <selfepidemiic> XD[m
+[20:58:27] [Async Chat Thread - #5/INFO]: <selfepidemiic> PS SI ERA[m
+[20:58:32] [Async Chat Thread - #5/INFO]: <selfepidemiic> ES QUE LA VDD YO NO PUEDO JUGAR MUHCO[m
+[20:58:34] [Async Chat Thread - #5/INFO]: <selfepidemiic> MUCHO[m
+[21:04:44] [Server thread/WARN]: selfepidemiic moved too quickly! -7.351932028621604,0.0625,7.158945613306969
+[21:10:15] [Async Chat Thread - #6/INFO]: <selfepidemiic> MAÑANA VAS A IR?[m
+[21:11:11] [Server thread/WARN]: selfepidemiic moved too quickly! 10.554320080804644,-1.4199999868869781,4.967121641586232
+[21:12:04] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:12:04] [Server thread/INFO]: selfepidemiic left the game
+[21:12:06] [User Authenticator #32/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:12:06] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50027] logged in with entity id 14220 at ([maincra-server]-317.7030215010593, 71.9375, -802.4171034846195)
+[21:19:28] [Async Chat Thread - #7/INFO]: <selfepidemiic> SALTE[m
+[21:19:30] [Async Chat Thread - #7/INFO]: <selfepidemiic> PA DORMIR[m
+[21:19:31] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:19:31] [Server thread/INFO]: Adrian left the game
+[21:19:35] [Async Chat Thread - #7/INFO]: <selfepidemiic> YA[m
+[21:19:36] [User Authenticator #33/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[21:19:37] [Server thread/INFO]: Adrian[/187.233.210.168:52522] logged in with entity id 14497 at ([maincra-server]-317.70888767480034, 64.0, -818.2011828056944)
+[21:22:34] [User Authenticator #34/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:22:34] [Server thread/INFO]: selfepidemiic lost connection: You logged in from another location
+[21:22:34] [Server thread/INFO]: selfepidemiic left the game
+[21:22:35] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50037] logged in with entity id 14526 at ([maincra-server]-304.1865802495265, 69.0, -845.2790725434268)
+[21:22:51] [Async Chat Thread - #8/INFO]: <selfepidemiic> SUISH SUISH BISH[m
+[21:23:03] [Async Chat Thread - #8/INFO]: <selfepidemiic> LA KLLIS[m
+[21:23:17] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:23:17] [Server thread/INFO]: selfepidemiic left the game
+[21:24:44] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:24:44] [Server thread/INFO]: Adrian left the game
