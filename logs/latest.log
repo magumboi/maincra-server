@@ -1,6 +1,14 @@
-[06:04:45] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[06:04:48] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[11:07:38] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[11:07:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[18:07:53] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[18:07:56] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[13:53:09] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[13:53:12] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[15:14:00] [User Authenticator #42/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:14:00] [Server thread/INFO]: selfepidemiic[/187.233.9.242:49718] logged in with entity id 23779 at ([maincra-server]-237.73971669375945, 68.0, -794.5589052323755)
+[15:14:08] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[15:14:10] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[15:15:22] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[15:15:22] [Server thread/INFO]: selfepidemiic left the game
+[15:18:53] [User Authenticator #43/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[15:18:53] [Server thread/INFO]: selfepidemiic[/187.233.9.242:50157] logged in with entity id 24293 at ([maincra-server]-335.6140301689713, 81.0, -848.8529835451372)
+[15:20:37] [User Authenticator #44/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[15:20:37] [Server thread/INFO]: Adrian[/187.232.243.1:13359] logged in with entity id 24770 at ([maincra-server]-294.5282349729789, 63.0, -825.3940410436054)
+[15:48:36] [Server thread/INFO]: Adrian was burnt to a crisp whilst fighting Wither Skeleton Elite
+[15:48:42] [Server thread/INFO]: selfepidemiic burned to death
