@@ -217,3 +217,38 @@
 [19:57:52] [Server thread/INFO]: selfepidemiic left the game
 [19:58:12] [Server thread/INFO]: Adrian lost connection: Disconnected
 [19:58:12] [Server thread/INFO]: Adrian left the game
+[20:16:29] [User Authenticator #62/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:16:29] [Server thread/INFO]: selfepidemiic[/187.233.9.242:53557] logged in with entity id 49934 at ([maincra-server]-157.1363944279649, 63.5625, -1727.1638138722653)
+[20:16:37] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:16:37] [Server thread/INFO]: selfepidemiic left the game
+[20:19:29] [User Authenticator #63/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[20:19:30] [Server thread/INFO]: selfepidemiic[/187.233.9.242:53775] logged in with entity id 50018 at ([maincra-server]-156.71331812749122, 63.5625, -1727.4961308761383)
+[20:19:55] [User Authenticator #64/INFO]: UUID of player Adrian is 2d75aef4-517b-392c-945d-19c3b3c59e06
+[20:19:55] [Server thread/INFO]: Adrian[/187.232.243.1:59272] logged in with entity id 50102 at ([maincra-server]-156.42594084329244, 63.5625, -1727.855409183907)
+[20:25:16] [Server thread/INFO]: Adrian was slain by Guardian
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.351006937147673,3.0,-8.201124705041025
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 18.762307110237316,3.0,-8.375152065315206
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.17360728338207,3.0,-8.549179425592001
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.584907456556294,3.0,-8.723206785870275
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 19.996207629746294,3.0,-8.89723414614923
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.407507802944735,3.0,-9.071261506428641
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 20.818807976147696,3.0,-9.245288866708279
+[20:26:21] [Server thread/WARN]: Horse (vehicle of Adrian) moved too quickly! 21.23010814935307,3.0,-9.41931622698803
+[20:55:32] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[20:55:33] [Server thread/INFO]: selfepidemiic left the game
+[21:02:46] [User Authenticator #65/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:02:46] [Server thread/INFO]: selfepidemiic[/187.233.9.242:53864] logged in with entity id 57424 at ([maincra-server]-154.7815588309425, 63.0, -1732.3747045046605)
+[21:07:50] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:07:50] [Server thread/INFO]: selfepidemiic left the game
+[21:24:44] [Server thread/INFO]: Adrian lost connection: Disconnected
+[21:24:44] [Server thread/INFO]: Adrian left the game
+[21:27:45] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[21:27:47] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[21:29:15] [User Authenticator #66/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:29:15] [Server thread/INFO]: selfepidemiic[/187.233.9.242:54168] logged in with entity id 59701 at ([maincra-server]-156.80686915921476, 70.0, -1730.914090308256)
+[21:29:48] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:29:48] [Server thread/INFO]: selfepidemiic left the game
+[21:38:20] [User Authenticator #67/INFO]: UUID of player selfepidemiic is 4e631165-bb87-3382-8be6-eab3c023c909
+[21:38:20] [Server thread/INFO]: selfepidemiic[/187.233.9.242:54518] logged in with entity id 59923 at ([maincra-server]-156.98048702305437, 63.0, -1727.9234510919498)
+[21:38:40] [Server thread/INFO]: selfepidemiic lost connection: Disconnected
+[21:38:40] [Server thread/INFO]: selfepidemiic left the game
