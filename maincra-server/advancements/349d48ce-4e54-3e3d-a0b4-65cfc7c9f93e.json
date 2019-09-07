@@ -1418,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-09-07 11:19:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-07-27 16:58:33 -0500"
@@ -1772,6 +1778,7 @@
       "chicken": "2019-07-27 22:24:41 -0500",
       "cooked_mutton": "2019-07-27 13:53:41 -0500",
       "cooked_beef": "2019-07-27 14:17:03 -0500",
+      "beef": "2019-09-07 10:24:33 -0500",
       "porkchop": "2019-08-15 13:24:19 -0500",
       "apple": "2019-07-28 19:22:37 -0500",
       "potato": "2019-08-15 13:22:53 -0500",
@@ -2483,6 +2490,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-07-27 13:49:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-09-07 11:19:13 -0500"
     },
     "done": true
   },
