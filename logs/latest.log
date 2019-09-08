@@ -15,3 +15,43 @@
 [10:54:59] [Server thread/INFO]: Axfer06 was slain by Cave Spider
 [12:07:10] [Server thread/INFO]: Axfer06 lost connection: Disconnected
 [12:07:10] [Server thread/INFO]: Axfer06 left the game
+[22:55:31] [User Authenticator #91/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[22:55:31] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:41605] logged in with entity id 86760 at ([maincra-server]48.79031240130704, 70.0, -320.3882749940989)
+[23:06:53] [User Authenticator #92/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:06:53] [Server thread/INFO]: aomali2[/187.189.187.177:41258] logged in with entity id 87334 at ([maincra-server]123.99613446072793, 69.0, -216.78123881650305)
+[23:07:26] [Async Chat Thread - #35/INFO]: <aomali2> tio[m
+[23:07:36] [Async Chat Thread - #35/INFO]: <PEPELOTAS> que onda[m
+[23:07:48] [Async Chat Thread - #35/INFO]: <aomali2> as puesto una vandera rosa en mi casa?[m
+[23:09:00] [Async Chat Thread - #36/INFO]: <aomali2> si?[m
+[23:09:53] [Async Chat Thread - #36/INFO]: <PEPELOTAS> no[m
+[23:10:00] [Async Chat Thread - #36/INFO]: <aomali2> pos alguien me visito[m
+[23:11:48] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
+[23:11:48] [Server thread/INFO]: [@: Summoned new Falling Block]
+[23:11:58] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
+[23:11:58] [Server thread/INFO]: [@: Summoned new Falling Block]
+[23:13:01] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
+[23:13:01] [Server thread/INFO]: [@: Summoned new Falling Block]
+[23:13:08] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
+[23:13:08] [Server thread/INFO]: [@: Summoned new Falling Block]
+[23:20:39] [Server thread/INFO]: aomali2 lost connection: Timed out
+[23:20:39] [Server thread/INFO]: aomali2 left the game
+[23:21:04] [User Authenticator #93/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:21:04] [Server thread/INFO]: aomali2[/187.189.187.177:41644] logged in with entity id 88800 at ([maincra-server]113.46980179987717, 69.0, -215.9090003176569)
+[23:21:06] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[23:21:06] [Server thread/INFO]: aomali2 left the game
+[23:23:28] [User Authenticator #94/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
+[23:23:28] [Server thread/INFO]: aomali2[/187.189.187.177:41811] logged in with entity id 88862 at ([maincra-server]113.46980179987717, 69.0, -215.9090003176569)
+[23:23:37] [Async Chat Thread - #37/INFO]: <aomali2> lag[m
+[23:26:27] [Async Chat Thread - #38/INFO]: <aomali2> lag[m
+[23:26:54] [Server thread/WARN]: aomali2 moved too quickly! -10.791690217634425,-0.41999998688697815,-0.23517813021433653
+[23:27:07] [Async Chat Thread - #38/INFO]: <aomali2> tio?[m
+[23:30:01] [Server thread/INFO]: [@: Changed the block at 118, 70, -161]
+[23:30:42] [Async Chat Thread - #39/INFO]: <aomali2> ???[m
+[23:30:50] [Async Chat Thread - #39/INFO]: <PEPELOTAS> estoy probando unos spáwns[m
+[23:31:08] [Async Chat Thread - #39/INFO]: <aomali2> ok pero no en mi casa porfa[m
+[23:33:31] [Server thread/INFO]: [@: Changed the block at 69, 69, 69]
+[23:37:06] [Async Chat Thread - #40/INFO]: <aomali2> lag[m
+[23:43:22] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[23:43:22] [Server thread/INFO]: PEPELOTAS left the game
+[23:45:34] [Server thread/INFO]: aomali2 lost connection: Disconnected
+[23:45:34] [Server thread/INFO]: aomali2 left the game
