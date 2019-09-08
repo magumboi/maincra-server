@@ -1,57 +1,12 @@
-[02:00:01] [User Authenticator #87/INFO]: UUID of player Javix12 is e95889d0-a8b9-3cd8-bf04-4356db26975a
-[02:00:02] [Server thread/INFO]: Javix12[/187.188.64.102:21831] logged in with entity id 79406 at ([maincra-server]102.24533448780478, 70.0, -7.100605168990191)
-[02:00:12] [Server thread/INFO]: Javix12 lost connection: Disconnected
-[02:00:12] [Server thread/INFO]: Javix12 left the game
-[10:05:15] [User Authenticator #88/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
-[10:05:15] [Server thread/INFO]: Axfer06[/177.249.190.224:30073] logged in with entity id 79417 at ([maincra-server]492.4109890872694, 71.0, -353.7396618583463)
-[10:05:28] [Server thread/INFO]: Axfer06 lost connection: Disconnected
-[10:05:28] [Server thread/INFO]: Axfer06 left the game
-[10:05:30] [User Authenticator #89/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
-[10:05:30] [Server thread/INFO]: Axfer06[/177.249.190.224:37599] logged in with entity id 79715 at ([maincra-server]492.4109890872694, 71.0, -353.7396618583463)
-[10:54:34] [Server thread/INFO]: Axfer06 lost connection: Disconnected
-[10:54:34] [Server thread/INFO]: Axfer06 left the game
-[10:54:45] [User Authenticator #90/INFO]: UUID of player Axfer06 is 349d48ce-4e54-3e3d-a0b4-65cfc7c9f93e
-[10:54:45] [Server thread/INFO]: Axfer06[/177.249.190.224:54554] logged in with entity id 82006 at ([maincra-server]471.30000001192093, 30.0, -337.69999998807907)
-[10:54:59] [Server thread/INFO]: Axfer06 was slain by Cave Spider
-[12:07:10] [Server thread/INFO]: Axfer06 lost connection: Disconnected
-[12:07:10] [Server thread/INFO]: Axfer06 left the game
-[22:55:31] [User Authenticator #91/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[22:55:31] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:41605] logged in with entity id 86760 at ([maincra-server]48.79031240130704, 70.0, -320.3882749940989)
-[23:06:53] [User Authenticator #92/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:06:53] [Server thread/INFO]: aomali2[/187.189.187.177:41258] logged in with entity id 87334 at ([maincra-server]123.99613446072793, 69.0, -216.78123881650305)
-[23:07:26] [Async Chat Thread - #35/INFO]: <aomali2> tio[m
-[23:07:36] [Async Chat Thread - #35/INFO]: <PEPELOTAS> que onda[m
-[23:07:48] [Async Chat Thread - #35/INFO]: <aomali2> as puesto una vandera rosa en mi casa?[m
-[23:09:00] [Async Chat Thread - #36/INFO]: <aomali2> si?[m
-[23:09:53] [Async Chat Thread - #36/INFO]: <PEPELOTAS> no[m
-[23:10:00] [Async Chat Thread - #36/INFO]: <aomali2> pos alguien me visito[m
-[23:11:48] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
-[23:11:48] [Server thread/INFO]: [@: Summoned new Falling Block]
-[23:11:58] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
-[23:11:58] [Server thread/INFO]: [@: Summoned new Falling Block]
-[23:13:01] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
-[23:13:01] [Server thread/INFO]: [@: Summoned new Falling Block]
-[23:13:08] [Server thread/WARN]: Skipping Entity with id commandblock_minecart
-[23:13:08] [Server thread/INFO]: [@: Summoned new Falling Block]
-[23:20:39] [Server thread/INFO]: aomali2 lost connection: Timed out
-[23:20:39] [Server thread/INFO]: aomali2 left the game
-[23:21:04] [User Authenticator #93/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:21:04] [Server thread/INFO]: aomali2[/187.189.187.177:41644] logged in with entity id 88800 at ([maincra-server]113.46980179987717, 69.0, -215.9090003176569)
-[23:21:06] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:21:06] [Server thread/INFO]: aomali2 left the game
-[23:23:28] [User Authenticator #94/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[23:23:28] [Server thread/INFO]: aomali2[/187.189.187.177:41811] logged in with entity id 88862 at ([maincra-server]113.46980179987717, 69.0, -215.9090003176569)
-[23:23:37] [Async Chat Thread - #37/INFO]: <aomali2> lag[m
-[23:26:27] [Async Chat Thread - #38/INFO]: <aomali2> lag[m
-[23:26:54] [Server thread/WARN]: aomali2 moved too quickly! -10.791690217634425,-0.41999998688697815,-0.23517813021433653
-[23:27:07] [Async Chat Thread - #38/INFO]: <aomali2> tio?[m
-[23:30:01] [Server thread/INFO]: [@: Changed the block at 118, 70, -161]
-[23:30:42] [Async Chat Thread - #39/INFO]: <aomali2> ???[m
-[23:30:50] [Async Chat Thread - #39/INFO]: <PEPELOTAS> estoy probando unos spáwns[m
-[23:31:08] [Async Chat Thread - #39/INFO]: <aomali2> ok pero no en mi casa porfa[m
-[23:33:31] [Server thread/INFO]: [@: Changed the block at 69, 69, 69]
-[23:37:06] [Async Chat Thread - #40/INFO]: <aomali2> lag[m
-[23:43:22] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[23:43:22] [Server thread/INFO]: PEPELOTAS left the game
-[23:45:34] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[23:45:34] [Server thread/INFO]: aomali2 left the game
+[13:32:24] [User Authenticator #95/INFO]: UUID of player GatoDeNieve is 653918fc-2cf6-3772-9c26-b6e130fc1858
+[13:32:24] [Server thread/INFO]: GatoDeNieve[/187.189.136.51:35611] logged in with entity id 89985 at ([maincra-server]-41.762978886759804, 61.5, -343.0019422749935)
+[13:33:15] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[13:33:15] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[13:33:42] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[13:33:42] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[13:40:28] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode survival GatoDeNieve
+[13:40:28] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Survival Mode]
+[13:40:30] [Server thread/INFO]: GatoDeNieve issued server command: /gamemode creative GatoDeNieve
+[13:40:30] [Server thread/INFO]: [GatoDeNieve: Set own game mode to Creative Mode]
+[13:44:06] [Server thread/INFO]: GatoDeNieve lost connection: Disconnected
+[13:44:06] [Server thread/INFO]: GatoDeNieve left the game
