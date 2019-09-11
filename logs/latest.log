@@ -8,3 +8,5 @@
 [18:26:38] [Server thread/INFO]: Axfer06[/177.249.190.224:43315] logged in with entity id 92674 at ([maincra-server]447.1831166417705, 72.0, -368.68284544083883)
 [18:52:19] [Server thread/INFO]: Axfer06 lost connection: Disconnected
 [18:52:19] [Server thread/INFO]: Axfer06 left the game
+[20:25:51] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[20:25:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
