@@ -1,4 +1,2 @@
-[19:57:28] [User Authenticator #99/INFO]: UUID of player aomali2 is 5569e8b1-e1f6-3eda-ab66-838460f151f0
-[19:57:28] [Server thread/INFO]: aomali2[/187.189.187.177:41623] logged in with entity id 94840 at ([maincra-server]119.59847522249454, 71.0, -181.99883955144043)
-[19:57:33] [Server thread/INFO]: aomali2 lost connection: Disconnected
-[19:57:33] [Server thread/INFO]: aomali2 left the game
+[14:33:34] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[14:33:37] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
