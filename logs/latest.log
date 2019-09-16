@@ -1,4 +1,2 @@
-[20:38:27] [User Authenticator #101/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[20:38:27] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:41083] logged in with entity id 100717 at ([maincra-server]-219.9926070540384, 74.96915344075384, -819.4382128940589)
-[20:46:05] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[20:46:05] [Server thread/INFO]: PEPELOTAS left the game
+[11:05:10] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[11:05:13] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
