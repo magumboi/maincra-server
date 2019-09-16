@@ -1,13 +1,4 @@
-[03:58:02] [User Authenticator #100/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
-[03:58:03] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:41273] logged in with entity id 94858 at ([maincra-server]-104.89889429409818, 63.0, -183.22485680257466)
-[03:58:32] [Server thread/INFO]: [@: Gave 1 [Diamond Helmet] to PEPELOTAS]
-[04:22:58] [Server thread/WARN]: PEPELOTAS moved too quickly! 155.8766822191802,-16.08328557522003,201.24318736021644
-[04:29:37] [Server thread/INFO]: PEPELOTAS fell out of the world
-[04:30:02] [Server thread/WARN]: PEPELOTAS moved too quickly! 156.02985965246916,-17.215592245938026,200.32661722643806
-[04:30:36] [Server thread/INFO]: PEPELOTAS fell out of the world
-[04:32:30] [Server thread/INFO]: [@: Teleported PEPELOTAS to -54.5, 65.0, -199.5]
-[04:32:31] [Server thread/WARN]: PEPELOTAS moved too quickly! 154.5,-16.0,199.5
-[04:32:46] [Server thread/INFO]: PEPELOTAS fell out of the world
-[04:37:43] [Server thread/WARN]: Donkey moved wrongly!
-[04:46:55] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
-[04:46:55] [Server thread/INFO]: PEPELOTAS left the game
+[20:38:27] [User Authenticator #101/INFO]: UUID of player PEPELOTAS is d5f91576-cbcc-34dc-bf95-ba7d82e6c470
+[20:38:27] [Server thread/INFO]: PEPELOTAS[/187.189.187.177:41083] logged in with entity id 100717 at ([maincra-server]-219.9926070540384, 74.96915344075384, -819.4382128940589)
+[20:46:05] [Server thread/INFO]: PEPELOTAS lost connection: Disconnected
+[20:46:05] [Server thread/INFO]: PEPELOTAS left the game
