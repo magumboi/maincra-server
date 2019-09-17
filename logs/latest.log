@@ -9,3 +9,5 @@
 [19:32:15] [Server thread/INFO]: Buster[/187.188.76.121:38601] logged in with entity id 104096 at ([maincra-server]448.299999974668, 72.0000002, -374.700000025332)
 [19:35:17] [Server thread/INFO]: Buster lost connection: Disconnected
 [19:35:18] [Server thread/INFO]: Buster left the game
+[20:38:25] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
+[20:38:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
