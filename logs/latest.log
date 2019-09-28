@@ -1,11 +1,27 @@
-[12:51:21] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[12:51:23] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[15:28:45] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[15:28:47] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
-[16:40:25] [User Authenticator #114/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
-[16:40:25] [Server thread/INFO]: ALEX2009[/187.233.26.86:61766] logged in with entity id 121201 at ([maincra-server]454.6177919549297, 74.0, -358.9937091381064)
-[16:54:49] [Server thread/INFO]: ALEX2009 tried to swim in lava
-[16:59:30] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
-[16:59:30] [Server thread/INFO]: ALEX2009 left the game
-[17:15:55] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
-[17:15:57] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[08:44:52] [User Authenticator #115/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[08:44:52] [Server thread/INFO]: ALEX2009[/187.233.26.86:62712] logged in with entity id 123049 at ([maincra-server]344.3004232445611, 68.0, -361.89032413512393)
+[09:06:46] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
+[09:06:46] [Server thread/INFO]: ALEX2009 left the game
+[09:39:10] [User Authenticator #116/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[09:39:10] [Server thread/INFO]: ALEX2009[/187.233.26.86:62933] logged in with entity id 123976 at ([maincra-server]450.49348689881, 72.0, -367.9608554929692)
+[09:39:20] [Server thread/WARN]: ALEX2009 was kicked for floating too long!
+[09:39:20] [Server thread/INFO]: ALEX2009 lost connection: Flying is not enabled on this server
+[09:39:20] [Server thread/INFO]: ALEX2009 left the game
+[09:39:24] [User Authenticator #117/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[09:39:24] [Server thread/INFO]: ALEX2009[/187.233.26.86:62937] logged in with entity id 124250 at ([maincra-server]448.299999974668, 72.0000002, -373.700000025332)
+[09:51:24] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
+[09:51:24] [Server thread/INFO]: ALEX2009 left the game
+[10:18:29] [User Authenticator #118/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[10:18:30] [Server thread/INFO]: ALEX2009[/187.233.26.86:63083] logged in with entity id 125160 at ([maincra-server]59.69999998807905, 67.0, -219.69999998807907)
+[10:19:57] [Server thread/INFO]: ALEX2009 was blown up by Creeper
+[10:20:56] [Server thread/INFO]: ALEX2009 was shot by Skeleton
+[10:21:54] [Server thread/INFO]: ALEX2009 was shot by Skeleton
+[10:22:56] [Server thread/WARN]: ALEX2009 moved wrongly!
+[10:25:37] [Server thread/INFO]: ALEX2009 fell from a high place
+[10:31:31] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
+[10:31:31] [Server thread/INFO]: ALEX2009 left the game
+[10:46:40] [User Authenticator #119/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[10:46:40] [Server thread/INFO]: ALEX2009[/187.233.26.86:63252] logged in with entity id 126594 at ([maincra-server]455.9883611659603, 72.0, -371.1768280231134)
+[10:49:36] [Server thread/INFO]: ALEX2009 has made the advancement [Hot Stuff]
+[10:58:18] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
+[10:58:18] [Server thread/INFO]: ALEX2009 left the game
