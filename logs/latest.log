@@ -61,3 +61,12 @@
 [12:24:20] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
 [12:25:13] [JDA MainWS-WriteThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket. Attempting to resume session
 [12:25:15] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Successfully resumed Session!
+[20:42:28] [User Authenticator #120/INFO]: UUID of player ALEX2009 is 3bce5221-4fa9-341f-aaf4-6c1da67d4df4
+[20:42:28] [Server thread/INFO]: ALEX2009[/187.233.26.86:63865] logged in with entity id 127344 at ([maincra-server]448.299999974668, 72.0000002, -372.700000025332)
+[20:53:50] [Server thread/INFO]: ALEX2009 was shot by Pillager
+[20:58:57] [Server thread/INFO]: [@: Changed the block at 69, 69, 69]
+[21:08:48] [Server thread/INFO]: ALEX2009 was slain by Zombie
+[21:14:10] [Server thread/INFO]: ALEX2009 hit the ground too hard
+[21:17:30] [Server thread/INFO]: ALEX2009 was blown up by Creeper
+[21:37:40] [Server thread/INFO]: ALEX2009 lost connection: Disconnected
+[21:37:40] [Server thread/INFO]: ALEX2009 left the game
